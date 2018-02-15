@@ -1,0 +1,7 @@
+cd
+mkdir temp
+cd tempx
+"do things"
+cd
+rm -rf tempx
+
