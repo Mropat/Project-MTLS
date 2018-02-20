@@ -1,0 +1,18 @@
+Tue 20th February:
+
+Preliminary plan
+1. Create a small test set for development
+2. Parse the fasta file and save sequences
+3. Transform data to SVM format in windows of different sizes
+
+
+Things to learn:
+1. SVM articles and scikit-learn guides
+2. Whether to use/implement additional information about aminoacid propensities
+3. (Whether one can also use information about nucleotde sequence)
+
+Articles read since Friday:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4794256/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5591391/
+
+Articles unlikely to be of use for the current project, but interesting for future
