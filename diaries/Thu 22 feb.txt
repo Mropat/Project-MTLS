@@ -1,0 +1,47 @@
+1.Articles read and submitted:
+
+Mining the Structural Genomics Pipeline:
+Identification of Protein Properties that Affect
+High-throughput Experimental Analysis
+https://www.ncbi.nlm.nih.gov/pubmed/14741208
+doi:10.1016/j.jmb.2003.11.053
+
+
+ A Feature Selection Algorithm Based on Graph Theory
+and Random Forests for Protein Secondary Structure Prediction
+https://link.springer.com/chapter/10.1007/978-3-540-72031-7_54
+doi:10.1007/978-3-540-72031-7_54
+
+
+A Novel Method for Protein Secondary Structure Prediction
+Using Dual-Layer SVM and Profiles
+https://www.ncbi.nlm.nih.gov/pubmed/14997569
+doi:10.1002/prot.10634
+
+
+Prediction of Protein Secondary Structure Content by Using the Concept
+of Chou’s Pseudo Amino Acid Composition and Support Vector Machine
+https://www.ncbi.nlm.nih.gov/pubmed/19149669
+doi:10.2174/092986609787049420
+
+
+STRIDE: a web server for secondary structure
+assignment from known atomic coordinates
+of proteins
+https://www.ncbi.nlm.nih.gov/pubmed/15215436
+doi:10.1093/nar/gkh429
+
+
+Extras:
+Codon Bias as a Means to Fine-Tune Gene Expression
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4794256/
+doi:10.1016/j.molcel.2015.05.035
+
+Genetic Code Optimization for Cotranslational Protein Folding: Codon Directional Asymmetry Correlates with Antiparallel Betasheets, tRNA Synthetase Classes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5591391/
+doi:10.1016/j.csbj.2017.08.001
+
+2. Readings on OneHotEncoder
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+
+3. Parser planning
