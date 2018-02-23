@@ -1,0 +1,46 @@
+Fri 23th February:
+
+1. Journal club and Elofsson group meeting
+
+2. Submitted short project plan:
+
+Project plan by Maryia Ropat
+
+Application of SVM classifier in protein secondary structure prediction
+
+
+Week 1 : Papers and preprocessing
+
+	This week is dedicated to reading relevant articles, Sci-kit learn
+ 	documentation, and constructing a robust parser and encoder of 	the training data. 
+	At this stage it’s a priority to build a framework for processing
+ 	sequence information and three states of  secondary structures 	assigned by STRIDE.
+	An input vector should be able to be
+ 	constructed for  any variable sized window from 3-line data in 	FASTA format.
+	
+Week 2 : SVM optimization
+
+	After pre-processing, we train our lodel and test the performance
+ 	of our predictor, evaluating different kernel functions available to
+ 	us and different ways to visualize and troubleshoot the prediction.
+	Cross-validation and testing on a new dataset to estimate quality
+ 	of training data and quality metrics of our predictor.
+
+Week 3 : Implementation of PSSM and optional algorithms
+
+	These optional points will be performed if the SVM predictor is
+ 	functional and optimized to a satisfactory degree. 
+	
+Week 4 : Final version
+
+	Final adjusting of the predictor and project organization.
+ 	Evaluation of the state of the art of the predictor, writing of final
+ 	report and presentations.
+
+Week 5 : Submission deadline on Monday
+
+
+3. Finished first version of parser generating input vectors for OneHotEncoder (X) and feature input vector (Y) for SVM.
+This version does not contain padding for edges of sequences yet, but it will be implemented later. 
+Also planning on adding feature that counts window inputs and features and informs if the numbers don't match.
+
