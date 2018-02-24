@@ -1,0 +1,6 @@
+Sat 24th Feb:
+
+1. Broken up parser and encoder into different scripts
+2. Cleaned up functions and variable names.
+3. Fixed imports error
+4. Final preprocessing complete
