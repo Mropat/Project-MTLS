@@ -1,0 +1,14 @@
+Thursday 1st March
+
+LinearSVC now takes one input sequence from separate file and predicts secondary structure
+
+Code is messy right now, things like window size and more are hard-coded.
+These cosmetic changes will be done later, as of right now the goal is to have a working predictor.
+
+Things to do shortly(within this week):
+1. Cross-validation
+2. Performance assessment
+3. Performance assessment with and without sliding window padding
+4. Move some functions to a separate program and make programs reusable
+
+

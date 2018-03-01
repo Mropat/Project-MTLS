@@ -25,6 +25,7 @@ def sequence_vectors(sequence, structure, window):
     return sequence_vec, structure_vec
 
 
+
 def svm_train(X, Y):
     
     X = X.toarray()
@@ -55,7 +56,8 @@ def svm_input(filename):
         result.append(chr(char))
     result=''.join(result)
     print(result)
- 
+
+    
 
 
 if __name__ == "__main__":
