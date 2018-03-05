@@ -1,0 +1,6 @@
+Monday March 5th:
+
+1.Added sliding window padding to sequences
+2.Rewrote some of the modules to be used in various other tasks
+3.Fixed result output to be displayed more clearly
+4.Window size is no longer hardcoded and various sizes can now be used to evaluate performance

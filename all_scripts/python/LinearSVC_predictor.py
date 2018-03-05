@@ -1,6 +1,7 @@
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder as OHE
 from sklearn.svm import LinearSVC
+from sklearn.svm import SVC
 from sklearn.datasets import make_classification
 
 
@@ -64,8 +65,8 @@ def svm_input(filename, window):
 
     test_vector = []
     test_vector_frames = []
-    
     padding = ""
+    
     for l in range(window//2):
         padding = padding + "0"    
     
