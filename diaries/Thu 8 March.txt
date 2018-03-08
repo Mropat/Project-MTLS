@@ -1,0 +1,22 @@
+Diary Thu 8th March
+
+LinearSVC performance:
+
+1. Tested sliding window sizes from 5 to 29 and cross-validation (see Crossvalidation scores)
+	
+	The optimal window is 21 residues, after which larger window will not improve, or even decrease prediction
+	Judging by cross-validation scores, the dataset is slightly redundant, but the variation oc cross-validation scores are within 1%
+	
+2. Tested with and without padding on training sequences
+	
+	The consensus is that padding improves performance of the model
+
+3. Tested C from 0.7 - 2 in increments of 0.1, the default C=1 performs the best 
+
+4. Tested class_weight = balanced; performace decreased
+
+5. Tested loss = "hinge", performance decreased
+
+Sadly, the default parameters perform the best, and the biggest optimization step for this model has been window size adjustment.
+The plan is to investigate how evolutionary information may improve prediction and to fit other (non-linear) classifiers over weekend.
+Additionally, I plan to attempt to implement dual-layer SVM and see whether this can help improve performance further

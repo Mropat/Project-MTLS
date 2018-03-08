@@ -3,6 +3,7 @@ from sklearn.preprocessing import OneHotEncoder as OHE
 from sklearn.svm import LinearSVC
 from sklearn.model_selection import cross_val_score
 from sklearn.datasets import make_classification
+import pickle
 
 
 def parser(filename):    
@@ -57,19 +58,21 @@ def svm_train(X, Y):
     
     X = X.toarray()
     Y = np.array(Y)
+
     clf = LinearSVC()  
     clf.fit(X, Y)
+    pickle.dump(clf, open("LinearSVC_3SSTRIDE_w21.sav", "wb"))
+      
 
-    score = cross_val_score(clf, X, Y)
-    print (score)
+    print ("Done!")
+    return clf
 
 
 if __name__ == "__main__":
-    for w in range (5, 27, 2):
-        window = w
-        sequence, structure = parser("fullset.txt")
-        enc_sequence = int_encode(sequence, window)
-        enc_structure = int_encode(structure, window)
-        sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
-        encoder = OHE()    
-        colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
+    window = 21
+    sequence, structure = parser("fullset.txt")
+    enc_sequence = int_encode(sequence, window)
+    enc_structure = int_encode(structure, window)
+    sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
+    encoder = OHE()    
+    colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
