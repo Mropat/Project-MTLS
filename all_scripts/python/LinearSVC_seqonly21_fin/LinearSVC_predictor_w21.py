@@ -21,6 +21,9 @@ def predict_fasta(filename, window):
             if line.startswith(">"):
                 prot_id.append(line.strip())
                 sequence.append(padding + fh.readline().strip() + padding)
+
+            if line.startswith("\n"):
+                fh.readline()
             line = fh.readline()
 
 
