@@ -53,10 +53,10 @@ def sequence_vectors(sequence, structure, window):
     sequence_vec = np.array(sequence_vec)
     return sequence_vec, structure_vec
 
-def encoderpickle(enc):
+"""def encoderpickle(enc):
     x_fit, y_vec = sequence_vectors(sequence, structure, 21)
     x_vec = encoder.fit_transform(x_fit)
-    print(x_vec)
+    print(x_vec)"""
     
 
 
@@ -70,7 +70,6 @@ def svm_train(X, Y):
 #    pickle.dump(clf, open("LinearSVC_3SSTRIDE_w21.sav", "wb"))
     score = cross_val_score(clf, X, Y)  
 
-    print ("Done!")
     print (score)
     return clf
 
@@ -83,4 +82,4 @@ if __name__ == "__main__":
     sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
     encoder = OHE()    
     colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
-    encoderpickle(encoder)
+#    encoderpickle(encoder)
