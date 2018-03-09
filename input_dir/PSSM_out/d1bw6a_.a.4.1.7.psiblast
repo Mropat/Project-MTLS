@@ -1,0 +1,932 @@
+PSIBLAST 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90
+           52,629,880 sequences; 17,866,164,385 total letters
+
+Results from round 1
+
+
+Query= 
+Length=56
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_UPI0007EE8CE1 UPI0007EE8CE1 related cluster n=1 Tax=un...  114     4e-28
+  UniRef90_F6WYF8 Uncharacterized protein n=2 Tax=Monodelphis dom...  110     9e-27
+  UniRef90_UPI00034F4C80 PREDICTED: major centromere autoantigen ...  110     1e-26
+  UniRef90_UPI0004F3FE0E PREDICTED: LOW QUALITY PROTEIN: major ce...  109     2e-26
+  UniRef90_UPI0002C5563C PREDICTED: major centromere autoantigen ...  107     8e-26
+  UniRef90_P27790 Major centromere autoantigen B n=26 Tax=Boreoeu...  108     8e-26
+  UniRef90_P07199 Major centromere autoantigen B n=13 Tax=Primate...  108     8e-26
+  UniRef90_F6WAY4 Uncharacterized protein n=1 Tax=Ornithorhynchus...  107     9e-26
+  UniRef90_G3MWI2 Uncharacterized protein n=1 Tax=Bos taurus TaxI...  98.6    4e-23
+  UniRef90_G1LW80 Uncharacterized protein (Fragment) n=16 Tax=Bor...  99.8    7e-23
+  UniRef90_UPI0003F1731E PREDICTED: major centromere autoantigen ...  99.8    1e-22
+  UniRef90_UPI0003C17123 PREDICTED: major centromere autoantigen ...  97.1    2e-22
+  UniRef90_I3N785 Uncharacterized protein n=5 Tax=Boreoeutheria T...  95.1    4e-21
+  UniRef90_UPI0005F48A8F PREDICTED: major centromere autoantigen ...  94.0    9e-21
+  UniRef90_W5P3Q5 Major centromere autoantigen B (Fragment) n=14 ...  68.2    1e-11
+  UniRef90_UPI0006608BD7 PREDICTED: major centromere autoantigen ...  62.8    9e-10
+  UniRef90_A0A0J7JVS4 Tigger transposable element-derived protein...  56.2    2e-08
+  UniRef90_A0A0V0SVQ4 Major centromere autoantigen B (Fragment) n...  52.8    2e-07
+  UniRef90_UPI000763AD59 PREDICTED: major centromere autoantigen ...  52.8    2e-07
+  UniRef90_A0A0V0ZGK3 Major centromere autoantigen B n=1 Tax=Tric...  53.1    3e-07
+  UniRef90_J9K6L9 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  54.7    5e-07
+  UniRef90_X1X1T2 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  52.0    6e-07
+  UniRef90_J9M3H4 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  53.5    1e-06
+  UniRef90_J9LQJ5 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  49.3    3e-06
+  UniRef90_A0A0V1PBI5 Major centromere autoantigen B n=1 Tax=Tric...  49.3    5e-06
+  UniRef90_A0A0V0TZ66 Major centromere autoantigen B n=2 Tax=Tric...  49.3    5e-06
+  UniRef90_J9L9B3 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  49.7    6e-06
+  UniRef90_A0A0V0RYU2 Tigger transposable element-derived protein...  49.7    6e-06
+  UniRef90_A0A0V0TFD1 Tigger transposable element-derived protein...  51.2    7e-06
+  UniRef90_A0A0V0VMW3 Tigger transposable element-derived protein...  51.2    7e-06
+  UniRef90_J9LV68 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  49.7    8e-06
+  UniRef90_J9LE50 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  51.2    9e-06
+  UniRef90_UPI00046B886C PREDICTED: tigger transposable element-d...  49.7    1e-05
+  UniRef90_A0A0V0ZD38 Major centromere autoantigen B n=7 Tax=Tric...  48.1    1e-05
+  UniRef90_A0A1B6KQS9 Uncharacterized protein n=1 Tax=Graphocepha...  50.1    1e-05
+  UniRef90_X1X793 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  48.5    1e-05
+  UniRef90_A0A0V1HLB7 Major centromere autoantigen B n=2 Tax=Tric...  47.8    2e-05
+  UniRef90_A0A131YI47 Tigger transposable element-derived protein...  50.1    2e-05
+  UniRef90_J9L1E4 Uncharacterized protein n=2 Tax=Acyrthosiphon p...  50.1    2e-05
+  UniRef90_UPI0007C979B3 UPI0007C979B3 related cluster n=1 Tax=un...  49.3    2e-05
+  UniRef90_A0A023GKX0 Putative tigger transposase n=1 Tax=Amblyom...  50.1    2e-05
+  UniRef90_X1X171 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  50.1    2e-05
+  UniRef90_A0A0V1M2F1 Major centromere autoantigen B n=1 Tax=Tric...  47.4    2e-05
+  UniRef90_A0A1B6LVP4 Uncharacterized protein n=1 Tax=Graphocepha...  50.1    2e-05
+  UniRef90_A0A0V0X9P0 Major centromere autoantigen B n=27 Tax=Tri...  47.0    2e-05
+  UniRef90_X1WL21 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  46.6    3e-05
+  UniRef90_X1XPP9 Uncharacterized protein n=1 Tax=Acyrthosiphon p...  47.8    4e-05
+  UniRef90_A0A0V0WA35 Tigger transposable element-derived protein...  48.5    6e-05
+  UniRef90_UPI0004572C68 PREDICTED: tigger transposable element-d...  48.5    6e-05
+  UniRef90_A0A0V1LHS6 Tigger transposable element-derived protein...  48.5    8e-05
+  UniRef90_J9KMT4 Uncharacterized protein n=2 Tax=Acyrthosiphon p...  47.0    8e-05
+  UniRef90_UPI00046BC461 PREDICTED: tigger transposable element-d...  48.1    8e-05
+  UniRef90_J9K454 Uncharacterized protein n=2 Tax=Acyrthosiphon p...  48.1    9e-05
+  UniRef90_UPI00077F8606 UPI00077F8606 related cluster n=1 Tax=un...  46.2    1e-04
+  UniRef90_UPI0002C64375 PREDICTED: tigger transposable element-d...  47.8    2e-04
+  UniRef90_F7BTK2 Uncharacterized protein n=7 Tax=Cercopithecinae...  47.0    2e-04
+  UniRef90_A0A1B6HUJ3 Uncharacterized protein (Fragment) n=1 Tax=...  44.7    2e-04
+  UniRef90_Q4W445 Tigger transposable element derived 14 n=5 Tax=...  47.0    2e-04
+  UniRef90_G3WWJ9 Uncharacterized protein n=2 Tax=Metatheria TaxI...  47.0    3e-04
+  UniRef90_A0A1E1X2Z9 Putative tick transposon (Fragment) n=1 Tax...  46.6    3e-04
+  UniRef90_A0A0V1N0F3 Major centromere autoantigen B n=1 Tax=Tric...  44.3    3e-04
+  UniRef90_A0A0V0YVA9 Uncharacterized protein (Fragment) n=1 Tax=...  43.9    4e-04
+  UniRef90_A0A0V0VAZ0 Uncharacterized protein (Fragment) n=1 Tax=...  43.1    4e-04
+  UniRef90_A0A0V0W3W3 Uncharacterized protein n=1 Tax=Trichinella...  43.9    4e-04
+  UniRef90_M3Z6I0 Uncharacterized protein n=1 Tax=Mustela putoriu...  45.8    5e-04
+  UniRef90_UPI00046B9DA8 PREDICTED: tigger transposable element-d...  45.1    6e-04
+  UniRef90_A0A0V1ALE4 Uncharacterized protein n=2 Tax=Trichinella...  43.1    6e-04
+  UniRef90_A0A1B6GHB6 Uncharacterized protein (Fragment) n=1 Tax=...  43.1    7e-04
+
+
+> UniRef90_UPI0007EE8CE1 UPI0007EE8CE1 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007EE8CE1
+Length=566
+
+ Score = 114 bits (284),  Expect = 4e-28, Method: Compositional matrix adjust.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_F6WYF8 Uncharacterized protein n=2 Tax=Monodelphis domestica 
+TaxID=13616 RepID=F6WYF8_MONDO
+Length=586
+
+ Score = 110 bits (275),  Expect = 9e-27, Method: Compositional matrix adjust.
+ Identities = 54/56 (96%), Positives = 55/56 (98%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKS IIQEVE+NPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSHIIQEVEKNPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_UPI00034F4C80 PREDICTED: major centromere autoantigen 
+B n=1 Tax=Heterocephalus glaber TaxID=10181 RepID=UPI00034F4C80
+Length=549
+
+ Score = 110 bits (274),  Expect = 1e-26, Method: Composition-based stats.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_UPI0004F3FE0E PREDICTED: LOW QUALITY PROTEIN: major 
+centromere autoantigen B n=2 Tax=Boreoeutheria TaxID=1437010 
+RepID=UPI0004F3FE0E
+Length=581
+
+ Score = 109 bits (273),  Expect = 2e-26, Method: Composition-based stats.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_UPI0002C5563C PREDICTED: major centromere autoantigen 
+B n=1 Tax=Odobenus rosmarus divergens TaxID=9708 RepID=UPI0002C5563C
+Length=493
+
+ Score = 107 bits (266),  Expect = 8e-26, Method: Composition-based stats.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_P27790 Major centromere autoantigen B n=26 Tax=Boreoeutheria 
+TaxID=1437010 RepID=CENPB_MOUSE
+Length=599
+
+ Score = 108 bits (269),  Expect = 8e-26, Method: Composition-based stats.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_P07199 Major centromere autoantigen B n=13 Tax=Primates 
+TaxID=9443 RepID=CENPB_HUMAN
+Length=599
+
+ Score = 108 bits (269),  Expect = 8e-26, Method: Composition-based stats.
+ Identities = 56/56 (100%), Positives = 56/56 (100%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_F6WAY4 Uncharacterized protein n=1 Tax=Ornithorhynchus 
+anatinus TaxID=9258 RepID=F6WAY4_ORNAN
+Length=555
+
+ Score = 107 bits (268),  Expect = 9e-26, Method: Compositional matrix adjust.
+ Identities = 53/56 (95%), Positives = 55/56 (98%), Gaps = 0/56 (0%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           MGPKRRQLTF EKSRII+EVE+NPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   MGPKRRQLTFWEKSRIIREVEKNPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_G3MWI2 Uncharacterized protein n=1 Tax=Bos taurus TaxID=9913 
+RepID=G3MWI2_BOVIN
+Length=361
+
+ Score = 98.6 bits (244),  Expect = 4e-23, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  9   TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  10  TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  57
+
+
+> UniRef90_G1LW80 Uncharacterized protein (Fragment) n=16 Tax=Boreoeutheria 
+TaxID=1437010 RepID=G1LW80_AILME
+Length=591
+
+ Score = 99.8 bits (247),  Expect = 7e-23, Method: Composition-based stats.
+ Identities = 49/52 (94%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  5   RRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           R  +TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  5   RAXVTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+
+
+> UniRef90_UPI0003F1731E PREDICTED: major centromere autoantigen 
+B n=4 Tax=Afrotheria TaxID=311790 RepID=UPI0003F1731E
+Length=655
+
+ Score = 99.8 bits (247),  Expect = 1e-22, Method: Composition-based stats.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  6    RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+            RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  60   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  110
+
+
+> UniRef90_UPI0003C17123 PREDICTED: major centromere autoantigen 
+B, partial n=1 Tax=Pantholops hodgsonii TaxID=59538 RepID=UPI0003C17123
+Length=412
+
+ Score = 97.1 bits (240),  Expect = 2e-22, Method: Composition-based stats.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  9   TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  48
+
+
+> UniRef90_I3N785 Uncharacterized protein n=5 Tax=Boreoeutheria 
+TaxID=1437010 RepID=I3N785_ICTTR
+Length=626
+
+ Score = 95.1 bits (235),  Expect = 4e-21, Method: Composition-based stats.
+ Identities = 50/50 (100%), Positives = 50/50 (100%), Gaps = 0/50 (0%)
+
+Query  7   QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  50
+
+
+> UniRef90_UPI0005F48A8F PREDICTED: major centromere autoantigen 
+B, partial n=2 Tax=Colobus angolensis palliatus TaxID=336983 
+RepID=UPI0005F48A8F
+Length=560
+
+ Score = 94.0 bits (232),  Expect = 9e-21, Method: Composition-based stats.
+ Identities = 49/49 (100%), Positives = 49/49 (100%), Gaps = 0/49 (0%)
+
+Query  8   LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  1   LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILASE  49
+
+
+> UniRef90_W5P3Q5 Major centromere autoantigen B (Fragment) n=14 
+Tax=Boreoeutheria TaxID=1437010 RepID=W5P3Q5_SHEEP
+Length=596
+
+ Score = 68.2 bits (165),  Expect = 1e-11, Method: Composition-based stats.
+ Identities = 33/33 (100%), Positives = 33/33 (100%), Gaps = 0/33 (0%)
+
+Query  24  PDLRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+           PDLRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  21  PDLRKGEIARRFNIPPSTLSTILKNKRAILASE  53
+
+
+> UniRef90_UPI0006608BD7 PREDICTED: major centromere autoantigen 
+B n=1 Tax=Mesocricetus auratus TaxID=10036 RepID=UPI0006608BD7
+Length=660
+
+ Score = 62.8 bits (151),  Expect = 9e-10, Method: Composition-based stats.
+ Identities = 31/31 (100%), Positives = 31/31 (100%), Gaps = 0/31 (0%)
+
+Query  26   LRKGEIARRFNIPPSTLSTILKNKRAILASE  56
+            LRKGEIARRFNIPPSTLSTILKNKRAILASE
+Sbjct  76   LRKGEIARRFNIPPSTLSTILKNKRAILASE  106
+
+
+> UniRef90_A0A0J7JVS4 Tigger transposable element-derived protein 
+4-like protein (Fragment) n=2 Tax=Lasius niger TaxID=67767 
+RepID=A0A0J7JVS4_LASNI
+Length=158
+
+ Score = 56.2 bits (134),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 24/47 (51%), Positives = 39/47 (83%), Gaps = 0/47 (0%)
+
+Query  8   LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILA  54
+           LT  +K+++I E+E+NP L+K ++A ++ IPP+TLSTILK+K+ IL+
+Sbjct  9   LTLDKKAKLILEIEKNPQLKKKDVAVKYGIPPNTLSTILKDKQKILS  55
+
+
+> UniRef90_A0A0V0SVQ4 Major centromere autoantigen B (Fragment) 
+n=2 Tax=Trichinella TaxID=6333 RepID=A0A0V0SVQ4_9BILA
+Length=82
+
+ Score = 52.8 bits (125),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 28/52 (54%), Positives = 39/52 (75%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+T  +K +IIQ V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQITTSQKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_UPI000763AD59 PREDICTED: major centromere autoantigen 
+B-like n=1 Tax=Diuraphis noxia TaxID=143948 RepID=UPI000763AD59
+Length=83
+
+ Score = 52.8 bits (125),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 30/55 (55%), Positives = 39/55 (71%), Gaps = 3/55 (5%)
+
+Query  1   MGPKRRQLTF--REKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ +T    EK  II +V ++  ++K EIA++FNIPPSTLSTILKNK  IL
+Sbjct  1   MSLKRKLVTLIIAEKVNIISDVTKS-GIKKNEIAKKFNIPPSTLSTILKNKDDIL  54
+
+
+> UniRef90_A0A0V0ZGK3 Major centromere autoantigen B n=1 Tax=Trichinella 
+patagoniensis TaxID=990121 RepID=A0A0V0ZGK3_9BILA
+Length=193
+
+ Score = 53.1 bits (126),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 28/52 (54%), Positives = 39/52 (75%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+T  +K +IIQ V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQITTAQKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_J9K6L9 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9K6L9_ACYPI
+Length=441
+
+ Score = 54.7 bits (130),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 38/50 (76%), Gaps = 2/50 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           KR+Q +  EK  II EV++   L+KGE+A+++ I PSTLSTILK++ +IL
+Sbjct  6   KRKQFSLEEKKNIISEVDKG--LKKGEVAKKYGISPSTLSTILKDRESIL  53
+
+
+> UniRef90_X1X1T2 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=X1X1T2_ACYPI
+Length=134
+
+ Score = 52.0 bits (123),  Expect = 6e-07, Method: Compositional matrix adjust.
+ Identities = 32/55 (58%), Positives = 38/55 (69%), Gaps = 3/55 (5%)
+
+Query  1   MGPKRR--QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+   LT  EK  II EV ++   +K EIA++FNIPPSTLSTILKNK  IL
+Sbjct  1   MSLKRKLVTLTIAEKVSIISEVTKSGK-QKNEIAKQFNIPPSTLSTILKNKDDIL  54
+
+
+> UniRef90_J9M3H4 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9M3H4_ACYPI
+Length=664
+
+ Score = 53.5 bits (127),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 38/50 (76%), Gaps = 2/50 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           KR+Q +  EK  II EV++   L+KGE+A+++ I PSTLSTILK++ +IL
+Sbjct  6   KRKQFSSEEKKNIISEVDKG--LKKGEVAKKYGISPSTLSTILKDRESIL  53
+
+
+> UniRef90_J9LQJ5 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9LQJ5_ACYPI
+Length=99
+
+ Score = 49.3 bits (116),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 25/50 (50%), Positives = 36/50 (72%), Gaps = 2/50 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           KR+Q  F EK  II EV++   L+KGE+ +++ I PST STILK++ +IL
+Sbjct  6   KRKQFLFEEKKNIISEVDKV--LKKGEVPKKYVISPSTFSTILKDRESIL  53
+
+
+> UniRef90_A0A0V1PBI5 Major centromere autoantigen B n=1 Tax=Trichinella 
+sp. T8 TaxID=92180 RepID=A0A0V1PBI5_9BILA
+Length=117
+
+ Score = 49.3 bits (116),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 27/52 (52%), Positives = 37/52 (71%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+T   K +I Q V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQITTSLKLQITQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_A0A0V0TZ66 Major centromere autoantigen B n=2 Tax=Trichinella 
+TaxID=6333 RepID=A0A0V0TZ66_9BILA
+Length=133
+
+ Score = 49.3 bits (116),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 27/52 (52%), Positives = 38/52 (73%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+   +K +IIQ V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQIPTAQKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_J9L9B3 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9L9B3_ACYPI
+Length=196
+
+ Score = 49.7 bits (117),  Expect = 6e-06, Method: Composition-based stats.
+ Identities = 28/55 (51%), Positives = 38/55 (69%), Gaps = 3/55 (5%)
+
+Query  1   MGPKRRQ--LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           MG KR+   L+  +K R+IQ VE+  D +K EIA+ FNIPP+TLS I+K K  I+
+Sbjct  1   MGKKRKSNILSISDKVRLIQLVEKG-DRKKCEIAKEFNIPPNTLSPIIKQKEKIM  54
+
+
+> UniRef90_A0A0V0RYU2 Tigger transposable element-derived protein 
+4 n=1 Tax=Trichinella nelsoni TaxID=6336 RepID=A0A0V0RYU2_9BILA
+Length=187
+
+ Score = 49.7 bits (117),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 23/49 (47%), Positives = 37/49 (76%), Gaps = 0/49 (0%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAI  52
+           +RRQ+T  +K +IIQ V+ENP++++ +IAR   IP STL+TIL  ++ +
+Sbjct  5   ERRQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSTLNTILAKRKTL  53
+
+
+> UniRef90_A0A0V0TFD1 Tigger transposable element-derived protein 
+6 n=1 Tax=Trichinella murrelli TaxID=144512 RepID=A0A0V0TFD1_9BILA
+Length=472
+
+ Score = 51.2 bits (121),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 28/52 (54%), Positives = 38/52 (73%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+T   K +IIQ V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQITTSLKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_A0A0V0VMW3 Tigger transposable element-derived protein 
+6 n=1 Tax=Trichinella sp. T9 TaxID=181606 RepID=A0A0V0VMW3_9BILA
+Length=494
+
+ Score = 51.2 bits (121),  Expect = 7e-06, Method: Composition-based stats.
+ Identities = 28/52 (54%), Positives = 38/52 (73%), Gaps = 1/52 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           +RRQ+T   K +IIQ V+ENP++++ +IAR  NIP STL+TIL  KR  L S
+Sbjct  5   ERRQITTSLKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_J9LV68 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9LV68_ACYPI
+Length=203
+
+ Score = 49.7 bits (117),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 36/51 (71%), Gaps = 3/51 (6%)
+
+Query  1   MGPKRR--QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           M  KR+   LT  EK  II EV ++   +K EIA++FNIPPSTLSTILKNK
+Sbjct  1   MSLKRKLVTLTIAEKVNIISEVTKSGK-QKNEIAKQFNIPPSTLSTILKNK  50
+
+
+> UniRef90_J9LE50 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9LE50_ACYPI
+Length=634
+
+ Score = 51.2 bits (121),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 36/53 (68%), Gaps = 2/53 (4%)
+
+Query  1    MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+            M  KR+ L+  +K +II+E+E     +K E+A  FNIP S+LSTILK K AIL
+Sbjct  306  MSSKRKCLSISDKKKIIEEIESGK--KKKEVADSFNIPFSSLSTILKQKEAIL  356
+
+
+> UniRef90_UPI00046B886C PREDICTED: tigger transposable element-derived 
+protein 4-like n=1 Tax=Acyrthosiphon pisum TaxID=7029 
+RepID=UPI00046B886C
+Length=250
+
+ Score = 49.7 bits (117),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/53 (49%), Positives = 36/53 (68%), Gaps = 2/53 (4%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ L+  +K +II+E+E     +K ++A  FNIP S+LSTILK K AIL
+Sbjct  1   MSSKRKCLSISDKKKIIEEIESGK--KKKQVADSFNIPFSSLSTILKQKEAIL  51
+
+
+> UniRef90_A0A0V0ZD38 Major centromere autoantigen B n=7 Tax=Trichinella 
+TaxID=6333 RepID=A0A0V0ZD38_9BILA
+Length=124
+
+ Score = 48.1 bits (113),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 21/40 (53%), Positives = 32/40 (80%), Gaps = 0/40 (0%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+           RQ+T  +K +IIQ V+ENP++++ +IAR  NIP STL+T+
+Sbjct  57  RQITTAQKLQIIQTVDENPNMKRIDIARMMNIPSSTLNTV  96
+
+
+> UniRef90_A0A1B6KQS9 Uncharacterized protein n=1 Tax=Graphocephala 
+atropunctata TaxID=36148 RepID=A0A1B6KQS9_9HEMI
+Length=314
+
+ Score = 50.1 bits (118),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 27/51 (53%), Positives = 35/51 (69%), Gaps = 1/51 (2%)
+
+Query  5   RRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+            + LT  EK  +I+EVE+    +K EIA+ F IPP+TLST LKNK  IL+S
+Sbjct  12  HKTLTLAEKVAVIREVEKGVK-KKSEIAKDFGIPPNTLSTFLKNKDKILSS  61
+
+
+> UniRef90_X1X793 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=X1X793_ACYPI
+Length=187
+
+ Score = 48.5 bits (114),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/53 (49%), Positives = 35/53 (66%), Gaps = 2/53 (4%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ L+  +K +II+E+E     +K E+A  F IP S+LSTILK K AIL
+Sbjct  1   MSSKRKCLSISDKQKIIEEIESGK--KKKEVADSFKIPFSSLSTILKQKEAIL  51
+
+
+> UniRef90_A0A0V1HLB7 Major centromere autoantigen B n=2 Tax=Trichinella 
+TaxID=6333 RepID=A0A0V1HLB7_9BILA
+Length=104
+
+ Score = 47.8 bits (112),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 23/48 (48%), Positives = 34/48 (71%), Gaps = 0/48 (0%)
+
+Query  5   RRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAI  52
+           RRQ+T  +K +IIQ V+ENP++++  IAR   IP STL TIL  ++ +
+Sbjct  6   RRQITTAQKLQIIQTVDENPNMKRIGIARMMKIPSSTLKTILAKRKTL  53
+
+
+> UniRef90_A0A131YI47 Tigger transposable element-derived protein 
+4-like isoform n=1 Tax=Rhipicephalus appendiculatus TaxID=34631 
+RepID=A0A131YI47_RHIAP
+Length=373
+
+ Score = 50.1 bits (118),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 30/55 (55%), Positives = 38/55 (69%), Gaps = 4/55 (7%)
+
+Query  1   MGPKRRQ---LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAI  52
+           M  ++RQ   L+   K +IIQE++ N DL K EIA++FNIP STLS ILKNK  I
+Sbjct  21  METRKRQHNALSLATKVKIIQELDRN-DLSKTEIAKKFNIPKSTLSRILKNKGKI  74
+
+
+> UniRef90_J9L1E4 Uncharacterized protein n=2 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9L1E4_ACYPI
+Length=431
+
+ Score = 50.1 bits (118),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 32/55 (58%), Positives = 38/55 (69%), Gaps = 3/55 (5%)
+
+Query  1   MGPKRR--QLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+   LT  EK  II EV ++   +K EIA++FNIPPSTLSTILKNK  IL
+Sbjct  1   MSLKRKLVTLTIAEKVNIISEVTKSGK-QKNEIAKQFNIPPSTLSTILKNKDDIL  54
+
+
+> UniRef90_UPI0007C979B3 UPI0007C979B3 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007C979B3
+Length=271
+
+ Score = 49.3 bits (116),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 27/53 (51%), Positives = 36/53 (68%), Gaps = 2/53 (4%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ L+  +K +II+E+E     +K E+A  FNIP S+LSTILK K AIL
+Sbjct  1   MSSKRKCLSISDKKKIIEEIESGK--KKKEVADSFNIPFSSLSTILKQKEAIL  51
+
+
+> UniRef90_A0A023GKX0 Putative tigger transposase n=1 Tax=Amblyomma 
+triste TaxID=251400 RepID=A0A023GKX0_9ACAR
+Length=483
+
+ Score = 50.1 bits (118),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 37/50 (74%), Gaps = 1/50 (2%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           +R+ LT  +K  +I+EVE+    +K +IA+ F IPPSTLST+LKNK A+L
+Sbjct  7   RRKCLTLEQKVLLIKEVEKGRR-QKTDIAKEFGIPPSTLSTVLKNKDAVL  55
+
+
+> UniRef90_X1X171 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=X1X171_ACYPI
+Length=553
+
+ Score = 50.1 bits (118),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 26/53 (49%), Positives = 36/53 (68%), Gaps = 2/53 (4%)
+
+Query  1    MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+            M  KR+ L+  +K +II+E+E     +K ++A  FNIP S+LSTILK K AIL
+Sbjct  189  MSSKRKCLSISDKKKIIEEIESGK--KKKQVADSFNIPFSSLSTILKQKEAIL  239
+
+
+> UniRef90_A0A0V1M2F1 Major centromere autoantigen B n=1 Tax=Trichinella 
+papuae TaxID=268474 RepID=A0A0V1M2F1_9BILA
+Length=108
+
+ Score = 47.4 bits (111),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 36/50 (72%), Gaps = 1/50 (2%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP STL+ IL  KR IL S
+Sbjct  14  RQITVAQKLQIIQTVDENPNMKRIDIARMMKIPSSTLNRILA-KRKILKS  62
+
+
+> UniRef90_A0A1B6LVP4 Uncharacterized protein n=1 Tax=Graphocephala 
+atropunctata TaxID=36148 RepID=A0A1B6LVP4_9HEMI
+Length=516
+
+ Score = 50.1 bits (118),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 27/51 (53%), Positives = 35/51 (69%), Gaps = 1/51 (2%)
+
+Query  5   RRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+            + LT  EK  +I+EVE+    +K EIA+ F IPP+TLST LKNK  IL+S
+Sbjct  12  HKTLTLAEKVAVIREVEKGVK-KKSEIAKDFGIPPNTLSTFLKNKDKILSS  61
+
+
+> UniRef90_A0A0V0X9P0 Major centromere autoantigen B n=27 Tax=Trichinella 
+TaxID=6333 RepID=A0A0V0X9P0_9BILA
+Length=73
+
+ Score = 47.0 bits (110),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 21/40 (53%), Positives = 31/40 (78%), Gaps = 0/40 (0%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP STLST+
+Sbjct  7   RQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSTLSTV  46
+
+
+> UniRef90_X1WL21 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=X1WL21_ACYPI
+Length=81
+
+ Score = 46.6 bits (109),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 25/48 (52%), Positives = 31/48 (65%), Gaps = 1/48 (2%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           + LT+ EK+ +I E+E N    K  IA+ F IPP TLST LKNK  IL
+Sbjct  9   KTLTYEEKAAVIWEIE-NGFKTKSLIAKEFGIPPHTLSTYLKNKETIL  55
+
+
+> UniRef90_X1XPP9 Uncharacterized protein n=1 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=X1XPP9_ACYPI
+Length=217
+
+ Score = 47.8 bits (112),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 26/48 (54%), Positives = 33/48 (69%), Gaps = 1/48 (2%)
+
+Query  6    RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+            + LT+ EK+ +I+EVE N    K  IA+ F IPP+TLST LKNK  IL
+Sbjct  65   KTLTYEEKAAVIREVE-NGFKTKSLIAKEFGIPPNTLSTYLKNKETIL  111
+
+
+> UniRef90_A0A0V0WA35 Tigger transposable element-derived protein 
+6 n=2 Tax=Trichinella TaxID=6333 RepID=A0A0V0WA35_9BILA
+Length=428
+
+ Score = 48.5 bits (114),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 26/50 (52%), Positives = 36/50 (72%), Gaps = 1/50 (2%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP STL+TIL  KR  L S
+Sbjct  7   RQITTSQKLQIIQTVDENPNMKRIDIARMMKIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_UPI0004572C68 PREDICTED: tigger transposable element-derived 
+protein 4-like n=1 Tax=Callorhinchus milii TaxID=7868 
+RepID=UPI0004572C68
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 6e-05, Method: Compositional matrix adjust.
+ Identities = 23/56 (41%), Positives = 37/56 (66%), Gaps = 3/56 (5%)
+
+Query  3   PKRRQL---TFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           P +R+L   T++EK +I+Q  E NP++ K ++A +F + P TL+  LKNK+ I  S
+Sbjct  9   PTKRKLVTRTYQEKYQILQFCEANPEMTKKDVASKFGLKPQTLNDYLKNKKKIYHS  64
+
+
+> UniRef90_A0A0V1LHS6 Tigger transposable element-derived protein 
+6 n=3 Tax=Trichinella TaxID=6333 RepID=A0A0V1LHS6_9BILA
+Length=494
+
+ Score = 48.5 bits (114),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 36/50 (72%), Gaps = 1/50 (2%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP STL+TIL  KR  L S
+Sbjct  7   RQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSTLNTILA-KRTTLES  55
+
+
+> UniRef90_J9KMT4 Uncharacterized protein n=2 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9KMT4_ACYPI
+Length=229
+
+ Score = 47.0 bits (110),  Expect = 8e-05, Method: Composition-based stats.
+ Identities = 23/42 (55%), Positives = 32/42 (76%), Gaps = 1/42 (2%)
+
+Query  12  EKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           +K R+IQ VE+  D +K EIA+ FNIPP+TLS+I+K K  I+
+Sbjct  48  DKVRLIQLVEKG-DRKKCEIAKEFNIPPNTLSSIIKQKEKIM  88
+
+
+> UniRef90_UPI00046BC461 PREDICTED: tigger transposable element-derived 
+protein 6-like n=1 Tax=Acyrthosiphon pisum TaxID=7029 
+RepID=UPI00046BC461
+Length=498
+
+ Score = 48.1 bits (113),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 26/53 (49%), Positives = 35/53 (66%), Gaps = 2/53 (4%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ L+  +K +II+E+E     +K E+A  F IP S+LSTILK K AIL
+Sbjct  1   MSSKRKCLSISDKKKIIEEIESGK--KKKEVADSFKIPFSSLSTILKQKEAIL  51
+
+
+> UniRef90_J9K454 Uncharacterized protein n=2 Tax=Acyrthosiphon 
+pisum TaxID=7029 RepID=J9K454_ACYPI
+Length=659
+
+ Score = 48.1 bits (113),  Expect = 9e-05, Method: Composition-based stats.
+ Identities = 26/53 (49%), Positives = 35/53 (66%), Gaps = 2/53 (4%)
+
+Query  1   MGPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           M  KR+ L+  +K +II+E+E     +K E+A  F IP S+LSTILK K AIL
+Sbjct  1   MSSKRKCLSISDKKKIIEEIESGK--KKKEVADSFKIPFSSLSTILKQKEAIL  51
+
+
+> UniRef90_UPI00077F8606 UPI00077F8606 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00077F8606
+Length=201
+
+ Score = 46.2 bits (108),  Expect = 1e-04, Method: Compositional matrix adjust.
+ Identities = 21/48 (44%), Positives = 33/48 (69%), Gaps = 2/48 (4%)
+
+Query  2   GPKRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           G KR+Q + +EK  II EV+    ++K ++A ++ + PSTLST LKN+
+Sbjct  3   GQKRKQFSIKEKLEIISEVDHG--IKKADVATKYGLSPSTLSTFLKNR  48
+
+
+> UniRef90_UPI0002C64375 PREDICTED: tigger transposable element-derived 
+protein 6 isoform X1 n=2 Tax=Ceratotherium simum simum 
+TaxID=73337 RepID=UPI0002C64375
+Length=726
+
+ Score = 47.8 bits (112),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 22/46 (48%), Positives = 32/46 (70%), Gaps = 2/46 (4%)
+
+Query  4    KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+            KRRQ +  EK ++++ V+     RKGE+A+ F I PSTLST LK++
+Sbjct  210  KRRQFSLEEKMKVVEAVDSGK--RKGEVAKEFGITPSTLSTFLKDR  253
+
+
+> UniRef90_F7BTK2 Uncharacterized protein n=7 Tax=Cercopithecinae 
+TaxID=9528 RepID=F7BTK2_MACMU
+Length=521
+
+ Score = 47.0 bits (110),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 21/46 (46%), Positives = 32/46 (70%), Gaps = 2/46 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           KRRQ +  EK ++++ V+     RKG++A+ F I PSTLST LK++
+Sbjct  8   KRRQFSLEEKMKVVEAVDSGK--RKGDVAKEFGITPSTLSTFLKDR  51
+
+
+> UniRef90_A0A1B6HUJ3 Uncharacterized protein (Fragment) n=1 Tax=Homalodisca 
+liturata TaxID=320908 RepID=A0A1B6HUJ3_9HEMI
+Length=104
+
+ Score = 44.7 bits (104),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 24/50 (48%), Positives = 31/50 (62%), Gaps = 2/50 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           K + L+  EK  +I  VE      K E+A+ F IP STLSTILKNK+ I+
+Sbjct  6   KCKCLSLSEKKEVIAAVESGKA--KSEVAKTFQIPASTLSTILKNKQKIV  53
+
+
+> UniRef90_Q4W445 Tigger transposable element derived 14 n=5 Tax=Laurasiatheria 
+TaxID=314145 RepID=Q4W445_HORSE
+Length=524
+
+ Score = 47.0 bits (110),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 21/46 (46%), Positives = 32/46 (70%), Gaps = 2/46 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           KRRQ +  EK ++++ V+     RKG++A+ F I PSTLST LK++
+Sbjct  8   KRRQFSLEEKMKVVEAVDSGK--RKGDVAKEFGITPSTLSTFLKDR  51
+
+
+> UniRef90_G3WWJ9 Uncharacterized protein n=2 Tax=Metatheria TaxID=9263 
+RepID=G3WWJ9_SARHA
+Length=525
+
+ Score = 47.0 bits (110),  Expect = 3e-04, Method: Compositional matrix adjust.
+ Identities = 21/46 (46%), Positives = 32/46 (70%), Gaps = 2/46 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           KRRQ +  EK ++++ V+     RKG++A+ F I PSTLST LK++
+Sbjct  8   KRRQFSLEEKMKVVEAVDSGK--RKGDVAKEFGITPSTLSTFLKDR  51
+
+
+> UniRef90_A0A1E1X2Z9 Putative tick transposon (Fragment) n=1 Tax=Amblyomma 
+aureolatum TaxID=187763 RepID=A0A1E1X2Z9_9ACAR
+Length=553
+
+ Score = 46.6 bits (109),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 19/50 (38%), Positives = 35/50 (70%), Gaps = 0/50 (0%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAIL  53
+           KR+ L+F+EK  ++++V+ENP  ++ ++A+   + PSTL TI+  +  IL
+Sbjct  3   KRKALSFKEKLDVLKKVDENPQKKRVDLAKELGLAPSTLCTIVGQREVIL  52
+
+
+> UniRef90_A0A0V1N0F3 Major centromere autoantigen B n=1 Tax=Trichinella 
+papuae TaxID=268474 RepID=A0A0V1N0F3_9BILA
+Length=142
+
+ Score = 44.3 bits (103),  Expect = 3e-04, Method: Compositional matrix adjust.
+ Identities = 21/43 (49%), Positives = 31/43 (72%), Gaps = 0/43 (0%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTIL  46
+           +RRQ+T  +K +IIQ V+ENP++++ +IAR   IP ST   IL
+Sbjct  5   ERRQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSTFKRIL  47
+
+
+> UniRef90_A0A0V0YVA9 Uncharacterized protein (Fragment) n=1 Tax=Trichinella 
+patagoniensis TaxID=990121 RepID=A0A0V0YVA9_9BILA
+Length=128
+
+ Score = 43.9 bits (102),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 20/40 (50%), Positives = 30/40 (75%), Gaps = 0/40 (0%)
+
+Query  6    RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+            RQ+T  +K +IIQ V+ENP++++ +IAR   IP S LST+
+Sbjct  67   RQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSRLSTV  106
+
+
+> UniRef90_A0A0V0VAZ0 Uncharacterized protein (Fragment) n=1 Tax=Trichinella 
+patagoniensis TaxID=990121 RepID=A0A0V0VAZ0_9BILA
+Length=49
+
+ Score = 43.1 bits (100),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 20/41 (49%), Positives = 30/41 (73%), Gaps = 0/41 (0%)
+
+Query  5   RRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+           RRQ+T  +K +IIQ V+ENP++++ +IAR   IP S LS +
+Sbjct  6   RRQITTSQKLQIIQTVDENPNMKRIDIARMMKIPSSRLSAV  46
+
+
+> UniRef90_A0A0V0W3W3 Uncharacterized protein n=1 Tax=Trichinella 
+sp. T6 TaxID=92179 RepID=A0A0V0W3W3_9BILA
+Length=129
+
+ Score = 43.9 bits (102),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 20/40 (50%), Positives = 30/40 (75%), Gaps = 0/40 (0%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP S LST+
+Sbjct  7   RQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSRLSTV  46
+
+
+> UniRef90_M3Z6I0 Uncharacterized protein n=1 Tax=Mustela putorius 
+furo TaxID=9669 RepID=M3Z6I0_MUSPF
+Length=454
+
+ Score = 45.8 bits (107),  Expect = 5e-04, Method: Composition-based stats.
+ Identities = 21/46 (46%), Positives = 32/46 (70%), Gaps = 2/46 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNK  49
+           KRRQ +  EK ++++ V+     RKG++A+ F I PSTLST LK++
+Sbjct  8   KRRQFSLEEKMKVVEAVDSGK--RKGDVAKEFGITPSTLSTFLKDR  51
+
+
+> UniRef90_UPI00046B9DA8 PREDICTED: tigger transposable element-derived 
+protein 4-like n=2 Tax=Acyrthosiphon pisum TaxID=7029 
+RepID=UPI00046B9DA8
+Length=287
+
+ Score = 45.1 bits (105),  Expect = 6e-04, Method: Compositional matrix adjust.
+ Identities = 24/52 (46%), Positives = 35/52 (67%), Gaps = 2/52 (4%)
+
+Query  4   KRRQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           K + LT  EK ++I+ VE     +K E+A+ F+IP STLSTILK+K  I+ +
+Sbjct  8   KHKSLTISEKKQLIEAVERGD--KKTEVAKTFDIPLSTLSTILKDKNKIITA  57
+
+
+> UniRef90_A0A0V1ALE4 Uncharacterized protein n=2 Tax=Trichinella 
+TaxID=6333 RepID=A0A0V1ALE4_TRIBR
+Length=89
+
+ Score = 43.1 bits (100),  Expect = 6e-04, Method: Compositional matrix adjust.
+ Identities = 20/40 (50%), Positives = 30/40 (75%), Gaps = 0/40 (0%)
+
+Query  6   RQLTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTI  45
+           RQ+T  +K +IIQ V+ENP++++ +IAR   IP S LST+
+Sbjct  7   RQITTAQKLQIIQTVDENPNMKRIDIARMMKIPSSRLSTV  46
+
+
+> UniRef90_A0A1B6GHB6 Uncharacterized protein (Fragment) n=1 Tax=Cuerna 
+arida TaxID=1464854 RepID=A0A1B6GHB6_9HEMI
+Length=100
+
+ Score = 43.1 bits (100),  Expect = 7e-04, Method: Compositional matrix adjust.
+ Identities = 21/48 (44%), Positives = 34/48 (71%), Gaps = 1/48 (2%)
+
+Query  8   LTFREKSRIIQEVEENPDLRKGEIARRFNIPPSTLSTILKNKRAILAS  55
+           LTF EK  +I+EVE+   ++K +IA+++ I  +T+ST LKN+  I+ S
+Sbjct  14  LTFHEKVAVIREVEQGV-MKKCDIAKKYGIASNTVSTFLKNRDKIMNS  60
+
+
+

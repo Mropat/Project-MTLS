@@ -1,0 +1,806 @@
+PSIBLAST 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90
+           52,629,880 sequences; 17,866,164,385 total letters
+
+Results from round 1
+
+
+Query= 
+Length=29
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_P20823-8 Isoform 8 of Hepatocyte nuclear factor 1-alph...  48.9    2e-06
+  UniRef90_F7HS97 Uncharacterized protein n=3 Tax=Catarrhini TaxI...  49.7    3e-06
+  UniRef90_P20823-4 Isoform 4 of Hepatocyte nuclear factor 1-alph...  50.1    4e-06
+  UniRef90_E0YMI8 HNF1 alpha A splice variant 2 n=2 Tax=Homo sapi...  49.7    5e-06
+  UniRef90_H2NIW9 Uncharacterized protein n=2 Tax=Pongo abelii Ta...  50.1    5e-06
+  UniRef90_P20823-5 Isoform 5 of Hepatocyte nuclear factor 1-alph...  49.3    6e-06
+  UniRef90_A0A1D5QPV7 Uncharacterized protein n=1 Tax=Macaca mula...  50.4    6e-06
+  UniRef90_F1RJG9 Uncharacterized protein n=4 Tax=Boreoeutheria T...  50.1    7e-06
+  UniRef90_UPI000717C67C PREDICTED: hepatocyte nuclear factor 1-a...  50.4    7e-06
+  UniRef90_UPI00064D6816 PREDICTED: hepatocyte nuclear factor 1-a...  50.1    7e-06
+  UniRef90_UPI00059B4DD4 PREDICTED: LOW QUALITY PROTEIN: hepatocy...  50.4    8e-06
+  UniRef90_UPI00075FB05E PREDICTED: hepatocyte nuclear factor 1-a...  50.1    8e-06
+  UniRef90_E0YMI9 HNF1 alpha A splice variant 3 n=3 Tax=Simiiform...  49.7    8e-06
+  UniRef90_UPI00053F4D84 PREDICTED: hepatocyte nuclear factor 1-a...  50.1    8e-06
+  UniRef90_F7CR09 Uncharacterized protein n=1 Tax=Equus caballus ...  50.1    9e-06
+  UniRef90_P20823-7 Isoform 7 of Hepatocyte nuclear factor 1-alph...  50.1    9e-06
+  UniRef90_UPI000738061E PREDICTED: hepatocyte nuclear factor 1-a...  50.1    9e-06
+  UniRef90_A0A1A6HQR7 Uncharacterized protein (Fragment) n=1 Tax=...  49.3    9e-06
+  UniRef90_UPI0002C3313B PREDICTED: hepatocyte nuclear factor 1-a...  50.1    9e-06
+  UniRef90_U3KQS6 Hepatocyte nuclear factor 1-alpha n=11 Tax=Euth...  50.1    9e-06
+  UniRef90_UPI00065738B0 PREDICTED: hepatocyte nuclear factor 1-a...  50.1    9e-06
+  UniRef90_UPI0004E026F6 PREDICTED: hepatocyte nuclear factor 1-a...  50.1    9e-06
+  UniRef90_P20823 Hepatocyte nuclear factor 1-alpha n=118 Tax=Eut...  50.1    9e-06
+  UniRef90_P20823-2 Isoform B of Hepatocyte nuclear factor 1-alph...  50.1    9e-06
+  UniRef90_P20823-3 Isoform C of Hepatocyte nuclear factor 1-alph...  49.7    9e-06
+  UniRef90_UPI0003C16C8A PREDICTED: hepatocyte nuclear factor 1-a...  50.1    9e-06
+  UniRef90_UPI0004404B0F PREDICTED: hepatocyte nuclear factor 1-a...  49.7    1e-05
+  UniRef90_A0A1D5RBE1 Uncharacterized protein n=2 Tax=Catarrhini ...  49.3    1e-05
+  UniRef90_T0MDX2 Transcription factor 1, hepatic isoform 3-like ...  49.7    1e-05
+  UniRef90_A0A1D5Q3P4 Uncharacterized protein n=2 Tax=Macaca mula...  49.7    1e-05
+  UniRef90_W5PWE7 Uncharacterized protein n=12 Tax=Eutheria TaxID...  49.7    1e-05
+  UniRef90_U6DPD6 HNF1 homeobox A (Fragment) n=1 Tax=Neovison vis...  47.4    2e-05
+  UniRef90_UPI0002ADA47F PREDICTED: LOW QUALITY PROTEIN: hepatocy...  48.1    3e-05
+  UniRef90_G3HI63 Hepatocyte nuclear factor 1-alpha n=1 Tax=Crice...  48.1    4e-05
+  UniRef90_G1S1E9 Uncharacterized protein n=1 Tax=Nomascus leucog...  48.1    4e-05
+  UniRef90_UPI00093C6666 UPI00093C6666 related cluster n=1 Tax=un...  47.4    4e-05
+  UniRef90_UPI0003314FAF PREDICTED: hepatocyte nuclear factor 1-a...  47.4    9e-05
+  UniRef90_UPI0007685F1B PREDICTED: hepatocyte nuclear factor 1-a...  44.7    5e-04
+  UniRef90_UPI0002739F3A PREDICTED: LOW QUALITY PROTEIN: hepatocy...  43.9    0.001
+
+
+> UniRef90_P20823-8 Isoform 8 of Hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=P20823-8
+Length=119
+
+ Score = 48.9 bits (115),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_F7HS97 Uncharacterized protein n=3 Tax=Catarrhini TaxID=9526 
+RepID=F7HS97_MACMU
+Length=236
+
+ Score = 49.7 bits (117),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-4 Isoform 4 of Hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Homo sapiens TaxID=9606 RepID=P20823-4
+Length=278
+
+ Score = 50.1 bits (118),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_E0YMI8 HNF1 alpha A splice variant 2 n=2 Tax=Homo sapiens 
+TaxID=9606 RepID=E0YMI8_HUMAN
+Length=308
+
+ Score = 49.7 bits (117),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_H2NIW9 Uncharacterized protein n=2 Tax=Pongo abelii 
+TaxID=9601 RepID=H2NIW9_PONAB
+Length=347
+
+ Score = 50.1 bits (118),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-5 Isoform 5 of Hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=P20823-5
+Length=247
+
+ Score = 49.3 bits (116),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1D5QPV7 Uncharacterized protein n=1 Tax=Macaca mulatta 
+TaxID=9544 RepID=A0A1D5QPV7_MACMU
+Length=545
+
+ Score = 50.4 bits (119),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_F1RJG9 Uncharacterized protein n=4 Tax=Boreoeutheria 
+TaxID=1437010 RepID=F1RJG9_PIG
+Length=546
+
+ Score = 50.1 bits (118),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI000717C67C PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Boreoeutheria TaxID=1437010 RepID=UPI000717C67C
+Length=649
+
+ Score = 50.4 bits (119),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00064D6816 PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Jaculus jaculus TaxID=51337 RepID=UPI00064D6816
+Length=569
+
+ Score = 50.1 bits (118),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELVAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00059B4DD4 PREDICTED: LOW QUALITY PROTEIN: hepatocyte 
+nuclear factor 1-alpha n=1 Tax=Ailuropoda melanoleuca TaxID=9646 
+RepID=UPI00059B4DD4
+Length=1006
+
+ Score = 50.4 bits (119),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00075FB05E PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Macaca TaxID=9539 RepID=UPI00075FB05E
+Length=595
+
+ Score = 50.1 bits (118),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_E0YMI9 HNF1 alpha A splice variant 3 n=3 Tax=Simiiformes 
+TaxID=314293 RepID=E0YMI9_HUMAN
+Length=452
+
+ Score = 49.7 bits (117),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00053F4D84 PREDICTED: hepatocyte nuclear factor 1-alpha 
+isoform X4 n=1 Tax=Fukomys damarensis TaxID=885580 RepID=UPI00053F4D84
+Length=639
+
+ Score = 50.1 bits (118),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_F7CR09 Uncharacterized protein n=1 Tax=Equus caballus 
+TaxID=9796 RepID=F7CR09_HORSE
+Length=633
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-7 Isoform 7 of Hepatocyte nuclear factor 1-alpha 
+n=13 Tax=Catarrhini TaxID=9526 RepID=P20823-7
+Length=662
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI000738061E PREDICTED: hepatocyte nuclear factor 1-alpha 
+isoform X1 n=1 Tax=Vicugna pacos TaxID=30538 RepID=UPI000738061E
+Length=680
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1A6HQR7 Uncharacterized protein (Fragment) n=1 Tax=Neotoma 
+lepida TaxID=56216 RepID=A0A1A6HQR7_NEOLE
+Length=354
+
+ Score = 49.3 bits (116),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0002C3313B PREDICTED: hepatocyte nuclear factor 1-alpha-like 
+n=1 Tax=Tursiops truncatus TaxID=9739 RepID=UPI0002C3313B
+Length=622
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_U3KQS6 Hepatocyte nuclear factor 1-alpha n=11 Tax=Eutheria 
+TaxID=9347 RepID=U3KQS6_HUMAN
+Length=542
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00065738B0 PREDICTED: hepatocyte nuclear factor 1-alpha 
+isoform X1 n=7 Tax=Rodentia TaxID=9989 RepID=UPI00065738B0
+Length=660
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0004E026F6 PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Ursus maritimus TaxID=29073 RepID=UPI0004E026F6
+Length=675
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823 Hepatocyte nuclear factor 1-alpha n=118 Tax=Eutheria 
+TaxID=9347 RepID=HNF1A_HUMAN
+Length=631
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-2 Isoform B of Hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Homo sapiens TaxID=9606 RepID=P20823-2
+Length=572
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-3 Isoform C of Hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Homo sapiens TaxID=9606 RepID=P20823-3
+Length=524
+
+ Score = 49.7 bits (117),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0003C16C8A PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Pantholops hodgsonii TaxID=59538 RepID=UPI0003C16C8A
+Length=646
+
+ Score = 50.1 bits (118),  Expect = 9e-06, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0004404B0F PREDICTED: hepatocyte nuclear factor 1-alpha 
+isoform X3 n=1 Tax=Balaenoptera acutorostrata scammoni 
+TaxID=310752 RepID=UPI0004404B0F
+Length=612
+
+ Score = 49.7 bits (117),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1D5RBE1 Uncharacterized protein n=2 Tax=Catarrhini 
+TaxID=9526 RepID=A0A1D5RBE1_MACMU
+Length=382
+
+ Score = 49.3 bits (116),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_T0MDX2 Transcription factor 1, hepatic isoform 3-like 
+protein n=2 Tax=Camelus TaxID=9836 RepID=T0MDX2_CAMFR
+Length=600
+
+ Score = 49.7 bits (117),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1D5Q3P4 Uncharacterized protein n=2 Tax=Macaca mulatta 
+TaxID=9544 RepID=A0A1D5Q3P4_MACMU
+Length=495
+
+ Score = 49.7 bits (117),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_W5PWE7 Uncharacterized protein n=12 Tax=Eutheria TaxID=9347 
+RepID=W5PWE7_SHEEP
+Length=654
+
+ Score = 49.7 bits (117),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_U6DPD6 HNF1 homeobox A (Fragment) n=1 Tax=Neovison vison 
+TaxID=452646 RepID=U6DPD6_NEOVI
+Length=204
+
+ Score = 47.4 bits (111),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL  ALLESGLSKEALIQAL
+Sbjct  50  MVSKLSQLQTELLVALLESGLSKEALIQAL  79
+
+
+> UniRef90_UPI0002ADA47F PREDICTED: LOW QUALITY PROTEIN: hepatocyte 
+nuclear factor 1-alpha n=1 Tax=Nomascus leucogenys TaxID=61853 
+RepID=UPI0002ADA47F
+Length=598
+
+ Score = 48.1 bits (113),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKE LIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKETLIQAL  30
+
+
+> UniRef90_G3HI63 Hepatocyte nuclear factor 1-alpha n=1 Tax=Cricetulus 
+griseus TaxID=10029 RepID=G3HI63_CRIGR
+Length=668
+
+ Score = 48.1 bits (113),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL  ALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLTALLESGLSKEALIQAL  30
+
+
+> UniRef90_G1S1E9 Uncharacterized protein n=1 Tax=Nomascus leucogenys 
+TaxID=61853 RepID=G1S1E9_NOMLE
+Length=632
+
+ Score = 48.1 bits (113),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKE LIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKETLIQAL  30
+
+
+> UniRef90_UPI00093C6666 UPI00093C6666 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00093C6666
+Length=278
+
+ Score = 47.4 bits (111),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQ EL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQMELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0003314FAF PREDICTED: hepatocyte nuclear factor 1-alpha 
+isoform X1 n=1 Tax=Sorex araneus TaxID=42254 RepID=UPI0003314FAF
+Length=663
+
+ Score = 47.4 bits (111),  Expect = 9e-05, Method: Compositional matrix adjust.
+ Identities = 27/30 (90%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQ+EL AALL+SGLSKEALIQAL
+Sbjct  1   MVSKLSQLQSELLAALLDSGLSKEALIQAL  30
+
+
+> UniRef90_UPI0007685F1B PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Pteropus alecto TaxID=9402 RepID=UPI0007685F1B
+Length=593
+
+ Score = 44.7 bits (104),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 27/30 (90%), Positives = 27/30 (90%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLS LQ EL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSPLQMELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0002739F3A PREDICTED: LOW QUALITY PROTEIN: hepatocyte 
+nuclear factor 1-alpha n=1 Tax=Sarcophilus harrisii TaxID=9305 
+RepID=UPI0002739F3A
+Length=566
+
+ Score = 43.9 bits (102),  Expect = 0.001, Method: Compositional matrix adjust.
+ Identities = 25/30 (83%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVS+LSQLQTEL AALLESGL+KE LI+AL
+Sbjct  1   MVSQLSQLQTELLAALLESGLTKETLIRAL  30
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.122    0.275    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 441391121625
+Results from round 2
+
+
+Query= 
+Length=29
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+Sequences used in model and found again:
+
+  UniRef90_UPI00059B4DD4 PREDICTED: LOW QUALITY PROTEIN: hepatocy...  48.1    4e-05
+  UniRef90_E0YMI8 HNF1 alpha A splice variant 2 n=2 Tax=Homo sapi...  47.0    6e-05
+  UniRef90_P20823-4 Isoform 4 of Hepatocyte nuclear factor 1-alph...  46.6    7e-05
+  UniRef90_A0A1D5QPV7 Uncharacterized protein n=1 Tax=Macaca mula...  47.0    1e-04
+  UniRef90_UPI00093C6666 UPI00093C6666 related cluster n=1 Tax=un...  46.2    1e-04
+  UniRef90_F7HS97 Uncharacterized protein n=3 Tax=Catarrhini TaxI...  45.0    2e-04
+  UniRef90_F1RJG9 Uncharacterized protein n=4 Tax=Boreoeutheria T...  45.4    3e-04
+  UniRef90_A0A1A6HQR7 Uncharacterized protein (Fragment) n=1 Tax=...  45.0    3e-04
+  UniRef90_U6DPD6 HNF1 homeobox A (Fragment) n=1 Tax=Neovison vis...  43.9    3e-04
+  UniRef90_P20823-3 Isoform C of Hepatocyte nuclear factor 1-alph...  45.0    4e-04
+  UniRef90_UPI000717C67C PREDICTED: hepatocyte nuclear factor 1-a...  44.6    6e-04
+  UniRef90_U3KQS6 Hepatocyte nuclear factor 1-alpha n=11 Tax=Euth...  44.3    7e-04
+  UniRef90_UPI0002ADA47F PREDICTED: LOW QUALITY PROTEIN: hepatocy...  44.3    8e-04
+  UniRef90_UPI0003C16C8A PREDICTED: hepatocyte nuclear factor 1-a...  44.3    9e-04
+  UniRef90_P20823-5 Isoform 5 of Hepatocyte nuclear factor 1-alph...  43.1    0.001
+  UniRef90_P20823-2 Isoform B of Hepatocyte nuclear factor 1-alph...  43.9    0.001
+
+Sequences not found previously or not previously below threshold:
+
+
+
+> UniRef90_UPI00059B4DD4 PREDICTED: LOW QUALITY PROTEIN: hepatocyte 
+nuclear factor 1-alpha n=1 Tax=Ailuropoda melanoleuca TaxID=9646 
+RepID=UPI00059B4DD4
+Length=1006
+
+ Score = 48.1 bits (113),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_E0YMI8 HNF1 alpha A splice variant 2 n=2 Tax=Homo sapiens 
+TaxID=9606 RepID=E0YMI8_HUMAN
+Length=308
+
+ Score = 47.0 bits (110),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-4 Isoform 4 of Hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Homo sapiens TaxID=9606 RepID=P20823-4
+Length=278
+
+ Score = 46.6 bits (109),  Expect = 7e-05, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1D5QPV7 Uncharacterized protein n=1 Tax=Macaca mulatta 
+TaxID=9544 RepID=A0A1D5QPV7_MACMU
+Length=545
+
+ Score = 47.0 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI00093C6666 UPI00093C6666 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00093C6666
+Length=278
+
+ Score = 46.2 bits (108),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQ EL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQMELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_F7HS97 Uncharacterized protein n=3 Tax=Catarrhini TaxID=9526 
+RepID=F7HS97_MACMU
+Length=236
+
+ Score = 45.0 bits (105),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_F1RJG9 Uncharacterized protein n=4 Tax=Boreoeutheria 
+TaxID=1437010 RepID=F1RJG9_PIG
+Length=546
+
+ Score = 45.4 bits (106),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_A0A1A6HQR7 Uncharacterized protein (Fragment) n=1 Tax=Neotoma 
+lepida TaxID=56216 RepID=A0A1A6HQR7_NEOLE
+Length=354
+
+ Score = 45.0 bits (105),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_U6DPD6 HNF1 homeobox A (Fragment) n=1 Tax=Neovison vison 
+TaxID=452646 RepID=U6DPD6_NEOVI
+Length=204
+
+ Score = 43.9 bits (102),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL  ALLESGLSKEALIQAL
+Sbjct  50  MVSKLSQLQTELLVALLESGLSKEALIQAL  79
+
+
+> UniRef90_P20823-3 Isoform C of Hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Homo sapiens TaxID=9606 RepID=P20823-3
+Length=524
+
+ Score = 45.0 bits (105),  Expect = 4e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI000717C67C PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Boreoeutheria TaxID=1437010 RepID=UPI000717C67C
+Length=649
+
+ Score = 44.6 bits (104),  Expect = 6e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_U3KQS6 Hepatocyte nuclear factor 1-alpha n=11 Tax=Eutheria 
+TaxID=9347 RepID=U3KQS6_HUMAN
+Length=542
+
+ Score = 44.3 bits (103),  Expect = 7e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_UPI0002ADA47F PREDICTED: LOW QUALITY PROTEIN: hepatocyte 
+nuclear factor 1-alpha n=1 Tax=Nomascus leucogenys TaxID=61853 
+RepID=UPI0002ADA47F
+Length=598
+
+ Score = 44.3 bits (103),  Expect = 8e-04, Method: Composition-based stats.
+ Identities = 28/30 (93%), Positives = 28/30 (93%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKE LIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKETLIQAL  30
+
+
+> UniRef90_UPI0003C16C8A PREDICTED: hepatocyte nuclear factor 1-alpha 
+n=1 Tax=Pantholops hodgsonii TaxID=59538 RepID=UPI0003C16C8A
+Length=646
+
+ Score = 44.3 bits (103),  Expect = 9e-04, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-5 Isoform 5 of Hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=P20823-5
+Length=247
+
+ Score = 43.1 bits (100),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+> UniRef90_P20823-2 Isoform B of Hepatocyte nuclear factor 1-alpha 
+n=2 Tax=Homo sapiens TaxID=9606 RepID=P20823-2
+Length=572
+
+ Score = 43.9 bits (102),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 29/30 (97%), Positives = 29/30 (97%), Gaps = 1/30 (3%)
+
+Query  1   MVSKLSQLQTEL-AALLESGLSKEALIQAL  29
+           MVSKLSQLQTEL AALLESGLSKEALIQAL
+Sbjct  1   MVSKLSQLQTELLAALLESGLSKEALIQAL  30
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.137    0.316    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0418    0.140     1.90     42.6     43.6 
+
+Effective search space used: 441391121625
+
+Search has CONVERGED!
+
+
+  Database: uniref90
+    Posted date:  Feb 27, 2017  10:12 AM
+  Number of letters in database: 17,866,164,385
+  Number of sequences in database:  52,629,880
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

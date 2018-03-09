@@ -1,0 +1,4594 @@
+PSIBLAST 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: uniref90
+           52,629,880 sequences; 17,866,164,385 total letters
+
+Results from round 1
+
+
+Query= 
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=H...  87.8    2e-20
+  UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sap...  90.1    4e-20
+  UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norve...  88.6    5e-20
+  UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  85.5    2e-19
+  UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae T...  87.0    3e-19
+  UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 n=...  87.8    3e-19
+  UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, p...  86.3    3e-19
+  UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini T...  87.0    3e-19
+  UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 n=...  87.0    4e-19
+  UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix j...  87.0    5e-19
+  UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontog...  86.7    6e-19
+  UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 n=...  86.3    7e-19
+  UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxI...  86.3    8e-19
+  UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia ...  84.3    4e-18
+  UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiather...  83.2    5e-18
+  UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognat...  82.0    3e-17
+  UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=C...  79.3    8e-17
+  UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus ...  80.1    1e-16
+  UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=un...  79.7    2e-16
+  UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 n=...  79.7    2e-16
+  UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini Ta...  78.6    6e-16
+  UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodac...  78.2    8e-16
+  UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 is...  77.8    9e-16
+  UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  75.5    2e-15
+  UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria T...  77.0    2e-15
+  UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacid...  76.6    3e-15
+  UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 n=...  76.3    4e-15
+  UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=un...  76.3    4e-15
+  UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norve...  76.3    4e-15
+  UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus...  75.5    5e-15
+  UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 n=...  74.7    2e-14
+  UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 n=...  74.3    2e-14
+  UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculu...  74.3    2e-14
+  UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 n=...  73.9    3e-14
+  UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodac...  73.6    4e-14
+  UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 n=...  72.0    5e-14
+  UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 n=...  72.0    7e-14
+  UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  71.6    7e-14
+  UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  72.0    1e-13
+  UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=un...  72.0    1e-13
+  UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  71.2    2e-13
+  UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus Tax...  71.2    2e-13
+  UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones ung...  71.2    3e-13
+  UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcel...  70.5    6e-13
+  UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetid...  70.1    7e-13
+  UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur gar...  70.1    7e-13
+  UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 n=...  69.7    1e-12
+  UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 is...  69.7    1e-12
+  UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chine...  68.9    2e-12
+  UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae T...  68.2    3e-12
+  UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus ...  67.4    6e-12
+  UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  65.9    2e-11
+  UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis ...  63.5    3e-11
+  UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=un...  64.7    7e-11
+  UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=...  64.3    8e-11
+  UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 n=...  62.0    1e-10
+  UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  62.4    1e-10
+  UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brand...  63.9    1e-10
+  UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus ...  63.5    2e-10
+  UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular...  59.3    1e-09
+  UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus n...  58.9    2e-09
+  UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  60.1    2e-09
+  UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  60.5    2e-09
+  UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-li...  57.8    3e-09
+  UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta af...  58.5    1e-08
+  UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 n=...  53.5    4e-07
+  UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=un...  50.1    2e-06
+  UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma me...  51.2    4e-06
+  UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  47.8    6e-05
+  UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligato...  47.0    1e-04
+  UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 n=...  45.1    4e-04
+  UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=655...  43.5    5e-04
+  UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orien...  45.4    5e-04
+  UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus ...  45.4    5e-04
+  UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria ch...  45.1    6e-04
+  UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 is...  45.1    6e-04
+
+
+> UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=Homo 
+sapiens TaxID=9606 RepID=Q53GA5_HUMAN
+Length=158
+
+ Score = 87.8 bits (216),  Expect = 2e-20, Method: Compositional matrix adjust.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  84   KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  125
+
+
+> UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sapiens 
+TaxID=9606 RepID=A0A0U1RQC9_HUMAN
+Length=410
+
+ Score = 90.1 bits (222),  Expect = 4e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norvegicus 
+TaxID=10116 RepID=M0R497_RAT
+Length=261
+
+ Score = 88.6 bits (218),  Expect = 5e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  209  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  250
+
+
+> UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=Macaca 
+mulatta TaxID=9544 RepID=H9FFS1_MACMU
+Length=159
+
+ Score = 85.5 bits (210),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  103  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPA  144
+
+
+> UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae 
+TaxID=207598 RepID=H2EHT1_HUMAN
+Length=354
+
+ Score = 87.0 bits (214),  Expect = 3e-19, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ceratotherium simum simum TaxID=73337 RepID=UPI0007197059
+Length=397
+
+ Score = 87.8 bits (216),  Expect = 3e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  323  QKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  364
+
+
+> UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, 
+partial n=1 Tax=Panthera tigris altaica TaxID=74533 RepID=UPI00076638E1
+Length=291
+
+ Score = 86.3 bits (212),  Expect = 3e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  243  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  284
+
+
+> UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini 
+TaxID=9526 RepID=B4DMH2_HUMAN
+Length=368
+
+ Score = 87.0 bits (214),  Expect = 3e-19, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  294  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  335
+
+
+> UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Condylura cristata TaxID=143302 RepID=UPI0003346AAE
+Length=381
+
+ Score = 87.0 bits (214),  Expect = 4e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQAGKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQAGKEPG  348
+
+
+> UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix 
+jacchus TaxID=9483 RepID=F7GNX0_CALJA
+Length=395
+
+ Score = 87.0 bits (214),  Expect = 5e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQI GRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  321  KKKPLDGEYFTLQIHGRERFEMFRELNEALELKDAQAGKEPG  362
+
+
+> UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontoglires 
+TaxID=314146 RepID=P53_HUMAN
+Length=393
+
+ Score = 86.7 bits (213),  Expect = 6e-19, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  319  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  360
+
+
+> UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=UPI0004D06868
+Length=391
+
+ Score = 86.3 bits (212),  Expect = 7e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  317  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  358
+
+
+> UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxID=9681 
+RepID=P53_FELCA
+Length=386
+
+ Score = 86.3 bits (212),  Expect = 8e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  353
+
+
+> UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia 
+TaxID=379584 RepID=P53_CANLF
+Length=381
+
+ Score = 84.3 bits (207),  Expect = 4e-18, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERYEMFRNLNEALELKDAQSGKEPG  348
+
+
+> UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiatheria 
+TaxID=314145 RepID=F6TL72_HORSE
+Length=269
+
+ Score = 83.2 bits (204),  Expect = 5e-18, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  195  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  236
+
+
+> UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognathi 
+TaxID=33550 RepID=G5B5D6_HETGA
+Length=391
+
+ Score = 82.0 bits (201),  Expect = 3e-17, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDAQ  KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDAQTEKEPG  358
+
+
+> UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=Canis 
+lupus familiaris TaxID=9615 RepID=Q9TUX4_CANLF
+Length=246
+
+ Score = 79.3 bits (194),  Expect = 8e-17, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEY T QIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  202  KKKPLDGEYSTFQIRGRERYEMFRNLNEALELKDAQSGKEPG  243
+
+
+> UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=P53_RABIT
+Length=391
+
+ Score = 80.1 bits (196),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYF L+IRGRERFEMFRELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFILKIRGRERFEMFRELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=unknown 
+TaxID= RepID=UPI0007A6B7A1
+Length=381
+
+ Score = 79.7 bits (195),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+D EYFTLQIRGRERFEMFRELNEALELKDAQAGK+PG
+Sbjct  308  KMPMDEEYFTLQIRGRERFEMFRELNEALELKDAQAGKDPG  348
+
+
+> UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Eptesicus fuscus TaxID=29078 RepID=UPI00046BA3D4
+Length=388
+
+ Score = 79.7 bits (195),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+DGEYFTLQIRGR RFEMFRELNEALELKDAQAGK+PG
+Sbjct  314  KMPVDGEYFTLQIRGRARFEMFRELNEALELKDAQAGKDPG  354
+
+
+> UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini 
+TaxID=337730 RepID=P53_MARMO
+Length=391
+
+ Score = 78.6 bits (192),  Expect = 6e-16, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR RFEMF+ELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRARFEMFQELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_PIG
+Length=386
+
+ Score = 78.2 bits (191),  Expect = 8e-16, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQ  +E G
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQTARESG  353
+
+
+> UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Sorex araneus TaxID=42254 RepID=UPI00033185BD
+Length=383
+
+ Score = 77.8 bits (190),  Expect = 9e-16, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKP + EYFTLQIRGR+RFEMFRELNEALELKDAQAGKEPG
+Sbjct  309  KKKPPNEEYFTLQIRGRDRFEMFRELNEALELKDAQAGKEPG  350
+
+
+> UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=Muntiacus 
+muntjak vaginalis TaxID=9887 RepID=Q533U3_MUNMU
+Length=217
+
+ Score = 75.5 bits (184),  Expect = 2e-15, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGR+R+EMFRELNEALEL DAQA +EPG
+Sbjct  152  KKKPLDGEYFTLQIRGRKRYEMFRELNEALELMDAQARREPG  193
+
+
+> UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria 
+TaxID=311790 RepID=G3T035_LOXAF
+Length=392
+
+ Score = 77.0 bits (188),  Expect = 2e-15, Method: Composition-based stats.
+ Identities = 38/41 (93%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  318  KKKPLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  358
+
+
+> UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacidae 
+TaxID=337664 RepID=A0A0K1TP12_NANGA
+Length=391
+
+ Score = 76.6 bits (187),  Expect = 3e-15, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKD QA K+ G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDTQAEKDSG  358
+
+
+> UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Echinops telfairi TaxID=9371 RepID=UPI00064E4448
+Length=378
+
+ Score = 76.3 bits (186),  Expect = 4e-15, Method: Composition-based stats.
+ Identities = 36/41 (88%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQIRGRERF+MF ELNEALEL+DAQAGKEP
+Sbjct  304  KKKPLDEEYYTLQIRGRERFKMFWELNEALELRDAQAGKEP  344
+
+
+> UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=unknown 
+TaxID= RepID=UPI00093A1693
+Length=388
+
+ Score = 76.3 bits (186),  Expect = 4e-15, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P DGEYFTLQIRGRERFEMF+ELNEALELKDAQAGKE G
+Sbjct  315  KVPRDGEYFTLQIRGRERFEMFQELNEALELKDAQAGKESG  355
+
+
+> UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norvegicus 
+TaxID=10116 RepID=P53_RAT
+Length=391
+
+ Score = 76.3 bits (186),  Expect = 4e-15, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEESG  358
+
+
+> UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus 
+TaxID=10090 RepID=W5VJU6_MOUSE
+Length=342
+
+ Score = 75.5 bits (184),  Expect = 5e-15, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  268  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  309
+
+
+> UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Microcebus murinus TaxID=30608 RepID=UPI00017735F2
+Length=385
+
+ Score = 74.7 bits (182),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 35/38 (92%), Positives = 35/38 (92%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            LDGEYFTLQIRGRERFEMFR LNEALE KDAQ GKEPG
+Sbjct  315  LDGEYFTLQIRGRERFEMFRMLNEALEFKDAQTGKEPG  352
+
+
+> UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI00062A9032
+Length=384
+
+ Score = 74.3 bits (181),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            +DGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEP
+Sbjct  314  MDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEP  350
+
+
+> UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculus 
+TaxID=10090 RepID=P53_MOUSE
+Length=387
+
+ Score = 74.3 bits (181),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  313  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  354
+
+
+> UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Jaculus jaculus TaxID=51337 RepID=UPI0003331A04
+Length=382
+
+ Score = 73.9 bits (180),  Expect = 3e-14, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDG+YFTL+IRGR+R+EMFR LNEALE KDAQA KEPG
+Sbjct  308  KKKPLDGDYFTLKIRGRDRYEMFRVLNEALEFKDAQAEKEPG  349
+
+
+> UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_BOVIN
+Length=386
+
+ Score = 73.6 bits (179),  Expect = 4e-14, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRG +R+EMFRELN+ALELKDA  G+EPG
+Sbjct  312  KKKPLDGEYFTLQIRGFKRYEMFRELNDALELKDALDGREPG  353
+
+
+> UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=UPI00045D81CB
+Length=301
+
+ Score = 72.0 bits (175),  Expect = 5e-14, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKLLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Chrysochloris asiatica TaxID=185453 RepID=UPI0003F11B51
+Length=301
+
+ Score = 72.0 bits (175),  Expect = 7e-14, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKMLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89003_MASNA
+Length=286
+
+ Score = 71.6 bits (174),  Expect = 7e-14, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  212  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  253
+
+
+> UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89002_MASNA
+Length=378
+
+ Score = 72.0 bits (175),  Expect = 1e-13, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  304  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  345
+
+
+> UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007A6CBAE
+Length=374
+
+ Score = 72.0 bits (175),  Expect = 1e-13, Method: Composition-based stats.
+ Identities = 35/40 (88%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KKKPLD EYFTLQIRGRERFEMFR+LNEALELKDA   KE
+Sbjct  303  KKKPLDEEYFTLQIRGRERFEMFRQLNEALELKDAHEEKE  342
+
+
+> UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3U6D1_LOXAF
+Length=364
+
+ Score = 71.2 bits (173),  Expect = 2e-13, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD +YFTLQI G E F+MF +LNEALELKDAQAGK+PG
+Sbjct  290  KKKPLDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQPG  331
+
+
+> UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus TaxID=9401 
+RepID=L5JZ91_PTEAL
+Length=378
+
+ Score = 71.2 bits (173),  Expect = 2e-13, Method: Composition-based stats.
+ Identities = 34/40 (85%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            K PLD EYFTLQIRGR+ FE+ RELNEALELKDAQAGKEP
+Sbjct  305  KMPLDEEYFTLQIRGRKNFEILRELNEALELKDAQAGKEP  344
+
+
+> UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones unguiculatus 
+TaxID=10047 RepID=Q920Y0_MERUN
+Length=390
+
+ Score = 71.2 bits (173),  Expect = 3e-13, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 38/42 (90%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K+KP DGEYFTL+IRGR+RFE+FRELNEALELKDAQA  E G
+Sbjct  316  KRKPADGEYFTLKIRGRKRFEVFRELNEALELKDAQAAGESG  357
+
+
+> UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcellus 
+TaxID=10141 RepID=P53_CAVPO
+Length=391
+
+ Score = 70.5 bits (171),  Expect = 6e-13, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD EYFTL+IRGR+ FE+ RE+NEALE KDAQ  KEPG
+Sbjct  317  KKKPLDAEYFTLKIRGRKNFEILREINEALEFKDAQTEKEPG  358
+
+
+> UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetidae 
+TaxID=337677 RepID=A0A172Q425_MICOH
+Length=390
+
+ Score = 70.1 bits (170),  Expect = 7e-13, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERF+MF ELNEALELKDAQ     G
+Sbjct  316  KKKPLDGEYFTLKIRGRERFKMFSELNEALELKDAQDANGSG  357
+
+
+> UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur garnettii 
+TaxID=30611 RepID=H0XGB0_OTOGA
+Length=393
+
+ Score = 70.1 bits (170),  Expect = 7e-13, Method: Composition-based stats.
+ Identities = 34/40 (85%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KKK L+GEYFTL+IRGRER+EMFRELNEALE+KDAQA KE
+Sbjct  319  KKKLLEGEYFTLKIRGRERYEMFRELNEALEIKDAQAEKE  358
+
+
+> UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ochotona princeps TaxID=9978 RepID=UPI00032B1BE8
+Length=385
+
+ Score = 69.7 bits (169),  Expect = 1e-12, Method: Composition-based stats.
+ Identities = 32/38 (84%), Positives = 36/38 (95%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +DGEYFTL+IRGRER+EMFR+LNEALE KDAQA KEPG
+Sbjct  315  MDGEYFTLKIRGRERYEMFRDLNEALEFKDAQAEKEPG  352
+
+
+> UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Dipodomys ordii TaxID=10020 RepID=UPI00065233C2
+Length=414
+
+ Score = 69.7 bits (169),  Expect = 1e-12, Method: Composition-based stats.
+ Identities = 32/41 (78%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLDGEYFTL+IRGRER+EM R +NEA E KDAQ  KEP
+Sbjct  340  KKKPLDGEYFTLKIRGRERYEMLRMINEAFEFKDAQTEKEP  380
+
+
+> UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chinensis 
+TaxID=246437 RepID=L9KM90_TUPCH
+Length=424
+
+ Score = 68.9 bits (167),  Expect = 2e-12, Method: Composition-based stats.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KKKPLD EYFTLQIRGRERFEM RE+NEALELKDA
+Sbjct  323  KKKPLDEEYFTLQIRGRERFEMLREINEALELKDA  357
+
+
+> UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae 
+TaxID=10026 RepID=P53_CRIGR
+Length=393
+
+ Score = 68.2 bits (165),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 33/39 (85%), Positives = 36/39 (92%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            KKK LDGEYFTL+IRG ERF+MF+ELNEALELKDAQA K
+Sbjct  319  KKKTLDGEYFTLKIRGHERFKMFQELNEALELKDAQASK  357
+
+
+> UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus 
+harrisii TaxID=9305 RepID=G3WS63_SARHA
+Length=371
+
+ Score = 67.4 bits (163),  Expect = 6e-12, Method: Composition-based stats.
+ Identities = 31/41 (76%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK +DGEYFTLQIRGR R+E+ RELNEALELK+A +GK+P
+Sbjct  296  KKKLMDGEYFTLQIRGRHRYELLRELNEALELKEAHSGKDP  336
+
+
+> UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3TS21_LOXAF
+Length=363
+
+ Score = 65.9 bits (159),  Expect = 2e-11, Method: Composition-based stats.
+ Identities = 30/40 (75%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KKKP+D +YFTL+I G E F+MF ELNEALELKDAQAGK+
+Sbjct  289  KKKPVDEKYFTLKIHGHECFKMFLELNEALELKDAQAGKQ  328
+
+
+> UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis 
+domestica TaxID=13616 RepID=F7FQR2_MONDO
+Length=151
+
+ Score = 63.5 bits (153),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  76   KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  116
+
+
+> UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00077DB2F5
+Length=384
+
+ Score = 64.7 bits (156),  Expect = 7e-11, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 34/42 (81%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEY TL+I GRERFEMFR+LNEALE KDA A K  G
+Sbjct  310  KKKTLDGEYSTLKIHGRERFEMFRKLNEALEFKDAHAAKGSG  351
+
+
+> UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=Myotis 
+TaxID=9434 RepID=L7N1B2_MYOLU
+Length=392
+
+ Score = 64.3 bits (155),  Expect = 8e-11, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  317  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  358
+
+
+> UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Aotus nancymaae TaxID=37293 RepID=UPI0006256EB7
+Length=208
+
+ Score = 62.0 bits (149),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 30/30 (100%), Positives = 30/30 (100%), Gaps = 0/30 (0%)
+
+Query  12   LQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LQIRGRERFEMFRELNEALELKDAQAGKEP
+Sbjct  145  LQIRGRERFEMFRELNEALELKDAQAGKEP  174
+
+
+> UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=Monodelphis 
+domestica TaxID=13616 RepID=Q8HY32_MONDO
+Length=258
+
+ Score = 62.4 bits (150),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  191  KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  231
+
+
+> UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brandtii 
+TaxID=109478 RepID=S7NG87_MYOBR
+Length=420
+
+ Score = 63.9 bits (154),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  345  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  386
+
+
+> UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=G1U940_RABIT
+Length=368
+
+ Score = 63.5 bits (153),  Expect = 2e-10, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY  ++IRGRE F++F+ELNE LELKDA+A KEP
+Sbjct  294  KKKPLDREYCIIKIRGRECFKVFQELNEVLELKDAKAKKEP  334
+
+
+> UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular 
+tumor antigen p53-like n=1 Tax=Echinops telfairi TaxID=9371 
+RepID=UPI00064E32EC
+Length=233
+
+ Score = 59.3 bits (142),  Expect = 1e-09, Method: Composition-based stats.
+ Identities = 33/41 (80%), Positives = 35/41 (85%), Gaps = 2/41 (5%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQI GRERF+MF ELNEALELK   AGKEP
+Sbjct  161  KKKPLDEEYYTLQICGRERFKMFWELNEALELK--XAGKEP  199
+
+
+> UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus 
+norvegicus TaxID=10116 RepID=A0A0G2KB75_RAT
+Length=170
+
+ Score = 58.9 bits (141),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 28/33 (85%), Positives = 30/33 (91%), Gaps = 0/33 (0%)
+
+Query  10   FTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            F LQIRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  105  FILQIRGRERFEMFRELNEALELKDARAAEESG  137
+
+
+> UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UJ00_LOXAF
+Length=360
+
+ Score = 60.1 bits (144),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 28/37 (76%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQAGK+P
+Sbjct  290  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQP  326
+
+
+> UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=Myotis 
+lucifugus TaxID=59463 RepID=G1PZ51_MYOLU
+Length=388
+
+ Score = 60.5 bits (145),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 29/36 (81%), Positives = 32/36 (89%), Gaps = 1/36 (3%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  319  EYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  354
+
+
+> UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-like, 
+partial n=1 Tax=Macaca nemestrina TaxID=9545 RepID=UPI0005F528E0
+Length=193
+
+ Score = 57.8 bits (138),  Expect = 3e-09, Method: Composition-based stats.
+ Identities = 28/29 (97%), Positives = 28/29 (97%), Gaps = 0/29 (0%)
+
+Query  14  IRGRERFEMFRELNEALELKDAQAGKEPG  42
+           IRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  1   IRGRERFEMFRELNEALELKDAQAGKEPA  29
+
+
+> UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UHE5_LOXAF
+Length=367
+
+ Score = 58.5 bits (140),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 27/37 (73%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQ GK+P
+Sbjct  297  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQTGKQP  333
+
+
+> UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Elephantulus edwardii TaxID=28737 RepID=UPI0003F07B89
+Length=297
+
+ Score = 53.5 bits (127),  Expect = 4e-07, Method: Composition-based stats.
+ Identities = 26/34 (76%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KK L  EYFTLQIRG +RF MF+ELNEALE+KDA
+Sbjct  227  KKKLSEEYFTLQIRGYKRFRMFQELNEALEMKDA  260
+
+
+> UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007AA7A05
+Length=144
+
+ Score = 50.1 bits (118),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 22/33 (67%), Positives = 26/33 (79%), Gaps = 0/33 (0%)
+
+Query  9   YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+           Y   QIRGRER+EMFR +NEA E KDA+ G+EP
+Sbjct  61  YEPPQIRGRERYEMFRTMNEAFEFKDAKGGQEP  93
+
+
+> UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma 
+mexicanum TaxID=8296 RepID=Q0GMA7_AMBME
+Length=387
+
+ Score = 51.2 bits (121),  Expect = 4e-06, Method: Composition-based stats.
+ Identities = 24/34 (71%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            K+K  + E FTLQI GRER+EMF++LNEALELKD
+Sbjct  311  KRKASEEETFTLQIHGRERYEMFKKLNEALELKD  344
+
+
+> UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UK14_LOXAF
+Length=365
+
+ Score = 47.8 bits (112),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 23/33 (70%), Positives = 26/33 (79%), Gaps = 4/33 (12%)
+
+Query  9    YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            YFTLQI G     MF +LNEALELKDAQAG++P
+Sbjct  306  YFTLQIHG----HMFLKLNEALELKDAQAGRQP  334
+
+
+> UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligator 
+TaxID=8495 RepID=A0A151MW63_ALLMI
+Length=385
+
+ Score = 47.0 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 23/37 (62%), Positives = 28/37 (76%), Gaps = 2/37 (5%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKDAQAGK--EPG  42
+            E FTLQIRGRER+EMF++LNE LE  D Q  +  +PG
+Sbjct  315  EIFTLQIRGRERYEMFKKLNEGLEALDGQEARAEDPG  351
+
+
+> UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Poecilia reticulata TaxID=8081 RepID=UPI0004A40694
+Length=342
+
+ Score = 45.1 bits (105),  Expect = 4e-04, Method: Compositional matrix adjust.
+ Identities = 20/34 (59%), Positives = 24/34 (71%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E +TLQIRGR+RF MF+ LN+ LEL D    K
+Sbjct  287  DKELYTLQIRGRDRFNMFKNLNDGLELLDKTGSK  320
+
+
+> UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=6550 
+RepID=Q4VR33_MYTED
+Length=161
+
+ Score = 43.5 bits (101),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 17/30 (57%), Positives = 24/30 (80%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ+RG+ERFEM +++N+ LEL D 
+Sbjct  88   DEEIYTLQVRGKERFEMLKKINDGLELSDV  117
+
+
+> UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orientalis 
+TaxID=137245 RepID=L7NCR5_9SALA
+Length=392
+
+ Score = 45.4 bits (106),  Expect = 5e-04, Method: Composition-based stats.
+ Identities = 21/34 (62%), Positives = 28/34 (82%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            +K   + E +TLQIRGRER+EM ++LN+ALELKD
+Sbjct  317  RKAHEEDEIYTLQIRGRERYEMLKKLNDALELKD  350
+
+
+> UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus 
+oculatus TaxID=7918 RepID=W5N8V9_LEPOC
+Length=390
+
+ Score = 45.4 bits (106),  Expect = 5e-04, Method: Composition-based stats.
+ Identities = 20/27 (74%), Positives = 25/27 (93%), Gaps = 0/27 (0%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKD  34
+            E FTLQ+RGRERFEM +++NE+LELKD
+Sbjct  318  EIFTLQVRGRERFEMLKKINESLELKD  344
+
+
+> UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria 
+chalumnae TaxID=7897 RepID=H3B1Z4_LATCH
+Length=401
+
+ Score = 45.1 bits (105),  Expect = 6e-04, Method: Composition-based stats.
+ Identities = 19/33 (58%), Positives = 28/33 (85%), Gaps = 0/33 (0%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  334  ELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  366
+
+
+> UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 
+isoform X4 n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=UPI0003C161D6
+Length=372
+
+ Score = 45.1 bits (105),  Expect = 6e-04, Method: Composition-based stats.
+ Identities = 19/33 (58%), Positives = 28/33 (85%), Gaps = 0/33 (0%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  294  ELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  326
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.139    0.387    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 442626243930
+Results from round 2
+
+
+Query= 
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+Sequences used in model and found again:
+
+  UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, p...  95.0    2e-22
+  UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sap...  96.1    2e-22
+  UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norve...  94.6    3e-22
+  UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix j...  95.0    5e-22
+  UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae T...  93.8    8e-22
+  UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 n=...  94.2    9e-22
+  UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 n=...  94.2    1e-21
+  UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 n=...  93.8    1e-21
+  UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontog...  93.8    1e-21
+  UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini T...  93.4    1e-21
+  UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxI...  93.4    2e-21
+  UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia ...  92.3    4e-21
+  UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognat...  91.1    1e-20
+  UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiather...  89.2    3e-20
+  UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=un...  89.2    6e-20
+  UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 n=...  88.8    8e-20
+  UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus ...  88.8    9e-20
+  UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  86.1    1e-19
+  UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini Ta...  88.4    1e-19
+  UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=C...  86.9    2e-19
+  UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 is...  87.7    2e-19
+  UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodac...  87.7    2e-19
+  UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria T...  87.3    4e-19
+  UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 n=...  86.9    4e-19
+  UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=H...  84.2    6e-19
+  UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacid...  86.1    9e-19
+  UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  85.4    1e-18
+  UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus...  85.0    1e-18
+  UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  83.8    2e-18
+  UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norve...  84.6    3e-18
+  UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculu...  84.2    4e-18
+  UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=un...  84.2    4e-18
+  UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 n=...  83.8    5e-18
+  UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=un...  83.8    6e-18
+  UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 n=...  82.7    8e-18
+  UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodac...  83.4    9e-18
+  UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 n=...  82.7    2e-17
+  UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 n=...  81.5    2e-17
+  UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcel...  81.5    5e-17
+  UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 is...  81.9    5e-17
+  UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetid...  81.5    5e-17
+  UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur gar...  80.4    1e-16
+  UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus Tax...  80.4    1e-16
+  UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 n=...  80.0    2e-16
+  UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones ung...  79.6    2e-16
+  UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  79.6    3e-16
+  UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  78.4    3e-16
+  UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  78.8    4e-16
+  UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 n=...  78.8    5e-16
+  UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=un...  78.4    7e-16
+  UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chine...  78.8    7e-16
+  UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae T...  78.0    8e-16
+  UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus ...  76.9    2e-15
+  UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=...  75.3    1e-14
+  UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus ...  74.6    1e-14
+  UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brand...  74.6    2e-14
+  UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  73.8    3e-14
+  UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  72.3    3e-14
+  UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta af...  72.6    7e-14
+  UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular...  70.7    1e-13
+  UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 n=...  66.5    3e-12
+  UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  68.0    4e-12
+  UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis ...  63.8    2e-11
+  UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 n=...  63.8    7e-11
+  UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma me...  64.2    9e-11
+  UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-li...  62.2    1e-10
+  UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus n...  60.7    3e-10
+  UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligato...  59.2    7e-09
+  UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orien...  58.4    1e-08
+  UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria ch...  56.5    5e-08
+  UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=un...  54.2    6e-08
+  UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 is...  56.1    7e-08
+  UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  55.3    1e-07
+  UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus ...  54.9    2e-07
+  UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 n=...  53.0    8e-07
+  UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=655...  45.7    6e-05
+
+Sequences not found previously or not previously below threshold:
+
+  UniRef90_UPI000577751E PREDICTED: cellular tumor antigen p53-li...  53.8    5e-07
+  UniRef90_A0A1B1CUP8 Cellular tumor antigen p53 n=1 Tax=Ctenopha...  53.0    7e-07
+  UniRef90_UPI0006B34D0A PREDICTED: cellular tumor antigen p53 n=...  52.6    1e-06
+  UniRef90_P79734 Cellular tumor antigen p53 n=7 Tax=Danio rerio ...  52.6    1e-06
+  UniRef90_Q9W678 Cellular tumor antigen p53 n=7 Tax=Barbus barbu...  52.2    2e-06
+  UniRef90_UPI0007AC7EB9 UPI0007AC7EB9 related cluster n=9 Tax=un...  51.8    2e-06
+  UniRef90_A0A0B4VEY6 Cellular tumor antigen p53 n=1 Tax=Danio re...  51.1    3e-06
+  UniRef90_UPI00084CFFE0 UPI00084CFFE0 related cluster n=1 Tax=un...  51.1    4e-06
+  UniRef90_A0A087XP53 Cellular tumor antigen p53 n=4 Tax=Poecilia...  50.7    5e-06
+  UniRef90_UPI0008FA9F42 UPI0008FA9F42 related cluster n=1 Tax=un...  50.3    5e-06
+  UniRef90_UPI0008545F6B UPI0008545F6B related cluster n=1 Tax=un...  50.7    5e-06
+  UniRef90_UPI0008791CDA UPI0008791CDA related cluster n=3 Tax=un...  51.1    6e-06
+  UniRef90_P10360 Cellular tumor antigen p53 n=1 Tax=Gallus gallu...  50.3    7e-06
+  UniRef90_P07193 Cellular tumor antigen p53 n=3 Tax=Xenopus laev...  50.3    7e-06
+  UniRef90_W5LNF4 Cellular tumor antigen p53 n=1 Tax=Astyanax mex...  49.9    1e-05
+  UniRef90_H2U134 Cellular tumor antigen p53 n=4 Tax=Takifugu rub...  49.5    1e-05
+  UniRef90_UPI0008FA8A28 UPI0008FA8A28 related cluster n=1 Tax=un...  49.5    2e-05
+  UniRef90_A9XR54 Cellular tumor antigen p53 n=3 Tax=Kryptolebias...  49.1    2e-05
+  UniRef90_UPI0008149AE8 UPI0008149AE8 related cluster n=1 Tax=un...  48.8    3e-05
+  UniRef90_A0A0U1XP71 Cellular tumor antigen p53 (Fragment) n=1 T...  48.0    3e-05
+  UniRef90_W5KI53 Cellular tumor antigen p53 n=1 Tax=Astyanax mex...  48.0    5e-05
+  UniRef90_P25035 Cellular tumor antigen p53 n=6 Tax=Salmonidae T...  47.6    7e-05
+  UniRef90_O93379 Cellular tumor antigen p53 n=1 Tax=Ictalurus pu...  47.6    8e-05
+  UniRef90_UPI0008735429 UPI0008735429 related cluster n=1 Tax=un...  47.6    8e-05
+  UniRef90_F8RKR1 Cellular tumor antigen p53 n=1 Tax=Epinephelus ...  47.2    9e-05
+  UniRef90_UPI00064433A6 PREDICTED: cellular tumor antigen p53-li...  47.2    9e-05
+  UniRef90_UPI00080322AF UPI00080322AF related cluster n=1 Tax=un...  47.2    1e-04
+  UniRef90_F5A7P3 Cellular tumor antigen p53 n=2 Tax=Tachysurus f...  46.8    1e-04
+  UniRef90_A0A142GRI7 Cellular tumor antigen p53 n=1 Tax=Siniperc...  46.8    1e-04
+  UniRef90_H3CXQ0 Cellular tumor antigen p53 n=2 Tax=Tetraodon ni...  46.5    2e-04
+  UniRef90_R9XXS5 Cellular tumor antigen p53 n=1 Tax=Anabas testu...  46.1    3e-04
+  UniRef90_A0A0N8JWU8 Cellular tumor antigen p53 n=2 Tax=Scleropa...  45.7    3e-04
+  UniRef90_G9J1L8 Cellular tumor antigen p53 n=1 Tax=Callorhinchu...  45.7    3e-04
+  UniRef90_UPI00049649D9 PREDICTED: cellular tumor antigen p53 n=...  45.7    3e-04
+  UniRef90_UPI00055805AD PREDICTED: cellular tumor antigen p53 n=...  45.3    4e-04
+  UniRef90_Q9I885 Cellular tumor antigen p53 (Fragment) n=3 Tax=O...  43.4    4e-04
+
+
+> UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, 
+partial n=1 Tax=Panthera tigris altaica TaxID=74533 RepID=UPI00076638E1
+Length=291
+
+ Score = 95.0 bits (235),  Expect = 2e-22, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  243  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  284
+
+
+> UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sapiens 
+TaxID=9606 RepID=A0A0U1RQC9_HUMAN
+Length=410
+
+ Score = 96.1 bits (238),  Expect = 2e-22, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norvegicus 
+TaxID=10116 RepID=M0R497_RAT
+Length=261
+
+ Score = 94.6 bits (234),  Expect = 3e-22, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  209  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  250
+
+
+> UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix 
+jacchus TaxID=9483 RepID=F7GNX0_CALJA
+Length=395
+
+ Score = 95.0 bits (235),  Expect = 5e-22, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQI GRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  321  KKKPLDGEYFTLQIHGRERFEMFRELNEALELKDAQAGKEPG  362
+
+
+> UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae 
+TaxID=207598 RepID=H2EHT1_HUMAN
+Length=354
+
+ Score = 93.8 bits (232),  Expect = 8e-22, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=UPI0004D06868
+Length=391
+
+ Score = 94.2 bits (233),  Expect = 9e-22, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  317  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  358
+
+
+> UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ceratotherium simum simum TaxID=73337 RepID=UPI0007197059
+Length=397
+
+ Score = 94.2 bits (233),  Expect = 1e-21, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  323  QKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  364
+
+
+> UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Condylura cristata TaxID=143302 RepID=UPI0003346AAE
+Length=381
+
+ Score = 93.8 bits (232),  Expect = 1e-21, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQAGKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQAGKEPG  348
+
+
+> UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontoglires 
+TaxID=314146 RepID=P53_HUMAN
+Length=393
+
+ Score = 93.8 bits (232),  Expect = 1e-21, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  319  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  360
+
+
+> UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini 
+TaxID=9526 RepID=B4DMH2_HUMAN
+Length=368
+
+ Score = 93.4 bits (231),  Expect = 1e-21, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  294  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  335
+
+
+> UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxID=9681 
+RepID=P53_FELCA
+Length=386
+
+ Score = 93.4 bits (231),  Expect = 2e-21, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  353
+
+
+> UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia 
+TaxID=379584 RepID=P53_CANLF
+Length=381
+
+ Score = 92.3 bits (228),  Expect = 4e-21, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERYEMFRNLNEALELKDAQSGKEPG  348
+
+
+> UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognathi 
+TaxID=33550 RepID=G5B5D6_HETGA
+Length=391
+
+ Score = 91.1 bits (225),  Expect = 1e-20, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDAQ  KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDAQTEKEPG  358
+
+
+> UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiatheria 
+TaxID=314145 RepID=F6TL72_HORSE
+Length=269
+
+ Score = 89.2 bits (220),  Expect = 3e-20, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  195  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  236
+
+
+> UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=unknown 
+TaxID= RepID=UPI0007A6B7A1
+Length=381
+
+ Score = 89.2 bits (220),  Expect = 6e-20, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+D EYFTLQIRGRERFEMFRELNEALELKDAQAGK+PG
+Sbjct  308  KMPMDEEYFTLQIRGRERFEMFRELNEALELKDAQAGKDPG  348
+
+
+> UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Echinops telfairi TaxID=9371 RepID=UPI00064E4448
+Length=378
+
+ Score = 88.8 bits (219),  Expect = 8e-20, Method: Composition-based stats.
+ Identities = 36/41 (88%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQIRGRERF+MF ELNEALEL+DAQAGKEP
+Sbjct  304  KKKPLDEEYYTLQIRGRERFKMFWELNEALELRDAQAGKEP  344
+
+
+> UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=P53_RABIT
+Length=391
+
+ Score = 88.8 bits (219),  Expect = 9e-20, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYF L+IRGRERFEMFRELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFILKIRGRERFEMFRELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=Macaca 
+mulatta TaxID=9544 RepID=H9FFS1_MACMU
+Length=159
+
+ Score = 86.1 bits (212),  Expect = 1e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  103  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPA  144
+
+
+> UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini 
+TaxID=337730 RepID=P53_MARMO
+Length=391
+
+ Score = 88.4 bits (218),  Expect = 1e-19, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR RFEMF+ELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRARFEMFQELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=Canis 
+lupus familiaris TaxID=9615 RepID=Q9TUX4_CANLF
+Length=246
+
+ Score = 86.9 bits (214),  Expect = 2e-19, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEY T QIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  202  KKKPLDGEYSTFQIRGRERYEMFRNLNEALELKDAQSGKEPG  243
+
+
+> UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Sorex araneus TaxID=42254 RepID=UPI00033185BD
+Length=383
+
+ Score = 87.7 bits (216),  Expect = 2e-19, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKP + EYFTLQIRGR+RFEMFRELNEALELKDAQAGKEPG
+Sbjct  309  KKKPPNEEYFTLQIRGRDRFEMFRELNEALELKDAQAGKEPG  350
+
+
+> UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_PIG
+Length=386
+
+ Score = 87.7 bits (216),  Expect = 2e-19, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQ  +E G
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQTARESG  353
+
+
+> UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria 
+TaxID=311790 RepID=G3T035_LOXAF
+Length=392
+
+ Score = 87.3 bits (215),  Expect = 4e-19, Method: Composition-based stats.
+ Identities = 38/41 (93%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  318  KKKPLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  358
+
+
+> UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Eptesicus fuscus TaxID=29078 RepID=UPI00046BA3D4
+Length=388
+
+ Score = 86.9 bits (214),  Expect = 4e-19, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+DGEYFTLQIRGR RFEMFRELNEALELKDAQAGK+PG
+Sbjct  314  KMPVDGEYFTLQIRGRARFEMFRELNEALELKDAQAGKDPG  354
+
+
+> UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=Homo 
+sapiens TaxID=9606 RepID=Q53GA5_HUMAN
+Length=158
+
+ Score = 84.2 bits (207),  Expect = 6e-19, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  84   KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  125
+
+
+> UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacidae 
+TaxID=337664 RepID=A0A0K1TP12_NANGA
+Length=391
+
+ Score = 86.1 bits (212),  Expect = 9e-19, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKD QA K+ G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDTQAEKDSG  358
+
+
+> UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3U6D1_LOXAF
+Length=364
+
+ Score = 85.4 bits (210),  Expect = 1e-18, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD +YFTLQI G E F+MF +LNEALELKDAQAGK+PG
+Sbjct  290  KKKPLDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQPG  331
+
+
+> UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus 
+TaxID=10090 RepID=W5VJU6_MOUSE
+Length=342
+
+ Score = 85.0 bits (209),  Expect = 1e-18, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  268  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  309
+
+
+> UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=Muntiacus 
+muntjak vaginalis TaxID=9887 RepID=Q533U3_MUNMU
+Length=217
+
+ Score = 83.8 bits (206),  Expect = 2e-18, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGR+R+EMFRELNEALEL DAQA +EPG
+Sbjct  152  KKKPLDGEYFTLQIRGRKRYEMFRELNEALELMDAQARREPG  193
+
+
+> UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norvegicus 
+TaxID=10116 RepID=P53_RAT
+Length=391
+
+ Score = 84.6 bits (208),  Expect = 3e-18, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEESG  358
+
+
+> UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculus 
+TaxID=10090 RepID=P53_MOUSE
+Length=387
+
+ Score = 84.2 bits (207),  Expect = 4e-18, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  313  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  354
+
+
+> UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007A6CBAE
+Length=374
+
+ Score = 84.2 bits (207),  Expect = 4e-18, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD EYFTLQIRGRERFEMFR+LNEALELKDA   KE  
+Sbjct  303  KKKPLDEEYFTLQIRGRERFEMFRQLNEALELKDAHEEKESA  344
+
+
+> UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Jaculus jaculus TaxID=51337 RepID=UPI0003331A04
+Length=382
+
+ Score = 83.8 bits (206),  Expect = 5e-18, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDG+YFTL+IRGR+R+EMFR LNEALE KDAQA KEPG
+Sbjct  308  KKKPLDGDYFTLKIRGRDRYEMFRVLNEALEFKDAQAEKEPG  349
+
+
+> UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=unknown 
+TaxID= RepID=UPI00093A1693
+Length=388
+
+ Score = 83.8 bits (206),  Expect = 6e-18, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P DGEYFTLQIRGRERFEMF+ELNEALELKDAQAGKE G
+Sbjct  315  KVPRDGEYFTLQIRGRERFEMFQELNEALELKDAQAGKESG  355
+
+
+> UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=UPI00045D81CB
+Length=301
+
+ Score = 82.7 bits (203),  Expect = 8e-18, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKLLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_BOVIN
+Length=386
+
+ Score = 83.4 bits (205),  Expect = 9e-18, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRG +R+EMFRELN+ALELKDA  G+EPG
+Sbjct  312  KKKPLDGEYFTLQIRGFKRYEMFRELNDALELKDALDGREPG  353
+
+
+> UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Microcebus murinus TaxID=30608 RepID=UPI00017735F2
+Length=385
+
+ Score = 82.7 bits (203),  Expect = 2e-17, Method: Composition-based stats.
+ Identities = 35/38 (92%), Positives = 35/38 (92%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            LDGEYFTLQIRGRERFEMFR LNEALE KDAQ GKEPG
+Sbjct  315  LDGEYFTLQIRGRERFEMFRMLNEALEFKDAQTGKEPG  352
+
+
+> UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Chrysochloris asiatica TaxID=185453 RepID=UPI0003F11B51
+Length=301
+
+ Score = 81.5 bits (200),  Expect = 2e-17, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKMLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcellus 
+TaxID=10141 RepID=P53_CAVPO
+Length=391
+
+ Score = 81.5 bits (200),  Expect = 5e-17, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD EYFTL+IRGR+ FE+ RE+NEALE KDAQ  KEPG
+Sbjct  317  KKKPLDAEYFTLKIRGRKNFEILREINEALEFKDAQTEKEPG  358
+
+
+> UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Dipodomys ordii TaxID=10020 RepID=UPI00065233C2
+Length=414
+
+ Score = 81.9 bits (201),  Expect = 5e-17, Method: Composition-based stats.
+ Identities = 32/41 (78%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLDGEYFTL+IRGRER+EM R +NEA E KDAQ  KEP
+Sbjct  340  KKKPLDGEYFTLKIRGRERYEMLRMINEAFEFKDAQTEKEP  380
+
+
+> UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetidae 
+TaxID=337677 RepID=A0A172Q425_MICOH
+Length=390
+
+ Score = 81.5 bits (200),  Expect = 5e-17, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERF+MF ELNEALELKDAQ     G
+Sbjct  316  KKKPLDGEYFTLKIRGRERFKMFSELNEALELKDAQDANGSG  357
+
+
+> UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur garnettii 
+TaxID=30611 RepID=H0XGB0_OTOGA
+Length=393
+
+ Score = 80.4 bits (197),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 34/41 (83%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK L+GEYFTL+IRGRER+EMFRELNEALE+KDAQA KE 
+Sbjct  319  KKKLLEGEYFTLKIRGRERYEMFRELNEALEIKDAQAEKES  359
+
+
+> UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus TaxID=9401 
+RepID=L5JZ91_PTEAL
+Length=378
+
+ Score = 80.4 bits (197),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 34/40 (85%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            K PLD EYFTLQIRGR+ FE+ RELNEALELKDAQAGKEP
+Sbjct  305  KMPLDEEYFTLQIRGRKNFEILRELNEALELKDAQAGKEP  344
+
+
+> UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI00062A9032
+Length=384
+
+ Score = 80.0 bits (196),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            +DGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEP
+Sbjct  314  MDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEP  350
+
+
+> UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones unguiculatus 
+TaxID=10047 RepID=Q920Y0_MERUN
+Length=390
+
+ Score = 79.6 bits (195),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 38/42 (90%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K+KP DGEYFTL+IRGR+RFE+FRELNEALELKDAQA  E G
+Sbjct  316  KRKPADGEYFTLKIRGRKRFEVFRELNEALELKDAQAAGESG  357
+
+
+> UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89002_MASNA
+Length=378
+
+ Score = 79.6 bits (195),  Expect = 3e-16, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  304  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  345
+
+
+> UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89003_MASNA
+Length=286
+
+ Score = 78.4 bits (192),  Expect = 3e-16, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  212  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  253
+
+
+> UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3TS21_LOXAF
+Length=363
+
+ Score = 78.8 bits (193),  Expect = 4e-16, Method: Composition-based stats.
+ Identities = 30/41 (73%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKP+D +YFTL+I G E F+MF ELNEALELKDAQAGK+ 
+Sbjct  289  KKKPVDEKYFTLKIHGHECFKMFLELNEALELKDAQAGKQS  329
+
+
+> UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ochotona princeps TaxID=9978 RepID=UPI00032B1BE8
+Length=385
+
+ Score = 78.8 bits (193),  Expect = 5e-16, Method: Composition-based stats.
+ Identities = 32/38 (84%), Positives = 36/38 (95%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +DGEYFTL+IRGRER+EMFR+LNEALE KDAQA KEPG
+Sbjct  315  MDGEYFTLKIRGRERYEMFRDLNEALEFKDAQAEKEPG  352
+
+
+> UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00077DB2F5
+Length=384
+
+ Score = 78.4 bits (192),  Expect = 7e-16, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 34/42 (81%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEY TL+I GRERFEMFR+LNEALE KDA A K  G
+Sbjct  310  KKKTLDGEYSTLKIHGRERFEMFRKLNEALEFKDAHAAKGSG  351
+
+
+> UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chinensis 
+TaxID=246437 RepID=L9KM90_TUPCH
+Length=424
+
+ Score = 78.8 bits (193),  Expect = 7e-16, Method: Composition-based stats.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KKKPLD EYFTLQIRGRERFEM RE+NEALELKDA
+Sbjct  323  KKKPLDEEYFTLQIRGRERFEMLREINEALELKDA  357
+
+
+> UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae 
+TaxID=10026 RepID=P53_CRIGR
+Length=393
+
+ Score = 78.0 bits (191),  Expect = 8e-16, Method: Composition-based stats.
+ Identities = 33/41 (80%), Positives = 36/41 (88%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LDGEYFTL+IRG ERF+MF+ELNEALELKDAQA K  
+Sbjct  319  KKKTLDGEYFTLKIRGHERFKMFQELNEALELKDAQASKGS  359
+
+
+> UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus 
+harrisii TaxID=9305 RepID=G3WS63_SARHA
+Length=371
+
+ Score = 76.9 bits (188),  Expect = 2e-15, Method: Composition-based stats.
+ Identities = 31/41 (76%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK +DGEYFTLQIRGR R+E+ RELNEALELK+A +GK+P
+Sbjct  296  KKKLMDGEYFTLQIRGRHRYELLRELNEALELKEAHSGKDP  336
+
+
+> UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=Myotis 
+TaxID=9434 RepID=L7N1B2_MYOLU
+Length=392
+
+ Score = 75.3 bits (184),  Expect = 1e-14, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  317  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  358
+
+
+> UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=G1U940_RABIT
+Length=368
+
+ Score = 74.6 bits (182),  Expect = 1e-14, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY  ++IRGRE F++F+ELNE LELKDA+A KEP
+Sbjct  294  KKKPLDREYCIIKIRGRECFKVFQELNEVLELKDAKAKKEP  334
+
+
+> UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brandtii 
+TaxID=109478 RepID=S7NG87_MYOBR
+Length=420
+
+ Score = 74.6 bits (182),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  345  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  386
+
+
+> UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UJ00_LOXAF
+Length=360
+
+ Score = 73.8 bits (180),  Expect = 3e-14, Method: Composition-based stats.
+ Identities = 28/37 (76%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQAGK+P
+Sbjct  290  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQP  326
+
+
+> UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=Monodelphis 
+domestica TaxID=13616 RepID=Q8HY32_MONDO
+Length=258
+
+ Score = 72.3 bits (176),  Expect = 3e-14, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  191  KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  231
+
+
+> UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UHE5_LOXAF
+Length=367
+
+ Score = 72.6 bits (177),  Expect = 7e-14, Method: Composition-based stats.
+ Identities = 27/37 (73%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQ GK+P
+Sbjct  297  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQTGKQP  333
+
+
+> UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular 
+tumor antigen p53-like n=1 Tax=Echinops telfairi TaxID=9371 
+RepID=UPI00064E32EC
+Length=233
+
+ Score = 70.7 bits (172),  Expect = 1e-13, Method: Composition-based stats.
+ Identities = 33/41 (80%), Positives = 35/41 (85%), Gaps = 2/41 (5%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQI GRERF+MF ELNEALELK   AGKEP
+Sbjct  161  KKKPLDEEYYTLQICGRERFKMFWELNEALELK--XAGKEP  199
+
+
+> UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Aotus nancymaae TaxID=37293 RepID=UPI0006256EB7
+Length=208
+
+ Score = 66.5 bits (161),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 30/30 (100%), Positives = 30/30 (100%), Gaps = 0/30 (0%)
+
+Query  12   LQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LQIRGRERFEMFRELNEALELKDAQAGKEP
+Sbjct  145  LQIRGRERFEMFRELNEALELKDAQAGKEP  174
+
+
+> UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=Myotis 
+lucifugus TaxID=59463 RepID=G1PZ51_MYOLU
+Length=388
+
+ Score = 68.0 bits (165),  Expect = 4e-12, Method: Composition-based stats.
+ Identities = 29/37 (78%), Positives = 32/37 (86%), Gaps = 1/37 (3%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+             EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  318  EEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  354
+
+
+> UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis 
+domestica TaxID=13616 RepID=F7FQR2_MONDO
+Length=151
+
+ Score = 63.8 bits (154),  Expect = 2e-11, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  76   KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  116
+
+
+> UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Elephantulus edwardii TaxID=28737 RepID=UPI0003F07B89
+Length=297
+
+ Score = 63.8 bits (154),  Expect = 7e-11, Method: Composition-based stats.
+ Identities = 26/34 (76%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KK L  EYFTLQIRG +RF MF+ELNEALE+KDA
+Sbjct  227  KKKLSEEYFTLQIRGYKRFRMFQELNEALEMKDA  260
+
+
+> UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma 
+mexicanum TaxID=8296 RepID=Q0GMA7_AMBME
+Length=387
+
+ Score = 64.2 bits (155),  Expect = 9e-11, Method: Composition-based stats.
+ Identities = 24/34 (71%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            K+K  + E FTLQI GRER+EMF++LNEALELKD
+Sbjct  311  KRKASEEETFTLQIHGRERYEMFKKLNEALELKD  344
+
+
+> UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-like, 
+partial n=1 Tax=Macaca nemestrina TaxID=9545 RepID=UPI0005F528E0
+Length=193
+
+ Score = 62.2 bits (150),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 28/29 (97%), Positives = 28/29 (97%), Gaps = 0/29 (0%)
+
+Query  14  IRGRERFEMFRELNEALELKDAQAGKEPG  42
+           IRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  1   IRGRERFEMFRELNEALELKDAQAGKEPA  29
+
+
+> UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus 
+norvegicus TaxID=10116 RepID=A0A0G2KB75_RAT
+Length=170
+
+ Score = 60.7 bits (146),  Expect = 3e-10, Method: Composition-based stats.
+ Identities = 28/33 (85%), Positives = 30/33 (91%), Gaps = 0/33 (0%)
+
+Query  10   FTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            F LQIRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  105  FILQIRGRERFEMFRELNEALELKDARAAEESG  137
+
+
+> UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligator 
+TaxID=8495 RepID=A0A151MW63_ALLMI
+Length=385
+
+ Score = 59.2 bits (142),  Expect = 7e-09, Method: Composition-based stats.
+ Identities = 23/37 (62%), Positives = 28/37 (76%), Gaps = 2/37 (5%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKDAQAGK--EPG  42
+            E FTLQIRGRER+EMF++LNE LE  D Q  +  +PG
+Sbjct  315  EIFTLQIRGRERYEMFKKLNEGLEALDGQEARAEDPG  351
+
+
+> UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orientalis 
+TaxID=137245 RepID=L7NCR5_9SALA
+Length=392
+
+ Score = 58.4 bits (140),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 21/34 (62%), Positives = 28/34 (82%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            +K   + E +TLQIRGRER+EM ++LN+ALELKD
+Sbjct  317  RKAHEEDEIYTLQIRGRERYEMLKKLNDALELKD  350
+
+
+> UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria 
+chalumnae TaxID=7897 RepID=H3B1Z4_LATCH
+Length=401
+
+ Score = 56.5 bits (135),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 19/35 (54%), Positives = 29/35 (83%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  332  EEELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  366
+
+
+> UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007AA7A05
+Length=144
+
+ Score = 54.2 bits (129),  Expect = 6e-08, Method: Composition-based stats.
+ Identities = 22/33 (67%), Positives = 26/33 (79%), Gaps = 0/33 (0%)
+
+Query  9   YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+           Y   QIRGRER+EMFR +NEA E KDA+ G+EP
+Sbjct  61  YEPPQIRGRERYEMFRTMNEAFEFKDAKGGQEP  93
+
+
+> UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 
+isoform X4 n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=UPI0003C161D6
+Length=372
+
+ Score = 56.1 bits (134),  Expect = 7e-08, Method: Composition-based stats.
+ Identities = 19/35 (54%), Positives = 29/35 (83%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  292  EEELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  326
+
+
+> UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UK14_LOXAF
+Length=365
+
+ Score = 55.3 bits (132),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 23/33 (70%), Positives = 26/33 (79%), Gaps = 4/33 (12%)
+
+Query  9    YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            YFTLQI G     MF +LNEALELKDAQAG++P
+Sbjct  306  YFTLQIHGH----MFLKLNEALELKDAQAGRQP  334
+
+
+> UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus 
+oculatus TaxID=7918 RepID=W5N8V9_LEPOC
+Length=390
+
+ Score = 54.9 bits (131),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 20/29 (69%), Positives = 26/29 (90%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            + E FTLQ+RGRERFEM +++NE+LELKD
+Sbjct  316  EEEIFTLQVRGRERFEMLKKINESLELKD  344
+
+
+> UniRef90_UPI000577751E PREDICTED: cellular tumor antigen p53-like 
+isoform X1 n=2 Tax=Esox lucius TaxID=8010 RepID=UPI000577751E
+Length=396
+
+ Score = 53.8 bits (128),  Expect = 5e-07, Method: Composition-based stats.
+ Identities = 17/29 (59%), Positives = 24/29 (83%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E +TLQIRG+ER+EM +++N+ LEL D
+Sbjct  322  DDEIYTLQIRGKERYEMLKKINDGLELSD  350
+
+
+> UniRef90_A0A1B1CUP8 Cellular tumor antigen p53 n=1 Tax=Ctenopharyngodon 
+idella TaxID=7959 RepID=A0A1B1CUP8_CTEID
+Length=371
+
+ Score = 53.0 bits (126),  Expect = 7e-07, Method: Composition-based stats.
+ Identities = 18/30 (60%), Positives = 25/30 (83%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E F+LQ+RGRERFEM +++N++LEL D 
+Sbjct  298  DEEIFSLQVRGRERFEMLKKINDSLELSDV  327
+
+
+> UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Poecilia reticulata TaxID=8081 RepID=UPI0004A40694
+Length=342
+
+ Score = 53.0 bits (126),  Expect = 8e-07, Method: Composition-based stats.
+ Identities = 20/35 (57%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQIRGR+RF MF+ LN+ LEL D    K+
+Sbjct  287  DKELYTLQIRGRDRFNMFKNLNDGLELLDKTGSKK  321
+
+
+> UniRef90_UPI0006B34D0A PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Austrofundulus limnaeus TaxID=52670 RepID=UPI0006B34D0A
+Length=355
+
+ Score = 52.6 bits (125),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 18/35 (51%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E F LQ+RGRER+EM +++N A EL+DA+  ++
+Sbjct  306  DKEVFNLQVRGRERYEMLKKINSAFELQDAEGKRK  340
+
+
+> UniRef90_P79734 Cellular tumor antigen p53 n=7 Tax=Danio rerio 
+TaxID=7955 RepID=P53_DANRE
+Length=373
+
+ Score = 52.6 bits (125),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 19/40 (48%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K    D E FTLQ+RGRER+E+ ++LN++LEL D     +
+Sbjct  295  KGSSSDEEIFTLQVRGRERYEILKKLNDSLELSDVVPASD  334
+
+
+> UniRef90_Q9W678 Cellular tumor antigen p53 n=7 Tax=Barbus barbus 
+TaxID=40830 RepID=P53_BARBU
+Length=369
+
+ Score = 52.2 bits (124),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQ+RG+ER+EM +++N++LEL D     E
+Sbjct  297  DEEIYTLQVRGKERYEMLKKINDSLELSDVVPPSE  331
+
+
+> UniRef90_UPI0007AC7EB9 UPI0007AC7EB9 related cluster n=9 Tax=unknown 
+TaxID= RepID=UPI0007AC7EB9
+Length=371
+
+ Score = 51.8 bits (123),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 16/30 (53%), Positives = 25/30 (83%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ+RG+ER+EM +++N++LEL D 
+Sbjct  298  DEEIYTLQVRGKERYEMLKKINDSLELSDV  327
+
+
+> UniRef90_A0A0B4VEY6 Cellular tumor antigen p53 n=1 Tax=Danio 
+rerio TaxID=7955 RepID=A0A0B4VEY6_DANRE
+Length=289
+
+ Score = 51.1 bits (121),  Expect = 3e-06, Method: Composition-based stats.
+ Identities = 19/40 (48%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K    D E FTLQ+RGRER+E+ ++LN++LEL D     +
+Sbjct  211  KGSSSDEEIFTLQVRGRERYEILKKLNDSLELSDVVPASD  250
+
+
+> UniRef90_UPI00084CFFE0 UPI00084CFFE0 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00084CFFE0
+Length=375
+
+ Score = 51.1 bits (121),  Expect = 4e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 28/35 (80%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+I+GR R+EM ++LN+ALEL+++   ++
+Sbjct  313  DEEIFTLRIKGRSRYEMIKKLNDALELQESLDQQK  347
+
+
+> UniRef90_A0A087XP53 Cellular tumor antigen p53 n=4 Tax=Poecilia 
+TaxID=8080 RepID=A0A087XP53_POEFO
+Length=342
+
+ Score = 50.7 bits (120),  Expect = 5e-06, Method: Composition-based stats.
+ Identities = 20/35 (57%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQIRGRERF MF++LN+ LEL +    K+
+Sbjct  287  DKELYTLQIRGRERFLMFKKLNDGLELMEKMGPKK  321
+
+
+> UniRef90_UPI0008FA9F42 UPI0008FA9F42 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008FA9F42
+Length=285
+
+ Score = 50.3 bits (119),  Expect = 5e-06, Method: Composition-based stats.
+ Identities = 15/30 (50%), Positives = 25/30 (83%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ+RG++R+EM +++N++LEL D 
+Sbjct  212  DEEIYTLQVRGKDRYEMLKKINDSLELSDV  241
+
+
+> UniRef90_UPI0008545F6B UPI0008545F6B related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008545F6B
+Length=423
+
+ Score = 50.7 bits (120),  Expect = 5e-06, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 28/34 (82%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            K    + E FTL+IRGR+R+++F++LN+AL+L+D
+Sbjct  344  KHHAREEEVFTLKIRGRKRYKIFKKLNDALDLQD  377
+
+
+> UniRef90_UPI0008791CDA UPI0008791CDA related cluster n=3 Tax=unknown 
+TaxID= RepID=UPI0008791CDA
+Length=462
+
+ Score = 51.1 bits (121),  Expect = 6e-06, Method: Composition-based stats.
+ Identities = 17/29 (59%), Positives = 25/29 (86%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            + E +TL +RGRER+EMF+++NE+LEL D
+Sbjct  389  EEEIYTLHVRGRERYEMFKKINESLELGD  417
+
+
+> UniRef90_P10360 Cellular tumor antigen p53 n=1 Tax=Gallus gallus 
+TaxID=9031 RepID=P53_CHICK
+Length=367
+
+ Score = 50.3 bits (119),  Expect = 7e-06, Method: Composition-based stats.
+ Identities = 21/43 (49%), Positives = 29/43 (67%), Gaps = 2/43 (5%)
+
+Query  1    KKKPL--DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KK+ L  D E F LQ+RGR R+EM +E+NEAL+L +  +   P
+Sbjct  300  KKRVLNPDNEIFYLQVRGRRRYEMLKEINEALQLAEGGSAPRP  342
+
+
+> UniRef90_P07193 Cellular tumor antigen p53 n=3 Tax=Xenopus laevis 
+TaxID=8355 RepID=P53_XENLA
+Length=363
+
+ Score = 50.3 bits (119),  Expect = 7e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 28/35 (80%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+I+GR R+EM ++LN+ALEL+++   ++
+Sbjct  299  DEEIFTLRIKGRSRYEMIKKLNDALELQESLDQQK  333
+
+
+> UniRef90_W5LNF4 Cellular tumor antigen p53 n=1 Tax=Astyanax mexicanus 
+TaxID=7994 RepID=W5LNF4_ASTMX
+Length=390
+
+ Score = 49.9 bits (118),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 17/29 (59%), Positives = 23/29 (79%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E +TLQ+RGRERFE  +++N+ LEL D
+Sbjct  316  DEELYTLQVRGRERFEFLKKINDGLELSD  344
+
+
+> UniRef90_H2U134 Cellular tumor antigen p53 n=4 Tax=Takifugu rubripes 
+TaxID=31033 RepID=H2U134_TAKRU
+Length=354
+
+ Score = 49.5 bits (117),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 17/29 (59%), Positives = 24/29 (83%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E FTLQIRGR+R+EM +++N+ LEL +
+Sbjct  294  DKELFTLQIRGRKRYEMLKKINDGLELLE  322
+
+
+> UniRef90_UPI0008FA8A28 UPI0008FA8A28 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008FA8A28
+Length=448
+
+ Score = 49.5 bits (117),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQ+RG+ER+EM +++N++L+L D     E
+Sbjct  375  DEEIYTLQVRGKERYEMLKKINDSLDLSDVVPPSE  409
+
+
+> UniRef90_A9XR54 Cellular tumor antigen p53 n=3 Tax=Kryptolebias 
+marmoratus TaxID=37003 RepID=A9XR54_KRYMA
+Length=365
+
+ Score = 49.1 bits (116),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 23/34 (68%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E FTL +RGRER+EM +++N  LEL D    +
+Sbjct  316  DKEVFTLHVRGRERYEMLKKINAGLELLDTDGKR  349
+
+
+> UniRef90_UPI0008149AE8 UPI0008149AE8 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008149AE8
+Length=389
+
+ Score = 48.8 bits (115),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 14/35 (40%), Positives = 24/35 (69%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E F L +RG++R+ M +++N++LEL DA    E
+Sbjct  324  EEEIFILHVRGKDRYNMLKKINDSLELMDAMTAAE  358
+
+
+> UniRef90_A0A0U1XP71 Cellular tumor antigen p53 (Fragment) n=1 
+Tax=Gobiocypris rarus TaxID=143606 RepID=A0A0U1XP71_9TELE
+Length=261
+
+ Score = 48.0 bits (113),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 16/30 (53%), Positives = 26/30 (87%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ++G+ERF+M +++N++LEL DA
+Sbjct  188  DEEIYTLQVKGKERFDMLKKINDSLELTDA  217
+
+
+> UniRef90_W5KI53 Cellular tumor antigen p53 n=1 Tax=Astyanax mexicanus 
+TaxID=7994 RepID=W5KI53_ASTMX
+Length=394
+
+ Score = 48.0 bits (113),  Expect = 5e-05, Method: Composition-based stats.
+ Identities = 16/30 (53%), Positives = 23/30 (77%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E F L +RG+ERF M +++N++LEL DA
+Sbjct  321  DDEVFVLHVRGKERFNMLKKINDSLELMDA  350
+
+
+> UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=6550 
+RepID=Q4VR33_MYTED
+Length=161
+
+ Score = 45.7 bits (107),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 17/30 (57%), Positives = 24/30 (80%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ+RG+ERFEM +++N+ LEL D 
+Sbjct  88   DEEIYTLQVRGKERFEMLKKINDGLELSDV  117
+
+
+> UniRef90_P25035 Cellular tumor antigen p53 n=6 Tax=Salmonidae 
+TaxID=8015 RepID=P53_ONCMY
+Length=396
+
+ Score = 47.6 bits (112),  Expect = 7e-05, Method: Composition-based stats.
+ Identities = 15/29 (52%), Positives = 24/29 (83%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E +TLQIRG+E++EM ++ N++LEL +
+Sbjct  324  DDEIYTLQIRGKEKYEMLKKFNDSLELSE  352
+
+
+> UniRef90_O93379 Cellular tumor antigen p53 n=1 Tax=Ictalurus 
+punctatus TaxID=7998 RepID=P53_ICTPU
+Length=376
+
+ Score = 47.6 bits (112),  Expect = 8e-05, Method: Composition-based stats.
+ Identities = 15/30 (50%), Positives = 23/30 (77%), Gaps = 0/30 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            D E +TLQ+RG+ER+E  +++N+ LEL D 
+Sbjct  302  DDEIYTLQVRGKERYEFLKKINDGLELSDV  331
+
+
+> UniRef90_UPI0008735429 UPI0008735429 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008735429
+Length=380
+
+ Score = 47.6 bits (112),  Expect = 8e-05, Method: Composition-based stats.
+ Identities = 15/36 (42%), Positives = 25/36 (69%), Gaps = 0/36 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            D + F L +RGRER+EM +++N+ LEL D ++  + 
+Sbjct  320  DKDVFVLHVRGRERYEMLKKINDGLELLDKESKTKS  355
+
+
+> UniRef90_F8RKR1 Cellular tumor antigen p53 n=1 Tax=Epinephelus 
+coioides TaxID=94232 RepID=F8RKR1_EPICO
+Length=380
+
+ Score = 47.2 bits (111),  Expect = 9e-05, Method: Composition-based stats.
+ Identities = 16/32 (50%), Positives = 24/32 (75%), Gaps = 0/32 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQA  37
+            D + F L +RGRERFEM +++N+ LEL D ++
+Sbjct  318  DKDVFVLHVRGRERFEMLKKINDGLELLDKES  349
+
+
+> UniRef90_UPI00064433A6 PREDICTED: cellular tumor antigen p53-like 
+n=1 Tax=Clupea harengus TaxID=7950 RepID=UPI00064433A6
+Length=370
+
+ Score = 47.2 bits (111),  Expect = 9e-05, Method: Composition-based stats.
+ Identities = 15/28 (54%), Positives = 23/28 (82%), Gaps = 0/28 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKD  34
+             E F L++RGRER+EM +++N++LEL D
+Sbjct  296  EEIFKLEVRGRERYEMLKKINDSLELND  323
+
+
+> UniRef90_UPI00080322AF UPI00080322AF related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00080322AF
+Length=394
+
+ Score = 47.2 bits (111),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E + LQIRGR+RF M + +N++LEL D     +
+Sbjct  321  EEEIYILQIRGRDRFNMLKTINDSLELMDIMPAAD  355
+
+
+> UniRef90_F5A7P3 Cellular tumor antigen p53 n=2 Tax=Tachysurus 
+fulvidraco TaxID=1234273 RepID=F5A7P3_TACFU
+Length=378
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/34 (44%), Positives = 22/34 (65%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            K    D E +TLQ+ GRER+E  +++N+ LE  D
+Sbjct  299  KNTSSDDEIYTLQVHGRERYEFLKKINDGLEFSD  332
+
+
+> UniRef90_A0A142GRI7 Cellular tumor antigen p53 n=1 Tax=Siniperca 
+chuatsi TaxID=119488 RepID=A0A142GRI7_SINCH
+Length=380
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/32 (47%), Positives = 24/32 (75%), Gaps = 0/32 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQA  37
+            D + + L +RGRERFEM +++N+ LEL D ++
+Sbjct  318  DKDVYVLHVRGRERFEMLKKINDGLELLDKES  349
+
+
+> UniRef90_H3CXQ0 Cellular tumor antigen p53 n=2 Tax=Tetraodon 
+nigroviridis TaxID=99883 RepID=H3CXQ0_TETNG
+Length=364
+
+ Score = 46.5 bits (109),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 16/32 (50%), Positives = 24/32 (75%), Gaps = 0/32 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQA  37
+            D E FTLQIRGR+R+EM + +N+ L+L + + 
+Sbjct  304  DKEVFTLQIRGRKRYEMIKRINDGLDLLENKT  335
+
+
+> UniRef90_R9XXS5 Cellular tumor antigen p53 n=1 Tax=Anabas testudineus 
+TaxID=64144 RepID=R9XXS5_ANATE
+Length=380
+
+ Score = 46.1 bits (108),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 15/31 (48%), Positives = 23/31 (74%), Gaps = 0/31 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQ  36
+            D + F L +RGR+RFEM +++N+ LEL D +
+Sbjct  318  DKDVFVLHVRGRDRFEMLKKINDGLELLDKK  348
+
+
+> UniRef90_A0A0N8JWU8 Cellular tumor antigen p53 n=2 Tax=Scleropages 
+formosus TaxID=113540 RepID=A0A0N8JWU8_9TELE
+Length=377
+
+ Score = 45.7 bits (107),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D   +TL +RG+ERFEM +++N++LEL D+    E
+Sbjct  299  DDGVYTLLVRGKERFEMLKKINDSLELSDSIPATE  333
+
+
+> UniRef90_G9J1L8 Cellular tumor antigen p53 n=1 Tax=Callorhinchus 
+milii TaxID=7868 RepID=G9J1L8_CALMI
+Length=387
+
+ Score = 45.7 bits (107),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 16/34 (47%), Positives = 26/34 (76%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            +K   D E FTLQ+ GRER+E  +++NE+LE+++
+Sbjct  308  RKLSSDTEVFTLQVTGRERYETLKQINESLEVQE  341
+
+
+> UniRef90_UPI00049649D9 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Cynoglossus semilaevis TaxID=244447 RepID=UPI00049649D9
+Length=377
+
+ Score = 45.7 bits (107),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 16/29 (55%), Positives = 23/29 (79%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E FTL IRG++R+E+ +E+NE L+L D
+Sbjct  320  DKEIFTLHIRGKKRYELLKEINEGLDLAD  348
+
+
+> UniRef90_UPI00055805AD PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Notothenia coriiceps TaxID=8208 RepID=UPI00055805AD
+Length=377
+
+ Score = 45.3 bits (106),  Expect = 4e-04, Method: Composition-based stats.
+ Identities = 15/29 (52%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D + F L +RGRER+EM +++N+ LEL D
+Sbjct  317  DKDAFVLNVRGRERYEMLKKINDGLELLD  345
+
+
+> UniRef90_Q9I885 Cellular tumor antigen p53 (Fragment) n=3 Tax=Oncorhynchus 
+TaxID=8016 RepID=Q9I885_ONCMY
+Length=146
+
+ Score = 43.4 bits (101),  Expect = 4e-04, Method: Composition-based stats.
+ Identities = 15/29 (52%), Positives = 24/29 (83%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E +TLQIRG+E++EM ++ N++LEL +
+Sbjct  104  DDEIYTLQIRGKEKYEMLKKFNDSLELSE  132
+
+
+
+Lambda      K        H        a         alpha
+   0.304    0.148    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0460    0.140     1.90     42.6     43.6 
+
+Effective search space used: 442626243930
+Results from round 3
+
+
+Query= 
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+Sequences used in model and found again:
+
+  UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, p...  90.7    9e-21
+  UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sap...  91.5    1e-20
+  UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norve...  89.2    3e-20
+  UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 n=...  89.5    4e-20
+  UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae T...  89.2    4e-20
+  UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 n=...  89.5    5e-20
+  UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix j...  89.5    5e-20
+  UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxI...  89.2    6e-20
+  UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontog...  89.2    8e-20
+  UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini T...  88.4    9e-20
+  UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 n=...  88.8    1e-19
+  UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia ...  88.0    2e-19
+  UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognat...  86.1    9e-19
+  UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiather...  84.9    1e-18
+  UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 n=...  84.5    3e-18
+  UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodac...  84.9    3e-18
+  UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=un...  84.5    3e-18
+  UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  81.4    6e-18
+  UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=C...  82.2    7e-18
+  UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus ...  83.8    8e-18
+  UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini Ta...  83.4    1e-17
+  UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 is...  83.0    1e-17
+  UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria T...  83.0    1e-17
+  UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  81.1    2e-17
+  UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=H...  79.5    3e-17
+  UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  81.4    3e-17
+  UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacid...  81.4    4e-17
+  UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus...  81.1    5e-17
+  UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 n=...  81.4    5e-17
+  UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norve...  81.1    8e-17
+  UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodac...  80.7    8e-17
+  UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=un...  80.3    1e-16
+  UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculu...  80.3    1e-16
+  UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=un...  79.9    2e-16
+  UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 n=...  78.4    2e-16
+  UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 n=...  78.8    4e-16
+  UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 n=...  77.2    6e-16
+  UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 n=...  78.4    7e-16
+  UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 is...  78.4    8e-16
+  UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetid...  78.0    1e-15
+  UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcel...  77.6    1e-15
+  UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chine...  78.0    1e-15
+  UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur gar...  76.4    4e-15
+  UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus Tax...  76.1    5e-15
+  UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 n=...  76.1    5e-15
+  UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  75.7    6e-15
+  UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=M...  74.5    6e-15
+  UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones ung...  75.7    8e-15
+  UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=L...  74.5    1e-14
+  UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=un...  74.5    2e-14
+  UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae T...  74.5    2e-14
+  UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 n=...  74.1    2e-14
+  UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus ...  73.4    3e-14
+  UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=...  73.0    7e-14
+  UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brand...  72.6    1e-13
+  UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  70.3    2e-13
+  UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus ...  70.7    4e-13
+  UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  70.3    5e-13
+  UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta af...  69.9    8e-13
+  UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular...  67.2    2e-12
+  UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=M...  66.8    1e-11
+  UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma me...  66.0    2e-11
+  UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 n=...  63.0    6e-11
+  UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis ...  61.8    1e-10
+  UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orien...  62.2    5e-10
+  UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 n=...  61.0    7e-10
+  UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus n...  59.1    1e-09
+  UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligato...  61.0    1e-09
+  UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-li...  58.7    2e-09
+  UniRef90_P79734 Cellular tumor antigen p53 n=7 Tax=Danio rerio ...  60.3    2e-09
+  UniRef90_Q9W678 Cellular tumor antigen p53 n=7 Tax=Barbus barbu...  60.3    2e-09
+  UniRef90_UPI000577751E PREDICTED: cellular tumor antigen p53-li...  59.9    3e-09
+  UniRef90_A0A1B1CUP8 Cellular tumor antigen p53 n=1 Tax=Ctenopha...  59.9    3e-09
+  UniRef90_UPI0007AC7EB9 UPI0007AC7EB9 related cluster n=9 Tax=un...  59.5    5e-09
+  UniRef90_A0A0B4VEY6 Cellular tumor antigen p53 n=1 Tax=Danio re...  58.3    6e-09
+  UniRef90_P10360 Cellular tumor antigen p53 n=1 Tax=Gallus gallu...  58.7    8e-09
+  UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria ch...  58.3    1e-08
+  UniRef90_UPI0006B34D0A PREDICTED: cellular tumor antigen p53 n=...  58.0    1e-08
+  UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus ...  58.3    1e-08
+  UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 is...  58.0    1e-08
+  UniRef90_UPI0008FA9F42 UPI0008FA9F42 related cluster n=1 Tax=un...  57.2    1e-08
+  UniRef90_UPI0008FA8A28 UPI0008FA8A28 related cluster n=1 Tax=un...  58.0    2e-08
+  UniRef90_UPI00084CFFE0 UPI00084CFFE0 related cluster n=1 Tax=un...  56.8    4e-08
+  UniRef90_A0A087XP53 Cellular tumor antigen p53 n=4 Tax=Poecilia...  56.4    5e-08
+  UniRef90_UPI0008735429 UPI0008735429 related cluster n=1 Tax=un...  56.4    5e-08
+  UniRef90_A9XR54 Cellular tumor antigen p53 n=3 Tax=Kryptolebias...  56.4    5e-08
+  UniRef90_H2U134 Cellular tumor antigen p53 n=4 Tax=Takifugu rub...  56.0    6e-08
+  UniRef90_W5KI53 Cellular tumor antigen p53 n=1 Tax=Astyanax mex...  56.0    7e-08
+  UniRef90_UPI0008149AE8 UPI0008149AE8 related cluster n=1 Tax=un...  56.0    7e-08
+  UniRef90_P07193 Cellular tumor antigen p53 n=3 Tax=Xenopus laev...  56.0    7e-08
+  UniRef90_UPI0008545F6B UPI0008545F6B related cluster n=1 Tax=un...  56.0    8e-08
+  UniRef90_UPI0008791CDA UPI0008791CDA related cluster n=3 Tax=un...  56.0    1e-07
+  UniRef90_W5LNF4 Cellular tumor antigen p53 n=1 Tax=Astyanax mex...  55.6    1e-07
+  UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 n=...  55.3    1e-07
+  UniRef90_F5A7P3 Cellular tumor antigen p53 n=2 Tax=Tachysurus f...  55.3    2e-07
+  UniRef90_F8RKR1 Cellular tumor antigen p53 n=1 Tax=Epinephelus ...  54.9    2e-07
+  UniRef90_O93379 Cellular tumor antigen p53 n=1 Tax=Ictalurus pu...  54.9    2e-07
+  UniRef90_A0A142GRI7 Cellular tumor antigen p53 n=1 Tax=Siniperc...  54.5    2e-07
+  UniRef90_H3CXQ0 Cellular tumor antigen p53 n=2 Tax=Tetraodon ni...  54.1    3e-07
+  UniRef90_A0A0N8JWU8 Cellular tumor antigen p53 n=2 Tax=Scleropa...  54.5    3e-07
+  UniRef90_R9XXS5 Cellular tumor antigen p53 n=1 Tax=Anabas testu...  54.1    4e-07
+  UniRef90_A0A0U1XP71 Cellular tumor antigen p53 (Fragment) n=1 T...  53.3    4e-07
+  UniRef90_UPI00080322AF UPI00080322AF related cluster n=1 Tax=un...  53.7    5e-07
+  UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=un...  51.4    5e-07
+  UniRef90_P25035 Cellular tumor antigen p53 n=6 Tax=Salmonidae T...  53.7    5e-07
+  UniRef90_G9J1L8 Cellular tumor antigen p53 n=1 Tax=Callorhinchu...  53.3    6e-07
+  UniRef90_UPI00064433A6 PREDICTED: cellular tumor antigen p53-li...  53.3    7e-07
+  UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta af...  52.6    1e-06
+  UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=655...  50.6    1e-06
+  UniRef90_UPI00055805AD PREDICTED: cellular tumor antigen p53 n=...  52.2    2e-06
+  UniRef90_UPI00049649D9 PREDICTED: cellular tumor antigen p53 n=...  51.0    4e-06
+  UniRef90_Q9I885 Cellular tumor antigen p53 (Fragment) n=3 Tax=O...  48.7    5e-06
+
+Sequences not found previously or not previously below threshold:
+
+  UniRef90_Q9W679 Cellular tumor antigen p53 n=1 Tax=Tetraodon mi...  53.3    6e-07
+  UniRef90_Q4H300 Transcription factor protein n=1 Tax=Ciona inte...  50.6    7e-06
+  UniRef90_Q4H301 Transcription factor protein n=2 Tax=Ciona inte...  50.6    8e-06
+  UniRef90_A0A0S7K6D3 Cellular tumor antigen p53 n=1 Tax=Poecilio...  50.2    8e-06
+  UniRef90_UPI000496B629 PREDICTED: cellular tumor antigen p53 n=...  50.2    9e-06
+  UniRef90_Q4H2Z9 Transcription factor protein (Fragment) n=1 Tax...  49.5    1e-05
+  UniRef90_UPI00032A388B PREDICTED: cellular tumor antigen p53-li...  49.5    1e-05
+  UniRef90_A0A0L8G262 Uncharacterized protein n=1 Tax=Octopus bim...  49.5    2e-05
+  UniRef90_H2ZH74 Uncharacterized protein n=2 Tax=Ciona savignyi ...  49.5    2e-05
+  UniRef90_I3LPE8 Uncharacterized protein n=1 Tax=Sus scrofa TaxI...  47.2    2e-05
+  UniRef90_K7G3P4 Cellular tumor antigen p53 n=4 Tax=Pelodiscus s...  49.1    2e-05
+  UniRef90_I3KRX9 Cellular tumor antigen p53 n=2 Tax=Oreochromis ...  48.7    2e-05
+  UniRef90_UPI0007500057 PREDICTED: cellular tumor antigen p53 n=...  48.7    3e-05
+  UniRef90_Q92143 Cellular tumor antigen p53 n=15 Tax=Xiphophorus...  48.3    3e-05
+  UniRef90_UPI0003890036 PREDICTED: cellular tumor antigen p53 n=...  48.7    3e-05
+  UniRef90_H2ZH73 Uncharacterized protein n=1 Tax=Ciona savignyi ...  48.3    4e-05
+  UniRef90_A0A0F8AIC7 Cellular tumor antigen p53 n=1 Tax=Larimich...  48.3    4e-05
+  UniRef90_A5JSV4 Cellular tumor antigen p53 n=1 Tax=Paralichthys...  47.9    5e-05
+  UniRef90_UPI0003AF6F9B PREDICTED: cellular tumor antigen p53-li...  46.4    5e-05
+  UniRef90_G3Q6V4 Cellular tumor antigen p53 n=2 Tax=Gasterosteus...  47.6    6e-05
+  UniRef90_F7A9U0 Cellular tumor antigen p53 n=5 Tax=Xenopus trop...  47.6    7e-05
+  UniRef90_D1LXA7 p63-like transcription factor n=1 Tax=Saccoglos...  47.2    1e-04
+  UniRef90_A0A146NLN6 Cellular tumor antigen p53 n=1 Tax=Fundulus...  46.8    1e-04
+  UniRef90_O15350-10 Isoform dN-Gamma of Tumor protein p73 n=2 Ta...  46.8    1e-04
+  UniRef90_O15350-9 Isoform dN-Beta of Tumor protein p73 n=11 Tax...  46.8    1e-04
+  UniRef90_UPI0004F04BC6 PREDICTED: tumor protein p73 isoform X5 ...  46.8    1e-04
+  UniRef90_O15350-3 Isoform Gamma of Tumor protein p73 n=4 Tax=Ca...  46.8    1e-04
+  UniRef90_A0A146P3Z1 Cellular tumor antigen p53 n=3 Tax=Fundulus...  46.8    1e-04
+  UniRef90_O15350-2 Isoform Beta of Tumor protein p73 n=9 Tax=Cat...  46.8    1e-04
+  UniRef90_UPI0004F03F8D PREDICTED: tumor protein p73 isoform X4 ...  46.8    1e-04
+  UniRef90_F6VXE7 Uncharacterized protein n=3 Tax=Catarrhini TaxI...  46.8    2e-04
+  UniRef90_O15350-6 Isoform Zeta of Tumor protein p73 n=22 Tax=Bo...  46.8    2e-04
+  UniRef90_O15350-5 Isoform Epsilon of Tumor protein p73 n=12 Tax...  46.8    2e-04
+  UniRef90_UPI00029DAA0F PREDICTED: tumor protein p73 isoform 10 ...  46.8    2e-04
+  UniRef90_O15350-8 Isoform dN-Alpha of Tumor protein p73 n=44 Ta...  46.8    2e-04
+  UniRef90_UPI0006B86B1A PREDICTED: cellular tumor antigen p53-li...  46.8    2e-04
+  UniRef90_UPI0003F06B66 PREDICTED: p63-like transcription factor...  47.2    2e-04
+  UniRef90_O15350 Tumor protein p73 n=31 Tax=Boreoeutheria TaxID=...  46.8    2e-04
+  UniRef90_A0A146XA86 Cellular tumor antigen p53 n=1 Tax=Fundulus...  46.4    2e-04
+  UniRef90_UPI0003F0D8DB PREDICTED: p63-like transcription factor...  46.8    2e-04
+  UniRef90_Q27937 p53 tumor suppressor homolog n=3 Tax=Decapodifo...  46.4    3e-04
+  UniRef90_C0PUM1 Cellular tumor antigen p53 (Fragment) n=3 Tax=S...  46.0    3e-04
+  UniRef90_A0A146VRU0 Cellular tumor antigen p53 n=1 Tax=Fundulus...  45.6    3e-04
+  UniRef90_UPI0007425F16 PREDICTED: cellular tumor antigen p53 is...  45.2    4e-04
+  UniRef90_UPI0008FA3D33 UPI0008FA3D33 related cluster n=1 Tax=un...  42.5    9e-04
+
+
+> UniRef90_UPI00076638E1 PREDICTED: cellular tumor antigen p53, 
+partial n=1 Tax=Panthera tigris altaica TaxID=74533 RepID=UPI00076638E1
+Length=291
+
+ Score = 90.7 bits (224),  Expect = 9e-21, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  243  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  284
+
+
+> UniRef90_A0A0U1RQC9 Cellular tumor antigen p53 n=1 Tax=Homo sapiens 
+TaxID=9606 RepID=A0A0U1RQC9_HUMAN
+Length=410
+
+ Score = 91.5 bits (226),  Expect = 1e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_M0R497 Cellular tumor antigen p53 n=2 Tax=Rattus norvegicus 
+TaxID=10116 RepID=M0R497_RAT
+Length=261
+
+ Score = 89.2 bits (220),  Expect = 3e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  209  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  250
+
+
+> UniRef90_UPI0003346AAE PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Condylura cristata TaxID=143302 RepID=UPI0003346AAE
+Length=381
+
+ Score = 89.5 bits (221),  Expect = 4e-20, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQAGKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQAGKEPG  348
+
+
+> UniRef90_H2EHT1 Cellular tumor antigen p53 n=25 Tax=Homininae 
+TaxID=207598 RepID=H2EHT1_HUMAN
+Length=354
+
+ Score = 89.2 bits (220),  Expect = 4e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  280  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  321
+
+
+> UniRef90_UPI0004D06868 PREDICTED: cellular tumor antigen p53 
+n=2 Tax=Euarchontoglires TaxID=314146 RepID=UPI0004D06868
+Length=391
+
+ Score = 89.5 bits (221),  Expect = 5e-20, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  317  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  358
+
+
+> UniRef90_F7GNX0 Cellular tumor antigen p53 n=9 Tax=Callithrix 
+jacchus TaxID=9483 RepID=F7GNX0_CALJA
+Length=395
+
+ Score = 89.5 bits (221),  Expect = 5e-20, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQI GRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  321  KKKPLDGEYFTLQIHGRERFEMFRELNEALELKDAQAGKEPG  362
+
+
+> UniRef90_P41685 Cellular tumor antigen p53 n=4 Tax=Felidae TaxID=9681 
+RepID=P53_FELCA
+Length=386
+
+ Score = 89.2 bits (220),  Expect = 6e-20, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ+GKEPG
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQSGKEPG  353
+
+
+> UniRef90_P04637 Cellular tumor antigen p53 n=60 Tax=Euarchontoglires 
+TaxID=314146 RepID=P53_HUMAN
+Length=393
+
+ Score = 89.2 bits (220),  Expect = 8e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  319  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  360
+
+
+> UniRef90_B4DMH2 Cellular tumor antigen p53 n=2 Tax=Catarrhini 
+TaxID=9526 RepID=B4DMH2_HUMAN
+Length=368
+
+ Score = 88.4 bits (218),  Expect = 9e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  294  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  335
+
+
+> UniRef90_UPI0007197059 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ceratotherium simum simum TaxID=73337 RepID=UPI0007197059
+Length=397
+
+ Score = 88.8 bits (219),  Expect = 1e-19, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  323  QKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  364
+
+
+> UniRef90_Q29537 Cellular tumor antigen p53 n=16 Tax=Caniformia 
+TaxID=379584 RepID=P53_CANLF
+Length=381
+
+ Score = 88.0 bits (217),  Expect = 2e-19, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  307  KKKPLDGEYFTLQIRGRERYEMFRNLNEALELKDAQSGKEPG  348
+
+
+> UniRef90_G5B5D6 Cellular tumor antigen p53 n=9 Tax=Hystricognathi 
+TaxID=33550 RepID=G5B5D6_HETGA
+Length=391
+
+ Score = 86.1 bits (212),  Expect = 9e-19, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDAQ  KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDAQTEKEPG  358
+
+
+> UniRef90_F6TL72 Cellular tumor antigen p53 n=9 Tax=Laurasiatheria 
+TaxID=314145 RepID=F6TL72_HORSE
+Length=269
+
+ Score = 84.9 bits (209),  Expect = 1e-18, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEPG
+Sbjct  195  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEPG  236
+
+
+> UniRef90_UPI00064E4448 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Echinops telfairi TaxID=9371 RepID=UPI00064E4448
+Length=378
+
+ Score = 84.5 bits (208),  Expect = 3e-18, Method: Composition-based stats.
+ Identities = 36/41 (88%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQIRGRERF+MF ELNEALEL+DAQAGKEP
+Sbjct  304  KKKPLDEEYYTLQIRGRERFKMFWELNEALELRDAQAGKEP  344
+
+
+> UniRef90_Q9TUB2 Cellular tumor antigen p53 n=15 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_PIG
+Length=386
+
+ Score = 84.9 bits (209),  Expect = 3e-18, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELN+ALELKDAQ  +E G
+Sbjct  312  KKKPLDGEYFTLQIRGRERFEMFRELNDALELKDAQTARESG  353
+
+
+> UniRef90_UPI0007A6B7A1 UPI0007A6B7A1 related cluster n=2 Tax=unknown 
+TaxID= RepID=UPI0007A6B7A1
+Length=381
+
+ Score = 84.5 bits (208),  Expect = 3e-18, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+D EYFTLQIRGRERFEMFRELNEALELKDAQAGK+PG
+Sbjct  308  KMPMDEEYFTLQIRGRERFEMFRELNEALELKDAQAGKDPG  348
+
+
+> UniRef90_H9FFS1 Cellular tumor antigen p53 (Fragment) n=1 Tax=Macaca 
+mulatta TaxID=9544 RepID=H9FFS1_MACMU
+Length=159
+
+ Score = 81.4 bits (200),  Expect = 6e-18, Method: Composition-based stats.
+ Identities = 41/42 (98%), Positives = 41/42 (98%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  103  KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPA  144
+
+
+> UniRef90_Q9TUX4 Cellular tumor antigen p53 (Fragment) n=1 Tax=Canis 
+lupus familiaris TaxID=9615 RepID=Q9TUX4_CANLF
+Length=246
+
+ Score = 82.2 bits (202),  Expect = 7e-18, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEY T QIRGRER+EMFR LNEALELKDAQ+GKEPG
+Sbjct  202  KKKPLDGEYSTFQIRGRERYEMFRNLNEALELKDAQSGKEPG  243
+
+
+> UniRef90_Q95330 Cellular tumor antigen p53 n=4 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=P53_RABIT
+Length=391
+
+ Score = 83.8 bits (206),  Expect = 8e-18, Method: Composition-based stats.
+ Identities = 39/42 (93%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYF L+IRGRERFEMFRELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFILKIRGRERFEMFRELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_O36006 Cellular tumor antigen p53 n=4 Tax=Marmotini 
+TaxID=337730 RepID=P53_MARMO
+Length=391
+
+ Score = 83.4 bits (205),  Expect = 1e-17, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR RFEMF+ELNEALELKDAQA KEPG
+Sbjct  317  KKKPLDGEYFTLKIRGRARFEMFQELNEALELKDAQAEKEPG  358
+
+
+> UniRef90_UPI00033185BD PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Sorex araneus TaxID=42254 RepID=UPI00033185BD
+Length=383
+
+ Score = 83.0 bits (204),  Expect = 1e-17, Method: Composition-based stats.
+ Identities = 38/42 (90%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKP + EYFTLQIRGR+RFEMFRELNEALELKDAQAGKEPG
+Sbjct  309  KKKPPNEEYFTLQIRGRDRFEMFRELNEALELKDAQAGKEPG  350
+
+
+> UniRef90_G3T035 Cellular tumor antigen p53 n=3 Tax=Afrotheria 
+TaxID=311790 RepID=G3T035_LOXAF
+Length=392
+
+ Score = 83.0 bits (204),  Expect = 1e-17, Method: Composition-based stats.
+ Identities = 38/41 (93%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  318  KKKPLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  358
+
+
+> UniRef90_Q533U3 Cellular tumor antigen p53 (Fragment) n=1 Tax=Muntiacus 
+muntjak vaginalis TaxID=9887 RepID=Q533U3_MUNMU
+Length=217
+
+ Score = 81.1 bits (199),  Expect = 2e-17, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGR+R+EMFRELNEALEL DAQA +EPG
+Sbjct  152  KKKPLDGEYFTLQIRGRKRYEMFRELNEALELMDAQARREPG  193
+
+
+> UniRef90_Q53GA5 Cellular tumor antigen p53 (Fragment) n=1 Tax=Homo 
+sapiens TaxID=9606 RepID=Q53GA5_HUMAN
+Length=158
+
+ Score = 79.5 bits (195),  Expect = 3e-17, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG
+Sbjct  84   KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  125
+
+
+> UniRef90_G3U6D1 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3U6D1_LOXAF
+Length=364
+
+ Score = 81.4 bits (200),  Expect = 3e-17, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 37/42 (88%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD +YFTLQI G E F+MF +LNEALELKDAQAGK+PG
+Sbjct  290  KKKPLDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQPG  331
+
+
+> UniRef90_A0A0K1TP12 Cellular tumor antigen p53 n=4 Tax=Spalacidae 
+TaxID=337664 RepID=A0A0K1TP12_NANGA
+Length=391
+
+ Score = 81.4 bits (200),  Expect = 4e-17, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKD QA K+ G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDTQAEKDSG  358
+
+
+> UniRef90_W5VJU6 Cellular tumor antigen p53 n=1 Tax=Mus musculus 
+TaxID=10090 RepID=W5VJU6_MOUSE
+Length=342
+
+ Score = 81.1 bits (199),  Expect = 5e-17, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  268  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  309
+
+
+> UniRef90_UPI00046BA3D4 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Eptesicus fuscus TaxID=29078 RepID=UPI00046BA3D4
+Length=388
+
+ Score = 81.4 bits (200),  Expect = 5e-17, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 39/41 (95%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P+DGEYFTLQIRGR RFEMFRELNEALELKDAQAGK+PG
+Sbjct  314  KMPVDGEYFTLQIRGRARFEMFRELNEALELKDAQAGKDPG  354
+
+
+> UniRef90_P10361 Cellular tumor antigen p53 n=6 Tax=Rattus norvegicus 
+TaxID=10116 RepID=P53_RAT
+Length=391
+
+ Score = 81.1 bits (199),  Expect = 8e-17, Method: Composition-based stats.
+ Identities = 37/42 (88%), Positives = 40/42 (95%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  317  KKKPLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEESG  358
+
+
+> UniRef90_P67939 Cellular tumor antigen p53 n=20 Tax=Cetartiodactyla 
+TaxID=91561 RepID=P53_BOVIN
+Length=386
+
+ Score = 80.7 bits (198),  Expect = 8e-17, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTLQIRG +R+EMFRELN+ALELKDA  G+EPG
+Sbjct  312  KKKPLDGEYFTLQIRGFKRYEMFRELNDALELKDALDGREPG  353
+
+
+> UniRef90_UPI0007A6CBAE UPI0007A6CBAE related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007A6CBAE
+Length=374
+
+ Score = 80.3 bits (197),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD EYFTLQIRGRERFEMFR+LNEALELKDA   KE  
+Sbjct  303  KKKPLDEEYFTLQIRGRERFEMFRQLNEALELKDAHEEKESA  344
+
+
+> UniRef90_P02340 Cellular tumor antigen p53 n=15 Tax=Mus musculus 
+TaxID=10090 RepID=P53_MOUSE
+Length=387
+
+ Score = 80.3 bits (197),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGR+RFEMFRELNEALELKDA A +E G
+Sbjct  313  KKKPLDGEYFTLKIRGRKRFEMFRELNEALELKDAHATEESG  354
+
+
+> UniRef90_UPI00093A1693 UPI00093A1693 related cluster n=3 Tax=unknown 
+TaxID= RepID=UPI00093A1693
+Length=388
+
+ Score = 79.9 bits (196),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K P DGEYFTLQIRGRERFEMF+ELNEALELKDAQAGKE G
+Sbjct  315  KVPRDGEYFTLQIRGRERFEMFQELNEALELKDAQAGKESG  355
+
+
+> UniRef90_UPI00045D81CB PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=UPI00045D81CB
+Length=301
+
+ Score = 78.4 bits (192),  Expect = 2e-16, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKLLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_UPI0003331A04 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Jaculus jaculus TaxID=51337 RepID=UPI0003331A04
+Length=382
+
+ Score = 78.8 bits (193),  Expect = 4e-16, Method: Composition-based stats.
+ Identities = 35/42 (83%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDG+YFTL+IRGR+R+EMFR LNEALE KDAQA KEPG
+Sbjct  308  KKKPLDGDYFTLKIRGRDRYEMFRVLNEALEFKDAQAEKEPG  349
+
+
+> UniRef90_UPI0003F11B51 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Chrysochloris asiatica TaxID=185453 RepID=UPI0003F11B51
+Length=301
+
+ Score = 77.2 bits (189),  Expect = 6e-16, Method: Composition-based stats.
+ Identities = 37/41 (90%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LD EYFTLQIRGRERF+MF ELNEALELKDAQAGKEP
+Sbjct  227  KKKMLDEEYFTLQIRGRERFKMFLELNEALELKDAQAGKEP  267
+
+
+> UniRef90_UPI00017735F2 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Microcebus murinus TaxID=30608 RepID=UPI00017735F2
+Length=385
+
+ Score = 78.4 bits (192),  Expect = 7e-16, Method: Composition-based stats.
+ Identities = 35/38 (92%), Positives = 35/38 (92%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            LDGEYFTLQIRGRERFEMFR LNEALE KDAQ GKEPG
+Sbjct  315  LDGEYFTLQIRGRERFEMFRMLNEALEFKDAQTGKEPG  352
+
+
+> UniRef90_UPI00065233C2 PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Dipodomys ordii TaxID=10020 RepID=UPI00065233C2
+Length=414
+
+ Score = 78.4 bits (192),  Expect = 8e-16, Method: Composition-based stats.
+ Identities = 32/41 (78%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLDGEYFTL+IRGRER+EM R +NEA E KDAQ  KEP
+Sbjct  340  KKKPLDGEYFTLKIRGRERYEMLRMINEAFEFKDAQTEKEP  380
+
+
+> UniRef90_A0A172Q425 Cellular tumor antigen p53 n=3 Tax=Cricetidae 
+TaxID=337677 RepID=A0A172Q425_MICOH
+Length=390
+
+ Score = 78.0 bits (191),  Expect = 1e-15, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLDGEYFTL+IRGRERF+MF ELNEALELKDAQ     G
+Sbjct  316  KKKPLDGEYFTLKIRGRERFKMFSELNEALELKDAQDANGSG  357
+
+
+> UniRef90_Q9WUR6 Cellular tumor antigen p53 n=1 Tax=Cavia porcellus 
+TaxID=10141 RepID=P53_CAVPO
+Length=391
+
+ Score = 77.6 bits (190),  Expect = 1e-15, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 36/42 (86%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKKPLD EYFTL+IRGR+ FE+ RE+NEALE KDAQ  KEPG
+Sbjct  317  KKKPLDAEYFTLKIRGRKNFEILREINEALEFKDAQTEKEPG  358
+
+
+> UniRef90_L9KM90 Cellular tumor antigen p53 n=2 Tax=Tupaia chinensis 
+TaxID=246437 RepID=L9KM90_TUPCH
+Length=424
+
+ Score = 78.0 bits (191),  Expect = 1e-15, Method: Composition-based stats.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KKKPLD EYFTLQIRGRERFEM RE+NEALELKDA
+Sbjct  323  KKKPLDEEYFTLQIRGRERFEMLREINEALELKDA  357
+
+
+> UniRef90_H0XGB0 Cellular tumor antigen p53 n=2 Tax=Otolemur garnettii 
+TaxID=30611 RepID=H0XGB0_OTOGA
+Length=393
+
+ Score = 76.4 bits (187),  Expect = 4e-15, Method: Composition-based stats.
+ Identities = 34/41 (83%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK L+GEYFTL+IRGRER+EMFRELNEALE+KDAQA KE 
+Sbjct  319  KKKLLEGEYFTLKIRGRERYEMFRELNEALEIKDAQAEKES  359
+
+
+> UniRef90_L5JZ91 Cellular tumor antigen p53 n=4 Tax=Pteropus TaxID=9401 
+RepID=L5JZ91_PTEAL
+Length=378
+
+ Score = 76.1 bits (186),  Expect = 5e-15, Method: Composition-based stats.
+ Identities = 34/40 (85%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            K PLD EYFTLQIRGR+ FE+ RELNEALELKDAQAGKEP
+Sbjct  305  KMPLDEEYFTLQIRGRKNFEILRELNEALELKDAQAGKEP  344
+
+
+> UniRef90_UPI00062A9032 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI00062A9032
+Length=384
+
+ Score = 76.1 bits (186),  Expect = 5e-15, Method: Composition-based stats.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            +DGEYFTLQIRGRERFEMFRELNEALELKDAQ GKEP
+Sbjct  314  MDGEYFTLQIRGRERFEMFRELNEALELKDAQTGKEP  350
+
+
+> UniRef90_P89002 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89002_MASNA
+Length=378
+
+ Score = 75.7 bits (185),  Expect = 6e-15, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  304  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  345
+
+
+> UniRef90_P89003 Cellular tumor antigen p53 (Fragment) n=2 Tax=Mastomys 
+natalensis TaxID=10112 RepID=P89003_MASNA
+Length=286
+
+ Score = 74.5 bits (182),  Expect = 6e-15, Method: Composition-based stats.
+ Identities = 36/42 (86%), Positives = 39/42 (93%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEYFTL+IRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  212  KKKRLDGEYFTLKIRGRERFEMFRELNEALELKDARAAEELG  253
+
+
+> UniRef90_Q920Y0 Cellular tumor antigen p53 n=1 Tax=Meriones unguiculatus 
+TaxID=10047 RepID=Q920Y0_MERUN
+Length=390
+
+ Score = 75.7 bits (185),  Expect = 8e-15, Method: Composition-based stats.
+ Identities = 34/42 (81%), Positives = 38/42 (90%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            K+KP DGEYFTL+IRGR+RFE+FRELNEALELKDAQA  E G
+Sbjct  316  KRKPADGEYFTLKIRGRKRFEVFRELNEALELKDAQAAGESG  357
+
+
+> UniRef90_G3TS21 Cellular tumor antigen p53 (Fragment) n=2 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3TS21_LOXAF
+Length=363
+
+ Score = 74.5 bits (182),  Expect = 1e-14, Method: Composition-based stats.
+ Identities = 30/41 (73%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKP+D +YFTL+I G E F+MF ELNEALELKDAQAGK+ 
+Sbjct  289  KKKPVDEKYFTLKIHGHECFKMFLELNEALELKDAQAGKQS  329
+
+
+> UniRef90_UPI00077DB2F5 UPI00077DB2F5 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00077DB2F5
+Length=384
+
+ Score = 74.5 bits (182),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 32/42 (76%), Positives = 34/42 (81%), Gaps = 0/42 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            KKK LDGEY TL+I GRERFEMFR+LNEALE KDA A K  G
+Sbjct  310  KKKTLDGEYSTLKIHGRERFEMFRKLNEALEFKDAHAAKGSG  351
+
+
+> UniRef90_O09185 Cellular tumor antigen p53 n=8 Tax=Cricetinae 
+TaxID=10026 RepID=P53_CRIGR
+Length=393
+
+ Score = 74.5 bits (182),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 33/41 (80%), Positives = 36/41 (88%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK LDGEYFTL+IRG ERF+MF+ELNEALELKDAQA K  
+Sbjct  319  KKKTLDGEYFTLKIRGHERFKMFQELNEALELKDAQASKGS  359
+
+
+> UniRef90_UPI00032B1BE8 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Ochotona princeps TaxID=9978 RepID=UPI00032B1BE8
+Length=385
+
+ Score = 74.1 bits (181),  Expect = 2e-14, Method: Composition-based stats.
+ Identities = 32/38 (84%), Positives = 36/38 (95%), Gaps = 0/38 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            +DGEYFTL+IRGRER+EMFR+LNEALE KDAQA KEPG
+Sbjct  315  MDGEYFTLKIRGRERYEMFRDLNEALEFKDAQAEKEPG  352
+
+
+> UniRef90_G3WS63 Cellular tumor antigen p53 n=3 Tax=Sarcophilus 
+harrisii TaxID=9305 RepID=G3WS63_SARHA
+Length=371
+
+ Score = 73.4 bits (179),  Expect = 3e-14, Method: Composition-based stats.
+ Identities = 31/41 (76%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK +DGEYFTLQIRGR R+E+ RELNEALELK+A +GK+P
+Sbjct  296  KKKLMDGEYFTLQIRGRHRYELLRELNEALELKEAHSGKDP  336
+
+
+> UniRef90_L7N1B2 Cellular tumor antigen p53 (Fragment) n=11 Tax=Myotis 
+TaxID=9434 RepID=L7N1B2_MYOLU
+Length=392
+
+ Score = 73.0 bits (178),  Expect = 7e-14, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  317  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  358
+
+
+> UniRef90_S7NG87 Cellular tumor antigen p53 n=1 Tax=Myotis brandtii 
+TaxID=109478 RepID=S7NG87_MYOBR
+Length=420
+
+ Score = 72.6 bits (177),  Expect = 1e-13, Method: Composition-based stats.
+ Identities = 33/42 (79%), Positives = 36/42 (86%), Gaps = 1/42 (2%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+            KKP D EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  345  KKPADEEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  386
+
+
+> UniRef90_Q8HY32 Cellular tumor antigen p53 (Fragment) n=1 Tax=Monodelphis 
+domestica TaxID=13616 RepID=Q8HY32_MONDO
+Length=258
+
+ Score = 70.3 bits (171),  Expect = 2e-13, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  191  KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  231
+
+
+> UniRef90_G1U940 Cellular tumor antigen p53 n=1 Tax=Oryctolagus 
+cuniculus TaxID=9986 RepID=G1U940_RABIT
+Length=368
+
+ Score = 70.7 bits (172),  Expect = 4e-13, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY  ++IRGRE F++F+ELNE LELKDA+A KEP
+Sbjct  294  KKKPLDREYCIIKIRGRECFKVFQELNEVLELKDAKAKKEP  334
+
+
+> UniRef90_G3UJ00 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UJ00_LOXAF
+Length=360
+
+ Score = 70.3 bits (171),  Expect = 5e-13, Method: Composition-based stats.
+ Identities = 28/37 (76%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQAGK+P
+Sbjct  290  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQAGKQP  326
+
+
+> UniRef90_G3UHE5 Cellular tumor antigen p53 n=4 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UHE5_LOXAF
+Length=367
+
+ Score = 69.9 bits (170),  Expect = 8e-13, Method: Composition-based stats.
+ Identities = 27/37 (73%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LD +YFTLQI G E F+MF +LNEALELKDAQ GK+P
+Sbjct  297  LDEKYFTLQIHGHECFKMFLKLNEALELKDAQTGKQP  333
+
+
+> UniRef90_UPI00064E32EC PREDICTED: LOW QUALITY PROTEIN: cellular 
+tumor antigen p53-like n=1 Tax=Echinops telfairi TaxID=9371 
+RepID=UPI00064E32EC
+Length=233
+
+ Score = 67.2 bits (163),  Expect = 2e-12, Method: Composition-based stats.
+ Identities = 33/41 (80%), Positives = 35/41 (85%), Gaps = 2/41 (5%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKKPLD EY+TLQI GRERF+MF ELNEALELK   AGKEP
+Sbjct  161  KKKPLDEEYYTLQICGRERFKMFWELNEALELK--XAGKEP  199
+
+
+> UniRef90_G1PZ51 Cellular tumor antigen p53 (Fragment) n=1 Tax=Myotis 
+lucifugus TaxID=59463 RepID=G1PZ51_MYOLU
+Length=388
+
+ Score = 66.8 bits (162),  Expect = 1e-11, Method: Composition-based stats.
+ Identities = 29/37 (78%), Positives = 32/37 (86%), Gaps = 1/37 (3%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELK-DAQAGKEPG  42
+             EYFTLQIRGRERFE FR+LNEALEL+ D  AGK+PG
+Sbjct  318  EEYFTLQIRGRERFETFRKLNEALELQDDVLAGKDPG  354
+
+
+> UniRef90_Q0GMA7 Cellular tumor antigen p53 n=1 Tax=Ambystoma 
+mexicanum TaxID=8296 RepID=Q0GMA7_AMBME
+Length=387
+
+ Score = 66.0 bits (160),  Expect = 2e-11, Method: Composition-based stats.
+ Identities = 24/40 (60%), Positives = 30/40 (75%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K+K  + E FTLQI GRER+EMF++LNEALELKD     +
+Sbjct  311  KRKASEEETFTLQIHGRERYEMFKKLNEALELKDMIPQTD  350
+
+
+> UniRef90_UPI0006256EB7 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Aotus nancymaae TaxID=37293 RepID=UPI0006256EB7
+Length=208
+
+ Score = 63.0 bits (152),  Expect = 6e-11, Method: Composition-based stats.
+ Identities = 30/30 (100%), Positives = 30/30 (100%), Gaps = 0/30 (0%)
+
+Query  12   LQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            LQIRGRERFEMFRELNEALELKDAQAGKEP
+Sbjct  145  LQIRGRERFEMFRELNEALELKDAQAGKEP  174
+
+
+> UniRef90_F7FQR2 Cellular tumor antigen p53 n=2 Tax=Monodelphis 
+domestica TaxID=13616 RepID=F7FQR2_MONDO
+Length=151
+
+ Score = 61.8 bits (149),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 29/41 (71%), Positives = 37/41 (90%), Gaps = 0/41 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KKK ++GEYFTLQIRGR+R+E+ RE+NEALELK+A + KEP
+Sbjct  76   KKKLVEGEYFTLQIRGRQRYELLREINEALELKEAHSRKEP  116
+
+
+> UniRef90_L7NCR5 Cellular tumor antigen p53 n=1 Tax=Cynops orientalis 
+TaxID=137245 RepID=L7NCR5_9SALA
+Length=392
+
+ Score = 62.2 bits (150),  Expect = 5e-10, Method: Composition-based stats.
+ Identities = 21/40 (53%), Positives = 29/40 (73%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            +K   + E +TLQIRGRER+EM ++LN+ALELKD     +
+Sbjct  317  RKAHEEDEIYTLQIRGRERYEMLKKLNDALELKDMIPQSD  356
+
+
+> UniRef90_UPI0003F07B89 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Elephantulus edwardii TaxID=28737 RepID=UPI0003F07B89
+Length=297
+
+ Score = 61.0 bits (147),  Expect = 7e-10, Method: Composition-based stats.
+ Identities = 26/34 (76%), Positives = 29/34 (85%), Gaps = 0/34 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDA  35
+            KK L  EYFTLQIRG +RF MF+ELNEALE+KDA
+Sbjct  227  KKKLSEEYFTLQIRGYKRFRMFQELNEALEMKDA  260
+
+
+> UniRef90_A0A0G2KB75 Cellular tumor antigen p53 n=3 Tax=Rattus 
+norvegicus TaxID=10116 RepID=A0A0G2KB75_RAT
+Length=170
+
+ Score = 59.1 bits (142),  Expect = 1e-09, Method: Composition-based stats.
+ Identities = 28/33 (85%), Positives = 30/33 (91%), Gaps = 0/33 (0%)
+
+Query  10   FTLQIRGRERFEMFRELNEALELKDAQAGKEPG  42
+            F LQIRGRERFEMFRELNEALELKDA+A +E G
+Sbjct  105  FILQIRGRERFEMFRELNEALELKDARAAEESG  137
+
+
+> UniRef90_A0A151MW63 Cellular tumor antigen p53 n=3 Tax=Alligator 
+TaxID=8495 RepID=A0A151MW63_ALLMI
+Length=385
+
+ Score = 61.0 bits (147),  Expect = 1e-09, Method: Composition-based stats.
+ Identities = 23/37 (62%), Positives = 28/37 (76%), Gaps = 2/37 (5%)
+
+Query  8    EYFTLQIRGRERFEMFRELNEALELKDAQAGK--EPG  42
+            E FTLQIRGRER+EMF++LNE LE  D Q  +  +PG
+Sbjct  315  EIFTLQIRGRERYEMFKKLNEGLEALDGQEARAEDPG  351
+
+
+> UniRef90_UPI0005F528E0 PREDICTED: cellular tumor antigen p53-like, 
+partial n=1 Tax=Macaca nemestrina TaxID=9545 RepID=UPI0005F528E0
+Length=193
+
+ Score = 58.7 bits (141),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 28/29 (97%), Positives = 28/29 (97%), Gaps = 0/29 (0%)
+
+Query  14  IRGRERFEMFRELNEALELKDAQAGKEPG  42
+           IRGRERFEMFRELNEALELKDAQAGKEP 
+Sbjct  1   IRGRERFEMFRELNEALELKDAQAGKEPA  29
+
+
+> UniRef90_P79734 Cellular tumor antigen p53 n=7 Tax=Danio rerio 
+TaxID=7955 RepID=P53_DANRE
+Length=373
+
+ Score = 60.3 bits (145),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 19/40 (48%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K    D E FTLQ+RGRER+E+ ++LN++LEL D     +
+Sbjct  295  KGSSSDEEIFTLQVRGRERYEILKKLNDSLELSDVVPASD  334
+
+
+> UniRef90_Q9W678 Cellular tumor antigen p53 n=7 Tax=Barbus barbus 
+TaxID=40830 RepID=P53_BARBU
+Length=369
+
+ Score = 60.3 bits (145),  Expect = 2e-09, Method: Composition-based stats.
+ Identities = 17/37 (46%), Positives = 26/37 (70%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E +TLQ+RG+ER+EM +++N++LEL D     E
+Sbjct  295  SSDEEIYTLQVRGKERYEMLKKINDSLELSDVVPPSE  331
+
+
+> UniRef90_UPI000577751E PREDICTED: cellular tumor antigen p53-like 
+isoform X1 n=2 Tax=Esox lucius TaxID=8010 RepID=UPI000577751E
+Length=396
+
+ Score = 59.9 bits (144),  Expect = 3e-09, Method: Composition-based stats.
+ Identities = 17/36 (47%), Positives = 25/36 (69%), Gaps = 0/36 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+             D E +TLQIRG+ER+EM +++N+ LEL D     +
+Sbjct  321  SDDEIYTLQIRGKERYEMLKKINDGLELSDLVPTAD  356
+
+
+> UniRef90_A0A1B1CUP8 Cellular tumor antigen p53 n=1 Tax=Ctenopharyngodon 
+idella TaxID=7959 RepID=A0A1B1CUP8_CTEID
+Length=371
+
+ Score = 59.9 bits (144),  Expect = 3e-09, Method: Composition-based stats.
+ Identities = 18/37 (49%), Positives = 26/37 (70%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E F+LQ+RGRERFEM +++N++LEL D     +
+Sbjct  296  SSDEEIFSLQVRGRERFEMLKKINDSLELSDVVPPSD  332
+
+
+> UniRef90_UPI0007AC7EB9 UPI0007AC7EB9 related cluster n=9 Tax=unknown 
+TaxID= RepID=UPI0007AC7EB9
+Length=371
+
+ Score = 59.5 bits (143),  Expect = 5e-09, Method: Composition-based stats.
+ Identities = 16/37 (43%), Positives = 26/37 (70%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E +TLQ+RG+ER+EM +++N++LEL D     +
+Sbjct  296  SSDEEIYTLQVRGKERYEMLKKINDSLELSDVVPPSD  332
+
+
+> UniRef90_A0A0B4VEY6 Cellular tumor antigen p53 n=1 Tax=Danio 
+rerio TaxID=7955 RepID=A0A0B4VEY6_DANRE
+Length=289
+
+ Score = 58.3 bits (140),  Expect = 6e-09, Method: Composition-based stats.
+ Identities = 19/40 (48%), Positives = 27/40 (68%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K    D E FTLQ+RGRER+E+ ++LN++LEL D     +
+Sbjct  211  KGSSSDEEIFTLQVRGRERYEILKKLNDSLELSDVVPASD  250
+
+
+> UniRef90_P10360 Cellular tumor antigen p53 n=1 Tax=Gallus gallus 
+TaxID=9031 RepID=P53_CHICK
+Length=367
+
+ Score = 58.7 bits (141),  Expect = 8e-09, Method: Composition-based stats.
+ Identities = 21/43 (49%), Positives = 29/43 (67%), Gaps = 2/43 (5%)
+
+Query  1    KKKPL--DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            KK+ L  D E F LQ+RGR R+EM +E+NEAL+L +  +   P
+Sbjct  300  KKRVLNPDNEIFYLQVRGRRRYEMLKEINEALQLAEGGSAPRP  342
+
+
+> UniRef90_H3B1Z4 Cellular tumor antigen p53 n=4 Tax=Latimeria 
+chalumnae TaxID=7897 RepID=H3B1Z4_LATCH
+Length=401
+
+ Score = 58.3 bits (140),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 21/42 (50%), Positives = 33/42 (79%), Gaps = 2/42 (5%)
+
+Query  1    KKKPL--DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KK+ +  + E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  325  KKRAVNPEEELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  366
+
+
+> UniRef90_UPI0006B34D0A PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Austrofundulus limnaeus TaxID=52670 RepID=UPI0006B34D0A
+Length=355
+
+ Score = 58.0 bits (139),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 18/35 (51%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E F LQ+RGRER+EM +++N A EL+DA+  ++
+Sbjct  306  DKEVFNLQVRGRERYEMLKKINSAFELQDAEGKRK  340
+
+
+> UniRef90_W5N8V9 Cellular tumor antigen p53 n=4 Tax=Lepisosteus 
+oculatus TaxID=7918 RepID=W5N8V9_LEPOC
+Length=390
+
+ Score = 58.3 bits (140),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 20/31 (65%), Positives = 26/31 (84%), Gaps = 0/31 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+              + E FTLQ+RGRERFEM +++NE+LELKD
+Sbjct  314  SAEEEIFTLQVRGRERFEMLKKINESLELKD  344
+
+
+> UniRef90_UPI0003C161D6 PREDICTED: cellular tumor antigen p53 
+isoform X4 n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=UPI0003C161D6
+Length=372
+
+ Score = 58.0 bits (139),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 21/42 (50%), Positives = 33/42 (79%), Gaps = 2/42 (5%)
+
+Query  1    KKKPL--DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KK+ +  + E ++LQ+RGRER+EMF++LN ALEL+D+ +  E
+Sbjct  285  KKRAVNPEEELYSLQVRGRERYEMFKKLNNALELQDSVSAAE  326
+
+
+> UniRef90_UPI0008FA9F42 UPI0008FA9F42 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008FA9F42
+Length=285
+
+ Score = 57.2 bits (137),  Expect = 1e-08, Method: Composition-based stats.
+ Identities = 15/38 (39%), Positives = 26/38 (68%), Gaps = 0/38 (0%)
+
+Query  3    KPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+               D E +TLQ+RG++R+EM +++N++LEL D     +
+Sbjct  209  TSSDEEIYTLQVRGKDRYEMLKKINDSLELSDVVPPSD  246
+
+
+> UniRef90_UPI0008FA8A28 UPI0008FA8A28 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008FA8A28
+Length=448
+
+ Score = 58.0 bits (139),  Expect = 2e-08, Method: Composition-based stats.
+ Identities = 16/37 (43%), Positives = 26/37 (70%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E +TLQ+RG+ER+EM +++N++L+L D     E
+Sbjct  373  SSDEEIYTLQVRGKERYEMLKKINDSLDLSDVVPPSE  409
+
+
+> UniRef90_UPI00084CFFE0 UPI00084CFFE0 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00084CFFE0
+Length=375
+
+ Score = 56.8 bits (136),  Expect = 4e-08, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 28/35 (80%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+I+GR R+EM ++LN+ALEL+++   ++
+Sbjct  313  DEEIFTLRIKGRSRYEMIKKLNDALELQESLDQQK  347
+
+
+> UniRef90_A0A087XP53 Cellular tumor antigen p53 n=4 Tax=Poecilia 
+TaxID=8080 RepID=A0A087XP53_POEFO
+Length=342
+
+ Score = 56.4 bits (135),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 20/35 (57%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQIRGRERF MF++LN+ LEL +    K+
+Sbjct  287  DKELYTLQIRGRERFLMFKKLNDGLELMEKMGPKK  321
+
+
+> UniRef90_UPI0008735429 UPI0008735429 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008735429
+Length=380
+
+ Score = 56.4 bits (135),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 15/36 (42%), Positives = 25/36 (69%), Gaps = 0/36 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            D + F L +RGRER+EM +++N+ LEL D ++  + 
+Sbjct  320  DKDVFVLHVRGRERYEMLKKINDGLELLDKESKTKS  355
+
+
+> UniRef90_A9XR54 Cellular tumor antigen p53 n=3 Tax=Kryptolebias 
+marmoratus TaxID=37003 RepID=A9XR54_KRYMA
+Length=365
+
+ Score = 56.4 bits (135),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 23/34 (68%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E FTL +RGRER+EM +++N  LEL D    +
+Sbjct  316  DKEVFTLHVRGRERYEMLKKINAGLELLDTDGKR  349
+
+
+> UniRef90_H2U134 Cellular tumor antigen p53 n=4 Tax=Takifugu rubripes 
+TaxID=31033 RepID=H2U134_TAKRU
+Length=354
+
+ Score = 56.0 bits (134),  Expect = 6e-08, Method: Composition-based stats.
+ Identities = 17/33 (52%), Positives = 25/33 (76%), Gaps = 0/33 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAG  38
+            D E FTLQIRGR+R+EM +++N+ LEL + +  
+Sbjct  294  DKELFTLQIRGRKRYEMLKKINDGLELLENKPK  326
+
+
+> UniRef90_W5KI53 Cellular tumor antigen p53 n=1 Tax=Astyanax mexicanus 
+TaxID=7994 RepID=W5KI53_ASTMX
+Length=394
+
+ Score = 56.0 bits (134),  Expect = 7e-08, Method: Composition-based stats.
+ Identities = 16/36 (44%), Positives = 24/36 (67%), Gaps = 0/36 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+             D E F L +RG+ERF M +++N++LEL DA    +
+Sbjct  320  SDDEVFVLHVRGKERFNMLKKINDSLELMDAMPVAD  355
+
+
+> UniRef90_UPI0008149AE8 UPI0008149AE8 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008149AE8
+Length=389
+
+ Score = 56.0 bits (134),  Expect = 7e-08, Method: Composition-based stats.
+ Identities = 14/35 (40%), Positives = 24/35 (69%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E F L +RG++R+ M +++N++LEL DA    E
+Sbjct  324  EEEIFILHVRGKDRYNMLKKINDSLELMDAMTAAE  358
+
+
+> UniRef90_P07193 Cellular tumor antigen p53 n=3 Tax=Xenopus laevis 
+TaxID=8355 RepID=P53_XENLA
+Length=363
+
+ Score = 56.0 bits (134),  Expect = 7e-08, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 28/35 (80%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+I+GR R+EM ++LN+ALEL+++   ++
+Sbjct  299  DEEIFTLRIKGRSRYEMIKKLNDALELQESLDQQK  333
+
+
+> UniRef90_UPI0008545F6B UPI0008545F6B related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008545F6B
+Length=423
+
+ Score = 56.0 bits (134),  Expect = 8e-08, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 28/34 (82%), Gaps = 0/34 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKD  34
+            K    + E FTL+IRGR+R+++F++LN+AL+L+D
+Sbjct  344  KHHAREEEVFTLKIRGRKRYKIFKKLNDALDLQD  377
+
+
+> UniRef90_UPI0008791CDA UPI0008791CDA related cluster n=3 Tax=unknown 
+TaxID= RepID=UPI0008791CDA
+Length=462
+
+ Score = 56.0 bits (134),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 17/29 (59%), Positives = 25/29 (86%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            + E +TL +RGRER+EMF+++NE+LEL D
+Sbjct  389  EEEIYTLHVRGRERYEMFKKINESLELGD  417
+
+
+> UniRef90_W5LNF4 Cellular tumor antigen p53 n=1 Tax=Astyanax mexicanus 
+TaxID=7994 RepID=W5LNF4_ASTMX
+Length=390
+
+ Score = 55.6 bits (133),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 17/37 (46%), Positives = 24/37 (65%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E +TLQ+RGRERFE  +++N+ LEL D     +
+Sbjct  314  SSDEELYTLQVRGRERFEFLKKINDGLELSDLVPPAD  350
+
+
+> UniRef90_UPI0004A40694 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Poecilia reticulata TaxID=8081 RepID=UPI0004A40694
+Length=342
+
+ Score = 55.3 bits (132),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 20/35 (57%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQIRGR+RF MF+ LN+ LEL D    K+
+Sbjct  287  DKELYTLQIRGRDRFNMFKNLNDGLELLDKTGSKK  321
+
+
+> UniRef90_F5A7P3 Cellular tumor antigen p53 n=2 Tax=Tachysurus 
+fulvidraco TaxID=1234273 RepID=F5A7P3_TACFU
+Length=378
+
+ Score = 55.3 bits (132),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 15/40 (38%), Positives = 23/40 (58%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            K    D E +TLQ+ GRER+E  +++N+ LE  D     +
+Sbjct  299  KNTSSDDEIYTLQVHGRERYEFLKKINDGLEFSDLVPPAD  338
+
+
+> UniRef90_F8RKR1 Cellular tumor antigen p53 n=1 Tax=Epinephelus 
+coioides TaxID=94232 RepID=F8RKR1_EPICO
+Length=380
+
+ Score = 54.9 bits (131),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D + F L +RGRERFEM +++N+ LEL D ++  +
+Sbjct  318  DKDVFVLHVRGRERFEMLKKINDGLELLDKESKTK  352
+
+
+> UniRef90_O93379 Cellular tumor antigen p53 n=1 Tax=Ictalurus 
+punctatus TaxID=7998 RepID=P53_ICTPU
+Length=376
+
+ Score = 54.9 bits (131),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 24/35 (69%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E +TLQ+RG+ER+E  +++N+ LEL D     +
+Sbjct  302  DDEIYTLQVRGKERYEFLKKINDGLELSDVVPPAD  336
+
+
+> UniRef90_A0A142GRI7 Cellular tumor antigen p53 n=1 Tax=Siniperca 
+chuatsi TaxID=119488 RepID=A0A142GRI7_SINCH
+Length=380
+
+ Score = 54.5 bits (130),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D + + L +RGRERFEM +++N+ LEL D ++  +
+Sbjct  318  DKDVYVLHVRGRERFEMLKKINDGLELLDKESKTK  352
+
+
+> UniRef90_H3CXQ0 Cellular tumor antigen p53 n=2 Tax=Tetraodon 
+nigroviridis TaxID=99883 RepID=H3CXQ0_TETNG
+Length=364
+
+ Score = 54.1 bits (129),  Expect = 3e-07, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 25/35 (71%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTLQIRGR+R+EM + +N+ L+L + +   +
+Sbjct  304  DKEVFTLQIRGRKRYEMIKRINDGLDLLENKTKSK  338
+
+
+> UniRef90_A0A0N8JWU8 Cellular tumor antigen p53 n=2 Tax=Scleropages 
+formosus TaxID=113540 RepID=A0A0N8JWU8_9TELE
+Length=377
+
+ Score = 54.5 bits (130),  Expect = 3e-07, Method: Composition-based stats.
+ Identities = 16/39 (41%), Positives = 25/39 (64%), Gaps = 0/39 (0%)
+
+Query  2    KKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+                D   +TL +RG+ERFEM +++N++LEL D+    E
+Sbjct  295  NTSADDGVYTLLVRGKERFEMLKKINDSLELSDSIPATE  333
+
+
+> UniRef90_R9XXS5 Cellular tumor antigen p53 n=1 Tax=Anabas testudineus 
+TaxID=64144 RepID=R9XXS5_ANATE
+Length=380
+
+ Score = 54.1 bits (129),  Expect = 4e-07, Method: Composition-based stats.
+ Identities = 15/36 (42%), Positives = 24/36 (67%), Gaps = 0/36 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            D + F L +RGR+RFEM +++N+ LEL D +   + 
+Sbjct  318  DKDVFVLHVRGRDRFEMLKKINDGLELLDKKNKTKS  353
+
+
+> UniRef90_A0A0U1XP71 Cellular tumor antigen p53 (Fragment) n=1 
+Tax=Gobiocypris rarus TaxID=143606 RepID=A0A0U1XP71_9TELE
+Length=261
+
+ Score = 53.3 bits (127),  Expect = 4e-07, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAG  38
+              D E +TLQ++G+ERF+M +++N++LEL DA   
+Sbjct  186  SSDEEIYTLQVKGKERFDMLKKINDSLELTDAIPP  220
+
+
+> UniRef90_UPI00080322AF UPI00080322AF related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI00080322AF
+Length=394
+
+ Score = 53.7 bits (128),  Expect = 5e-07, Method: Composition-based stats.
+ Identities = 15/37 (41%), Positives = 23/37 (62%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              + E + LQIRGR+RF M + +N++LEL D     +
+Sbjct  319  SSEEEIYILQIRGRDRFNMLKTINDSLELMDIMPAAD  355
+
+
+> UniRef90_UPI0007AA7A05 UPI0007AA7A05 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0007AA7A05
+Length=144
+
+ Score = 51.4 bits (122),  Expect = 5e-07, Method: Composition-based stats.
+ Identities = 22/33 (67%), Positives = 26/33 (79%), Gaps = 0/33 (0%)
+
+Query  9   YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+           Y   QIRGRER+EMFR +NEA E KDA+ G+EP
+Sbjct  61  YEPPQIRGRERYEMFRTMNEAFEFKDAKGGQEP  93
+
+
+> UniRef90_P25035 Cellular tumor antigen p53 n=6 Tax=Salmonidae 
+TaxID=8015 RepID=P53_ONCMY
+Length=396
+
+ Score = 53.7 bits (128),  Expect = 5e-07, Method: Composition-based stats.
+ Identities = 15/30 (50%), Positives = 24/30 (80%), Gaps = 0/30 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKD  34
+             D E +TLQIRG+E++EM ++ N++LEL +
+Sbjct  323  SDDEIYTLQIRGKEKYEMLKKFNDSLELSE  352
+
+
+> UniRef90_G9J1L8 Cellular tumor antigen p53 n=1 Tax=Callorhinchus 
+milii TaxID=7868 RepID=G9J1L8_CALMI
+Length=387
+
+ Score = 53.3 bits (127),  Expect = 6e-07, Method: Composition-based stats.
+ Identities = 16/39 (41%), Positives = 26/39 (67%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            +K   D E FTLQ+ GRER+E  +++NE+LE+++     
+Sbjct  308  RKLSSDTEVFTLQVTGRERYETLKQINESLEVQELVPAS  346
+
+
+> UniRef90_Q9W679 Cellular tumor antigen p53 n=1 Tax=Tetraodon 
+miurus TaxID=94908 RepID=P53_TETMU
+Length=367
+
+ Score = 53.3 bits (127),  Expect = 6e-07, Method: Composition-based stats.
+ Identities = 14/35 (40%), Positives = 26/35 (74%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + E +TLQIRGR+R+EM +++N+ L+L + +   +
+Sbjct  307  NNEVYTLQIRGRKRYEMLKKINDGLDLLENKPKSK  341
+
+
+> UniRef90_UPI00064433A6 PREDICTED: cellular tumor antigen p53-like 
+n=1 Tax=Clupea harengus TaxID=7950 RepID=UPI00064433A6
+Length=370
+
+ Score = 53.3 bits (127),  Expect = 7e-07, Method: Composition-based stats.
+ Identities = 15/34 (44%), Positives = 24/34 (71%), Gaps = 0/34 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+             E F L++RGRER+EM +++N++LEL D     +
+Sbjct  296  EEIFKLEVRGRERYEMLKKINDSLELNDLVPSSD  329
+
+
+> UniRef90_G3UK14 Cellular tumor antigen p53 n=1 Tax=Loxodonta 
+africana TaxID=9785 RepID=G3UK14_LOXAF
+Length=365
+
+ Score = 52.6 bits (125),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 23/33 (70%), Positives = 26/33 (79%), Gaps = 4/33 (12%)
+
+Query  9    YFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            YFTLQI G     MF +LNEALELKDAQAG++P
+Sbjct  306  YFTLQIHGH----MFLKLNEALELKDAQAGRQP  334
+
+
+> UniRef90_Q4VR33 p53 (Fragment) n=1 Tax=Mytilus edulis TaxID=6550 
+RepID=Q4VR33_MYTED
+Length=161
+
+ Score = 50.6 bits (120),  Expect = 1e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 24/35 (69%), Gaps = 0/35 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAG  38
+              D E +TLQ+RG+ERFEM +++N+ LEL D    
+Sbjct  86   SSDEEIYTLQVRGKERFEMLKKINDGLELSDVVPP  120
+
+
+> UniRef90_UPI00055805AD PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Notothenia coriiceps TaxID=8208 RepID=UPI00055805AD
+Length=377
+
+ Score = 52.2 bits (124),  Expect = 2e-06, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D + F L +RGRER+EM +++N+ LEL D     E
+Sbjct  317  DKDAFVLNVRGRERYEMLKKINDGLELLDKDRKPE  351
+
+
+> UniRef90_UPI00049649D9 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Cynoglossus semilaevis TaxID=244447 RepID=UPI00049649D9
+Length=377
+
+ Score = 51.0 bits (121),  Expect = 4e-06, Method: Composition-based stats.
+ Identities = 16/29 (55%), Positives = 23/29 (79%), Gaps = 0/29 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKD  34
+            D E FTL IRG++R+E+ +E+NE L+L D
+Sbjct  320  DKEIFTLHIRGKKRYELLKEINEGLDLAD  348
+
+
+> UniRef90_Q9I885 Cellular tumor antigen p53 (Fragment) n=3 Tax=Oncorhynchus 
+TaxID=8016 RepID=Q9I885_ONCMY
+Length=146
+
+ Score = 48.7 bits (115),  Expect = 5e-06, Method: Composition-based stats.
+ Identities = 15/30 (50%), Positives = 24/30 (80%), Gaps = 0/30 (0%)
+
+Query  5    LDGEYFTLQIRGRERFEMFRELNEALELKD  34
+             D E +TLQIRG+E++EM ++ N++LEL +
+Sbjct  103  SDDEIYTLQIRGKEKYEMLKKFNDSLELSE  132
+
+
+> UniRef90_Q4H300 Transcription factor protein n=1 Tax=Ciona intestinalis 
+TaxID=7719 RepID=Q4H300_CIOIN
+Length=415
+
+ Score = 50.6 bits (120),  Expect = 7e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+IRGR++FEM +++ EAL+L +  A ++
+Sbjct  341  DQEEFTLKIRGRDKFEMLKKIKEALDLAEVAAHQQ  375
+
+
+> UniRef90_Q4H301 Transcription factor protein n=2 Tax=Ciona intestinalis 
+TaxID=7719 RepID=Q4H301_CIOIN
+Length=489
+
+ Score = 50.6 bits (120),  Expect = 8e-06, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+IRGR++FEM +++ EAL+L +  A ++
+Sbjct  415  DQEEFTLKIRGRDKFEMLKKIKEALDLAEVAAHQQ  449
+
+
+> UniRef90_A0A0S7K6D3 Cellular tumor antigen p53 n=1 Tax=Poeciliopsis 
+prolifica TaxID=188132 RepID=A0A0S7K6D3_9TELE
+Length=340
+
+ Score = 50.2 bits (119),  Expect = 8e-06, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 21/34 (62%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E +TL IRGR R+  F+ LN+ LEL D    K
+Sbjct  285  DKEIYTLSIRGRNRYLWFKNLNDGLELMDKMGPK  318
+
+
+> UniRef90_UPI000496B629 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Stegastes partitus TaxID=144197 RepID=UPI000496B629
+Length=381
+
+ Score = 50.2 bits (119),  Expect = 9e-06, Method: Composition-based stats.
+ Identities = 15/34 (44%), Positives = 23/34 (68%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D +   L IRG ER+EM +++N+ LEL D ++ K
+Sbjct  320  DKDVHVLHIRGSERYEMLKKINDGLELLDRESKK  353
+
+
+> UniRef90_Q4H2Z9 Transcription factor protein (Fragment) n=1 Tax=Ciona 
+intestinalis TaxID=7719 RepID=Q4H2Z9_CIOIN
+Length=362
+
+ Score = 49.5 bits (117),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 17/35 (49%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+IRGR++FEM +++ EAL+L +  A ++
+Sbjct  113  DQEEFTLKIRGRDKFEMLKKIKEALDLAEVAAHQQ  147
+
+
+> UniRef90_UPI00032A388B PREDICTED: cellular tumor antigen p53-like 
+n=6 Tax=Pseudocrenilabrinae TaxID=318546 RepID=UPI00032A388B
+Length=392
+
+ Score = 49.5 bits (117),  Expect = 1e-05, Method: Composition-based stats.
+ Identities = 15/27 (56%), Positives = 21/27 (78%), Gaps = 0/27 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALEL  32
+            D E F L +RGRER+EM +++N+ LEL
+Sbjct  330  DKEVFLLPVRGRERYEMLKKINDGLEL  356
+
+
+> UniRef90_A0A0L8G262 Uncharacterized protein n=1 Tax=Octopus bimaculoides 
+TaxID=37653 RepID=A0A0L8G262_OCTBM
+Length=408
+
+ Score = 49.5 bits (117),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 15/40 (38%), Positives = 26/40 (65%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KK+ +D E FTL++RGR+ +E+  ++ +A+EL       E
+Sbjct  360  KKRKIDDEVFTLKVRGRDNYEVLSKIRDAMELAARIPEPE  399
+
+
+> UniRef90_H2ZH74 Uncharacterized protein n=2 Tax=Ciona savignyi 
+TaxID=51511 RepID=H2ZH74_CIOSA
+Length=481
+
+ Score = 49.5 bits (117),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+IRGR++FEM +++ EAL++ +  A ++
+Sbjct  409  DQEEFTLKIRGRDKFEMLKKIKEALDIAEVAAQQQ  443
+
+
+> UniRef90_I3LPE8 Uncharacterized protein n=1 Tax=Sus scrofa TaxID=9823 
+RepID=I3LPE8_PIG
+Length=181
+
+ Score = 47.2 bits (111),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 13/39 (33%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1   KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+           K++  D + + +Q+RGRE FE+  ++ E LEL +    +
+Sbjct  36  KRRHGDEDVYYIQVRGRENFEILTKIKEGLELMELVPQQ  74
+
+
+> UniRef90_K7G3P4 Cellular tumor antigen p53 n=4 Tax=Pelodiscus 
+sinensis TaxID=13735 RepID=K7G3P4_PELSI
+Length=390
+
+ Score = 49.1 bits (116),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 15/37 (41%), Positives = 23/37 (62%), Gaps = 0/37 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+              D E F L++ GRE +EM +++N ALE+  A+   E
+Sbjct  317  SSDKEVFCLEVHGRENYEMLKKINNALEVAAARPQGE  353
+
+
+> UniRef90_I3KRX9 Cellular tumor antigen p53 n=2 Tax=Oreochromis 
+niloticus TaxID=8128 RepID=I3KRX9_ORENI
+Length=372
+
+ Score = 48.7 bits (115),  Expect = 2e-05, Method: Composition-based stats.
+ Identities = 15/27 (56%), Positives = 21/27 (78%), Gaps = 0/27 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALEL  32
+            D E F L +RGRER+EM +++N+ LEL
+Sbjct  310  DKEVFLLPVRGRERYEMLKKINDGLEL  336
+
+
+> UniRef90_UPI0007500057 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Gekko japonicus TaxID=146911 RepID=UPI0007500057
+Length=432
+
+ Score = 48.7 bits (115),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 13/29 (45%), Positives = 23/29 (79%), Gaps = 0/29 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKDA  35
+             + +TL+IRGR+R+ M +++N+ALE+ D 
+Sbjct  360  EDVYTLKIRGRDRYLMLKKINDALEVTDV  388
+
+
+> UniRef90_Q92143 Cellular tumor antigen p53 n=15 Tax=Xiphophorus 
+TaxID=8082 RepID=P53_XIPMA
+Length=342
+
+ Score = 48.3 bits (114),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 17/34 (50%), Positives = 21/34 (62%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E +TL IRGR R+  F+ LN+ LEL D    K
+Sbjct  287  DKEIYTLSIRGRNRYLWFKSLNDGLELMDKTGPK  320
+
+
+> UniRef90_UPI0003890036 PREDICTED: cellular tumor antigen p53 
+n=1 Tax=Chrysemys picta bellii TaxID=8478 RepID=UPI0003890036
+Length=403
+
+ Score = 48.7 bits (115),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 15/38 (39%), Positives = 25/38 (66%), Gaps = 0/38 (0%)
+
+Query  4    PLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+              + E F L++ GR+R+ M +E+N+ALE+  A+   EP
+Sbjct  328  SAEKEVFLLEVHGRKRYMMLKEINDALEMVAAKQQGEP  365
+
+
+> UniRef90_H2ZH73 Uncharacterized protein n=1 Tax=Ciona savignyi 
+TaxID=51511 RepID=H2ZH73_CIOSA
+Length=340
+
+ Score = 48.3 bits (114),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 16/35 (46%), Positives = 27/35 (77%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            D E FTL+IRGR++FEM +++ EAL++ +  A ++
+Sbjct  111  DQEEFTLKIRGRDKFEMLKKIKEALDIAEVAAQQQ  145
+
+
+> UniRef90_A0A0F8AIC7 Cellular tumor antigen p53 n=1 Tax=Larimichthys 
+crocea TaxID=215358 RepID=A0A0F8AIC7_LARCR
+Length=358
+
+ Score = 48.3 bits (114),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 16/30 (53%), Positives = 23/30 (77%), Gaps = 0/30 (0%)
+
+Query  9    YFTLQIRGRERFEMFRELNEALELKDAQAG  38
+             F L IRGR+R+EM +E+N+ALE K+ +A 
+Sbjct  303  VFVLHIRGRKRYEMLKEINDALEDKEKKAK  332
+
+
+> UniRef90_A5JSV4 Cellular tumor antigen p53 n=1 Tax=Paralichthys 
+olivaceus TaxID=8255 RepID=A5JSV4_PAROL
+Length=365
+
+ Score = 47.9 bits (113),  Expect = 5e-05, Method: Composition-based stats.
+ Identities = 18/34 (53%), Positives = 23/34 (68%), Gaps = 0/34 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            D E F L I GR R+EMF+++NE LEL D +  K
+Sbjct  304  DKEVFHLPIVGRGRYEMFKKINEGLELLDREKTK  337
+
+
+> UniRef90_UPI0003AF6F9B PREDICTED: cellular tumor antigen p53-like 
+n=1 Tax=Pundamilia nyererei TaxID=303518 RepID=UPI0003AF6F9B
+Length=170
+
+ Score = 46.4 bits (109),  Expect = 5e-05, Method: Composition-based stats.
+ Identities = 15/27 (56%), Positives = 21/27 (78%), Gaps = 0/27 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALEL  32
+            D E F L +RGRER+EM +++N+ LEL
+Sbjct  108  DKEVFLLPVRGRERYEMLKKINDGLEL  134
+
+
+> UniRef90_G3Q6V4 Cellular tumor antigen p53 n=2 Tax=Gasterosteus 
+aculeatus TaxID=69293 RepID=G3Q6V4_GASAC
+Length=366
+
+ Score = 47.6 bits (112),  Expect = 6e-05, Method: Composition-based stats.
+ Identities = 14/36 (39%), Positives = 25/36 (69%), Gaps = 0/36 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            D + F L++RGRER+E  +++++ LEL D +   +P
+Sbjct  308  DKDVFVLRVRGRERYEWLKKIHDGLELLDRERLSKP  343
+
+
+> UniRef90_F7A9U0 Cellular tumor antigen p53 n=5 Tax=Xenopus tropicalis 
+TaxID=8364 RepID=F7A9U0_XENTR
+Length=366
+
+ Score = 47.6 bits (112),  Expect = 7e-05, Method: Composition-based stats.
+ Identities = 17/47 (36%), Positives = 31/47 (66%), Gaps = 7/47 (15%)
+
+Query  1    KKKPLDGE-------YFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KK+ ++ +        F LQI+GR R+EM ++LN+ALEL+++   ++
+Sbjct  290  KKRLVEEDDEVSTAVTFRLQIKGRSRYEMIKKLNDALELQESLDQQK  336
+
+
+> UniRef90_D1LXA7 p63-like transcription factor n=1 Tax=Saccoglossus 
+kowalevskii TaxID=10224 RepID=D1LXA7_SACKO
+Length=365
+
+ Score = 47.2 bits (111),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 23/33 (70%), Gaps = 0/33 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELK  33
+            KK+  D + +TL +RGRE +E+  ++ E+LEL 
+Sbjct  297  KKRKGDDDVYTLTVRGRENYEILLKIKESLELM  329
+
+
+> UniRef90_A0A146NLN6 Cellular tumor antigen p53 n=1 Tax=Fundulus 
+heteroclitus TaxID=8078 RepID=A0A146NLN6_FUNHE
+Length=337
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + + + L I+GR R+ MF+ELN+ LELKD     +
+Sbjct  283  EEKIYNLPIKGRSRYLMFKELNDGLELKDKTGANK  317
+
+
+> UniRef90_O15350-10 Isoform dN-Gamma of Tumor protein p73 n=2 
+Tax=Homo sapiens TaxID=9606 RepID=O15350-10
+Length=427
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  297  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  335
+
+
+> UniRef90_O15350-9 Isoform dN-Beta of Tumor protein p73 n=11 Tax=Catarrhini 
+TaxID=9526 RepID=O15350-9
+Length=450
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  297  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  335
+
+
+> UniRef90_UPI0004F04BC6 PREDICTED: tumor protein p73 isoform X5 
+n=1 Tax=Pan paniscus TaxID=9597 RepID=UPI0004F04BC6
+Length=476
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  297  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  335
+
+
+> UniRef90_O15350-3 Isoform Gamma of Tumor protein p73 n=4 Tax=Catarrhini 
+TaxID=9526 RepID=O15350-3
+Length=476
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_A0A146P3Z1 Cellular tumor antigen p53 n=3 Tax=Fundulus 
+heteroclitus TaxID=8078 RepID=A0A146P3Z1_FUNHE
+Length=352
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + + + L I+GR R+ MF+ELN+ LELKD     +
+Sbjct  298  EEKIYNLPIKGRSRYLMFKELNDGLELKDKTGANK  332
+
+
+> UniRef90_O15350-2 Isoform Beta of Tumor protein p73 n=9 Tax=Catarrhini 
+TaxID=9526 RepID=O15350-2
+Length=499
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_UPI0004F03F8D PREDICTED: tumor protein p73 isoform X4 
+n=1 Tax=Pan paniscus TaxID=9597 RepID=UPI0004F03F8D
+Length=504
+
+ Score = 46.8 bits (110),  Expect = 1e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  245  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  283
+
+
+> UniRef90_F6VXE7 Uncharacterized protein n=3 Tax=Catarrhini TaxID=9526 
+RepID=F6VXE7_MACMU
+Length=533
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  243  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  281
+
+
+> UniRef90_O15350-6 Isoform Zeta of Tumor protein p73 n=22 Tax=Boreoeutheria 
+TaxID=1437010 RepID=O15350-6
+Length=540
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_O15350-5 Isoform Epsilon of Tumor protein p73 n=12 Tax=Primates 
+TaxID=9443 RepID=O15350-5
+Length=555
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_UPI00029DAA0F PREDICTED: tumor protein p73 isoform 10 
+n=3 Tax=Catarrhini TaxID=9526 RepID=UPI00029DAA0F
+Length=556
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_O15350-8 Isoform dN-Alpha of Tumor protein p73 n=44 
+Tax=Boreoeutheria TaxID=1437010 RepID=O15350-8
+Length=587
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  297  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  335
+
+
+> UniRef90_UPI0006B86B1A PREDICTED: cellular tumor antigen p53-like 
+isoform X1 n=2 Tax=Salmo salar TaxID=8030 RepID=UPI0006B86B1A
+Length=392
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 14/34 (41%), Positives = 22/34 (65%), Gaps = 0/34 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+               F LQ+RGR+R+E  +++N++LEL D     E
+Sbjct  323  DNVFLLQVRGRQRYEWLKKINDSLELMDRIPPAE  356
+
+
+> UniRef90_UPI0003F06B66 PREDICTED: p63-like transcription factor 
+isoform X1 n=4 Tax=Saccoglossus kowalevskii TaxID=10224 RepID=UPI0003F06B66
+Length=680
+
+ Score = 47.2 bits (111),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 23/33 (70%), Gaps = 0/33 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELK  33
+            KK+  D + +TL +RGRE +E+  ++ E+LEL 
+Sbjct  384  KKRKGDDDVYTLTVRGRENYEILLKIKESLELM  416
+
+
+> UniRef90_O15350 Tumor protein p73 n=31 Tax=Boreoeutheria TaxID=1437010 
+RepID=P73_HUMAN
+Length=636
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/39 (38%), Positives = 24/39 (62%), Gaps = 0/39 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGK  39
+            K++  D + + LQ+RGRE FE+  +L E+LEL +     
+Sbjct  346  KRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQP  384
+
+
+> UniRef90_A0A146XA86 Cellular tumor antigen p53 n=1 Tax=Fundulus 
+heteroclitus TaxID=8078 RepID=A0A146XA86_FUNHE
+Length=432
+
+ Score = 46.4 bits (109),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 15/33 (45%), Positives = 22/33 (67%), Gaps = 0/33 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELK  33
+            K++  D E F L I+GRE +EM  ++ E+LEL 
+Sbjct  292  KRRSTDEEVFCLPIKGREIYEMLVKIKESLELM  324
+
+
+> UniRef90_UPI0003F0D8DB PREDICTED: p63-like transcription factor 
+isoform X3 n=1 Tax=Saccoglossus kowalevskii TaxID=10224 RepID=UPI0003F0D8DB
+Length=649
+
+ Score = 46.8 bits (110),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 23/33 (70%), Gaps = 0/33 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELK  33
+            KK+  D + +TL +RGRE +E+  ++ E+LEL 
+Sbjct  384  KKRKGDDDVYTLTVRGRENYEILLKIKESLELM  416
+
+
+> UniRef90_Q27937 p53 tumor suppressor homolog n=3 Tax=Decapodiformes 
+TaxID=215450 RepID=Q27937_LOLFO
+Length=564
+
+ Score = 46.4 bits (109),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 16/40 (40%), Positives = 25/40 (63%), Gaps = 0/40 (0%)
+
+Query  1    KKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            KK+ +D E FTL++RGRE +E+  +L + +EL       E
+Sbjct  344  KKRKIDDECFTLKVRGRENYEILCKLRDIMELAARIPEAE  383
+
+
+> UniRef90_C0PUM1 Cellular tumor antigen p53 (Fragment) n=3 Tax=Salmoninae 
+TaxID=504568 RepID=C0PUM1_SALSA
+Length=383
+
+ Score = 46.0 bits (108),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 14/34 (41%), Positives = 21/34 (62%), Gaps = 0/34 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+               F LQ+RGRE +E  +++N++LEL D     E
+Sbjct  314  DNVFLLQVRGREHYEWLKKINDSLELMDHIPPAE  347
+
+
+> UniRef90_A0A146VRU0 Cellular tumor antigen p53 n=1 Tax=Fundulus 
+heteroclitus TaxID=8078 RepID=A0A146VRU0_FUNHE
+Length=314
+
+ Score = 45.6 bits (107),  Expect = 3e-04, Method: Composition-based stats.
+ Identities = 15/35 (43%), Positives = 23/35 (66%), Gaps = 0/35 (0%)
+
+Query  6    DGEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+            + + + L I+GR R+ MF+ELN+ LELKD     +
+Sbjct  260  EEKIYNLAIKGRSRYLMFKELNDGLELKDKTGANK  294
+
+
+> UniRef90_UPI0007425F16 PREDICTED: cellular tumor antigen p53 
+isoform X1 n=2 Tax=Cyprinodon variegatus TaxID=28743 RepID=UPI0007425F16
+Length=351
+
+ Score = 45.2 bits (106),  Expect = 4e-04, Method: Composition-based stats.
+ Identities = 15/32 (47%), Positives = 22/32 (69%), Gaps = 0/32 (0%)
+
+Query  10   FTLQIRGRERFEMFRELNEALELKDAQAGKEP  41
+            + L I+GR R+  F+ LN+ LEL D + GK+P
+Sbjct  299  YILTIKGRNRYLWFKTLNDGLELMDKEGGKKP  330
+
+
+> UniRef90_UPI0008FA3D33 UPI0008FA3D33 related cluster n=1 Tax=unknown 
+TaxID= RepID=UPI0008FA3D33
+Length=149
+
+ Score = 42.5 bits (99),  Expect = 9e-04, Method: Composition-based stats.
+ Identities = 15/34 (44%), Positives = 20/34 (59%), Gaps = 0/34 (0%)
+
+Query  7    GEYFTLQIRGRERFEMFRELNEALELKDAQAGKE  40
+             E + L IRG+ERFEM R +N +LEL       +
+Sbjct  85   DEIYILHIRGKERFEMLRTINASLELMHMMPVAD  118
+
+
+
+Lambda      K        H        a         alpha
+   0.308    0.154    0.438    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0471    0.140     1.90     42.6     43.6 
+
+Effective search space used: 442626243930
+
+
+  Database: uniref90
+    Posted date:  Feb 27, 2017  10:12 AM
+  Number of letters in database: 17,866,164,385
+  Number of sequences in database:  52,629,880
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
