@@ -53,8 +53,14 @@ def sequence_vectors(sequence, structure, window):
     sequence_vec = np.array(sequence_vec)
     return sequence_vec, structure_vec
 
+def encoderpickle(enc):
+    x_fit, y_vec = sequence_vectors(sequence, structure, 21)
+    x_vec = encoder.fit_transform(x_fit)
+    print(x_vec)
+    
 
-def svm_train(X, Y):
+
+"""def svm_train(X, Y):
     
     X = X.toarray()
     Y = np.array(Y)
@@ -65,7 +71,7 @@ def svm_train(X, Y):
       
 
     print ("Done!")
-    return clf
+    return clf"""
 
 
 if __name__ == "__main__":
@@ -75,4 +81,5 @@ if __name__ == "__main__":
     enc_structure = int_encode(structure, window)
     sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
     encoder = OHE()    
-    colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
+#    colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
+    encoderpickle(encoder)
