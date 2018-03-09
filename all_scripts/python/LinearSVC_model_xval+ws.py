@@ -60,18 +60,19 @@ def encoderpickle(enc):
     
 
 
-"""def svm_train(X, Y):
+def svm_train(X, Y):
     
     X = X.toarray()
     Y = np.array(Y)
 
     clf = LinearSVC()  
     clf.fit(X, Y)
-    pickle.dump(clf, open("LinearSVC_3SSTRIDE_w21.sav", "wb"))
-      
+#    pickle.dump(clf, open("LinearSVC_3SSTRIDE_w21.sav", "wb"))
+    score = cross_val_score(clf, X, Y)  
 
     print ("Done!")
-    return clf"""
+    print (score)
+    return clf
 
 
 if __name__ == "__main__":
@@ -81,5 +82,5 @@ if __name__ == "__main__":
     enc_structure = int_encode(structure, window)
     sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
     encoder = OHE()    
-#    colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
+    colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
     encoderpickle(encoder)
