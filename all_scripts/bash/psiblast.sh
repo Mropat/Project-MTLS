@@ -6,5 +6,5 @@ for f in *; do if [ ! -f ../PSSM_out/$f.psiblast ]; then psiblast -query $f -db 
 
 
 
-find . -type f -size 0
+
 
