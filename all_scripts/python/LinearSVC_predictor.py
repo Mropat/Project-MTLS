@@ -21,13 +21,7 @@ def parser(filename):
 
 
 def int_encode(data, window):
-
-    padding = ""
-
-    for l in range(window//2):
-        padding = padding + "0"    
-    
-
+    padding = "0"*(window//2)
     int_data = []
     for d in data:
         d = padding + d + padding
@@ -61,18 +55,14 @@ def svm_train(X, Y):
     clf = LinearSVC()  
     clf.fit(X, Y)
 
-    score = cross_val_score(clf, X, Y)
-    print (score)
     return clf
 
 def svm_input(filename, window):
 
     test_vector = []
     test_vector_frames = []
-    padding = ""
     
-    for l in range(window//2):
-        padding = padding + "0"    
+    padding = "0"*(window//2)    
     
     with open(filename, "r") as fh:
         protseq = padding + fh.readline().strip() + padding
@@ -85,7 +75,7 @@ def svm_input(filename, window):
     for i in range(len(test_vector)-window+1):
         test_vector_frames.append(test_vector[i: i+window])
     test_vector_frames = np.array(test_vector_frames)
-    test_v_enc = encoder.fit_transform(test_vector_frames)
+    test_v_enc = encoder.transform(test_vector_frames)
 
 
     linclf = pickle.load(open("LinearSVC_3SSTRIDE_w21.sav", "rb"))  
@@ -106,6 +96,7 @@ if __name__ == "__main__":
     enc_sequence = int_encode(sequence, window)
     enc_structure = int_encode(structure, window)
     sequence_vec, structure_vec = sequence_vectors(enc_sequence, enc_structure, window)
-    encoder = OHE()    
+    encoder = OHE()
+    print (encoder.fit_transform(sequence_vec).toarray())
     colonel = svm_train(encoder.fit_transform(sequence_vec), structure_vec)
     svm_input("pred", window)

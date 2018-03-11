@@ -22,7 +22,7 @@ def predict_fasta(filename, window):
                 prot_id.append(line.strip())
                 sequence.append(padding + fh.readline().strip() + padding)
 
-            if line.startswith("\n"):
+            elif line.startswith("\n"):
                 fh.readline()
             line = fh.readline()
 
@@ -36,7 +36,7 @@ def predict_fasta(filename, window):
             
         for res in seq:
             if res.isalpha():
-                    test_vector.append(ord(res))
+                test_vector.append(ord(res))
             else:
                 test_vector.append(int(res))
 
