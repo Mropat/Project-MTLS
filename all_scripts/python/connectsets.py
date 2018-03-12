@@ -35,7 +35,7 @@ def feature_vecs (protid,  window):
     
 
 if __name__ == "__main__":
-    for window in range ((13,23), 2)
+    for window in range ((13,23), 2):
         window = window 
         dumps = "seq_vec"+window+".sav"
         protid, structures = (get_sets("datasets/3sstride_full.txt"))  
