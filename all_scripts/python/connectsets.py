@@ -28,14 +28,14 @@ def feature_vecs (protid,  window):
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2  
 
-    seq_vec = []
+    seq_vec = np.array([])
     for prot in protid:
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)     
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset : i+offset+1].flatten()
-            seq_vec.append(features)
+            seq_vec = np.concatenate([seq_vec, features])
             
     print(seq_vec)
 
