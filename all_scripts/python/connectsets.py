@@ -27,8 +27,7 @@ def feature_vecs (protid,  window):
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset : i+offset+1].flatten()
             seq_vec.append(features)
-            print (seq_vec)
-
+            
     pickle.dump(seq_vec, open(dumps, "wb"))
             
     
