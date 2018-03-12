@@ -2,15 +2,6 @@ import pickle
 import numpy as np
 
 
-"""def extract_feature(features, window):
-    offset = window // 2
-    for i in range(offset, features.shape[0]-offset):
-        feature = features[i-offset : i+offset+1].flatten()
-        yield feature"""
-        
-        
-
-
 def get_sets(filename):
     protid = []
     structures = []
@@ -28,26 +19,26 @@ def feature_vecs (protid,  window):
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2  
 
-    seq_vec = np.array([])
+    seq_vec = []
     for prot in protid:
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)     
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset : i+offset+1].flatten()
-            seq_vec = np.concatenate([seq_vec, features])
-            
-    print(seq_vec)
+            seq_vec = seq_vec.append(features)
 
-"""def fit_model():
+    pickle.dump(seq_vec, open(dumps, "wb"))
+            
     
-    X = np.concatenate(feat_vec for feat_vec, str_vec in vectorize(window))
-    print (X)"""
+
     
 
 if __name__ == "__main__":
-    window = 13 
-    protid, structures = (get_sets("datasets/3sstride_full.txt"))  
-    feature_vecs(protid, window)
+    for window in range ((13,23), 2)
+        window = window 
+        dumps = "seq_vec"+window+".sav"
+        protid, structures = (get_sets("datasets/3sstride_full.txt"))  
+        feature_vecs(protid, window)
     
     print("all done")
