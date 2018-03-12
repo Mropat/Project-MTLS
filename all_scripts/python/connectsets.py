@@ -26,7 +26,8 @@ def feature_vecs (protid,  window):
         pssm = np.append(paddingmtx, pssm, axis=0)     
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset : i+offset+1].flatten()
-            seq_vec = seq_vec.append(features)
+            seq_vec.append(features)
+            print (seq_vec)
 
     pickle.dump(seq_vec, open(dumps, "wb"))
             
@@ -35,9 +36,9 @@ def feature_vecs (protid,  window):
     
 
 if __name__ == "__main__":
-    for window in range ((13,23), 2):
+    for window in range (13,23, 2):
         window = window 
-        dumps = "seq_vec"+window+".sav"
+        dumps = "seq_vec"+str(window)+".sav"
         protid, structures = (get_sets("datasets/3sstride_full.txt"))  
         feature_vecs(protid, window)
     
