@@ -3,18 +3,6 @@ import numpy as np
 from sklearn.svm import LinearSVC
 
 
-def encodedict():
-
-    pssmlist = list("ARNDCQEGHILKMFPSTWYV")
-    identity = np.identity(len(pssmlist))
-    pssmdict = {"0": np.zeros(len(pssmlist))}
-
-    for i, acid in enumerate(pssmlist):
-        pssmdict[acid] = identity[i]
-
-    return pssmdict
-
-
 def predict_fasta(filename, window, pssmdict):
 
     prot_id = []
@@ -38,7 +26,7 @@ def predict_fasta(filename, window, pssmdict):
 
     meanscore = []
 
-    for i, pidn in enumerate(prot_id):
+    for i, pidn in enumerate(prot_id[100:120]):
         true_str = structure[i]
         seq = sequence[i]
         seq_vector = []
@@ -63,7 +51,7 @@ def predict_fasta(filename, window, pssmdict):
         x_vec = np.asarray(x_vec)
 
 
-        linsvc = pickle.load(open ("linsvc15.sav", "rb"))
+        linsvc = pickle.load(open ("models/linsvc15.sav", "rb"))
         prediction = linsvc.score(x_vec, true_str_vec)
         meanscore.append(prediction)
 
@@ -72,5 +60,7 @@ def predict_fasta(filename, window, pssmdict):
 
 
 if __name__ == "__main__":
+    pssmdict = pickle.load(open("all_scripts/python/PSSM/pssmdict.sav", "rb+"))
     window = 15
-    predict_fasta("datasets/3sstride_full.txt", window, encodedict())
+    predict_fasta("datasets/Stride_reduced.fasta", window, pssmdict)
+    predict_fasta("datasets/3sstride_full.txt", window, pssmdict)
