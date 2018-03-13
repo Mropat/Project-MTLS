@@ -3,3 +3,4 @@ __pycache__
 *.sav
 *.stride
 *.pdb
+__.vscode__
