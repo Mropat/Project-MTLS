@@ -2,7 +2,7 @@ import numpy as np
 import os
 
 
-def get_assigned(path):
+def get_assigned_reduced(path):
     for filename in os.listdir(path):
         with open(path + filename, "r") as file:
             pdbid = ""
@@ -37,4 +37,4 @@ def get_assigned(path):
 if __name__ == "__main__":
 
     path = "stride_out/"
-    get_assigned(path)
+    get_assigned_reduced(path)

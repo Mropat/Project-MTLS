@@ -7,7 +7,7 @@ import pickle
 def getmtx(path):
     for filename in os.listdir(path):
         with open (path + "/" + filename, "r") as file:
-            matrix = np.genfromtxt(file, usecols=range(2,22), skip_header=3, skip_footer=5)
+            matrix = np.genfromtxt(file, usecols=range(22,42), skip_header=3, skip_footer=5)
             filename = filename[:-5]
             yield filename, matrix
 
@@ -28,12 +28,12 @@ def scaledmtx(matrix):
 
 
 if __name__ == "__main__":
-    path = "input_dir/PSSM_out"
+    path = "pssm/PSSM_out"
 
     dictorize = {}
     for filename, matrix in getmtx(path):
         dictorize[filename] = scaledmtx(matrix)
 
-    pickle.dump(dictorize, open ("PSSMdict_large.sav", "wb"))
+    pickle.dump(dictorize, open ("PSSMdict_large_other.sav", "wb"))
 
     
