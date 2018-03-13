@@ -29,7 +29,7 @@ def get_assigned(path):
                     wh.write(">" + pdbid + "\n")
                     wh.write(sequence + "\n")
 
-                    for r in ([" ", "C"], ["I", "H"], ["E", "S"], ["G", "C"], ["T", "C"], ["B", "S"]):
+                    for r in ([" ", "C"], ["I", "H"], ["E", "S"], ["G", "C"], ["T", "C"], ["B", "S"], ["b", "S"]):
                         assigned = assigned.replace(*r)
                     wh.write(assigned[:len(sequence)] +  "\n" )             
                         
