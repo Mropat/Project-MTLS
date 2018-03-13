@@ -1,0 +1,9 @@
+CATH class : "Alpha Beta"
+Assembly composition : "protein structure"
+Assembly type : monomer
+Assembly form : homo
+SCOP class : "Alpha and beta proteins (a/b)"
+Release year : [2000 TO 2005]
+Superkingdom : Eukaryota
+Resolution : [2.5 TO 3]
+Molecule type : protein

@@ -1,18 +1,13 @@
-import numpy as np
-from sklearn.preprocessing import OneHotEncoder as OHE
-from sklearn.svm import LinearSVC
 import pickle
+import numpy as np
+from sklearn.svm import LinearSVC
 
 
 def predict_fasta(filename, window):
     
     prot_id = []
     sequence = []
-    padding = ""   
-      
-
-    for l in range(window//2):
-        padding = padding + "0"  
+    padding = "0"*window//2    
 
     with open(filename,"r") as fh:
         line = fh.readline()
@@ -26,21 +21,7 @@ def predict_fasta(filename, window):
             line = fh.readline()
 
 
-    for pidn in range (len(prot_id)):
-        seq = sequence[pidn]
-        pid = prot_id[pidn]
-                    
-        test_vector = []
-        test_vector_frames = []
-            
-        for res in seq:
-            if res.isalpha():
-                test_vector.append(ord(res))
-            else:
-                test_vector.append(int(res))
 
-
-        vectenc = pickle.load(open ("ohe.sav", "rb"))
 
         for i in range(len(test_vector)-window+1):
             test_vector_frames.append(test_vector[i: i+window])
@@ -61,8 +42,11 @@ def predict_fasta(filename, window):
             wh.write(seq[window//2 : len(seq) - window//2] + "\n")
             wh.write(result + "\n"+"\n")
 
+
+
+
+
 if __name__ == "__main__":
     window = 21
     encoder = OHE()
     predict_fasta("testset.txt", window)
-    

@@ -1,3 +1,5 @@
 *.psiblast
 __pycache__
 *.sav
+*.stride
+*.pdb

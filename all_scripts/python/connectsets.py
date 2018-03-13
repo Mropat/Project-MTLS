@@ -49,7 +49,7 @@ def feature_vecs (protid,  window):
 def train_model():
     str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = LinearSVC()
+    clf = LinearSVC(C=1.2)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
     clf.fit(X, y)
@@ -63,10 +63,10 @@ def train_model():
     
 
 if __name__ == "__main__":     
-    for window in range (25,27, 2):
+    for window in range (21,23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
-        dumpmodel = "linsvc%i.sav" % window
+        dumpmodel = "linsvcbal%i.sav" % window
         train_model()
     
     print("all done")

@@ -50,7 +50,6 @@ def train_model():
     y = np.array(str_vec)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb"))
-
     scoring = ['precision_macro', 'recall_macro']
     scores = cross_validate(clf, X, y, scoring =scoring, cv = 3)
 
