@@ -1,0 +1,15 @@
+Diary Tue March13
+
+1. Downloaded list of sequences from PDB: see Stride_pdb_set.txt for search parameters
+2. Downloaded PDB files for the list of IDs generated
+3. Assigned secondary structure to sequences using Stride 
+	Reduced data - many proteins had more than one chain, with similar structure.
+	Selected only chains A and X per unique pdb entry
+4. Wrote parser for Stride output files containing all chains
+5. Wrote additional parser for Stride output files with only one chain.
+6. Stride parser also reduces 8-state assignment to 3-state assignment by most rigid criteria (same as original dataset)
+7. Tested optimized model of LinearSVC of window size 21 (trained on sequence only) on new dataset - prediction score 71%
+8. Tested PSSM predictor on old and new datasets - prediction score ~ 50%
+9. Generated a new dictionary which uses sigmoidal of BLOSUM matrix instead of identity matrix - Prediction score increased to 58%
+10. Trained and optimized a random forest classifier at window size 21
+
