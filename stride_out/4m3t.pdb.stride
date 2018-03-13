@@ -1,0 +1,205 @@
+REM  -------------------- Secondary structure summary -------------------  4M3T
+REM                                                                        4M3T
+CHN  4m3t.pdb A                                                            4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  1    MKEFYLTVEQIGDSIFERYIDSNGRERTREVEYKPSLFAHCPESQATKYF   50          4M3T
+STR          EEEEEEEETTEEEEEEETTTT EEEEEE    EEEEE TTTT    B               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  51   DIYGKPCTRKLFANMRDASQWIKRMEDIGLEALGMDDFKLAYLSDTYNYE  100          4M3T
+STR       TTTT BEEEEETTTHHHHHHHHHHHHHH    B TTTHHHHHHHHH                   4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  101  IKYDHTKIRVANFDIEVTSPDGFPEPSQAKHPIDAITHYDSIDDRFYVFD  150          4M3T
+STR           GGG  EEEEEEE  TTTT  TTTTT     EEEEEETTTTEEEEEE               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  151  LLNSPYGNVEEWSIEIAAKLQEQGGDEVPSEIIDKIIYMPFDNEKELLME  200          4M3T
+STR       E EETTEE     HHHHH  GGG      GGGGGGEEEEEE  HHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  201  YLNFWQQKTPVILTGWNVESFAIPYVYNRIKNIFGESTAKRLSPHRKTRV  250          4M3T
+STR       HHHHHHH  TTEEETTTTTTHHHHHHHHHHHHHH HHHHGGGTTTT EEE               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  251  KVIENMYGSREIITLFGISVLDYIDLYKKFSFTNQPSYSLDYISEFELNV  300          4M3T
+STR       EEEETTTTEEEEEEETTTEE  HHHHHHHHH   TTTT HHHHHHHHH                 4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  301  GKLKYDGPISKLRESNHQRYISYNIIAVYRVLQIDAKRQFINLSLDMGYY  350          4M3T
+STR               GGGHHHH HHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  351  AKIQIQSVFSPIKTWDAIIFNSLKEQNKVIPQGRSHPVQPYPGAFVKEPI  400          4M3T
+STR       H   GGGGG HHHHHHHHHHHHHHH  B                 EE                  4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  401  PNRYKYVMSFDLTSAYPSIIRQVNISPETIAGTFKVAPLHDYINAVAERP  450          4M3T
+STR        EETTTEEEEEETTHHHHHHHHH  TTTTEEEE     HHHHHH                     4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  451  SDVYSCSPNGMMYYKDRDGVVPTEITKVFNQRKEHKGYMLAAQRNGEIIK  500          4M3T
+STR       TTTTEEETTTEEETTTT  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  501  EALHNPNLSVDEPLDVDYRFDFSDEIKEKIKKLSAKSLNEMLFRAQRTEV  550          4M3T
+STR       HHHTTTBTT       TTTT   HHHHHHHH  BHHHHHHHHHHHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  551  AGMTAQINRKALINGLAGALGNVWFRYYDLRNATAITTFGQMALQWIERK  600          4M3T
+STR       HHHHHHHHHHHHHHHHHHHH TTTTTTT HHHHHHHHHHHHHHHHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  601  VNEYLNEVCGTEGEAFVLYGDTDSIYVSADKIIDKVGESKFRDTNHWVDF  650          4M3T
+STR       HHHHHHHHH TTTTTTEEEEETTEEEEEHHHHHHHH GGG   HHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  651  LDKFARERMEPAIDRGFREMCEYMNNKQHLMFMDREAIAGPPLGSKGIGG  700          4M3T
+STR       HHHHHHHHHHHHHHHHHHHHHHHH        EEEEEEE  TTTT    E               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  701  FWTGKKRYALNVWDMEGTRYAEPKLKIMGLETQKSSTPKAVQKALKECIR  750          4M3T
+STR       EEEETTEEEEEEEEETTEEEEEEEEEEETTGGGTTTT HHHHHHHHHHHH               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  751  RMLQEGEESLQEYFKEFEKEFRQLNYISIASVSSANNIAKYDVGGFPGPK  800          4M3T
+STR       HHHHH HHHHHHHHHHHHHHGGG  GGGG EEEEETTGGGGEETTEETTT               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  801  CPFHIRGILTYNRAIKGNIDAPQVVEGEKVYVLPLREGNPFGDKCIAWPS  850          4M3T
+STR       T HHHHHHHHHHHHHTTTTTT   TTTEEEEEEEBTTTTTTT  EEEEET               4M3T
+REM                                                                        4M3T
+REM                .         .         .         .         .               4M3T
+SEQ  851  GTEITDLIKDDVLHWMDYTVLLEKTFIKPLEGFTSAAKLDYEKKASLFDM  900          4M3T
+STR       TT   HHHHHHHHHHB HHHHHHHHHHHHHHHHHHHH  TTTT   GGGG               4M3T
+REM                                                                        4M3T
+REM                                                                        4M3T
+SEQ  901  F                                                   901          4M3T
+STR                                                                        4M3T
+REM                                                                        4M3T
+REM                                                                        4M3T
+REM                                                                        4M3T
+LOC  AlphaHelix   MET    65 A      ILE     78 A                            4M3T
+LOC  AlphaHelix   PHE    88 A      THR     96 A                            4M3T
+LOC  AlphaHelix   ILE   164 A      ALA    168 A                            4M3T
+LOC  AlphaHelix   GLU   194 A      GLN    207 A                            4M3T
+LOC  AlphaHelix   PHE   221 A      PHE    234 A                            4M3T
+LOC  AlphaHelix   GLU   236 A      ALA    239 A                            4M3T
+LOC  AlphaHelix   TYR   273 A      SER    281 A                            4M3T
+LOC  AlphaHelix   LEU   290 A      LEU    298 A                            4M3T
+LOC  AlphaHelix   LEU   312 A      SER    315 A                            4M3T
+LOC  AlphaHelix   HIS   317 A      ARG    338 A                            4M3T
+LOC  AlphaHelix   PHE   340 A      ALA    351 A                            4M3T
+LOC  AlphaHelix   PRO   361 A      GLU    375 A                            4M3T
+LOC  AlphaHelix   ALA   415 A      VAL    423 A                            4M3T
+LOC  AlphaHelix   LEU   439 A      ASN    444 A                            4M3T
+LOC  AlphaHelix   VAL   470 A      LEU    503 A                            4M3T
+LOC  AlphaHelix   ASP   524 A      LYS    531 A                            4M3T
+LOC  AlphaHelix   ALA   535 A      LEU    570 A                            4M3T
+LOC  AlphaHelix   LEU   580 A      CYS    609 A                            4M3T
+LOC  AlphaHelix   ALA   629 A      VAL    636 A                            4M3T
+LOC  AlphaHelix   THR   644 A      MET    674 A                            4M3T
+LOC  AlphaHelix   LYS   739 A      GLU    755 A                            4M3T
+LOC  AlphaHelix   GLU   757 A      GLU    770 A                            4M3T
+LOC  AlphaHelix   PHE   803 A      ILE    815 A                            4M3T
+LOC  AlphaHelix   ASP   856 A      TRP    865 A                            4M3T
+LOC  AlphaHelix   TYR   868 A      ALA    887 A                            4M3T
+LOC  310Helix     HIS   105 A      LYS    107 A                            4M3T
+LOC  310Helix     GLN   171 A      GLN    173 A                            4M3T
+LOC  310Helix     SER   180 A      LYS    185 A                            4M3T
+LOC  310Helix     LYS   240 A      LEU    242 A                            4M3T
+LOC  310Helix     ILE   309 A      LYS    311 A                            4M3T
+LOC  310Helix     ILE   355 A      PHE    359 A                            4M3T
+LOC  310Helix     GLU   638 A      LYS    640 A                            4M3T
+LOC  310Helix     GLU   731 A      GLN    733 A                            4M3T
+LOC  310Helix     PHE   771 A      GLN    773 A                            4M3T
+LOC  310Helix     TYR   776 A      ILE    779 A                            4M3T
+LOC  310Helix     ILE   788 A      TYR    791 A                            4M3T
+LOC  310Helix     LEU   897 A      MET    900 A                            4M3T
+LOC  Strand       PHE     4 A      ILE     11 A                            4M3T
+LOC  Strand       SER    14 A      ILE     20 A                            4M3T
+LOC  Strand       GLU    26 A      VAL     31 A                            4M3T
+LOC  Strand       SER    36 A      HIS     40 A                            4M3T
+LOC  Strand       CYS    57 A      LEU     61 A                            4M3T
+LOC  Strand       VAL   110 A      GLU    116 A                            4M3T
+LOC  Strand       ALA   135 A      ASP    140 A                            4M3T
+LOC  Strand       ARG   145 A      LEU    151 A                            4M3T
+LOC  Strand       ASN   153 A      SER    154 A                            4M3T
+LOC  Strand       GLY   157 A      ASN    158 A                            4M3T
+LOC  Strand       ILE   186 A      PHE    191 A                            4M3T
+LOC  Strand       ILE   212 A      THR    214 A                            4M3T
+LOC  Strand       THR   248 A      GLU    254 A                            4M3T
+LOC  Strand       SER   259 A      LEU    265 A                            4M3T
+LOC  Strand       SER   269 A      VAL    270 A                            4M3T
+LOC  Strand       VAL   396 A      LYS    397 A                            4M3T
+LOC  Strand       ASN   402 A      ARG    403 A                            4M3T
+LOC  Strand       VAL   407 A      LEU    412 A                            4M3T
+LOC  Strand       ILE   430 A      THR    433 A                            4M3T
+LOC  Strand       SER   455 A      SER    457 A                            4M3T
+LOC  Strand       MET   461 A      TYR    463 A                            4M3T
+LOC  Strand       VAL   617 A      ASP    621 A                            4M3T
+LOC  Strand       SER   624 A      SER    628 A                            4M3T
+LOC  Strand       MET   683 A      ALA    689 A                            4M3T
+LOC  Strand       GLY   700 A      GLY    704 A                            4M3T
+LOC  Strand       ARG   707 A      MET    715 A                            4M3T
+LOC  Strand       THR   718 A      MET    728 A                            4M3T
+LOC  Strand       SER   781 A      ALA    785 A                            4M3T
+LOC  Strand       ASP   792 A      VAL    793 A                            4M3T
+LOC  Strand       PHE   796 A      PRO    797 A                            4M3T
+LOC  Strand       GLU   828 A      PRO    834 A                            4M3T
+LOC  Strand       CYS   845 A      PRO    849 A                            4M3T
+LOC  TurnII'      ILE    11 A      SER     14 A                            4M3T
+LOC  TurnI        ASP    21 A      GLY     24 A                            4M3T
+LOC  TurnIV       PRO    42 A      GLN     45 A                            4M3T
+LOC  TurnI        ASP    51 A      GLY     54 A                            4M3T
+LOC  TurnIV       PHE    62 A      MET     65 A                            4M3T
+LOC  TurnVIII     MET    85 A      PHE     88 A                            4M3T
+LOC  TurnI        SER   119 A      GLY    122 A                            4M3T
+LOC  TurnI        GLU   125 A      GLN    128 A                            4M3T
+LOC  TurnIV       PRO   126 A      ALA    129 A                            4M3T
+LOC  TurnIV       ASP   140 A      ASP    143 A                            4M3T
+LOC  TurnI        SER   141 A      ASP    144 A                            4M3T
+LOC  TurnI        SER   154 A      GLY    157 A                            4M3T
+LOC  TurnVIII     PRO   210 A      LEU    213 A                            4M3T
+LOC  TurnIV       GLY   215 A      VAL    218 A                            4M3T
+LOC  TurnI        ASN   217 A      SER    220 A                            4M3T
+LOC  TurnI        VAL   218 A      PHE    221 A                            4M3T
+LOC  TurnI        SER   243 A      ARG    246 A                            4M3T
+LOC  TurnVIII     ASN   255 A      GLY    258 A                            4M3T
+LOC  TurnII       LEU   265 A      ILE    268 A                            4M3T
+LOC  TurnVIII     GLN   285 A      TYR    288 A                            4M3T
+LOC  TurnVIII     TYR   404 A      VAL    407 A                            4M3T
+LOC  TurnIV       LEU   412 A      ALA    415 A                            4M3T
+LOC  TurnI        SER   426 A      THR    429 A                            4M3T
+LOC  TurnIV       PRO   427 A      ILE    430 A                            4M3T
+LOC  TurnIV       SER   451 A      TYR    454 A                            4M3T
+LOC  TurnI        SER   457 A      GLY    460 A                            4M3T
+LOC  TurnIV       TYR   464 A      ARG    467 A                            4M3T
+LOC  TurnIV       LEU   503 A      PRO    506 A                            4M3T
+LOC  TurnI        ASP   517 A      PHE    520 A                            4M3T
+LOC  TurnI        ASN   572 A      PHE    575 A                            4M3T
+LOC  TurnI        PHE   575 A      TYR    578 A                            4M3T
+LOC  TurnIV       THR   611 A      GLU    614 A                            4M3T
+LOC  TurnVIII     ALA   615 A      LEU    618 A                            4M3T
+LOC  TurnIV       ASP   621 A      SER    624 A                            4M3T
+LOC  TurnII       PRO   692 A      SER    695 A                            4M3T
+LOC  TurnII       GLY   704 A      ARG    707 A                            4M3T
+LOC  TurnVIII     VAL   712 A      MET    715 A                            4M3T
+LOC  TurnIV       ASP   714 A      GLY    717 A                            4M3T
+LOC  TurnI'       MET   715 A      THR    718 A                            4M3T
+LOC  TurnVIII     TYR   720 A      PRO    723 A                            4M3T
+LOC  TurnIV       ILE   727 A      LEU    730 A                            4M3T
+LOC  TurnI        LYS   734 A      THR    737 A                            4M3T
+LOC  TurnIV       ALA   785 A      ILE    788 A                            4M3T
+LOC  TurnIV       ASP   792 A      GLY    795 A                            4M3T
+LOC  TurnI'       VAL   793 A      PHE    796 A                            4M3T
+LOC  TurnII       GLY   798 A      CYS    801 A                            4M3T
+LOC  TurnII       ILE   815 A      ASN    818 A                            4M3T
+LOC  TurnI        ASN   818 A      ALA    821 A                            4M3T
+LOC  TurnII       VAL   825 A      GLU    828 A                            4M3T
+LOC  TurnII       ARG   836 A      ASN    839 A                            4M3T
+LOC  TurnI        ASN   839 A      GLY    842 A                            4M3T
+LOC  TurnII       PRO   849 A      THR    852 A                            4M3T
+LOC  TurnVIII     ASP   890 A      LYS    893 A                            4M3T
+LOC  GammaInv     ASN   507 A      SER    509 A                            4M3T

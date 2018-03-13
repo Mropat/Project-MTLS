@@ -1,0 +1,212 @@
+REM  -------------------- Secondary structure summary -------------------  4EEG
+REM                                                                        4EEG
+CHN  4eeg.pdb A                                                            4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  1    SLPACPEESPLLVGPMLIEFNMPVDLELVAKQNPNVKMGGRYAPRDCVSP   50          4EEG
+STR          B TTTTTTT  B          HHHHHHHTTTTBTTTEE TTTTB                 4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  51   HKVAIIIPFRNRQEHLKYWLYYLHPVLQRQQLDYGIYVINQAGDTIFNRA  100          4EEG
+STR        EEEEEEEETTTHHHHHHHHHHHHHHHHHH  EEEEEEEEE       HH               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  101  KLLNVGFQEALKDYDYTCFVFSDVDLIPMNDHNAYRCFSQPRHISVAMDK  150          4EEG
+STR       HHHHHHHHHHHHHTTT EEEEETTTEEE BTTTT   TTTTEETTTEEGG               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  151  FGFSLPYVQYFGGVSALSKQQFLTINGFPNNYWGWGGEDDDIFNRLVFRG  200          4EEG
+STR       GTTBTTTTTT   EEEEEHHHHHHH   TTTT  B  HHHHHHHHHHHH                4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  201  MSISRPNAVVGTTRHIRHSRDKKNEPNPQRFDRIAHTKETMLSDGLNSLT  250          4EEG
+STR          B  TTTTTEEEE     TTTTTB  HHHHHHHHHHHHHH   GGG                 4EEG
+REM                                                                        4EEG
+REM                .         .                                             4EEG
+SEQ  251  YQVLDVQRYPLYTQITVDIGTPS                             273          4EEG
+STR        EEEEEEEETTEEEEEEE                                               4EEG
+REM                                                                        4EEG
+CHN  4eeg.pdb B                                                            4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  1    SLPACPEESPLLVGPMLIEFNMPVDLELVAKQNPNVKMGGRYAPRDCVSP   50          4EEG
+STR          B TTTTTTT  B          HHHHHHHTTTTBTTTEE TTTTB                 4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  51   HKVAIIIPFRNRQEHLKYWLYYLHPVLQRQQLDYGIYVINQAGDTIFNRA  100          4EEG
+STR        EEEEEEEETTTHHHHHHHHHHHHHHHHHH  EEEEEEEEE       HH               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  101  KLLNVGFQEALKDYDYTCFVFSDVDLIPMNDHNAYRCFSQPRHISVAMDK  150          4EEG
+STR       HHHHHHHHHHHHHTTT EEEEETTTEEE BTTT    TTTTEETTTEEGG               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  151  FGFSLPYVQYFGGVSALSKQQFLTINGFPNNYWGWGGEDDDIFNRLVFRG  200          4EEG
+STR       GTTBTTTTTT   EEEEEHHHHHHH   TTTT  B  HHHHHHHHHHHH                4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  201  MSISRPNAVVGTTRHIRHSRDKKNEPNPQRFDRIAHTKETMLSDGLNSLT  250          4EEG
+STR          B  TTTTTEEEE     TTTT B  HHHHHHHHHHHHHTTT GGG                 4EEG
+REM                                                                        4EEG
+REM                .         .                                             4EEG
+SEQ  251  YQVLDVQRYPLYTQITVDIGTPS                             273          4EEG
+STR        EEEEEEEETTEEEEEEE                                               4EEG
+REM                                                                        4EEG
+CHN  4eeg.pdb C                                                            4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  1    SLPACPEESPLLVGPMLIEFNMPVDLELVAKQNPNVKMGGRYAPRDCVSP   50          4EEG
+STR          B TTTTTTT  B          HHHHHHHTTTTBTTTEE TTTTB                 4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  51   HKVAIIIPFRNRQEHLKYWLYYLHPVLQRQQLDYGIYVINQAGDTIFNRA  100          4EEG
+STR        EEEEEEEETTTHHHHHHHHHHHHHHHHHH  EEEEEEEEE       HH               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  101  KLLNVGFQEALKDYDYTCFVFSDVDLIPMNDHNAYRCFSQPRHISVAMDK  150          4EEG
+STR       HHHHHHHHHHHHHTTT EEEEETTTEEE BTTT    TTTTEETTTEEGG               4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  151  FGFSLPYVQYFGGVSALSKQQFLTINGFPNNYWGWGGEDDDIFNRLVFRG  200          4EEG
+STR       GTTBTTTTTT   EEEEEHHHHHHH         B  HHHHHHHHHHHH                4EEG
+REM                                                                        4EEG
+REM                .         .         .         .         .               4EEG
+SEQ  201  MSISRPNAVVGTTRHIRHSRDKKNEPNPQRFDRIAHTKETMLSDGLNSLT  250          4EEG
+STR          B    GGGEEEE     TTTT B  HHHHHHHHHHHHHTTT GGG                 4EEG
+REM                                                                        4EEG
+REM                .         .                                             4EEG
+SEQ  251  YQVLDVQRYPLYTQITVDIGTPS                             273          4EEG
+STR        EEEEEEEETTEEEEEEE                                               4EEG
+REM                                                                        4EEG
+REM                                                                        4EEG
+REM                                                                        4EEG
+LOC  AlphaHelix   LEU   151 A      GLN    157 A                            4EEG
+LOC  AlphaHelix   GLN   188 A      GLN    205 A                            4EEG
+LOC  AlphaHelix   ARG   224 A      ASP    238 A                            4EEG
+LOC  AlphaHelix   LYS   294 A      ILE    300 A                            4EEG
+LOC  AlphaHelix   GLU   313 A      ARG    324 A                            4EEG
+LOC  AlphaHelix   GLN   354 A      LEU    367 A                            4EEG
+LOC  AlphaHelix   LEU   151 B      GLN    157 B                            4EEG
+LOC  AlphaHelix   GLN   188 B      GLN    205 B                            4EEG
+LOC  AlphaHelix   ARG   224 B      ASP    238 B                            4EEG
+LOC  AlphaHelix   LYS   294 B      ILE    300 B                            4EEG
+LOC  AlphaHelix   GLU   313 B      ARG    324 B                            4EEG
+LOC  AlphaHelix   GLN   354 B      MET    366 B                            4EEG
+LOC  AlphaHelix   LEU   151 C      GLN    157 C                            4EEG
+LOC  AlphaHelix   GLN   188 C      GLN    205 C                            4EEG
+LOC  AlphaHelix   ARG   224 C      ASP    238 C                            4EEG
+LOC  AlphaHelix   LYS   294 C      ILE    300 C                            4EEG
+LOC  AlphaHelix   GLU   313 C      ARG    324 C                            4EEG
+LOC  AlphaHelix   GLN   354 C      MET    366 C                            4EEG
+LOC  310Helix     ASP   274 A      PHE    276 A                            4EEG
+LOC  310Helix     LEU   371 A      SER    373 A                            4EEG
+LOC  310Helix     ASP   274 B      PHE    276 B                            4EEG
+LOC  310Helix     LEU   371 B      SER    373 B                            4EEG
+LOC  310Helix     ASP   274 C      PHE    276 C                            4EEG
+LOC  310Helix     VAL   334 C      GLY    336 C                            4EEG
+LOC  310Helix     LEU   371 C      SER    373 C                            4EEG
+LOC  Strand       ARG   166 A      TYR    167 A                            4EEG
+LOC  Strand       LYS   177 A      PHE    184 A                            4EEG
+LOC  Strand       ASP   208 A      GLN    216 A                            4EEG
+LOC  Strand       CYS   243 A      SER    247 A                            4EEG
+LOC  Strand       LEU   251 A      PRO    253 A                            4EEG
+LOC  Strand       ARG   267 A      HIS    268 A                            4EEG
+LOC  Strand       ALA   272 A      MET    273 A                            4EEG
+LOC  Strand       VAL   289 A      SER    293 A                            4EEG
+LOC  Strand       THR   337 A      HIS    340 A                            4EEG
+LOC  Strand       GLN   377 A      TYR    384 A                            4EEG
+LOC  Strand       TYR   387 A      ASP    393 A                            4EEG
+LOC  Strand       ARG   166 B      TYR    167 B                            4EEG
+LOC  Strand       LYS   177 B      PHE    184 B                            4EEG
+LOC  Strand       ASP   208 B      GLN    216 B                            4EEG
+LOC  Strand       CYS   243 B      SER    247 B                            4EEG
+LOC  Strand       LEU   251 B      PRO    253 B                            4EEG
+LOC  Strand       ARG   267 B      HIS    268 B                            4EEG
+LOC  Strand       ALA   272 B      MET    273 B                            4EEG
+LOC  Strand       VAL   289 B      SER    293 B                            4EEG
+LOC  Strand       THR   337 B      HIS    340 B                            4EEG
+LOC  Strand       GLN   377 B      TYR    384 B                            4EEG
+LOC  Strand       TYR   387 B      ASP    393 B                            4EEG
+LOC  Strand       ARG   166 C      TYR    167 C                            4EEG
+LOC  Strand       LYS   177 C      PHE    184 C                            4EEG
+LOC  Strand       ASP   208 C      GLN    216 C                            4EEG
+LOC  Strand       CYS   243 C      SER    247 C                            4EEG
+LOC  Strand       LEU   251 C      PRO    253 C                            4EEG
+LOC  Strand       ARG   267 C      HIS    268 C                            4EEG
+LOC  Strand       ALA   272 C      MET    273 C                            4EEG
+LOC  Strand       VAL   289 C      SER    293 C                            4EEG
+LOC  Strand       THR   337 C      HIS    340 C                            4EEG
+LOC  Strand       GLN   377 C      TYR    384 C                            4EEG
+LOC  Strand       TYR   387 C      ASP    393 C                            4EEG
+LOC  TurnVIII     PRO   131 A      SER    134 A                            4EEG
+LOC  TurnI        SER   134 A      LEU    137 A                            4EEG
+LOC  TurnI        ASN   158 A      VAL    161 A                            4EEG
+LOC  TurnII       LYS   162 A      GLY    165 A                            4EEG
+LOC  TurnIV       MET   163 A      ARG    166 A                            4EEG
+LOC  TurnI        PRO   169 A      CYS    172 A                            4EEG
+LOC  TurnIV       PHE   184 A      ARG    187 A                            4EEG
+LOC  TurnI        ASP   248 A      LEU    251 A                            4EEG
+LOC  TurnI        ASN   255 A      ASN    258 A                            4EEG
+LOC  TurnVIII     ASP   256 A      ALA    259 A                            4EEG
+LOC  TurnVIII     PHE   263 A      PRO    266 A                            4EEG
+LOC  TurnIV       HIS   268 A      VAL    271 A                            4EEG
+LOC  TurnVIII     SER   270 A      MET    273 A                            4EEG
+LOC  TurnIV       PHE   276 A      SER    279 A                            4EEG
+LOC  TurnIV       LEU   280 A      VAL    283 A                            4EEG
+LOC  TurnI        TYR   282 A      TYR    285 A                            4EEG
+LOC  TurnI        PRO   304 A      TYR    307 A                            4EEG
+LOC  TurnIV       ASN   332 A      VAL    335 A                            4EEG
+LOC  TurnI        ALA   333 A      GLY    336 A                            4EEG
+LOC  TurnI        VAL   334 A      THR    337 A                            4EEG
+LOC  TurnII       ASP   346 A      ASN    349 A                            4EEG
+LOC  TurnIV       LYS   347 A      GLU    350 A                            4EEG
+LOC  TurnI        TYR   384 A      TYR    387 A                            4EEG
+LOC  GammaInv     TYR   239 A      TYR    241 A                            4EEG
+LOC  TurnVIII     PRO   131 B      SER    134 B                            4EEG
+LOC  TurnI        SER   134 B      LEU    137 B                            4EEG
+LOC  TurnI        ASN   158 B      VAL    161 B                            4EEG
+LOC  TurnII       LYS   162 B      GLY    165 B                            4EEG
+LOC  TurnIV       MET   163 B      ARG    166 B                            4EEG
+LOC  TurnI        PRO   169 B      CYS    172 B                            4EEG
+LOC  TurnIV       PHE   184 B      ARG    187 B                            4EEG
+LOC  TurnI        ASP   248 B      LEU    251 B                            4EEG
+LOC  TurnI        ASN   255 B      ASN    258 B                            4EEG
+LOC  TurnVIII     PHE   263 B      PRO    266 B                            4EEG
+LOC  TurnIV       HIS   268 B      VAL    271 B                            4EEG
+LOC  TurnIV       SER   270 B      MET    273 B                            4EEG
+LOC  TurnIV       PHE   276 B      SER    279 B                            4EEG
+LOC  TurnIV       LEU   280 B      VAL    283 B                            4EEG
+LOC  TurnI        TYR   282 B      TYR    285 B                            4EEG
+LOC  TurnI        PRO   304 B      TYR    307 B                            4EEG
+LOC  TurnIV       ASN   332 B      VAL    335 B                            4EEG
+LOC  TurnI        ALA   333 B      GLY    336 B                            4EEG
+LOC  TurnI        VAL   334 B      THR    337 B                            4EEG
+LOC  TurnII       ASP   346 B      ASN    349 B                            4EEG
+LOC  TurnI        MET   366 B      ASP    369 B                            4EEG
+LOC  TurnI        TYR   384 B      TYR    387 B                            4EEG
+LOC  GammaInv     TYR   239 B      TYR    241 B                            4EEG
+LOC  TurnVIII     PRO   131 C      SER    134 C                            4EEG
+LOC  TurnI        SER   134 C      LEU    137 C                            4EEG
+LOC  TurnI        ASN   158 C      VAL    161 C                            4EEG
+LOC  TurnII       LYS   162 C      GLY    165 C                            4EEG
+LOC  TurnIV       MET   163 C      ARG    166 C                            4EEG
+LOC  TurnI        PRO   169 C      CYS    172 C                            4EEG
+LOC  TurnIV       PHE   184 C      ARG    187 C                            4EEG
+LOC  TurnI        ASP   248 C      LEU    251 C                            4EEG
+LOC  TurnI        ASN   255 C      ASN    258 C                            4EEG
+LOC  TurnVIII     PHE   263 C      PRO    266 C                            4EEG
+LOC  TurnIV       HIS   268 C      VAL    271 C                            4EEG
+LOC  TurnVIII     SER   270 C      MET    273 C                            4EEG
+LOC  TurnI'       PHE   276 C      SER    279 C                            4EEG
+LOC  TurnIV       LEU   280 C      VAL    283 C                            4EEG
+LOC  TurnI        TYR   282 C      TYR    285 C                            4EEG
+LOC  TurnII       ASP   346 C      ASN    349 C                            4EEG
+LOC  TurnI        MET   366 C      ASP    369 C                            4EEG
+LOC  TurnI        TYR   384 C      TYR    387 C                            4EEG
+LOC  GammaInv     TYR   239 C      TYR    241 C                            4EEG
+LOC  Disulfide    CYS   130 A      CYS    172 A            PDB             4EEG
+LOC  Disulfide    CYS   243 A      CYS    262 A            PDB             4EEG
+LOC  Disulfide    CYS   130 B      CYS    172 B            PDB             4EEG
+LOC  Disulfide    CYS   243 B      CYS    262 B            PDB             4EEG
+LOC  Disulfide    CYS   130 C      CYS    172 C            PDB             4EEG
+LOC  Disulfide    CYS   243 C      CYS    262 C            PDB             4EEG

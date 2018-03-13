@@ -1,0 +1,44 @@
+REM  -------------------- Secondary structure summary -------------------  4AKJ
+REM                                                                        4AKJ
+CHN  4akj.pdb A                                                            4AKJ
+REM                                                                        4AKJ
+REM                .         .                                             4AKJ
+SEQ  1    GIVEQCCTSICSLYQLENYCN                                21          4AKJ
+STR        HHHHHHH    HHHHHH B                                             4AKJ
+REM                                                                        4AKJ
+CHN  4akj.pdb B                                                            4AKJ
+REM                                                                        4AKJ
+REM                .         .                                             4AKJ
+SEQ  1    FVNQHLCGSHLVEALYLVCGERGFFYTPK                        29          4AKJ
+STR        HHHHHHHHHHHHHHHHHHGGG EEE                                       4AKJ
+REM                                                                        4AKJ
+CHN  4akj.pdb C                                                            4AKJ
+REM                                                                        4AKJ
+REM                .         .                                             4AKJ
+SEQ  1    GIVEQCCTSICSLYQLENYCN                                21          4AKJ
+STR        HHHHHHH    HHHHHH B                                             4AKJ
+REM                                                                        4AKJ
+CHN  4akj.pdb D                                                            4AKJ
+REM                                                                        4AKJ
+REM                .         .                                             4AKJ
+SEQ  1    FVNQHLCGSHLVEALYLVCGERGFFYTPK                        29          4AKJ
+STR        HHHHHHHHHHHHHHHHHHGGG BEE                                       4AKJ
+REM                                                                        4AKJ
+REM                                                                        4AKJ
+REM                                                                        4AKJ
+LOC  AlphaHelix   ILE     2 A      THR      8 A                            4AKJ
+LOC  AlphaHelix   LEU    13 A      ASN     18 A                            4AKJ
+LOC  AlphaHelix   VAL     2 B      CYS     19 B                            4AKJ
+LOC  AlphaHelix   ILE     2 C      THR      8 C                            4AKJ
+LOC  AlphaHelix   LEU    13 C      ASN     18 C                            4AKJ
+LOC  AlphaHelix   VAL     2 D      CYS     19 D                            4AKJ
+LOC  310Helix     GLY    20 B      ARG     22 B                            4AKJ
+LOC  310Helix     GLY    20 D      ARG     22 D                            4AKJ
+LOC  Strand       PHE    24 B      TYR     26 B                            4AKJ
+LOC  Strand       PHE    25 D      TYR     26 D                            4AKJ
+LOC  Disulfide    CYS     6 A      CYS     11 A            PDB             4AKJ
+LOC  Disulfide    CYS     7 A      CYS      7 B            PDB             4AKJ
+LOC  Disulfide    CYS    20 A      CYS     19 B            PDB             4AKJ
+LOC  Disulfide    CYS     6 C      CYS     11 C            PDB             4AKJ
+LOC  Disulfide    CYS     7 C      CYS      7 D            PDB             4AKJ
+LOC  Disulfide    CYS    20 C      CYS     19 D            PDB             4AKJ

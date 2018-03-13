@@ -1,0 +1,75 @@
+REM  -------------------- Secondary structure summary -------------------  4EEQ
+REM                                                                        4EEQ
+CHN  4eeq.pdb A                                                            4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  1    PLTLTAATTRAQELRKQLNQYSHEYYVKDQPSVEDYVYDRLYKELVDIET   50          4EEQ
+STR          HHHHHHHHHHHHHHHHHHHHHHHHH      HHHHHHHHHHHHHHHH               4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  51   EFPDLITPDSPTQRVGGKVLSGFEKAPHDIPMYSLNDGFSKEDIFAFDER  100          4EEQ
+STR       H GGG TTTTGGGTTT  B     EEETTTT     EE  HHHHHHHHHH               4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  101  VRKAIGKPVAYCCELKIDGLAISLRYENGVFVRGATRGDGTVGENITENL  150          4EEQ
+STR       HHHHH     EEEEEEE  EEEEEEEETTEEEEEEETTTTTEEEEHHHHH               4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  151  RTVRSVPMRLTEPISVEVRGECYMPKQSFVALNEEREENGQDIFANPRNA  200          4EEQ
+STR       HHTTTTTTBTTTT  EEEEEEEE  HHHHHHHHHHHHHH       HHHH               4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  201  AAGSLRQLDTKIVAKRNLNTFLYTVADFGPMKAKTQFEALEELSAIGFRT  250          4EEQ
+STR       HHHHHHTTBHHHHHH   EEEEEEEEETTTT   BHHHHHHHHHHH                   4EEQ
+REM                                                                        4EEQ
+REM                .         .         .         .         .               4EEQ
+SEQ  251  NPERQLCQSIDEVWAYIEEYHEKRSTLPYEIDGIVIKVNEFALQDELGFT  300          4EEQ
+STR       TTTTEEE  HHHHHHHHHHHHHHGGG    EEEEEEEE BHHHHHHH BT               4EEQ
+REM                                                                        4EEQ
+REM                .                                                       4EEQ
+SEQ  301  VKAPRWAIAYKFP                                       313          4EEQ
+STR       TTTBTTEEEEE                                                      4EEQ
+REM                                                                        4EEQ
+REM                                                                        4EEQ
+REM                                                                        4EEQ
+LOC  AlphaHelix   LEU     8 A      LYS     32 A                            4EEQ
+LOC  AlphaHelix   ASP    39 A      GLU     55 A                            4EEQ
+LOC  AlphaHelix   LYS    95 A      ILE    109 A                            4EEQ
+LOC  AlphaHelix   ILE   150 A      THR    156 A                            4EEQ
+LOC  AlphaHelix   LYS   180 A      ASN    193 A                            4EEQ
+LOC  AlphaHelix   PRO   201 A      ARG    210 A                            4EEQ
+LOC  AlphaHelix   THR   214 A      LYS    219 A                            4EEQ
+LOC  AlphaHelix   GLN   240 A      ILE    250 A                            4EEQ
+LOC  AlphaHelix   ILE   264 A      LYS    277 A                            4EEQ
+LOC  AlphaHelix   PHE   295 A      LEU    301 A                            4EEQ
+LOC  310Helix     PRO    57 A      LEU     59 A                            4EEQ
+LOC  310Helix     PRO    65 A      GLN     67 A                            4EEQ
+LOC  310Helix     ARG   278 A      THR    280 A                            4EEQ
+LOC  Strand       LYS    79 A      PRO     81 A                            4EEQ
+LOC  Strand       ASP    91 A      GLY     92 A                            4EEQ
+LOC  Strand       TYR   115 A      ILE    121 A                            4EEQ
+LOC  Strand       LEU   124 A      GLU    131 A                            4EEQ
+LOC  Strand       VAL   134 A      THR    140 A                            4EEQ
+LOC  Strand       VAL   146 A      ASN    149 A                            4EEQ
+LOC  Strand       VAL   170 A      TYR    177 A                            4EEQ
+LOC  Strand       ASN   223 A      ASP    231 A                            4EEQ
+LOC  Strand       GLN   259 A      CYS    261 A                            4EEQ
+LOC  Strand       ILE   285 A      VAL    292 A                            4EEQ
+LOC  Strand       ALA   311 A      LYS    315 A                            4EEQ
+LOC  TurnI        THR    61 A      SER     64 A                            4EEQ
+LOC  TurnI        GLN    67 A      GLY     70 A                            4EEQ
+LOC  TurnVIII     HIS    82 A      PRO     85 A                            4EEQ
+LOC  TurnIV       TYR   130 A      GLY    133 A                            4EEQ
+LOC  TurnI'       GLU   131 A      VAL    134 A                            4EEQ
+LOC  TurnII'      ARG   141 A      GLY    144 A                            4EEQ
+LOC  TurnIV       ASP   143 A      VAL    146 A                            4EEQ
+LOC  TurnIV       GLY   144 A      GLY    147 A                            4EEQ
+LOC  TurnI        VAL   157 A      VAL    160 A                            4EEQ
+LOC  TurnVIII     PRO   161 A      LEU    164 A                            4EEQ
+LOC  TurnVIII     LEU   164 A      PRO    167 A                            4EEQ
+LOC  TurnVIII     GLN   211 A      THR    214 A                            4EEQ
+LOC  TurnVIII     VAL   229 A      PHE    232 A                            4EEQ
+LOC  TurnII'      PHE   232 A      MET    235 A                            4EEQ
+LOC  TurnI        ASN   255 A      ARG    258 A                            4EEQ
+LOC  TurnIV       THR   304 A      ALA    307 A                            4EEQ
+LOC  TurnI        PRO   308 A      ALA    311 A                            4EEQ

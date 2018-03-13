@@ -1,0 +1,52 @@
+REM  -------------------- Secondary structure summary -------------------  4FNC
+REM                                                                        4FNC
+CHN  4fnc.pdb A                                                            4FNC
+REM                                                                        4FNC
+REM                .         .         .         .         .               4FNC
+SEQ  1    SFNGVSEAELLTKTLPDILTFNLDIVIIGINPGLMAAYKGHHYPGPGNHF   50          4FNC
+STR       TBTTB HHHHHH     B TTTT EEEEE    HHHHHH TTTTTTTTHH               4FNC
+REM                                                                        4FNC
+REM                .         .         .         .         .               4FNC
+SEQ  51   WKCLFMSGLSEVQLNHMDDHTLPGKYGIGFTNMVERTTPGSKDLSSKEFR  100          4FNC
+STR       HHHHHHHTTTT    GGGGGGHHHHH EEEEETTT    TTTTT HHHHH               4FNC
+REM                                                                        4FNC
+REM                .         .         .         .         .               4FNC
+SEQ  101  EGGRILVQKLQKYQPRIAVFNGKCIYEIFSKEVFGVKVKNLEFGLQPHKI  150          4FNC
+STR       HHHHHHHHHHHHH TTEEEEETHHHHHHHHHHHH   TTTT  EEE   T               4FNC
+REM                                                                        4FNC
+REM                .         .         .         .                         4FNC
+SEQ  151  PDTETLCYVMPSSSARCAQFPRAQDKVHYYIKLKDLRDQLKGIERN      196          4FNC
+STR       TTT  EEEEE   TTTTTTTT GGGHHHHHHHHHHHHHHHHHHHH                    4FNC
+REM                                                                        4FNC
+REM                                                                        4FNC
+REM                                                                        4FNC
+LOC  AlphaHelix   GLU   116 A      THR    121 A                            4FNC
+LOC  AlphaHelix   LEU   143 A      LYS    148 A                            4FNC
+LOC  AlphaHelix   HIS   158 A      SER    166 A                            4FNC
+LOC  AlphaHelix   LEU   181 A      TYR    185 A                            4FNC
+LOC  AlphaHelix   SER   205 A      TYR    222 A                            4FNC
+LOC  AlphaHelix   LYS   232 A      PHE    243 A                            4FNC
+LOC  AlphaHelix   LYS   285 A      ARG    304 A                            4FNC
+LOC  310Helix     HIS   175 A      THR    180 A                            4FNC
+LOC  310Helix     ALA   282 A      ASP    284 A                            4FNC
+LOC  Strand       ILE   134 A      GLY    138 A                            4FNC
+LOC  Strand       ILE   187 A      ASN    191 A                            4FNC
+LOC  Strand       ILE   226 A      ASN    230 A                            4FNC
+LOC  Strand       GLY   253 A      GLN    255 A                            4FNC
+LOC  Strand       LEU   265 A      MET    269 A                            4FNC
+LOC  TurnIV       SER   110 A      GLY    113 A                            4FNC
+LOC  TurnI'       PHE   111 A      VAL    114 A                            4FNC
+LOC  TurnIV       THR   129 A      LEU    132 A                            4FNC
+LOC  TurnIV       HIS   150 A      PRO    153 A                            4FNC
+LOC  TurnI        GLY   154 A      ASN    157 A                            4FNC
+LOC  TurnI        GLY   167 A      GLU    170 A                            4FNC
+LOC  TurnVIII     ASN   191 A      GLU    194 A                            4FNC
+LOC  TurnII'      GLY   199 A      ASP    202 A                            4FNC
+LOC  TurnI        SER   200 A      LEU    203 A                            4FNC
+LOC  TurnVIII     PRO   224 A      ALA    227 A                            4FNC
+LOC  TurnVIII     VAL   247 A      LEU    250 A                            4FNC
+LOC  TurnII       ILE   259 A      THR    262 A                            4FNC
+LOC  TurnIV       SER   273 A      CYS    276 A                            4FNC
+LOC  TurnI        CYS   276 A      PHE    279 A                            4FNC
+LOC  TurnIV       ALA   277 A      PRO    280 A                            4FNC
+LOC  GammaInv     PHE   229 A      GLY    231 A                            4FNC

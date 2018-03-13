@@ -1,0 +1,158 @@
+REM  -------------------- Secondary structure summary -------------------  4I40
+REM                                                                        4I40
+CHN  4i40.pdb A                                                            4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  1    KTLQQIDKLICSWLKQIDNVIPQLIMEMTTETKRHRFDLVTNVDKQIQQQ   50          4I40
+STR         HHHHHHHHHHHHHHHHHHHHHHHHH  EEETTTTTTEEEHHHHHHHHH               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  51   FQQFLATYFPEHQLLAEEKSNAMITNEINHLWIMDPIDGTANLVKQQEDY  100          4I40
+STR       HHHHHHHTTTTTEEEETTT TTTTTTTTTEEEEEEEEETHHHHHHH                   4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  101  CIILAYFYEGKPMLSYVYDYPHKKLYKAIRGEGAFCNGIKMEEPPSLKLE  150          4I40
+STR       EEEEEEEETTEEEEEEEEEGGG EEEEEETTTEEEETTEEE       GG               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  151  DAIISFNAQVMNLDTVQDLFDASFSYRLVGACGLDSMRVAKGQFGAHINT  200          4I40
+STR       G EEEETTTTT HHHHHHHHHH  EE B   HHHHHHHHHHTTTTEEEET               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  201  NPKPWDIAAQFLFAELLNLKMTTLDGKAIDHLKGAPFIISNKACHETVLK  250          4I40
+STR       TTTTTTTTHHHHHHHHH  EEEETTT   TTTTT  EEEETTTHHHHHHH               4I40
+REM                                                                        4I40
+REM                .                                                       4I40
+SEQ  251  ILNANGGYQKYR                                        262          4I40
+STR       HHHTTTT                                                          4I40
+REM                                                                        4I40
+CHN  4i40.pdb B                                                            4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  1    KTLQQIDKLICSWLKQIDNVIPQLIMEMTTETKRHRFDLVTNVDKQIQQQ   50          4I40
+STR         HHHHHHHHHHHHHHHHHHHHHHHHH  EEETTTTTTEEEHHHHHHHHH               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  51   FQQFLATYFPEHQLLAEEKSNAMITNEINHLWIMDPIDGTANLVKQQEDY  100          4I40
+STR       HHHHHHHHHTTTEEEETTT TTTTTTTTTEEEEEEEEETHHHHHHH                   4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  101  CIILAYFYEGKPMLSYVYDYPHKKLYKAIRGEGAFCNGIKMEEPPSLKLE  150          4I40
+STR       EEEEEEEETTEEEEEEEEEGGG EEEEEETTTEEEETTEE        GG               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  151  DAIISFNAQVMNLDTVQDLFDASFSYRLVGACGLDSMRVAKGQFGAHINT  200          4I40
+STR       G EEEETTTTT HHHHHHHHHH  EEEB   HHHHHHHHHHTTTTEEEET               4I40
+REM                                                                        4I40
+REM                .         .         .         .         .               4I40
+SEQ  201  NPKPWDIAAQFLFAELLNLKMTTLDGKAIDHLKGAPFIISNKACHETVLK  250          4I40
+STR       TT GGG  HHHHHHHHH  EEEETTT   TTTTT  EEEETTTHHHHHHH               4I40
+REM                                                                        4I40
+REM                .                                                       4I40
+SEQ  251  ILNANGGYQKYR                                        262          4I40
+STR       HHHTTTT                                                          4I40
+REM                                                                        4I40
+REM                                                                        4I40
+REM                                                                        4I40
+LOC  AlphaHelix   LEU     6 A      GLU     30 A                            4I40
+LOC  AlphaHelix   ASN    45 A      THR     60 A                            4I40
+LOC  AlphaHelix   THR    93 A      GLN     99 A                            4I40
+LOC  AlphaHelix   LEU   166 A      ALA    175 A                            4I40
+LOC  AlphaHelix   CYS   185 A      LYS    194 A                            4I40
+LOC  AlphaHelix   ALA   212 A      LEU    220 A                            4I40
+LOC  AlphaHelix   CYS   247 A      ASN    256 A                            4I40
+LOC  AlphaHelix   LEU     6 B      GLU     30 B                            4I40
+LOC  AlphaHelix   ASN    45 B      PHE     62 B                            4I40
+LOC  AlphaHelix   THR    93 B      GLN     99 B                            4I40
+LOC  AlphaHelix   LEU   166 B      ALA    175 B                            4I40
+LOC  AlphaHelix   CYS   185 B      LYS    194 B                            4I40
+LOC  AlphaHelix   ALA   212 B      LEU    220 B                            4I40
+LOC  AlphaHelix   CYS   247 B      ASN    256 B                            4I40
+LOC  310Helix     TYR   123 A      HIS    125 A                            4I40
+LOC  310Helix     LEU   152 A      ASP    154 A                            4I40
+LOC  310Helix     TYR   123 B      HIS    125 B                            4I40
+LOC  310Helix     LEU   152 B      ASP    154 B                            4I40
+LOC  310Helix     PRO   207 B      ASP    209 B                            4I40
+LOC  Strand       THR    33 A      THR     35 A                            4I40
+LOC  Strand       LEU    42 A      THR     44 A                            4I40
+LOC  Strand       GLN    66 A      ALA     69 A                            4I40
+LOC  Strand       HIS    83 A      ASP     91 A                            4I40
+LOC  Strand       CYS   104 A      TYR    111 A                            4I40
+LOC  Strand       LYS   114 A      ASP    122 A                            4I40
+LOC  Strand       LYS   127 A      ILE    132 A                            4I40
+LOC  Strand       GLY   136 A      CYS    139 A                            4I40
+LOC  Strand       ILE   142 A      MET    144 A                            4I40
+LOC  Strand       ILE   156 A      PHE    159 A                            4I40
+LOC  Strand       SER   178 A      TYR    179 A                            4I40
+LOC  Strand       ALA   199 A      ASN    202 A                            4I40
+LOC  Strand       LYS   223 A      THR    226 A                            4I40
+LOC  Strand       PHE   240 A      SER    243 A                            4I40
+LOC  Strand       THR    33 B      THR     35 B                            4I40
+LOC  Strand       LEU    42 B      THR     44 B                            4I40
+LOC  Strand       GLN    66 B      ALA     69 B                            4I40
+LOC  Strand       HIS    83 B      ASP     91 B                            4I40
+LOC  Strand       CYS   104 B      TYR    111 B                            4I40
+LOC  Strand       LYS   114 B      ASP    122 B                            4I40
+LOC  Strand       LYS   127 B      ILE    132 B                            4I40
+LOC  Strand       GLY   136 B      CYS    139 B                            4I40
+LOC  Strand       ILE   142 B      LYS    143 B                            4I40
+LOC  Strand       ILE   156 B      PHE    159 B                            4I40
+LOC  Strand       SER   178 B      ARG    180 B                            4I40
+LOC  Strand       ALA   199 B      ASN    202 B                            4I40
+LOC  Strand       LYS   223 B      THR    226 B                            4I40
+LOC  Strand       PHE   240 B      SER    243 B                            4I40
+LOC  TurnIV       THR    35 A      HIS     38 A                            4I40
+LOC  TurnI        HIS    38 A      ASP     41 A                            4I40
+LOC  TurnIV       THR    60 A      PRO     63 A                            4I40
+LOC  TurnI        PHE    62 A      HIS     65 A                            4I40
+LOC  TurnI        ALA    69 A      LYS     72 A                            4I40
+LOC  TurnIV       ASN    74 A      ILE     77 A                            4I40
+LOC  TurnI        THR    78 A      ILE     81 A                            4I40
+LOC  TurnIV       ILE    81 A      LEU     84 A                            4I40
+LOC  TurnVIII     ASP    88 A      ASP     91 A                            4I40
+LOC  TurnIV       ILE    90 A      THR     93 A                            4I40
+LOC  TurnIV       PHE   110 A      GLY    113 A                            4I40
+LOC  TurnI'       TYR   111 A      LYS    114 A                            4I40
+LOC  TurnII       ILE   132 A      GLU    135 A                            4I40
+LOC  TurnIV       ARG   133 A      GLY    136 A                            4I40
+LOC  TurnIV       PHE   138 A      GLY    141 A                            4I40
+LOC  TurnI'       CYS   139 A      ILE    142 A                            4I40
+LOC  TurnI        ASN   160 A      VAL    163 A                            4I40
+LOC  TurnI        ALA   161 A      MET    164 A                            4I40
+LOC  TurnVIII     GLY   195 A      GLY    198 A                            4I40
+LOC  TurnIV       ASN   202 A      PRO    205 A                            4I40
+LOC  TurnI        LYS   206 A      ASP    209 A                            4I40
+LOC  TurnI        PRO   207 A      ILE    210 A                            4I40
+LOC  TurnI        TRP   208 A      ALA    211 A                            4I40
+LOC  TurnI        THR   226 A      GLY    229 A                            4I40
+LOC  TurnI        ASP   233 A      LYS    236 A                            4I40
+LOC  TurnVIII     HIS   234 A      GLY    237 A                            4I40
+LOC  TurnI        ASN   244 A      CYS    247 A                            4I40
+LOC  TurnII       ASN   256 A      GLY    259 A                            4I40
+LOC  TurnI'       ALA   257 A      GLY    260 A                            4I40
+LOC  GammaInv     TYR   121 A      TYR    123 A                            4I40
+LOC  TurnIV       THR    35 B      HIS     38 B                            4I40
+LOC  TurnI        HIS    38 B      ASP     41 B                            4I40
+LOC  TurnI        PHE    62 B      HIS     65 B                            4I40
+LOC  TurnI        ALA    69 B      LYS     72 B                            4I40
+LOC  TurnIV       ASN    74 B      ILE     77 B                            4I40
+LOC  TurnIV       THR    78 B      ILE     81 B                            4I40
+LOC  TurnVIII     ILE    81 B      LEU     84 B                            4I40
+LOC  TurnVIII     ASP    88 B      ASP     91 B                            4I40
+LOC  TurnIV       ILE    90 B      THR     93 B                            4I40
+LOC  TurnIV       PHE   110 B      GLY    113 B                            4I40
+LOC  TurnI'       TYR   111 B      LYS    114 B                            4I40
+LOC  TurnII       ILE   132 B      GLU    135 B                            4I40
+LOC  TurnIV       ARG   133 B      GLY    136 B                            4I40
+LOC  TurnIV       PHE   138 B      GLY    141 B                            4I40
+LOC  TurnI'       CYS   139 B      ILE    142 B                            4I40
+LOC  TurnI        ASN   160 B      VAL    163 B                            4I40
+LOC  TurnI        ALA   161 B      MET    164 B                            4I40
+LOC  TurnVIII     GLY   195 B      GLY    198 B                            4I40
+LOC  TurnIV       ASN   202 B      PRO    205 B                            4I40
+LOC  TurnI        THR   226 B      GLY    229 B                            4I40
+LOC  TurnI        ASP   233 B      LYS    236 B                            4I40
+LOC  TurnVIII     HIS   234 B      GLY    237 B                            4I40
+LOC  TurnI        ASN   244 B      CYS    247 B                            4I40
+LOC  TurnIV       ASN   256 B      GLY    259 B                            4I40
+LOC  TurnI'       ALA   257 B      GLY    260 B                            4I40

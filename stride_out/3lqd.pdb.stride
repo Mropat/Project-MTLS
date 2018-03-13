@@ -1,0 +1,126 @@
+REM  -------------------- Secondary structure summary -------------------  3LQD
+REM                                                                        3LQD
+CHN  3lqd.pdb A                                                            3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  1    VLSPADKTNIKTAWEKIGSHGGEYGAEAVERMFLGFPTTKTYFPHFDFTH   50          3LQD
+STR          HHHHHHHHHHHHHHTTHHHHHHHHHHHHHHHH GGGGGGTTTT  TT               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  51   GSEQIKAHGKKVSEALTKAVGHLDDLPGALSALSDLHAHKLRVDPVNFKL  100          3LQD
+STR       TTHHHHHHHHHHHHHHHHHHHTTTTHHHHHHHHHHHHHHTTT  HHHHHH               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .                         3LQD
+SEQ  101  LSHCLLVTLANHHPSEFTPAVHASLDKFLANVSTVLTSKYR           141          3LQD
+STR       HHHHHHHHHHHHHGGGTTHHHHHHHHHHHHHHHHHHH                            3LQD
+REM                                                                        3LQD
+CHN  3lqd.pdb B                                                            3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  1    VHLSGEEKSAVTALWGKVNVEEVGGETLGRLLVVYPWTQRFFESFGDLST   50          3LQD
+STR           HHHHHHHHHHHHH TTTHHHHHHHHHHHHH GGGGTTTGGG                    3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  51   ASAVMGNPKVKAHGKKVLAAFSEGLSHLDNLKGTFAKLSELHCDKLHVDP  100          3LQD
+STR       HHHHHH HHHHHHHHHHHHHHHHHHHHTTTHHHHHHHHHHHHHHH    H               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .                         3LQD
+SEQ  101  ENFRLLGNVLVIVLSHHFGKEFTPQVQAAYQKVVAGVANALAHKYH      146          3LQD
+STR       HHHHHHHHHHHHHHHHHHGGG  HHHHHHHHHHHHHHHHHHHTTT                    3LQD
+REM                                                                        3LQD
+CHN  3lqd.pdb C                                                            3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  1    VLSPADKTNIKTAWEKIGSHGGEYGAEAVERMFLGFPTTKTYFPHFDFTH   50          3LQD
+STR          HHHHHHHHHHHHHTTTHHHHHHHHHHHHHHHH GGGGGGTTTT  TT               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  51   GSEQIKAHGKKVSEALTKAVGHLDDLPGALSALSDLHAHKLRVDPVNFKL  100          3LQD
+STR       TTHHHHHHHHHHHHHHHHHHHTTTTTTTTHHHHHHHHHHH    HHHHHH               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .                         3LQD
+SEQ  101  LSHCLLVTLANHHPSEFTPAVHASLDKFLANVSTVLTSKYR           141          3LQD
+STR       HHHHHHHHHHHHHTTTT HHHHHHHHHHHHHHHHHHH                            3LQD
+REM                                                                        3LQD
+CHN  3lqd.pdb D                                                            3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  1    VHLSGEEKSAVTALWGKVNVEEVGGETLGRLLVVYPWTQRFFESFGDLST   50          3LQD
+STR           HHHHHHHHHHHH  TTTHHHHHHHHHHHHH GGGGGG GGG                    3LQD
+REM                                                                        3LQD
+REM                .         .         .         .         .               3LQD
+SEQ  51   ASAVMGNPKVKAHGKKVLAAFSEGLSHLDNLKGTFAKLSELHCDKLHVDP  100          3LQD
+STR       HHHHHH HHHHHHHHHHHHHHHHHHHHTTTHHHHHHHHHHHHHTTTT  H               3LQD
+REM                                                                        3LQD
+REM                .         .         .         .                         3LQD
+SEQ  101  ENFRLLGNVLVIVLSHHFGKEFTPQVQAAYQKVVAGVANALAHKYH      146          3LQD
+STR       HHHHHHHHHHHHHHHHHHTTTTTHHHHHHHHHHHHHHHHHHTTTT                    3LQD
+REM                                                                        3LQD
+REM                                                                        3LQD
+REM                                                                        3LQD
+LOC  AlphaHelix   PRO     4 A      ILE     17 A                            3LQD
+LOC  AlphaHelix   HIS    20 A      GLY     35 A                            3LQD
+LOC  AlphaHelix   GLU    53 A      GLY     71 A                            3LQD
+LOC  AlphaHelix   LEU    76 A      HIS     89 A                            3LQD
+LOC  AlphaHelix   PRO    95 A      HIS    113 A                            3LQD
+LOC  AlphaHelix   PRO   119 A      THR    137 A                            3LQD
+LOC  AlphaHelix   GLY     5 B      LYS     17 B                            3LQD
+LOC  AlphaHelix   GLU    22 B      VAL     34 B                            3LQD
+LOC  AlphaHelix   ALA    51 B      GLY     56 B                            3LQD
+LOC  AlphaHelix   PRO    58 B      HIS     77 B                            3LQD
+LOC  AlphaHelix   LEU    81 B      LYS     95 B                            3LQD
+LOC  AlphaHelix   PRO   100 B      PHE    118 B                            3LQD
+LOC  AlphaHelix   PRO   124 B      ALA    142 B                            3LQD
+LOC  AlphaHelix   PRO     4 C      LYS     16 C                            3LQD
+LOC  AlphaHelix   HIS    20 C      GLY     35 C                            3LQD
+LOC  AlphaHelix   GLU    53 C      GLY     71 C                            3LQD
+LOC  AlphaHelix   LEU    80 C      LYS     90 C                            3LQD
+LOC  AlphaHelix   PRO    95 C      HIS    113 C                            3LQD
+LOC  AlphaHelix   PRO   119 C      THR    137 C                            3LQD
+LOC  AlphaHelix   GLY     5 D      GLY     16 D                            3LQD
+LOC  AlphaHelix   GLU    22 D      VAL     34 D                            3LQD
+LOC  AlphaHelix   ALA    51 D      GLY     56 D                            3LQD
+LOC  AlphaHelix   PRO    58 D      HIS     77 D                            3LQD
+LOC  AlphaHelix   LEU    81 D      CYS     93 D                            3LQD
+LOC  AlphaHelix   PRO   100 D      PHE    118 D                            3LQD
+LOC  AlphaHelix   PRO   124 D      LEU    141 D                            3LQD
+LOC  310Helix     PRO    37 A      TYR     42 A                            3LQD
+LOC  310Helix     PRO   114 A      GLU    116 A                            3LQD
+LOC  310Helix     PRO    36 B      GLN     39 B                            3LQD
+LOC  310Helix     GLU    43 B      PHE     45 B                            3LQD
+LOC  310Helix     GLY   119 B      GLU    121 B                            3LQD
+LOC  310Helix     PRO    37 C      TYR     42 C                            3LQD
+LOC  310Helix     PRO    36 D      PHE     41 D                            3LQD
+LOC  310Helix     GLU    43 D      PHE     45 D                            3LQD
+LOC  TurnII'      ILE    17 A      HIS     20 A                            3LQD
+LOC  TurnI        PHE    43 A      PHE     46 A                            3LQD
+LOC  TurnIV       THR    49 A      SER     52 A                            3LQD
+LOC  TurnI        HIS    72 A      ASP     75 A                            3LQD
+LOC  TurnIV       LEU    73 A      LEU     76 A                            3LQD
+LOC  TurnI        HIS    89 A      ARG     92 A                            3LQD
+LOC  GammaInv     GLU   116 A      THR    118 A                            3LQD
+LOC  TurnI        ASN    19 B      GLU     22 B                            3LQD
+LOC  TurnI        GLN    39 B      PHE     42 B                            3LQD
+LOC  TurnI        ARG    40 B      GLU     43 B                            3LQD
+LOC  TurnI        HIS    77 B      ASN     80 B                            3LQD
+LOC  TurnIV       LEU    78 B      LEU     81 B                            3LQD
+LOC  TurnI        ALA   142 B      TYR    145 B                            3LQD
+LOC  TurnII'      ILE    17 C      HIS     20 C                            3LQD
+LOC  TurnI        PHE    43 C      PHE     46 C                            3LQD
+LOC  TurnII       THR    49 C      SER     52 C                            3LQD
+LOC  TurnI        HIS    72 C      ASP     75 C                            3LQD
+LOC  TurnIV       LEU    73 C      LEU     76 C                            3LQD
+LOC  TurnI        ASP    75 C      GLY     78 C                            3LQD
+LOC  TurnIV       LEU    76 C      ALA     79 C                            3LQD
+LOC  TurnI        PRO    77 C      LEU     80 C                            3LQD
+LOC  TurnIV       HIS   113 C      GLU    116 C                            3LQD
+LOC  TurnI        PRO   114 C      PHE    117 C                            3LQD
+LOC  TurnI        ASN    19 D      GLU     22 D                            3LQD
+LOC  TurnI        HIS    77 D      ASN     80 D                            3LQD
+LOC  TurnIV       LEU    78 D      LEU     81 D                            3LQD
+LOC  TurnIV       CYS    93 D      LEU     96 D                            3LQD
+LOC  TurnIV       ASP    94 D      HIS     97 D                            3LQD
+LOC  TurnII'      PHE   118 D      GLU    121 D                            3LQD
+LOC  TurnI        GLY   119 D      PHE    122 D                            3LQD
+LOC  TurnIV       LYS   120 D      THR    123 D                            3LQD
+LOC  TurnI        ALA   142 D      TYR    145 D                            3LQD

@@ -1,0 +1,183 @@
+REM  -------------------- Secondary structure summary -------------------  4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb A                                                            4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  1    GKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGENHKSFITG   50          4AKC
+STR        EEEE     BEEEEEEEETTTT EEEEEEEEEETTEEEEEEEE TTTT                4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  51   FTPVKISLDFPSEYIMEVSGYTGKVSGYVVVRSLTFKTNKKTYGPYGVTS  100          4AKC
+STR        EEEEEE TTTTTTEEEEEEEEEEETTEEEEEEEEEEETTTEEEEEE                  4AKC
+REM                                                                        4AKC
+REM                .         .         .                                   4AKC
+SEQ  101  GTPFSLPIENGLIVGFKGSIGYWLDYFSMYLSL                   133          4AKC
+STR        EEEEEEEEETEEEEEEEEETTTEEEEEEEEE                                 4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb B                                                            4AKC
+REM                                                                        4AKC
+REM                .                                                       4AKC
+SEQ  1    QSGISQTVIVGPWGAQ                                     16          4AKC
+STR              EEEEEEE                                                   4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb E                                                            4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  1    GKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGENHKSFITG   50          4AKC
+STR        EEEE     EEEEEEEEETTTTTEEEEEEEEEETTEEEEEEEE                     4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  51   FTPVKISLDFPSEYIMEVSGYTGKVSGYVVVRSLTFKTNKKTYGPYGVTS  100          4AKC
+STR        EEEEEE TTTTTTEEEEEEEEEEETTEEEEEEEEEEETTTEEEEE TTT               4AKC
+REM                                                                        4AKC
+REM                .         .         .                                   4AKC
+SEQ  101  GTPFSLPIENGLIVGFKGSIGYWLDYFSMYLSL                   133          4AKC
+STR        EEEEEEEEETEEEEEEEEETTTEEEEEEEEE                                 4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb F                                                            4AKC
+REM                                                                        4AKC
+REM                .                                                       4AKC
+SEQ  1    SGISQTVIVGPWGA                                       14          4AKC
+STR             EEEEEEE                                                    4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb C                                                            4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  1    GKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGENHKSFITG   50          4AKC
+STR        EEEE     EEEEEEEEETTTTTEEEEEEEEEETTEEEEEEEE                     4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  51   FTPVKISLDFPSEYIMEVSGYTGKVSGYVVVRSLTFKTNKKTYGPYGVTS  100          4AKC
+STR        EEEEEE TTTTT EEEEEEEEEEETTEEEEEEEEEEETTTEEEEEE                  4AKC
+REM                                                                        4AKC
+REM                .         .         .                                   4AKC
+SEQ  101  GTPFSLPIENGLIVGFKGSIGYWLDYFSMYLSL                   133          4AKC
+STR        EEEEEEEEETEEEEEEEEETTTEEEEEEEEE                                 4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb D                                                            4AKC
+REM                                                                        4AKC
+REM                .                                                       4AKC
+SEQ  1    QSGISQTVIVGPWGAQ                                     16          4AKC
+STR          B   EEEEEEE                                                   4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb G                                                            4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  1    GKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGENHKSFITG   50          4AKC
+STR        EEEE     EEEEEEEEETTTT EEEEEEEEEETTEEEEEEEE                     4AKC
+REM                                                                        4AKC
+REM                .         .         .         .         .               4AKC
+SEQ  51   FTPVKISLDFPSEYIMEVSGYTGKVSGYVVVRSLTFKTNKKTYGPYGVTS  100          4AKC
+STR        EEEEEE TTTTTTEEEEEEEEEEETTEEEEEEEEEEETTTEEEEEE                  4AKC
+REM                                                                        4AKC
+REM                .         .         .                                   4AKC
+SEQ  101  GTPFSLPIENGLIVGFKGSIGYWLDYFSMYLSL                   133          4AKC
+STR        EEEEEEEEETEEEEEEEEETTTEEEEEEEEE                                 4AKC
+REM                                                                        4AKC
+CHN  4akc.pdb H                                                            4AKC
+REM                                                                        4AKC
+REM                .                                                       4AKC
+SEQ  1    QSGISQTVIVGPWGA                                      15          4AKC
+STR              EEEEEEE                                                   4AKC
+REM                                                                        4AKC
+REM                                                                        4AKC
+REM                                                                        4AKC
+LOC  Strand       LYS     2 A      ASP      5 A                            4AKC
+LOC  Strand       ILE    12 A      TYR     19 A                            4AKC
+LOC  Strand       ILE    25 A      LEU     34 A                            4AKC
+LOC  Strand       SER    37 A      HIS     44 A                            4AKC
+LOC  Strand       THR    52 A      SER     57 A                            4AKC
+LOC  Strand       ILE    65 A      VAL     75 A                            4AKC
+LOC  Strand       TYR    78 A      THR     88 A                            4AKC
+LOC  Strand       THR    92 A      GLY     97 A                            4AKC
+LOC  Strand       THR   102 A      ASN    110 A                            4AKC
+LOC  Strand       LEU   112 A      ILE    120 A                            4AKC
+LOC  Strand       LEU   124 A      SER    132 A                            4AKC
+LOC  Strand       VAL    10 B      GLY     16 B                            4AKC
+LOC  Strand       LYS     2 E      ASP      5 E                            4AKC
+LOC  Strand       GLY    11 E      TYR     19 E                            4AKC
+LOC  Strand       ILE    25 E      LEU     34 E                            4AKC
+LOC  Strand       SER    37 E      HIS     44 E                            4AKC
+LOC  Strand       THR    52 E      SER     57 E                            4AKC
+LOC  Strand       ILE    65 E      VAL     75 E                            4AKC
+LOC  Strand       TYR    78 E      THR     88 E                            4AKC
+LOC  Strand       THR    92 E      TYR     96 E                            4AKC
+LOC  Strand       THR   102 E      ASN    110 E                            4AKC
+LOC  Strand       LEU   112 E      ILE    120 E                            4AKC
+LOC  Strand       LEU   124 E      SER    132 E                            4AKC
+LOC  Strand       VAL    10 F      GLY     16 F                            4AKC
+LOC  Strand       LYS     2 C      ASP      5 C                            4AKC
+LOC  Strand       GLY    11 C      TYR     19 C                            4AKC
+LOC  Strand       ILE    25 C      LEU     34 C                            4AKC
+LOC  Strand       SER    37 C      HIS     44 C                            4AKC
+LOC  Strand       THR    52 C      SER     57 C                            4AKC
+LOC  Strand       ILE    65 C      VAL     75 C                            4AKC
+LOC  Strand       TYR    78 C      THR     88 C                            4AKC
+LOC  Strand       THR    92 C      GLY     97 C                            4AKC
+LOC  Strand       THR   102 C      ASN    110 C                            4AKC
+LOC  Strand       LEU   112 C      ILE    120 C                            4AKC
+LOC  Strand       LEU   124 C      SER    132 C                            4AKC
+LOC  Strand       VAL    10 D      GLY     16 D                            4AKC
+LOC  Strand       LYS     2 G      ASP      5 G                            4AKC
+LOC  Strand       GLY    11 G      TYR     19 G                            4AKC
+LOC  Strand       ILE    25 G      LEU     34 G                            4AKC
+LOC  Strand       SER    37 G      HIS     44 G                            4AKC
+LOC  Strand       THR    52 G      SER     57 G                            4AKC
+LOC  Strand       ILE    65 G      VAL     75 G                            4AKC
+LOC  Strand       TYR    78 G      THR     88 G                            4AKC
+LOC  Strand       THR    92 G      GLY     97 G                            4AKC
+LOC  Strand       THR   102 G      ASN    110 G                            4AKC
+LOC  Strand       LEU   112 G      ILE    120 G                            4AKC
+LOC  Strand       LEU   124 G      SER    132 G                            4AKC
+LOC  Strand       VAL    10 H      GLY     16 H                            4AKC
+LOC  TurnI        ASN    20 A      THR     23 A                            4AKC
+LOC  TurnIV       ASP    33 A      GLY     36 A                            4AKC
+LOC  TurnI'       LEU    34 A      SER     37 A                            4AKC
+LOC  TurnIV       SER    46 A      THR     49 A                            4AKC
+LOC  TurnVIa      ASP    59 A      SER     62 A                            4AKC
+LOC  TurnI        PHE    60 A      GLU     63 A                            4AKC
+LOC  TurnVIII     PRO    61 A      TYR     64 A                            4AKC
+LOC  TurnIV       LYS    74 A      GLY     77 A                            4AKC
+LOC  TurnI'       VAL    75 A      TYR     78 A                            4AKC
+LOC  TurnIV       THR    88 A      LYS     91 A                            4AKC
+LOC  TurnVIII     ILE   108 A      GLY    111 A                            4AKC
+LOC  TurnIV       ILE   120 A      TRP    123 A                            4AKC
+LOC  TurnIV       GLY   121 A      LEU    124 A                            4AKC
+LOC  TurnI        ASN    20 E      THR     23 E                            4AKC
+LOC  TurnIV       LYS    21 E      ALA     24 E                            4AKC
+LOC  TurnIV       ASP    33 E      GLY     36 E                            4AKC
+LOC  TurnI'       LEU    34 E      SER     37 E                            4AKC
+LOC  TurnVIa      ASP    59 E      SER     62 E                            4AKC
+LOC  TurnIV       PHE    60 E      GLU     63 E                            4AKC
+LOC  TurnVIII     PRO    61 E      TYR     64 E                            4AKC
+LOC  TurnIV       LYS    74 E      GLY     77 E                            4AKC
+LOC  TurnI'       VAL    75 E      TYR     78 E                            4AKC
+LOC  TurnIV       THR    88 E      LYS     91 E                            4AKC
+LOC  TurnIV       ILE   108 E      GLY    111 E                            4AKC
+LOC  TurnIV       ILE   120 E      TRP    123 E                            4AKC
+LOC  TurnIV       GLY   121 E      LEU    124 E                            4AKC
+LOC  GammaInv     VAL    98 E      SER    100 E                            4AKC
+LOC  TurnIV       ASN    20 C      THR     23 C                            4AKC
+LOC  TurnIV       LYS    21 C      ALA     24 C                            4AKC
+LOC  TurnIV       ASP    33 C      GLY     36 C                            4AKC
+LOC  TurnI'       LEU    34 C      SER     37 C                            4AKC
+LOC  TurnVIa      ASP    59 C      SER     62 C                            4AKC
+LOC  TurnI        PHE    60 C      GLU     63 C                            4AKC
+LOC  TurnIV       LYS    74 C      GLY     77 C                            4AKC
+LOC  TurnI'       VAL    75 C      TYR     78 C                            4AKC
+LOC  TurnIV       THR    88 C      LYS     91 C                            4AKC
+LOC  TurnVIII     ILE   108 C      GLY    111 C                            4AKC
+LOC  TurnIV       ILE   120 C      TRP    123 C                            4AKC
+LOC  TurnIV       GLY   121 C      LEU    124 C                            4AKC
+LOC  TurnI        ASN    20 G      THR     23 G                            4AKC
+LOC  TurnIV       ASP    33 G      GLY     36 G                            4AKC
+LOC  TurnI'       LEU    34 G      SER     37 G                            4AKC
+LOC  TurnVIa      ASP    59 G      SER     62 G                            4AKC
+LOC  TurnIV       PHE    60 G      GLU     63 G                            4AKC
+LOC  TurnVIII     PRO    61 G      TYR     64 G                            4AKC
+LOC  TurnIV       LYS    74 G      GLY     77 G                            4AKC
+LOC  TurnI'       VAL    75 G      TYR     78 G                            4AKC
+LOC  TurnI        THR    88 G      LYS     91 G                            4AKC
+LOC  TurnIV       ILE   108 G      GLY    111 G                            4AKC
+LOC  TurnIV       ILE   120 G      TRP    123 G                            4AKC
+LOC  TurnIV       GLY   121 G      LEU    124 G                            4AKC

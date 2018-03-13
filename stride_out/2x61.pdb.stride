@@ -1,0 +1,121 @@
+REM  -------------------- Secondary structure summary -------------------  2X61
+REM                                                                        2X61
+CHN  2x61.pdb A                                                            2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  1    KKVIIAGNGPSLKEIDYSRLPNDFDVFRCNQFYFEDKYYLGKKCKAVFYN   50          2X61
+STR        EEEEE   GGGG   GGG TTTTEEEEETTGGG  BTTTT EEEEEEE                2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  51   PSLFFEQYYTLKHLIQNQEYETELIMCSNYNQAHLENENFVKTFYDYFPD  100          2X61
+STR       GGGHHHHHHHHHHHHHH   EEEEEEETT  TTTTT HHHHHHHHHHTTT               2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  101  AHLGYDFFKQLKDFNAYFKFHEIYFNQRITSGVYMCAVAIALGYKEIYLS  150          2X61
+STR       TEEHHHHHHTTHHHHHHHHHHHHHH     HHHHHHHHHHHH   EEEEE               2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  151  GIDFYQSSYAFDTKQKNLLKLAPNFSKNTDIKALEFLEKTYKIKLYCLCP  200          2X61
+STR         TTTTTTTTTTTTTHHHHHHTTTTHHHHHHHHHHHHHHHH  EEEE TT               2X61
+REM                                                                        2X61
+REM                .         .         .         .                         2X61
+SEQ  201  NSLLANFIGLAPNLNSNFIIQEKNNYTKDILIPSSEAYGKFSKNI       245          2X61
+STR       TTGGGG   B           BTTTT        HHHHHHHTTT                     2X61
+REM                                                                        2X61
+CHN  2x61.pdb B                                                            2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  1    KKVIIAGNGPSLKEIDYSRLPNDFDVFRCNQFYFEDKYYLGKKCKAVFYN   50          2X61
+STR        EEEEE   GGGG   GGG TTTTEEEEETTGGG  BTTTT EEEEEEE                2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  51   PSLFFEQYYTLKHLIQNQEYETELIMCSNYNQAHLENENFVKTFYDYFPD  100          2X61
+STR       GGGHHHHHHHHHHHHHH   EEEEEEETT  TTTTT HHHHHHHHHHTTT               2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  101  AHLGYDFFKQLKDFNAYFKFHEIYFNQRITSGVYMCAVAIALGYKEIYLS  150          2X61
+STR       TEEHHHHHHTTHHHHHHHHHHHHHH     HHHHHHHHHHHH   EEEEE               2X61
+REM                                                                        2X61
+REM                .         .         .         .         .               2X61
+SEQ  151  GIDFYQSYAFDTKQKNLLKLAPNSKNTDIKALEFLEKTYKIKLYCLCPNS  200          2X61
+STR         TTTT TTTTTTTHHHHHH    HHHHHHHHHHHHHHH  EEEE TTTT               2X61
+REM                                                                        2X61
+REM                .         .         .         .                         2X61
+SEQ  201  LLANFIGLAPNLNSNFIIQEKNNYTKDILIPSSEAYGKFSKNI         243          2X61
+STR       GGGG   B           BTTTT        HHHHHHHGGG                       2X61
+REM                                                                        2X61
+REM                                                                        2X61
+REM                                                                        2X61
+LOC  AlphaHelix   PHE    55 A      ASN     68 A                            2X61
+LOC  AlphaHelix   GLU    89 A      TYR     98 A                            2X61
+LOC  AlphaHelix   GLY   105 A      LYS    110 A                            2X61
+LOC  AlphaHelix   LYS   113 A      PHE    126 A                            2X61
+LOC  AlphaHelix   SER   132 A      LEU    143 A                            2X61
+LOC  AlphaHelix   LYS   169 A      LEU    174 A                            2X61
+LOC  AlphaHelix   SER   189 A      TYR    204 A                            2X61
+LOC  AlphaHelix   SER   248 A      PHE    254 A                            2X61
+LOC  AlphaHelix   PHE    55 B      ASN     68 B                            2X61
+LOC  AlphaHelix   GLU    89 B      TYR     98 B                            2X61
+LOC  AlphaHelix   GLY   105 B      LYS    110 B                            2X61
+LOC  AlphaHelix   LYS   113 B      PHE    126 B                            2X61
+LOC  AlphaHelix   SER   132 B      LEU    143 B                            2X61
+LOC  AlphaHelix   LYS   169 B      LEU    174 B                            2X61
+LOC  AlphaHelix   LYS   190 B      TYR    204 B                            2X61
+LOC  AlphaHelix   SER   248 B      PHE    254 B                            2X61
+LOC  310Helix     PRO    11 A      LYS     14 A                            2X61
+LOC  310Helix     TYR    18 A      ARG     20 A                            2X61
+LOC  310Helix     PHE    33 A      PHE     35 A                            2X61
+LOC  310Helix     PRO    52 A      LEU     54 A                            2X61
+LOC  310Helix     LEU   216 A      ASN    219 A                            2X61
+LOC  310Helix     PRO    11 B      LYS     14 B                            2X61
+LOC  310Helix     TYR    18 B      ARG     20 B                            2X61
+LOC  310Helix     PHE    33 B      PHE     35 B                            2X61
+LOC  310Helix     PRO    52 B      LEU     54 B                            2X61
+LOC  310Helix     LEU   216 B      ASN    219 B                            2X61
+LOC  310Helix     SER   255 B      ASN    257 B                            2X61
+LOC  Strand       LYS     3 A      ALA      7 A                            2X61
+LOC  Strand       ASP    26 A      CYS     30 A                            2X61
+LOC  Strand       LYS    44 A      TYR     50 A                            2X61
+LOC  Strand       GLU    72 A      CYS     78 A                            2X61
+LOC  Strand       HIS   103 A      LEU    104 A                            2X61
+LOC  Strand       GLU   147 A      SER    151 A                            2X61
+LOC  Strand       LYS   207 A      CYS    210 A                            2X61
+LOC  Strand       LYS     3 B      ALA      7 B                            2X61
+LOC  Strand       ASP    26 B      CYS     30 B                            2X61
+LOC  Strand       LYS    44 B      TYR     50 B                            2X61
+LOC  Strand       GLU    72 B      CYS     78 B                            2X61
+LOC  Strand       HIS   103 B      LEU    104 B                            2X61
+LOC  Strand       GLU   147 B      SER    151 B                            2X61
+LOC  Strand       LYS   207 B      CYS    210 B                            2X61
+LOC  TurnVIII     PRO    22 A      PHE     25 A                            2X61
+LOC  TurnII'      CYS    30 A      PHE     33 A                            2X61
+LOC  TurnI        TYR    39 A      GLY     42 A                            2X61
+LOC  TurnVIII     CYS    45 A      VAL     48 A                            2X61
+LOC  TurnI        GLN    83 A      LEU     86 A                            2X61
+LOC  TurnI        ALA    84 A      GLU     87 A                            2X61
+LOC  TurnI        PHE    99 A      ALA    102 A                            2X61
+LOC  TurnVIII     LYS   110 A      LYS    113 A                            2X61
+LOC  TurnIV       ASP   154 A      GLN    157 A                            2X61
+LOC  TurnIV       TYR   156 A      SER    161 A                            2X61
+LOC  TurnIV       SER   160 A      ALA    163 A                            2X61
+LOC  TurnIV       TYR   162 A      ASP    165 A                            2X61
+LOC  TurnI        ALA   175 A      PHE    178 A                            2X61
+LOC  TurnI        CYS   212 A      SER    215 A                            2X61
+LOC  TurnIV       LYS   236 A      TYR    239 A                            2X61
+LOC  TurnI        PHE   254 A      ASN    257 A                            2X61
+LOC  GammaInv     CYS    78 A      ASN     80 A                            2X61
+LOC  GammaInv     THR   166 A      GLN    168 A                            2X61
+LOC  TurnVIII     PRO    22 B      PHE     25 B                            2X61
+LOC  TurnII'      CYS    30 B      PHE     33 B                            2X61
+LOC  TurnI        TYR    39 B      GLY     42 B                            2X61
+LOC  TurnVIII     CYS    45 B      VAL     48 B                            2X61
+LOC  TurnI        GLN    83 B      LEU     86 B                            2X61
+LOC  TurnI        ALA    84 B      GLU     87 B                            2X61
+LOC  TurnI        PHE    99 B      ALA    102 B                            2X61
+LOC  TurnVIII     LYS   110 B      LYS    113 B                            2X61
+LOC  TurnIV       ASP   154 B      GLN    157 B                            2X61
+LOC  TurnIV       TYR   162 B      ASP    165 B                            2X61
+LOC  TurnI        CYS   212 B      SER    215 B                            2X61
+LOC  TurnIV       LYS   236 B      TYR    239 B                            2X61
+LOC  GammaInv     CYS    78 B      ASN     80 B                            2X61
+LOC  GammaInv     THR   166 B      GLN    168 B                            2X61

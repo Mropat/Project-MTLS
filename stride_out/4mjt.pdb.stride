@@ -1,0 +1,635 @@
+REM  -------------------- Secondary structure summary -------------------  4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb A                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EEE HHHHHHHHTTTTTT  EEEEE   EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTHHHHHHTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGG GGGB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb B                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb C                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb D                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb E                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGG GGGB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb F                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGG GGGB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb G                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGG   EE  HHHHHHHHTTTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb H                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EEE HHHHHHHHTTTTTT  EEEEE   EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GHHHHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb I                                                            4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  1    SGRFDQYPTKKGDFAIDGYLLDYSSPKQGCWVDGITVYGDIYIGKQNWGT   50          4MJT
+STR        GGGGG  EE  HHHHHHHH TTTTT  EEEE    EEEEEEEETEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  51   YTRPVFAYLQYVETISIPQNVTTTLSYQLTKGHTRSFETSVNAKYSVGAN  100          4MJT
+STR       EEEEEEEEEEEEEEEEE TTTEEEEEEEEEE B HHHHHHB  EEEE GG               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  101  IDIVNVGSEISTGFTRSESWSTTQSFTDTTEMKGPGTFVIYQVVLVYAHN  150          4MJT
+STR       GGGGHHHH       HHHHH   EEEEEEEEEE  EEEEEEEEEEEEEEE               4MJT
+REM                                                                        4MJT
+REM                .         .         .         .         .               4MJT
+SEQ  151  ATSAGRQNANAFAYSKTQAVGSRVDLYYLSAITQRKRVIVPSSNAVTPLD  200          4MJT
+STR       ETTTTTTTTTTBTTEEEEEETTEEEEEEEEEEEEEEEEEEEGGG                     4MJT
+REM                                                                        4MJT
+REM                .         .         .                                   4MJT
+SEQ  201  WDTVQRNVLMENYNPGSNSGHFSFDWSAYNDPHRRY                236          4MJT
+STR       HHHHHHHHHTTTEETTTTEETTT  GGGGGTTTTB                              4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb J                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb K                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb L                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb M                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    PQSHSIEL                                              8          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb N                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    PQSHSIEL                                              8          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb O                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb P                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb Q                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+CHN  4mjt.pdb R                                                            4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+SEQ  1    QPQSHSIEL                                             9          4MJT
+STR                                                                        4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+REM                                                                        4MJT
+LOC  AlphaHelix   ASP    48 A      LEU     55 A                            4MJT
+LOC  AlphaHelix   ARG   120 A      SER    125 A                            4MJT
+LOC  AlphaHelix   ASP   137 A      SER    143 A                            4MJT
+LOC  AlphaHelix   ARG   151 A      TRP    155 A                            4MJT
+LOC  AlphaHelix   ALA   189 A      ALA    194 A                            4MJT
+LOC  AlphaHelix   TRP   236 A      LEU    244 A                            4MJT
+LOC  AlphaHelix   ASP    48 B      LEU     55 B                            4MJT
+LOC  AlphaHelix   ARG   120 B      SER    125 B                            4MJT
+LOC  AlphaHelix   ASP   137 B      SER    143 B                            4MJT
+LOC  AlphaHelix   ARG   151 B      TRP    155 B                            4MJT
+LOC  AlphaHelix   TRP   236 B      LEU    244 B                            4MJT
+LOC  AlphaHelix   ASP    48 C      LEU     55 C                            4MJT
+LOC  AlphaHelix   ARG   120 C      SER    125 C                            4MJT
+LOC  AlphaHelix   ASP   137 C      SER    143 C                            4MJT
+LOC  AlphaHelix   ARG   151 C      TRP    155 C                            4MJT
+LOC  AlphaHelix   TRP   236 C      LEU    244 C                            4MJT
+LOC  AlphaHelix   ASP    48 D      LEU     55 D                            4MJT
+LOC  AlphaHelix   ARG   120 D      SER    125 D                            4MJT
+LOC  AlphaHelix   ASP   137 D      SER    143 D                            4MJT
+LOC  AlphaHelix   ARG   151 D      TRP    155 D                            4MJT
+LOC  AlphaHelix   TRP   236 D      LEU    244 D                            4MJT
+LOC  AlphaHelix   ASP    48 E      LEU     55 E                            4MJT
+LOC  AlphaHelix   ARG   120 E      SER    125 E                            4MJT
+LOC  AlphaHelix   ASP   137 E      SER    143 E                            4MJT
+LOC  AlphaHelix   ARG   151 E      TRP    155 E                            4MJT
+LOC  AlphaHelix   TRP   236 E      LEU    244 E                            4MJT
+LOC  AlphaHelix   ASP    48 F      LEU     55 F                            4MJT
+LOC  AlphaHelix   ARG   120 F      SER    125 F                            4MJT
+LOC  AlphaHelix   ASP   137 F      SER    143 F                            4MJT
+LOC  AlphaHelix   ARG   151 F      TRP    155 F                            4MJT
+LOC  AlphaHelix   TRP   236 F      LEU    244 F                            4MJT
+LOC  AlphaHelix   ASP    48 G      LEU     55 G                            4MJT
+LOC  AlphaHelix   ARG   120 G      SER    125 G                            4MJT
+LOC  AlphaHelix   ASP   137 G      SER    143 G                            4MJT
+LOC  AlphaHelix   ARG   151 G      TRP    155 G                            4MJT
+LOC  AlphaHelix   TRP   236 G      LEU    244 G                            4MJT
+LOC  AlphaHelix   ASP    48 H      LEU     55 H                            4MJT
+LOC  AlphaHelix   ARG   120 H      SER    125 H                            4MJT
+LOC  AlphaHelix   ASP   137 H      SER    143 H                            4MJT
+LOC  AlphaHelix   ARG   151 H      TRP    155 H                            4MJT
+LOC  AlphaHelix   TRP   236 H      LEU    244 H                            4MJT
+LOC  AlphaHelix   ASP    48 I      LEU     55 I                            4MJT
+LOC  AlphaHelix   ARG   120 I      SER    125 I                            4MJT
+LOC  AlphaHelix   ASN   140 I      SER    143 I                            4MJT
+LOC  AlphaHelix   ARG   151 I      TRP    155 I                            4MJT
+LOC  AlphaHelix   TRP   236 I      LEU    244 I                            4MJT
+LOC  310Helix     GLY    37 A      GLN     41 A                            4MJT
+LOC  310Helix     ALA   134 A      ILE    136 A                            4MJT
+LOC  310Helix     SER   227 A      ASN    229 A                            4MJT
+LOC  310Helix     TRP   261 A      ASN    265 A                            4MJT
+LOC  310Helix     PRO   267 A      ARG    269 A                            4MJT
+LOC  310Helix     GLY    37 B      GLN     41 B                            4MJT
+LOC  310Helix     ALA   134 B      ILE    136 B                            4MJT
+LOC  310Helix     SER   227 B      ASN    229 B                            4MJT
+LOC  310Helix     TRP   261 B      ASN    265 B                            4MJT
+LOC  310Helix     GLY    37 C      GLN     41 C                            4MJT
+LOC  310Helix     ALA   134 C      ILE    136 C                            4MJT
+LOC  310Helix     SER   227 C      ASN    229 C                            4MJT
+LOC  310Helix     TRP   261 C      ASN    265 C                            4MJT
+LOC  310Helix     GLY    37 D      GLN     41 D                            4MJT
+LOC  310Helix     ALA   134 D      ILE    136 D                            4MJT
+LOC  310Helix     SER   227 D      ASN    229 D                            4MJT
+LOC  310Helix     TRP   261 D      ASN    265 D                            4MJT
+LOC  310Helix     GLY    37 E      GLN     41 E                            4MJT
+LOC  310Helix     ALA   134 E      ILE    136 E                            4MJT
+LOC  310Helix     SER   227 E      ASN    229 E                            4MJT
+LOC  310Helix     TRP   261 E      ASN    265 E                            4MJT
+LOC  310Helix     PRO   267 E      ARG    269 E                            4MJT
+LOC  310Helix     GLY    37 F      GLN     41 F                            4MJT
+LOC  310Helix     ALA   134 F      ILE    136 F                            4MJT
+LOC  310Helix     SER   227 F      ASN    229 F                            4MJT
+LOC  310Helix     TRP   261 F      ASN    265 F                            4MJT
+LOC  310Helix     PRO   267 F      ARG    269 F                            4MJT
+LOC  310Helix     GLY    37 G      ASP     40 G                            4MJT
+LOC  310Helix     ALA   134 G      ILE    136 G                            4MJT
+LOC  310Helix     SER   227 G      ASN    229 G                            4MJT
+LOC  310Helix     TRP   261 G      ASN    265 G                            4MJT
+LOC  310Helix     GLY    37 H      GLN     41 H                            4MJT
+LOC  310Helix     ALA   134 H      ILE    136 H                            4MJT
+LOC  310Helix     SER   227 H      ASN    229 H                            4MJT
+LOC  310Helix     TRP   261 H      ASN    265 H                            4MJT
+LOC  310Helix     GLY    37 I      GLN     41 I                            4MJT
+LOC  310Helix     ALA   134 I      VAL    139 I                            4MJT
+LOC  310Helix     SER   227 I      ASN    229 I                            4MJT
+LOC  310Helix     TRP   261 I      ASN    265 I                            4MJT
+LOC  Strand       THR    44 A      LYS     46 A                            4MJT
+LOC  Strand       GLY    64 A      ASP     68 A                            4MJT
+LOC  Strand       VAL    72 A      GLY     79 A                            4MJT
+LOC  Strand       GLN    81 A      ILE    102 A                            4MJT
+LOC  Strand       THR   107 A      LYS    116 A                            4MJT
+LOC  Strand       LYS   129 A      VAL    132 A                            4MJT
+LOC  Strand       GLN   159 A      LYS    168 A                            4MJT
+LOC  Strand       GLY   171 A      ALA    186 A                            4MJT
+LOC  Strand       SER   200 A      VAL    205 A                            4MJT
+LOC  Strand       ARG   208 A      PRO    226 A                            4MJT
+LOC  Strand       TYR   248 A      ASN    249 A                            4MJT
+LOC  Strand       SER   254 A      GLY    255 A                            4MJT
+LOC  Strand       THR    44 B      LYS     45 B                            4MJT
+LOC  Strand       GLY    64 B      VAL     67 B                            4MJT
+LOC  Strand       VAL    72 B      GLY     79 B                            4MJT
+LOC  Strand       GLN    81 B      ILE    102 B                            4MJT
+LOC  Strand       THR   107 B      LYS    116 B                            4MJT
+LOC  Strand       LYS   129 B      VAL    132 B                            4MJT
+LOC  Strand       GLN   159 B      LYS    168 B                            4MJT
+LOC  Strand       GLY   171 B      ALA    186 B                            4MJT
+LOC  Strand       SER   200 B      VAL    205 B                            4MJT
+LOC  Strand       ARG   208 B      PRO    226 B                            4MJT
+LOC  Strand       TYR   248 B      ASN    249 B                            4MJT
+LOC  Strand       SER   254 B      GLY    255 B                            4MJT
+LOC  Strand       THR    44 C      LYS     45 C                            4MJT
+LOC  Strand       GLY    64 C      VAL     67 C                            4MJT
+LOC  Strand       VAL    72 C      GLY     79 C                            4MJT
+LOC  Strand       GLN    81 C      ILE    102 C                            4MJT
+LOC  Strand       THR   107 C      LYS    116 C                            4MJT
+LOC  Strand       LYS   129 C      VAL    132 C                            4MJT
+LOC  Strand       GLN   159 C      LYS    168 C                            4MJT
+LOC  Strand       GLY   171 C      ALA    186 C                            4MJT
+LOC  Strand       SER   200 C      VAL    205 C                            4MJT
+LOC  Strand       ARG   208 C      PRO    226 C                            4MJT
+LOC  Strand       TYR   248 C      ASN    249 C                            4MJT
+LOC  Strand       SER   254 C      GLY    255 C                            4MJT
+LOC  Strand       THR    44 D      LYS     45 D                            4MJT
+LOC  Strand       GLY    64 D      VAL     67 D                            4MJT
+LOC  Strand       VAL    72 D      GLY     79 D                            4MJT
+LOC  Strand       GLN    81 D      ILE    102 D                            4MJT
+LOC  Strand       THR   107 D      LYS    116 D                            4MJT
+LOC  Strand       LYS   129 D      VAL    132 D                            4MJT
+LOC  Strand       GLN   159 D      LYS    168 D                            4MJT
+LOC  Strand       GLY   171 D      ALA    186 D                            4MJT
+LOC  Strand       SER   200 D      VAL    205 D                            4MJT
+LOC  Strand       ARG   208 D      PRO    226 D                            4MJT
+LOC  Strand       TYR   248 D      ASN    249 D                            4MJT
+LOC  Strand       SER   254 D      GLY    255 D                            4MJT
+LOC  Strand       THR    44 E      LYS     45 E                            4MJT
+LOC  Strand       GLY    64 E      VAL     67 E                            4MJT
+LOC  Strand       VAL    72 E      GLY     79 E                            4MJT
+LOC  Strand       GLN    81 E      ILE    102 E                            4MJT
+LOC  Strand       THR   107 E      LYS    116 E                            4MJT
+LOC  Strand       LYS   129 E      VAL    132 E                            4MJT
+LOC  Strand       GLN   159 E      LYS    168 E                            4MJT
+LOC  Strand       GLY   171 E      ALA    186 E                            4MJT
+LOC  Strand       SER   200 E      VAL    205 E                            4MJT
+LOC  Strand       ARG   208 E      PRO    226 E                            4MJT
+LOC  Strand       TYR   248 E      ASN    249 E                            4MJT
+LOC  Strand       SER   254 E      GLY    255 E                            4MJT
+LOC  Strand       THR    44 F      LYS     45 F                            4MJT
+LOC  Strand       GLY    64 F      VAL     67 F                            4MJT
+LOC  Strand       VAL    72 F      GLY     79 F                            4MJT
+LOC  Strand       GLN    81 F      ILE    102 F                            4MJT
+LOC  Strand       THR   107 F      LYS    116 F                            4MJT
+LOC  Strand       LYS   129 F      VAL    132 F                            4MJT
+LOC  Strand       GLN   159 F      LYS    168 F                            4MJT
+LOC  Strand       GLY   171 F      ALA    186 F                            4MJT
+LOC  Strand       SER   200 F      VAL    205 F                            4MJT
+LOC  Strand       ARG   208 F      PRO    226 F                            4MJT
+LOC  Strand       TYR   248 F      ASN    249 F                            4MJT
+LOC  Strand       SER   254 F      GLY    255 F                            4MJT
+LOC  Strand       THR    44 G      LYS     45 G                            4MJT
+LOC  Strand       GLY    64 G      VAL     67 G                            4MJT
+LOC  Strand       VAL    72 G      GLY     79 G                            4MJT
+LOC  Strand       GLN    81 G      ILE    102 G                            4MJT
+LOC  Strand       THR   107 G      LYS    116 G                            4MJT
+LOC  Strand       LYS   129 G      VAL    132 G                            4MJT
+LOC  Strand       GLN   159 G      LYS    168 G                            4MJT
+LOC  Strand       GLY   171 G      ALA    186 G                            4MJT
+LOC  Strand       SER   200 G      VAL    205 G                            4MJT
+LOC  Strand       ARG   208 G      PRO    226 G                            4MJT
+LOC  Strand       TYR   248 G      ASN    249 G                            4MJT
+LOC  Strand       SER   254 G      GLY    255 G                            4MJT
+LOC  Strand       THR    44 H      LYS     46 H                            4MJT
+LOC  Strand       GLY    64 H      ASP     68 H                            4MJT
+LOC  Strand       VAL    72 H      GLY     79 H                            4MJT
+LOC  Strand       GLN    81 H      ILE    102 H                            4MJT
+LOC  Strand       THR   107 H      LYS    116 H                            4MJT
+LOC  Strand       LYS   129 H      VAL    132 H                            4MJT
+LOC  Strand       GLN   159 H      LYS    168 H                            4MJT
+LOC  Strand       GLY   171 H      ALA    186 H                            4MJT
+LOC  Strand       SER   200 H      VAL    205 H                            4MJT
+LOC  Strand       ARG   208 H      PRO    226 H                            4MJT
+LOC  Strand       TYR   248 H      ASN    249 H                            4MJT
+LOC  Strand       SER   254 H      GLY    255 H                            4MJT
+LOC  Strand       THR    44 I      LYS     45 I                            4MJT
+LOC  Strand       GLY    64 I      VAL     67 I                            4MJT
+LOC  Strand       VAL    72 I      GLY     79 I                            4MJT
+LOC  Strand       GLN    81 I      ILE    102 I                            4MJT
+LOC  Strand       THR   107 I      LYS    116 I                            4MJT
+LOC  Strand       LYS   129 I      VAL    132 I                            4MJT
+LOC  Strand       GLN   159 I      LYS    168 I                            4MJT
+LOC  Strand       GLY   171 I      ALA    186 I                            4MJT
+LOC  Strand       SER   200 I      VAL    205 I                            4MJT
+LOC  Strand       ARG   208 I      PRO    226 I                            4MJT
+LOC  Strand       TYR   248 I      ASN    249 I                            4MJT
+LOC  Strand       SER   254 I      GLY    255 I                            4MJT
+LOC  TurnIV       ASP    57 A      SER     60 A                            4MJT
+LOC  TurnVIII     TYR    58 A      PRO     61 A                            4MJT
+LOC  TurnII'      ILE    78 A      GLN     81 A                            4MJT
+LOC  TurnII       ALA   186 A      ALA    189 A                            4MJT
+LOC  TurnI        ALA   194 A      PHE    197 A                            4MJT
+LOC  TurnVIII     PHE   197 A      SER    200 A                            4MJT
+LOC  TurnII'      VAL   205 A      ARG    208 A                            4MJT
+LOC  TurnI        LEU   244 A      ASN    247 A                            4MJT
+LOC  TurnI        MET   245 A      TYR    248 A                            4MJT
+LOC  TurnIV       ASN   249 A      SER    252 A                            4MJT
+LOC  TurnI        PRO   250 A      ASN    253 A                            4MJT
+LOC  TurnIV       SER   254 A      PHE    257 A                            4MJT
+LOC  TurnIV       GLY   255 A      SER    258 A                            4MJT
+LOC  GammaInv     LEU    55 A      ASP     57 A                            4MJT
+LOC  GammaInv     GLN   104 A      VAL    106 A                            4MJT
+LOC  TurnIV       ASP    57 B      SER     60 B                            4MJT
+LOC  TurnVIII     TYR    58 B      PRO     61 B                            4MJT
+LOC  TurnII'      ILE    78 B      GLN     81 B                            4MJT
+LOC  TurnII       ALA   186 B      ALA    189 B                            4MJT
+LOC  TurnIV       SER   188 B      ARG    191 B                            4MJT
+LOC  TurnI        ALA   189 B      GLN    192 B                            4MJT
+LOC  TurnI        GLY   190 B      ASN    193 B                            4MJT
+LOC  TurnI        ARG   191 B      ALA    194 B                            4MJT
+LOC  TurnI        ASN   193 B      ALA    196 B                            4MJT
+LOC  TurnI        ALA   194 B      PHE    197 B                            4MJT
+LOC  TurnVIII     PHE   197 B      SER    200 B                            4MJT
+LOC  TurnII'      VAL   205 B      ARG    208 B                            4MJT
+LOC  TurnI        LEU   244 B      ASN    247 B                            4MJT
+LOC  TurnI        MET   245 B      TYR    248 B                            4MJT
+LOC  TurnIV       ASN   249 B      SER    252 B                            4MJT
+LOC  TurnI        PRO   250 B      ASN    253 B                            4MJT
+LOC  TurnIV       SER   254 B      PHE    257 B                            4MJT
+LOC  TurnIV       GLY   255 B      SER    258 B                            4MJT
+LOC  TurnI        ASP   266 B      ARG    269 B                            4MJT
+LOC  TurnI        PRO   267 B      ARG    270 B                            4MJT
+LOC  GammaInv     LEU    55 B      ASP     57 B                            4MJT
+LOC  GammaInv     GLN   104 B      VAL    106 B                            4MJT
+LOC  TurnIV       ASP    57 C      SER     60 C                            4MJT
+LOC  TurnVIII     TYR    58 C      PRO     61 C                            4MJT
+LOC  TurnII'      ILE    78 C      GLN     81 C                            4MJT
+LOC  TurnII       ALA   186 C      ALA    189 C                            4MJT
+LOC  TurnIV       SER   188 C      ARG    191 C                            4MJT
+LOC  TurnI        ALA   189 C      GLN    192 C                            4MJT
+LOC  TurnI        GLY   190 C      ASN    193 C                            4MJT
+LOC  TurnI        ARG   191 C      ALA    194 C                            4MJT
+LOC  TurnI        ASN   193 C      ALA    196 C                            4MJT
+LOC  TurnI        ALA   194 C      PHE    197 C                            4MJT
+LOC  TurnVIII     PHE   197 C      SER    200 C                            4MJT
+LOC  TurnII'      VAL   205 C      ARG    208 C                            4MJT
+LOC  TurnI        LEU   244 C      ASN    247 C                            4MJT
+LOC  TurnI        MET   245 C      TYR    248 C                            4MJT
+LOC  TurnIV       ASN   249 C      SER    252 C                            4MJT
+LOC  TurnI        PRO   250 C      ASN    253 C                            4MJT
+LOC  TurnIV       SER   254 C      PHE    257 C                            4MJT
+LOC  TurnIV       GLY   255 C      SER    258 C                            4MJT
+LOC  TurnI        ASP   266 C      ARG    269 C                            4MJT
+LOC  TurnI        PRO   267 C      ARG    270 C                            4MJT
+LOC  GammaInv     LEU    55 C      ASP     57 C                            4MJT
+LOC  GammaInv     GLN   104 C      VAL    106 C                            4MJT
+LOC  TurnI        ASP    57 D      SER     60 D                            4MJT
+LOC  TurnVIII     TYR    58 D      PRO     61 D                            4MJT
+LOC  TurnII'      ILE    78 D      GLN     81 D                            4MJT
+LOC  TurnII       ALA   186 D      ALA    189 D                            4MJT
+LOC  TurnIV       SER   188 D      ARG    191 D                            4MJT
+LOC  TurnI        ALA   189 D      GLN    192 D                            4MJT
+LOC  TurnI        GLY   190 D      ASN    193 D                            4MJT
+LOC  TurnI        ARG   191 D      ALA    194 D                            4MJT
+LOC  TurnI        ASN   193 D      ALA    196 D                            4MJT
+LOC  TurnI        ALA   194 D      PHE    197 D                            4MJT
+LOC  TurnVIII     PHE   197 D      SER    200 D                            4MJT
+LOC  TurnII'      VAL   205 D      ARG    208 D                            4MJT
+LOC  TurnI        LEU   244 D      ASN    247 D                            4MJT
+LOC  TurnI        MET   245 D      TYR    248 D                            4MJT
+LOC  TurnIV       ASN   249 D      SER    252 D                            4MJT
+LOC  TurnI        PRO   250 D      ASN    253 D                            4MJT
+LOC  TurnIV       SER   254 D      PHE    257 D                            4MJT
+LOC  TurnIV       GLY   255 D      SER    258 D                            4MJT
+LOC  TurnI        ASP   266 D      ARG    269 D                            4MJT
+LOC  TurnI        PRO   267 D      ARG    270 D                            4MJT
+LOC  GammaInv     LEU    55 D      ASP     57 D                            4MJT
+LOC  GammaInv     GLN   104 D      VAL    106 D                            4MJT
+LOC  TurnIV       ASP    57 E      SER     60 E                            4MJT
+LOC  TurnVIII     TYR    58 E      PRO     61 E                            4MJT
+LOC  TurnII'      ILE    78 E      GLN     81 E                            4MJT
+LOC  TurnII       ALA   186 E      ALA    189 E                            4MJT
+LOC  TurnIV       SER   188 E      ARG    191 E                            4MJT
+LOC  TurnI        ALA   189 E      GLN    192 E                            4MJT
+LOC  TurnIV       GLY   190 E      ASN    193 E                            4MJT
+LOC  TurnI        ARG   191 E      ALA    194 E                            4MJT
+LOC  TurnI        ASN   193 E      ALA    196 E                            4MJT
+LOC  TurnI        ALA   194 E      PHE    197 E                            4MJT
+LOC  TurnVIII     PHE   197 E      SER    200 E                            4MJT
+LOC  TurnII'      VAL   205 E      ARG    208 E                            4MJT
+LOC  TurnI        LEU   244 E      ASN    247 E                            4MJT
+LOC  TurnI        MET   245 E      TYR    248 E                            4MJT
+LOC  TurnIV       ASN   249 E      SER    252 E                            4MJT
+LOC  TurnI        PRO   250 E      ASN    253 E                            4MJT
+LOC  TurnIV       SER   254 E      PHE    257 E                            4MJT
+LOC  TurnIV       GLY   255 E      SER    258 E                            4MJT
+LOC  GammaInv     LEU    55 E      ASP     57 E                            4MJT
+LOC  GammaInv     GLN   104 E      VAL    106 E                            4MJT
+LOC  TurnI        ASP    57 F      SER     60 F                            4MJT
+LOC  TurnVIII     TYR    58 F      PRO     61 F                            4MJT
+LOC  TurnII'      ILE    78 F      GLN     81 F                            4MJT
+LOC  TurnII       ALA   186 F      ALA    189 F                            4MJT
+LOC  TurnI        SER   188 F      ARG    191 F                            4MJT
+LOC  TurnI        ALA   189 F      GLN    192 F                            4MJT
+LOC  TurnI        GLY   190 F      ASN    193 F                            4MJT
+LOC  TurnI        ARG   191 F      ALA    194 F                            4MJT
+LOC  TurnI        ASN   193 F      ALA    196 F                            4MJT
+LOC  TurnI        ALA   194 F      PHE    197 F                            4MJT
+LOC  TurnVIII     PHE   197 F      SER    200 F                            4MJT
+LOC  TurnII'      VAL   205 F      ARG    208 F                            4MJT
+LOC  TurnI        LEU   244 F      ASN    247 F                            4MJT
+LOC  TurnI        MET   245 F      TYR    248 F                            4MJT
+LOC  TurnIV       ASN   249 F      SER    252 F                            4MJT
+LOC  TurnI        PRO   250 F      ASN    253 F                            4MJT
+LOC  TurnIV       SER   254 F      PHE    257 F                            4MJT
+LOC  TurnIV       GLY   255 F      SER    258 F                            4MJT
+LOC  GammaInv     LEU    55 F      ASP     57 F                            4MJT
+LOC  GammaInv     GLN   104 F      VAL    106 F                            4MJT
+LOC  TurnIV       ASP    57 G      SER     60 G                            4MJT
+LOC  TurnVIII     TYR    58 G      PRO     61 G                            4MJT
+LOC  TurnII'      ILE    78 G      GLN     81 G                            4MJT
+LOC  TurnII       ALA   186 G      ALA    189 G                            4MJT
+LOC  TurnIV       SER   188 G      ARG    191 G                            4MJT
+LOC  TurnI        ALA   189 G      GLN    192 G                            4MJT
+LOC  TurnI        GLY   190 G      ASN    193 G                            4MJT
+LOC  TurnI        ARG   191 G      ALA    194 G                            4MJT
+LOC  TurnI        ASN   193 G      ALA    196 G                            4MJT
+LOC  TurnI        ALA   194 G      PHE    197 G                            4MJT
+LOC  TurnVIII     PHE   197 G      SER    200 G                            4MJT
+LOC  TurnII'      VAL   205 G      ARG    208 G                            4MJT
+LOC  TurnI        LEU   244 G      ASN    247 G                            4MJT
+LOC  TurnI        MET   245 G      TYR    248 G                            4MJT
+LOC  TurnIV       ASN   249 G      SER    252 G                            4MJT
+LOC  TurnI        PRO   250 G      ASN    253 G                            4MJT
+LOC  TurnIV       SER   254 G      PHE    257 G                            4MJT
+LOC  TurnIV       GLY   255 G      SER    258 G                            4MJT
+LOC  TurnI        ASP   266 G      ARG    269 G                            4MJT
+LOC  TurnI        PRO   267 G      ARG    270 G                            4MJT
+LOC  GammaInv     LEU    55 G      ASP     57 G                            4MJT
+LOC  GammaInv     GLN   104 G      VAL    106 G                            4MJT
+LOC  TurnIV       ASP    57 H      SER     60 H                            4MJT
+LOC  TurnVIII     TYR    58 H      PRO     61 H                            4MJT
+LOC  TurnII'      ILE    78 H      GLN     81 H                            4MJT
+LOC  TurnII       ALA   186 H      ALA    189 H                            4MJT
+LOC  TurnIV       SER   188 H      ARG    191 H                            4MJT
+LOC  TurnI        ALA   189 H      GLN    192 H                            4MJT
+LOC  TurnIV       GLY   190 H      ASN    193 H                            4MJT
+LOC  TurnI        ARG   191 H      ALA    194 H                            4MJT
+LOC  TurnI        ASN   193 H      ALA    196 H                            4MJT
+LOC  TurnI        ALA   194 H      PHE    197 H                            4MJT
+LOC  TurnVIII     PHE   197 H      SER    200 H                            4MJT
+LOC  TurnII'      VAL   205 H      ARG    208 H                            4MJT
+LOC  TurnI        LEU   244 H      ASN    247 H                            4MJT
+LOC  TurnI        MET   245 H      TYR    248 H                            4MJT
+LOC  TurnIV       ASN   249 H      SER    252 H                            4MJT
+LOC  TurnI        PRO   250 H      ASN    253 H                            4MJT
+LOC  TurnIV       SER   254 H      PHE    257 H                            4MJT
+LOC  TurnIV       GLY   255 H      SER    258 H                            4MJT
+LOC  TurnI        ASP   266 H      ARG    269 H                            4MJT
+LOC  TurnI        PRO   267 H      ARG    270 H                            4MJT
+LOC  GammaInv     LEU    55 H      ASP     57 H                            4MJT
+LOC  GammaInv     GLN   104 H      VAL    106 H                            4MJT
+LOC  TurnIV       ASP    57 I      SER     60 I                            4MJT
+LOC  TurnVIII     TYR    58 I      PRO     61 I                            4MJT
+LOC  TurnII'      ILE    78 I      GLN     81 I                            4MJT
+LOC  TurnII       ALA   186 I      ALA    189 I                            4MJT
+LOC  TurnIV       SER   188 I      ARG    191 I                            4MJT
+LOC  TurnI        ALA   189 I      GLN    192 I                            4MJT
+LOC  TurnI        GLY   190 I      ASN    193 I                            4MJT
+LOC  TurnI        ARG   191 I      ALA    194 I                            4MJT
+LOC  TurnI        ASN   193 I      ALA    196 I                            4MJT
+LOC  TurnI        ALA   194 I      PHE    197 I                            4MJT
+LOC  TurnVIII     PHE   197 I      SER    200 I                            4MJT
+LOC  TurnII'      VAL   205 I      ARG    208 I                            4MJT
+LOC  TurnI        LEU   244 I      ASN    247 I                            4MJT
+LOC  TurnI        MET   245 I      TYR    248 I                            4MJT
+LOC  TurnIV       ASN   249 I      SER    252 I                            4MJT
+LOC  TurnI        PRO   250 I      ASN    253 I                            4MJT
+LOC  TurnIV       SER   254 I      PHE    257 I                            4MJT
+LOC  TurnIV       GLY   255 I      SER    258 I                            4MJT
+LOC  TurnI        ASP   266 I      ARG    269 I                            4MJT
+LOC  TurnI        PRO   267 I      ARG    270 I                            4MJT
+LOC  GammaInv     GLN   104 I      VAL    106 I                            4MJT

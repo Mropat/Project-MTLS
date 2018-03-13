@@ -1,0 +1,335 @@
+REM  -------------------- Secondary structure summary -------------------  3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb A                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    GSHSMRYFYTSMSRPGRWEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAP   50          3JTT
+STR         EEEEEEEEEEETTTTT  EEEEEEEETTEEEEEEETTTTTT  EE  G               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   WVEQEGPEYWDRETRNMKAETQNAPVNLRNLRGYYNQSEAGSHTIQRMYG  100          3JTT
+STR       GGTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHH  TTTT EEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  101  CDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAA  150          3JTT
+STR       EEETTTT EEEEEEEEEETTEEEEEETTTTTTEEE  HHHHHHHHHHHHH               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  151  GEAEQHRTYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDQEAT  200          3JTT
+STR       TTTTTHHHHHHHHHHHHHHHHHHHHHHHHH  B  EEEEEEEE TTTEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  201  LRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVP  250          3JTT
+STR       EEEEEEEEBTT  EEEEEETTEE GGGEEEEEEEETTTTTEEEEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .                                             3JTT
+SEQ  251  SGKEQRYTCHVQHEGLREPLTLRWEP                          276          3JTT
+STR       TTTTTTEEEEEETTTTTTTEEE                                           3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb D                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    GSHSMRYFYTSMSRPGRWEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAP   50          3JTT
+STR         EEEEEEEEEEE TTTT  EEEEEEEETTEEEEEEETTTTTT  EE  H               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   WVEQEGPEYWDRETRNMKAETQNAPVNLRNLRGYYNQSEAGSHTIQRMYG  100          3JTT
+STR       HHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHH  TTTT EEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  101  CDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAA  150          3JTT
+STR       EEETTTT EEEEEEEEEETTEEEEEETTTTTTEEE  HHHHHHHHHHHHH               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  151  GEAEQHRTYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDQEAT  200          3JTT
+STR       TTTTTTHHHHH HHHHHHHHHHHHHHHHHH  B  EEEEEEEE TTTEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  201  LRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVP  250          3JTT
+STR       EEEEEEEEBTT  EEEEEETTEE GGGEEE   EETTTTTEEEEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .                                             3JTT
+SEQ  251  SGKEQRYTCHVQHEGLREPLTLRWEP                          276          3JTT
+STR       TTTGGGEEEEEETTTTTTTEEE                                           3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb G                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    GSHSMRYFYTSMSRPGRWEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAP   50          3JTT
+STR         EEEEEEEEEEETTTTT  EEEEEEEETTEEEEEEETTTTTT  EE  H               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   WVEQEGPEYWDRETRNMKAETQNAPVNLRNLRGYYNQSEAGSHTIQRMYG  100          3JTT
+STR       HHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHH  TTTT EEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  101  CDLGPDGRLLRGYHQSAYDGKDYIALNEDLRSWTAADMAAQNTQRKWEAA  150          3JTT
+STR       EEETTTT EEEEEEEEEETTEEEEEETTTTTTEEE  HHHHHHHHHHHHH               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  151  GEAEQHRTYLEGECLEWLRRYLENGKETLQRADPPKTHVTHHPVSDQEAT  200          3JTT
+STR         HHHHHHHHHHHHHHHHHHHHHHHHHHHH  B  EEEEEEEE TTTEEE               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  201  LRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVP  250          3JTT
+STR       EEEEEEEEBTT EEEEEEETTEE GGGEEE   EETTTTTEEEEEEEEEE               3JTT
+REM                                                                        3JTT
+REM                .         .                                             3JTT
+SEQ  251  SGKEQRYTCHVQHEGLREPLTLRWEP                          276          3JTT
+STR       TTTTTTEEEEEEETTTTTTEEE                                           3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb B                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    MIQRTPKIQVYSRHPPENGKPNFLNCYVSGFHPSDIEVDLLKNGEKMGKV   50          3JTT
+STR          B  EEEEEETTT TTTT EEEEEEEEEEB    EEEEEETTEE                   3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   EHSDLSFSKDWSFYLLYYTEFTPNEKDEYACRVNHVTLSGPRTVKWDRDM  100          3JTT
+STR       EE   EETTTT EEEEEEEEE  TTTT EEEEEETTTTTTTEEEE                    3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb E                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    MIQRTPKIQVYSRHPPENGKPNFLNCYVSGFHPSDIEVDLLKNGEKMGKV   50          3JTT
+STR          B  EEEEEETTT TTTT EEEEEEEEEEBTT  EEEEEETTEE                   3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   EHSDLSFSKDWSFYLLYYTEFTPNEKDEYACRVNHVTLSGPRTVKWDRDM  100          3JTT
+STR       EE   EETTTT EEEEEEEEE  TTTT EEEEEETTTTTTTEEEE                    3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb H                                                            3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  1    MIQRTPKIQVYSRHPPENGKPNFLNCYVSGFHPSDIEVDLLKNGEKMGKV   50          3JTT
+STR          B  EEEEEETTT TTTT EEEEEEEEEEB    EEEEEETTEE   E               3JTT
+REM                                                                        3JTT
+REM                .         .         .         .         .               3JTT
+SEQ  51   EHSDLSFSKDWSFYLLYYTEFTPNEKDEYACRVNHVTLSGPRTVKWDRDM  100          3JTT
+STR       EE   EETTTT EEEEEEEEE  TTTT EEEEEETTTTTTTEEEE                    3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb C                                                            3JTT
+REM                                                                        3JTT
+REM                                                                        3JTT
+SEQ  1    YTSGPGIRY                                             9          3JTT
+STR                                                                        3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb F                                                            3JTT
+REM                                                                        3JTT
+REM                                                                        3JTT
+SEQ  1    YTSGPGIRY                                             9          3JTT
+STR                                                                        3JTT
+REM                                                                        3JTT
+CHN  3jtt.pdb I                                                            3JTT
+REM                                                                        3JTT
+REM                                                                        3JTT
+SEQ  1    YTSGPGIRY                                             9          3JTT
+STR                                                                        3JTT
+REM                                                                        3JTT
+REM                                                                        3JTT
+REM                                                                        3JTT
+LOC  AlphaHelix   PRO    57 A      TYR     85 A                            3JTT
+LOC  AlphaHelix   MET   138 A      ALA    150 A                            3JTT
+LOC  AlphaHelix   HIS   156 A      GLN    180 A                            3JTT
+LOC  AlphaHelix   PRO    50 D      GLN     54 D                            3JTT
+LOC  AlphaHelix   PRO    57 D      TYR     85 D                            3JTT
+LOC  AlphaHelix   MET   138 D      ALA    150 D                            3JTT
+LOC  AlphaHelix   ARG   157 D      GLU    161 D                            3JTT
+LOC  AlphaHelix   GLU   163 D      GLN    180 D                            3JTT
+LOC  AlphaHelix   PRO    50 G      GLN     54 G                            3JTT
+LOC  AlphaHelix   PRO    57 G      TYR     85 G                            3JTT
+LOC  AlphaHelix   MET   138 G      ALA    150 G                            3JTT
+LOC  AlphaHelix   ALA   153 G      GLN    180 G                            3JTT
+LOC  310Helix     PRO    50 A      VAL     52 A                            3JTT
+LOC  310Helix     THR   225 A      ASP    227 A                            3JTT
+LOC  310Helix     THR   225 D      ASP    227 D                            3JTT
+LOC  310Helix     GLU   254 D      ARG    256 D                            3JTT
+LOC  310Helix     THR   225 G      ASP    227 G                            3JTT
+LOC  Strand       HIS     3 A      SER     13 A                            3JTT
+LOC  Strand       ARG    21 A      VAL     28 A                            3JTT
+LOC  Strand       THR    31 A      ASP     37 A                            3JTT
+LOC  Strand       GLU    46 A      PRO     47 A                            3JTT
+LOC  Strand       HIS    93 A      LEU    103 A                            3JTT
+LOC  Strand       LEU   109 A      TYR    118 A                            3JTT
+LOC  Strand       LYS   121 A      LEU    126 A                            3JTT
+LOC  Strand       TRP   133 A      ALA    135 A                            3JTT
+LOC  Strand       LYS   186 A      PRO    193 A                            3JTT
+LOC  Strand       GLU   198 A      PHE    208 A                            3JTT
+LOC  Strand       THR   214 A      ARG    219 A                            3JTT
+LOC  Strand       GLU   222 A      ASP    223 A                            3JTT
+LOC  Strand       THR   228 A      PRO    235 A                            3JTT
+LOC  Strand       PHE   241 A      PRO    250 A                            3JTT
+LOC  Strand       TYR   257 A      GLN    262 A                            3JTT
+LOC  Strand       LEU   270 A      LEU    272 A                            3JTT
+LOC  Strand       HIS     3 D      SER     13 D                            3JTT
+LOC  Strand       ARG    21 D      VAL     28 D                            3JTT
+LOC  Strand       THR    31 D      ASP     37 D                            3JTT
+LOC  Strand       GLU    46 D      PRO     47 D                            3JTT
+LOC  Strand       HIS    93 D      LEU    103 D                            3JTT
+LOC  Strand       LEU   109 D      TYR    118 D                            3JTT
+LOC  Strand       LYS   121 D      LEU    126 D                            3JTT
+LOC  Strand       TRP   133 D      ALA    135 D                            3JTT
+LOC  Strand       LYS   186 D      PRO    193 D                            3JTT
+LOC  Strand       GLU   198 D      PHE    208 D                            3JTT
+LOC  Strand       THR   214 D      ARG    219 D                            3JTT
+LOC  Strand       GLU   222 D      ASP    223 D                            3JTT
+LOC  Strand       THR   228 D      LEU    230 D                            3JTT
+LOC  Strand       ARG   234 D      PRO    235 D                            3JTT
+LOC  Strand       PHE   241 D      PRO    250 D                            3JTT
+LOC  Strand       TYR   257 D      GLN    262 D                            3JTT
+LOC  Strand       LEU   270 D      LEU    272 D                            3JTT
+LOC  Strand       HIS     3 G      SER     13 G                            3JTT
+LOC  Strand       ARG    21 G      VAL     28 G                            3JTT
+LOC  Strand       THR    31 G      ASP     37 G                            3JTT
+LOC  Strand       GLU    46 G      PRO     47 G                            3JTT
+LOC  Strand       HIS    93 G      LEU    103 G                            3JTT
+LOC  Strand       LEU   109 G      TYR    118 G                            3JTT
+LOC  Strand       LYS   121 G      LEU    126 G                            3JTT
+LOC  Strand       TRP   133 G      ALA    135 G                            3JTT
+LOC  Strand       LYS   186 G      PRO    193 G                            3JTT
+LOC  Strand       GLU   198 G      PHE    208 G                            3JTT
+LOC  Strand       ILE   213 G      ARG    219 G                            3JTT
+LOC  Strand       GLU   222 G      ASP    223 G                            3JTT
+LOC  Strand       THR   228 G      LEU    230 G                            3JTT
+LOC  Strand       ARG   234 G      PRO    235 G                            3JTT
+LOC  Strand       PHE   241 G      PRO    250 G                            3JTT
+LOC  Strand       TYR   257 G      HIS    263 G                            3JTT
+LOC  Strand       LEU   270 G      LEU    272 G                            3JTT
+LOC  Strand       LYS     7 B      SER     12 B                            3JTT
+LOC  Strand       ASN    22 B      PHE     31 B                            3JTT
+LOC  Strand       GLU    37 B      LYS     42 B                            3JTT
+LOC  Strand       GLU    45 B      LYS     46 B                            3JTT
+LOC  Strand       GLU    51 B      HIS     52 B                            3JTT
+LOC  Strand       SER    56 B      PHE     57 B                            3JTT
+LOC  Strand       PHE    63 B      PHE     71 B                            3JTT
+LOC  Strand       TYR    79 B      ASN     84 B                            3JTT
+LOC  Strand       ARG    92 B      LYS     95 B                            3JTT
+LOC  Strand       LYS     7 E      SER     12 E                            3JTT
+LOC  Strand       ASN    22 E      PHE     31 E                            3JTT
+LOC  Strand       GLU    37 E      LYS     42 E                            3JTT
+LOC  Strand       GLU    45 E      LYS     46 E                            3JTT
+LOC  Strand       GLU    51 E      HIS     52 E                            3JTT
+LOC  Strand       SER    56 E      PHE     57 E                            3JTT
+LOC  Strand       PHE    63 E      PHE     71 E                            3JTT
+LOC  Strand       TYR    79 E      ASN     84 E                            3JTT
+LOC  Strand       ARG    92 E      LYS     95 E                            3JTT
+LOC  Strand       LYS     7 H      SER     12 H                            3JTT
+LOC  Strand       ASN    22 H      PHE     31 H                            3JTT
+LOC  Strand       GLU    37 H      LYS     42 H                            3JTT
+LOC  Strand       GLU    45 H      LYS     46 H                            3JTT
+LOC  Strand       VAL    50 H      HIS     52 H                            3JTT
+LOC  Strand       SER    56 H      PHE     57 H                            3JTT
+LOC  Strand       PHE    63 H      PHE     71 H                            3JTT
+LOC  Strand       TYR    79 H      ASN     84 H                            3JTT
+LOC  Strand       ARG    92 H      LYS     95 H                            3JTT
+LOC  TurnIV       ARG    14 A      ARG     17 A                            3JTT
+LOC  TurnIV       PRO    15 A      TRP     18 A                            3JTT
+LOC  TurnIV       TYR    27 A      ASP     30 A                            3JTT
+LOC  TurnII'      VAL    28 A      THR     31 A                            3JTT
+LOC  TurnI        ASP    37 A      ALA     40 A                            3JTT
+LOC  TurnIV       ALA    40 A      GLN     43 A                            3JTT
+LOC  TurnIV       VAL    52 A      GLU     55 A                            3JTT
+LOC  TurnIV       SER    88 A      GLY     91 A                            3JTT
+LOC  TurnI        GLY   104 A      GLY    107 A                            3JTT
+LOC  TurnIV       ALA   117 A      GLY    120 A                            3JTT
+LOC  TurnI'       TYR   118 A      LYS    121 A                            3JTT
+LOC  TurnI        ASN   127 A      LEU    130 A                            3JTT
+LOC  TurnIV       ASP   129 A      SER    132 A                            3JTT
+LOC  TurnIV       GLY   151 A      GLU    154 A                            3JTT
+LOC  TurnIV       GLU   152 A      GLN    155 A                            3JTT
+LOC  TurnII       ALA   153 A      HIS    156 A                            3JTT
+LOC  TurnI        SER   195 A      GLU    198 A                            3JTT
+LOC  TurnIV       PHE   208 A      ALA    211 A                            3JTT
+LOC  TurnIV       GLN   218 A      GLY    221 A                            3JTT
+LOC  TurnI'       ARG   219 A      GLU    222 A                            3JTT
+LOC  TurnIV       ALA   236 A      GLY    239 A                            3JTT
+LOC  TurnIV       GLY   237 A      THR    240 A                            3JTT
+LOC  TurnIV       PRO   250 A      LYS    253 A                            3JTT
+LOC  TurnIV       SER   251 A      GLU    254 A                            3JTT
+LOC  TurnI        LYS   253 A      ARG    256 A                            3JTT
+LOC  TurnI        GLU   254 A      TYR    257 A                            3JTT
+LOC  TurnI        HIS   263 A      LEU    266 A                            3JTT
+LOC  TurnVIII     LEU   266 A      PRO    269 A                            3JTT
+LOC  TurnVIII     PRO    15 D      TRP     18 D                            3JTT
+LOC  TurnIV       TYR    27 D      ASP     30 D                            3JTT
+LOC  TurnII'      VAL    28 D      THR     31 D                            3JTT
+LOC  TurnI        ASP    37 D      ALA     40 D                            3JTT
+LOC  TurnIV       ALA    40 D      GLN     43 D                            3JTT
+LOC  TurnIV       SER    88 D      GLY     91 D                            3JTT
+LOC  TurnI        GLY   104 D      GLY    107 D                            3JTT
+LOC  TurnIV       ALA   117 D      GLY    120 D                            3JTT
+LOC  TurnI'       TYR   118 D      LYS    121 D                            3JTT
+LOC  TurnI        ASN   127 D      LEU    130 D                            3JTT
+LOC  TurnIV       ASP   129 D      SER    132 D                            3JTT
+LOC  TurnIV       GLY   151 D      GLU    154 D                            3JTT
+LOC  TurnIV       GLU   152 D      GLN    155 D                            3JTT
+LOC  TurnII       ALA   153 D      HIS    156 D                            3JTT
+LOC  TurnIV       GLU   154 D      ARG    157 D                            3JTT
+LOC  TurnI        SER   195 D      GLU    198 D                            3JTT
+LOC  TurnIV       PHE   208 D      ALA    211 D                            3JTT
+LOC  TurnIV       GLN   218 D      GLY    221 D                            3JTT
+LOC  TurnI'       ARG   219 D      GLU    222 D                            3JTT
+LOC  TurnIV       ALA   236 D      GLY    239 D                            3JTT
+LOC  TurnIV       GLY   237 D      THR    240 D                            3JTT
+LOC  TurnII       PRO   250 D      LYS    253 D                            3JTT
+LOC  TurnIV       SER   251 D      GLU    254 D                            3JTT
+LOC  TurnI        HIS   263 D      LEU    266 D                            3JTT
+LOC  TurnVIII     LEU   266 D      PRO    269 D                            3JTT
+LOC  TurnIV       ARG    14 G      ARG     17 G                            3JTT
+LOC  TurnI        PRO    15 G      TRP     18 G                            3JTT
+LOC  TurnIV       TYR    27 G      ASP     30 G                            3JTT
+LOC  TurnII'      VAL    28 G      THR     31 G                            3JTT
+LOC  TurnI        ASP    37 G      ALA     40 G                            3JTT
+LOC  TurnIV       ALA    40 G      GLN     43 G                            3JTT
+LOC  TurnI        SER    88 G      GLY     91 G                            3JTT
+LOC  TurnI        GLY   104 G      GLY    107 G                            3JTT
+LOC  TurnIV       ALA   117 G      GLY    120 G                            3JTT
+LOC  TurnI'       TYR   118 G      LYS    121 G                            3JTT
+LOC  TurnI        ASN   127 G      LEU    130 G                            3JTT
+LOC  TurnIV       ASP   129 G      SER    132 G                            3JTT
+LOC  TurnI        SER   195 G      GLU    198 G                            3JTT
+LOC  TurnIV       PHE   208 G      ALA    211 G                            3JTT
+LOC  TurnIV       GLN   218 G      GLY    221 G                            3JTT
+LOC  TurnI'       ARG   219 G      GLU    222 G                            3JTT
+LOC  TurnIV       ALA   236 G      GLY    239 G                            3JTT
+LOC  TurnIV       GLY   237 G      THR    240 G                            3JTT
+LOC  TurnIV       PRO   250 G      LYS    253 G                            3JTT
+LOC  TurnIV       SER   251 G      GLU    254 G                            3JTT
+LOC  TurnI        LYS   253 G      ARG    256 G                            3JTT
+LOC  TurnI        GLU   254 G      TYR    257 G                            3JTT
+LOC  TurnI        HIS   263 G      LEU    266 G                            3JTT
+LOC  TurnVIII     LEU   266 G      PRO    269 G                            3JTT
+LOC  TurnIV       SER    12 B      PRO     15 B                            3JTT
+LOC  TurnII       GLU    17 B      LYS     20 B                            3JTT
+LOC  TurnIV       LEU    41 B      GLY     44 B                            3JTT
+LOC  TurnI'       LYS    42 B      GLU     45 B                            3JTT
+LOC  TurnI        SER    58 B      TRP     61 B                            3JTT
+LOC  TurnI        ASN    74 B      ASP     77 B                            3JTT
+LOC  TurnI        HIS    85 B      LEU     88 B                            3JTT
+LOC  TurnIV       LEU    88 B      PRO     91 B                            3JTT
+LOC  TurnVIII     SER    12 E      PRO     15 E                            3JTT
+LOC  TurnII       GLU    17 E      LYS     20 E                            3JTT
+LOC  TurnIV       PHE    31 E      SER     34 E                            3JTT
+LOC  TurnIV       LEU    41 E      GLY     44 E                            3JTT
+LOC  TurnI'       LYS    42 E      GLU     45 E                            3JTT
+LOC  TurnI        SER    58 E      TRP     61 E                            3JTT
+LOC  TurnIV       ASN    74 E      ASP     77 E                            3JTT
+LOC  TurnI        HIS    85 E      LEU     88 E                            3JTT
+LOC  TurnIV       LEU    88 E      PRO     91 E                            3JTT
+LOC  TurnIV       SER    12 H      PRO     15 H                            3JTT
+LOC  TurnII       GLU    17 H      LYS     20 H                            3JTT
+LOC  TurnIV       LEU    41 H      GLY     44 H                            3JTT
+LOC  TurnI'       LYS    42 H      GLU     45 H                            3JTT
+LOC  TurnI        SER    58 H      TRP     61 H                            3JTT
+LOC  TurnI        ASN    74 H      ASP     77 H                            3JTT
+LOC  TurnI        HIS    85 H      LEU     88 H                            3JTT
+LOC  TurnIV       LEU    88 H      PRO     91 H                            3JTT
+LOC  Disulfide    CYS   101 A      CYS    164 A            PDB             3JTT
+LOC  Disulfide    CYS   203 A      CYS    259 A            PDB             3JTT
+LOC  Disulfide    CYS    26 B      CYS     81 B            PDB             3JTT
+LOC  Disulfide    CYS   101 D      CYS    164 D            PDB             3JTT
+LOC  Disulfide    CYS   203 D      CYS    259 D            PDB             3JTT
+LOC  Disulfide    CYS    26 E      CYS     81 E            PDB             3JTT
+LOC  Disulfide    CYS   101 G      CYS    164 G            PDB             3JTT
+LOC  Disulfide    CYS   203 G      CYS    259 G            PDB             3JTT
+LOC  Disulfide    CYS    26 H      CYS     81 H            PDB             3JTT

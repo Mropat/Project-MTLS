@@ -1,0 +1,97 @@
+REM  -------------------- Secondary structure summary -------------------  4AHW
+REM                                                                        4AHW
+CHN  4ahw.pdb A                                                            4AHW
+REM                                                                        4AHW
+REM                .         .         .         .         .               4AHW
+SEQ  1    GLVPRGSHMSGATEACLPAGQRKSGMNINFYQYSLKDSSTYSNAAYMAYG   50          4AHW
+STR             TTTTT   EE     EEE EEEEEEE TTTTTTGGG HHHHHHG               4AHW
+REM                                                                        4AHW
+REM                .         .         .         .         .               4AHW
+SEQ  51   YASKTKLGSVGGQTDISIDYNIPCVSSSGTFPCPQEDSYGNWGCKGMGAC  100          4AHW
+STR       GGG  EEEEEEEETBT EEE  EEEETTEEEE  GGGEETTEEETTTEEE               4AHW
+REM                                                                        4AHW
+REM                .         .         .         .         .               4AHW
+SEQ  101  SNSQGIAYWSTDLFGFYTTPTNVTLEMTGYFLPPQTGSYTFSFATVDDSA  150          4AHW
+STR         TTTT   BTTTTTT BTTTTEEEEEEEEE TTTTEEEEEEETTTBTEE               4AHW
+REM                                                                        4AHW
+REM                .         .         .         .         .               4AHW
+SEQ  151  ILSVGGSIAFECCAQEQPPITSTNFTINGIKPWDGSLPDNITGTVYMYAG  200          4AHW
+STR       EEEETTTTTTTTTTTTT     TTTTEEE  TTTT  TTTEEEEEEETTT               4AHW
+REM                                                                        4AHW
+REM                .         .         .         .         .               4AHW
+SEQ  201  YYYPLKVVYSNAVSWGTLPISVELPDGTTVSDNFEGYVYSFDDDLSQSNC  250          4AHW
+STR       TBEEEEEEEEE    EEE EEEETTTT EEETBTTTTEEEE  TTTTTTT               4AHW
+REM                                                                        4AHW
+REM                                                                        4AHW
+SEQ  251  TIPDPSIH                                            258          4AHW
+STR       EETTTTT                                                          4AHW
+REM                                                                        4AHW
+REM                                                                        4AHW
+REM                                                                        4AHW
+LOC  AlphaHelix   ALA    57 A      TYR     62 A                            4AHW
+LOC  310Helix     THR    53 A      SER     55 A                            4AHW
+LOC  310Helix     GLY    63 A      SER     66 A                            4AHW
+LOC  310Helix     GLN    98 A      ASP    100 A                            4AHW
+LOC  Strand       ALA    28 A      CYS     29 A                            4AHW
+LOC  Strand       ARG    35 A      SER     37 A                            4AHW
+LOC  Strand       MET    39 A      GLN     45 A                            4AHW
+LOC  Strand       LYS    69 A      GLN     76 A                            4AHW
+LOC  Strand       ILE    81 A      TYR     83 A                            4AHW
+LOC  Strand       PRO    86 A      SER     89 A                            4AHW
+LOC  Strand       GLY    92 A      PRO     95 A                            4AHW
+LOC  Strand       SER   101 A      TYR    102 A                            4AHW
+LOC  Strand       TRP   105 A      CYS    107 A                            4AHW
+LOC  Strand       GLY   111 A      CYS    113 A                            4AHW
+LOC  Strand       VAL   136 A      PHE    144 A                            4AHW
+LOC  Strand       GLY   150 A      PHE    156 A                            4AHW
+LOC  Strand       SER   162 A      VAL    167 A                            4AHW
+LOC  Strand       ILE   190 A      GLY    192 A                            4AHW
+LOC  Strand       ILE   204 A      MET    210 A                            4AHW
+LOC  Strand       TYR   216 A      ASN    224 A                            4AHW
+LOC  Strand       GLY   229 A      LEU    231 A                            4AHW
+LOC  Strand       ILE   233 A      GLU    236 A                            4AHW
+LOC  Strand       THR   242 A      SER    244 A                            4AHW
+LOC  Strand       VAL   251 A      PHE    254 A                            4AHW
+LOC  Strand       THR   264 A      ILE    265 A                            4AHW
+LOC  TurnIV       SER    20 A      SER     23 A                            4AHW
+LOC  TurnIV       HIS    21 A      GLY     24 A                            4AHW
+LOC  TurnII       SER    47 A      ASP     50 A                            4AHW
+LOC  TurnIV       ASP    50 A      THR     53 A                            4AHW
+LOC  TurnIV       GLN    76 A      ILE     79 A                            4AHW
+LOC  TurnI        SER    89 A      GLY     92 A                            4AHW
+LOC  TurnIV       TYR   102 A      TRP    105 A                            4AHW
+LOC  TurnIV       GLY   103 A      GLY    106 A                            4AHW
+LOC  TurnII       CYS   107 A      MET    110 A                            4AHW
+LOC  TurnIV       LYS   108 A      GLY    111 A                            4AHW
+LOC  TurnI        SER   116 A      ILE    119 A                            4AHW
+LOC  TurnVIII     THR   124 A      PHE    127 A                            4AHW
+LOC  TurnII       ASP   125 A      GLY    128 A                            4AHW
+LOC  TurnI'       LEU   126 A      PHE    129 A                            4AHW
+LOC  TurnI        THR   132 A      ASN    135 A                            4AHW
+LOC  TurnVIII     PRO   133 A      VAL    136 A                            4AHW
+LOC  TurnVIII     PRO   146 A      THR    149 A                            4AHW
+LOC  TurnIV       PHE   156 A      VAL    159 A                            4AHW
+LOC  TurnIV       VAL   159 A      SER    162 A                            4AHW
+LOC  TurnII       GLY   168 A      ILE    171 A                            4AHW
+LOC  TurnIV       GLY   169 A      ALA    172 A                            4AHW
+LOC  TurnIV       SER   170 A      PHE    173 A                            4AHW
+LOC  TurnII       GLU   174 A      ALA    177 A                            4AHW
+LOC  TurnIV       CYS   175 A      GLN    178 A                            4AHW
+LOC  TurnI        ALA   177 A      GLN    180 A                            4AHW
+LOC  TurnVIII     PHE   188 A      ASN    191 A                            4AHW
+LOC  TurnVIII     PRO   195 A      GLY    198 A                            4AHW
+LOC  TurnIV       PRO   201 A      ILE    204 A                            4AHW
+LOC  TurnII       TYR   211 A      TYR    214 A                            4AHW
+LOC  TurnI        LEU   237 A      GLY    240 A                            4AHW
+LOC  TurnII       PHE   247 A      TYR    250 A                            4AHW
+LOC  TurnIV       GLU   248 A      VAL    251 A                            4AHW
+LOC  TurnI        ASP   257 A      GLN    260 A                            4AHW
+LOC  TurnI        GLN   260 A      CYS    263 A                            4AHW
+LOC  TurnVIII     ILE   265 A      PRO    268 A                            4AHW
+LOC  TurnI        ASP   267 A      ILE    270 A                            4AHW
+LOC  GammaInv     THR   186 A      PHE    188 A                            4AHW
+LOC  GammaClassic  SER   244 A      ASN    246 A                           4AHW
+LOC  Disulfide    CYS    29 A      CYS    175 A            PDB             4AHW
+LOC  Disulfide    CYS    87 A      CYS    113 A            PDB             4AHW
+LOC  Disulfide    CYS    96 A      CYS    107 A            PDB             4AHW
+LOC  Disulfide    CYS   176 A      CYS    263 A            PDB             4AHW

@@ -1,0 +1,121 @@
+REM  -------------------- Secondary structure summary -------------------  4EEC
+REM                                                                        4EEC
+CHN  4eec.pdb A                                                            4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  1    GSMCWIASYPKAGGHWLRCMLTSYVTGEPVETWPGIQAGVPHLEGLLRDG   50          4EEC
+STR         EEEEEETTTTTHHHHHHHHHHHHH      HHHHHHH  BHHHHHHH                4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  51   EAPSADPDEQVLLATHFTADRPVLRFYRESTAKVVCLIRNPRDAMLSLMR  100          4EEC
+STR          TTTT   EEEEE  TTTTGGGGGGTTTEEEEEEEE  HHHHHHHHHH               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  101  MKGIPPEDVEACRKIAETFIADEGFSSVRIWAGEGSWPENIRSWTDSVHE  150          4EEC
+STR       HH  TTTTHHHHHHHHHHHHHHTTTTTTTTTT    HHHHHHHHHTTGGG               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  151  SFPNAAVLAVRYEDLRKDPEGELWKVVDFLELGGRDGVADAVANCTLERM  200          4EEC
+STR       TTTTTEEEEEEHHHHHH HHHHHHHHHHHH     HHHHHHHHHH HHHH               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  201  REMEERSKLLGLETTLPFVKSLKFMGDDIEKAYADLLHGETDFAHYARLY  250          4EEC
+STR       HHHHHHHHH     TTTT    TTTT HHHHHHHHHHH   HHHHHHHHH               4EEC
+REM                                                                        4EEC
+REM                                                                        4EEC
+SEQ  251  GYA                                                 253          4EEC
+STR                                                                        4EEC
+REM                                                                        4EEC
+CHN  4eec.pdb B                                                            4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  1    GSMCWIASYPKAGGHWLRCMLTSYVTGEPVETWPGIQAGVPHLEGLLRDG   50          4EEC
+STR         EEEEEETTTT HHHHHHHHHHHHH      HHHHHHH  BHHHHHHH                4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  51   EAPSADPDEQVLLATHFTADRPVLRFYRESTAKVVCLIRNPRDAMLSLMR  100          4EEC
+STR          TTTT   EEEEE  TTTTGGGGGGTTTEEEEEEEE  HHHHHHHHHH               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  101  MKGIPPEDVEACRKIAETFIADEGFSSVRIWAGEGSWPENIRSWTDSVHE  150          4EEC
+STR       HH  TTTTHHHHHHHHHHHHHHTBTTTTTTTTTT BHHHHHHHHTTTGGG               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .         .               4EEC
+SEQ  151  SFPNAAVLAVRYEDLRKDPEGELWKVVDFLELGGRDGVADAVANCTLERM  200          4EEC
+STR       TTTTTEEEEEEHHHHHH HHHHHHHHHHHH     HHHHHHHHH  HHHH               4EEC
+REM                                                                        4EEC
+REM                .         .         .         .                         4EEC
+SEQ  201  REMEERSKKSLKFMGDDIEKAYADLLHGETDFAHYARLYGYA          242          4EEC
+STR       HHHHHH     TTTT HHHHHHHHHHH   HHHHHHHHH                          4EEC
+REM                                                                        4EEC
+REM                                                                        4EEC
+REM                                                                        4EEC
+LOC  AlphaHelix   GLY    15 A      THR     27 A                            4EEC
+LOC  AlphaHelix   TRP    34 A      GLY     40 A                            4EEC
+LOC  AlphaHelix   LEU    44 A      ASP     50 A                            4EEC
+LOC  AlphaHelix   PRO    92 A      LYS    103 A                            4EEC
+LOC  AlphaHelix   VAL   110 A      ASP    123 A                            4EEC
+LOC  AlphaHelix   TRP   138 A      THR    146 A                            4EEC
+LOC  AlphaHelix   TYR   163 A      LYS    168 A                            4EEC
+LOC  AlphaHelix   PRO   170 A      LEU    181 A                            4EEC
+LOC  AlphaHelix   ASP   187 A      CYS    196 A                            4EEC
+LOC  AlphaHelix   LEU   198 A      LEU    210 A                            4EEC
+LOC  AlphaHelix   ASP   244 A      HIS    254 A                            4EEC
+LOC  AlphaHelix   ASP   258 A      TYR    266 A                            4EEC
+LOC  AlphaHelix   GLY    15 B      THR     27 B                            4EEC
+LOC  AlphaHelix   TRP    34 B      GLY     40 B                            4EEC
+LOC  AlphaHelix   LEU    44 B      ASP     50 B                            4EEC
+LOC  AlphaHelix   PRO    92 B      LYS    103 B                            4EEC
+LOC  AlphaHelix   VAL   110 B      ASP    123 B                            4EEC
+LOC  AlphaHelix   TRP   138 B      TRP    145 B                            4EEC
+LOC  AlphaHelix   TYR   163 B      LYS    168 B                            4EEC
+LOC  AlphaHelix   PRO   170 B      LEU    181 B                            4EEC
+LOC  AlphaHelix   ASP   187 B      ASN    195 B                            4EEC
+LOC  AlphaHelix   LEU   198 B      ARG    207 B                            4EEC
+LOC  AlphaHelix   ASP   244 B      HIS    254 B                            4EEC
+LOC  AlphaHelix   ASP   258 B      TYR    266 B                            4EEC
+LOC  310Helix     PRO    73 A      TYR     78 A                            4EEC
+LOC  310Helix     VAL   149 A      GLU    151 A                            4EEC
+LOC  310Helix     PRO    73 B      TYR     78 B                            4EEC
+LOC  310Helix     VAL   149 B      GLU    151 B                            4EEC
+LOC  Strand       MET     4 A      SER      9 A                            4EEC
+LOC  Strand       VAL    62 A      THR     66 A                            4EEC
+LOC  Strand       THR    82 A      ILE     89 A                            4EEC
+LOC  Strand       ALA   157 A      ARG    162 A                            4EEC
+LOC  Strand       MET     4 B      SER      9 B                            4EEC
+LOC  Strand       VAL    62 B      THR     66 B                            4EEC
+LOC  Strand       THR    82 B      ILE     89 B                            4EEC
+LOC  Strand       ALA   157 B      ARG    162 B                            4EEC
+LOC  TurnII       TYR    10 A      ALA     13 A                            4EEC
+LOC  TurnIV       LYS    12 A      GLY     15 A                            4EEC
+LOC  TurnIV       SER    55 A      PRO     58 A                            4EEC
+LOC  TurnI        THR    69 A      ARG     72 A                            4EEC
+LOC  TurnI        TYR    78 A      SER     81 A                            4EEC
+LOC  TurnI        ARG    79 A      THR     82 A                            4EEC
+LOC  TurnIV       PRO   106 A      ASP    109 A                            4EEC
+LOC  TurnIV       ASP   123 A      PHE    126 A                            4EEC
+LOC  TurnI        PHE   126 A      VAL    129 A                            4EEC
+LOC  TurnI        VAL   129 A      TRP    132 A                            4EEC
+LOC  TurnVIII     ARG   130 A      ALA    133 A                            4EEC
+LOC  TurnI        THR   146 A      VAL    149 A                            4EEC
+LOC  TurnIV       GLU   151 A      PRO    154 A                            4EEC
+LOC  TurnI        PHE   153 A      ALA    156 A                            4EEC
+LOC  TurnIV       THR   216 A      PHE    228 A                            4EEC
+LOC  TurnI        LYS   239 A      GLY    242 A                            4EEC
+LOC  TurnII       TYR    10 B      ALA     13 B                            4EEC
+LOC  TurnIV       SER    55 B      PRO     58 B                            4EEC
+LOC  TurnI        THR    69 B      ARG     72 B                            4EEC
+LOC  TurnI        TYR    78 B      SER     81 B                            4EEC
+LOC  TurnI        ARG    79 B      THR     82 B                            4EEC
+LOC  TurnIV       PRO   106 B      ASP    109 B                            4EEC
+LOC  TurnIV       ASP   123 B      PHE    126 B                            4EEC
+LOC  TurnI        PHE   126 B      VAL    129 B                            4EEC
+LOC  TurnI        VAL   129 B      TRP    132 B                            4EEC
+LOC  TurnIV       TRP   132 B      GLU    135 B                            4EEC
+LOC  TurnIV       TRP   145 B      SER    148 B                            4EEC
+LOC  TurnI        THR   146 B      VAL    149 B                            4EEC
+LOC  TurnIV       GLU   151 B      PRO    154 B                            4EEC
+LOC  TurnI        PHE   153 B      ALA    156 B                            4EEC
+LOC  TurnII       LYS   239 B      GLY    242 B                            4EEC
+LOC  Disulfide    CYS    20 A      CYS    196 A            PDB             4EEC
+LOC  Disulfide    CYS    20 B      CYS    196 B            PDB             4EEC

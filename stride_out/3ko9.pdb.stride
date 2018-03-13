@@ -1,0 +1,267 @@
+REM  -------------------- Secondary structure summary -------------------  3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb A                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRLEIISEIKNGLICFLGIHKNDTWEDALYIIRKCL   50          3KO9
+STR        EEEEEEEEEEEEEETTEEEEEE  EEEEEEE BTTT HHHHHHHHHHHH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   NLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNKPDFHLAKEPN  100          3KO9
+STR       H EEEEETTEEEEEETTTTT EEEEEE GGGG BTTTT   BTTTB  HH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .                         3KO9
+SEQ  101  EALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGPVTIYIDTHD   149          3KO9
+STR       HHHHHHHHHHHHHHHH TTTTEEE TTTT EEEEEEEEEEEEEEEE                   3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb B                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRELEIISEIKNGLICFLGIHKNDTWEDALYIIRKC   50          3KO9
+STR        EEEEEEEEEEEEEETTTEEEEEE  EEEEEEE BTTT HHHHHHHHHHH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   LNLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNKPDFHLAKEP  100          3KO9
+STR       HH   EEETTEEEEETTTTTT EEEEEE GGGG BTTTT   BTTTB  H               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  101  NEALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGPVTIYIDTHD  150          3KO9
+STR       HHHHHHHHHHHHHHHHH TTTTEEE TTTT EEEEEEEEEEEEEEEEGGG               3KO9
+REM                                                                        3KO9
+REM                                                                        3KO9
+SEQ  151  I                                                   151          3KO9
+STR                                                                        3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb C                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRKENIGENEKELEIISEIKNGLICFLGIHKNDTWE   50          3KO9
+STR        EEEEEEEEEEEEEE TTTTTTTTT  EEEEEE  EEEEEEE BTTT HH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   DALYIIRKCLNLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNK  100          3KO9
+STR       HHHHHHHHHHH EEE TTTTTTTEETTTTT EEEEEE GGGG BTTTT                 3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  101  PDFHLAKEPNEALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGP  150          3KO9
+STR        BTTTB  HHHHHHHHHHHHHHHHHH TTTTEEE TTTT EEEEEEEEEE               3KO9
+REM                                                                        3KO9
+REM                                                                        3KO9
+SEQ  151  VTIYIDTHD                                           159          3KO9
+STR       EEEEEE                                                           3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb D                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRKELEIISEIKNGLICFLGIHKNDTWEDALYIIRK   50          3KO9
+STR        EEEEEEEEEEEEEETTTTEEEEEE  EEEEEEE BTTT HHHHHHHHHH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   CLNLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNKPDFHLAKE  100          3KO9
+STR       HH  EEEEETTEEEEEETTTTT EEEEEE  GGG BTTTT   BTTTB                 3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  101  PNEALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGPVTIYIDTH  150          3KO9
+STR       HHHHHHHHHHHHHHHHHHHTTTTEEE TTTT EEEEEEEEEEEEEEEE                 3KO9
+REM                                                                        3KO9
+REM                                                                        3KO9
+SEQ  151  D                                                   151          3KO9
+STR                                                                        3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb E                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRLEIISEIKNGLICFLGIHKNDTWEDALYIIRKCL   50          3KO9
+STR        EEEEEEEEEEEEEETTEEEEEE  EEEEEEE BTTT HHHHHHHHHHHH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   NLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNKPDFHLAKEPN  100          3KO9
+STR           EEETTEEEEETTTTTT EEEEEE GGGG BTTTTTTTBTTTB  HH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  101  EALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGPVTIYIDTHDI  150          3KO9
+STR       HHHHHHHHHHHHHHHHHTTTTEEE TTTT EEEEEEEEEEEEEEEETTT                3KO9
+REM                                                                        3KO9
+CHN  3ko9.pdb F                                                            3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  1    MRVVIQRVKGAILSVRELEIISEIKNGLICFLGIHKNDTWEDALYIIRKC   50          3KO9
+STR        EEEEEEEEEEEEEETTTEEEEEE  EEEEEEE BTTT HHHHHHHHHHH               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  51   LNLRLWNNDNKTWDKNVKDLNYELLIVSQFTLFGNTKKGNKPDFHLAKEP  100          3KO9
+STR       HH EEEEETTEEEEEETTTTT EEEEEE GGGG BTTTTTTTBTTTB  H               3KO9
+REM                                                                        3KO9
+REM                .         .         .         .         .               3KO9
+SEQ  101  NEALIFYNKIIDEFKKQYNDDKIKIGKFGNYMNIDVTNDGPVTIYIDTHD  150          3KO9
+STR       HHHHHHHHHHHHHHHHH TTTTT B TTTT EEEEEEEEEEEEEEEE                  3KO9
+REM                                                                        3KO9
+REM                                                                        3KO9
+REM                                                                        3KO9
+LOC  AlphaHelix   TRP    49 A      ASN     61 A                            3KO9
+LOC  AlphaHelix   PRO   109 A      GLN    126 A                            3KO9
+LOC  AlphaHelix   TRP    49 B      ASN     61 B                            3KO9
+LOC  AlphaHelix   PRO   109 B      GLN    126 B                            3KO9
+LOC  AlphaHelix   TRP    49 C      ASN     61 C                            3KO9
+LOC  AlphaHelix   PRO   109 C      GLN    126 C                            3KO9
+LOC  AlphaHelix   TRP    49 D      LEU     60 D                            3KO9
+LOC  AlphaHelix   PRO   109 D      TYR    127 D                            3KO9
+LOC  AlphaHelix   TRP    49 E      LEU     60 E                            3KO9
+LOC  AlphaHelix   PRO   109 E      TYR    127 E                            3KO9
+LOC  AlphaHelix   TRP    49 F      ASN     61 F                            3KO9
+LOC  AlphaHelix   PRO   109 F      GLN    126 F                            3KO9
+LOC  310Helix     PHE    89 A      PHE     92 A                            3KO9
+LOC  310Helix     PHE    89 B      PHE     92 B                            3KO9
+LOC  310Helix     THR   157 B      ASP    159 B                            3KO9
+LOC  310Helix     PHE    89 C      PHE     92 C                            3KO9
+LOC  310Helix     THR    90 D      PHE     92 D                            3KO9
+LOC  310Helix     PHE    89 E      PHE     92 E                            3KO9
+LOC  310Helix     PHE    89 F      PHE     92 F                            3KO9
+LOC  Strand       ARG     2 A      VAL     15 A                            3KO9
+LOC  Strand       GLU    28 A      ILE     33 A                            3KO9
+LOC  Strand       GLY    36 A      GLY     42 A                            3KO9
+LOC  Strand       ARG    63 A      ASN     67 A                            3KO9
+LOC  Strand       LYS    70 A      ASN     75 A                            3KO9
+LOC  Strand       GLU    82 A      SER     87 A                            3KO9
+LOC  Strand       ILE   132 A      ILE    134 A                            3KO9
+LOC  Strand       MET   141 A      ASP    156 A                            3KO9
+LOC  Strand       ARG     2 B      VAL     15 B                            3KO9
+LOC  Strand       GLU    28 B      ILE     33 B                            3KO9
+LOC  Strand       GLY    36 B      GLY     42 B                            3KO9
+LOC  Strand       TRP    65 B      ASN     67 B                            3KO9
+LOC  Strand       LYS    70 B      LYS     74 B                            3KO9
+LOC  Strand       GLU    82 B      SER     87 B                            3KO9
+LOC  Strand       ILE   132 B      ILE    134 B                            3KO9
+LOC  Strand       MET   141 B      ASP    156 B                            3KO9
+LOC  Strand       ARG     2 C      VAL     15 C                            3KO9
+LOC  Strand       GLU    28 C      ILE     33 C                            3KO9
+LOC  Strand       GLY    36 C      GLY     42 C                            3KO9
+LOC  Strand       ARG    63 C      TRP     65 C                            3KO9
+LOC  Strand       LYS    74 C      ASN     75 C                            3KO9
+LOC  Strand       GLU    82 C      SER     87 C                            3KO9
+LOC  Strand       ILE   132 C      ILE    134 C                            3KO9
+LOC  Strand       MET   141 C      ASP    156 C                            3KO9
+LOC  Strand       ARG     2 D      VAL     15 D                            3KO9
+LOC  Strand       GLU    28 D      ILE     33 D                            3KO9
+LOC  Strand       GLY    36 D      GLY     42 D                            3KO9
+LOC  Strand       ARG    63 D      ASN     67 D                            3KO9
+LOC  Strand       LYS    70 D      ASN     75 D                            3KO9
+LOC  Strand       GLU    82 D      SER     87 D                            3KO9
+LOC  Strand       ILE   132 D      ILE    134 D                            3KO9
+LOC  Strand       MET   141 D      ASP    156 D                            3KO9
+LOC  Strand       ARG     2 E      VAL     15 E                            3KO9
+LOC  Strand       GLU    28 E      ILE     33 E                            3KO9
+LOC  Strand       GLY    36 E      GLY     42 E                            3KO9
+LOC  Strand       TRP    65 E      ASN     67 E                            3KO9
+LOC  Strand       LYS    70 E      LYS     74 E                            3KO9
+LOC  Strand       GLU    82 E      SER     87 E                            3KO9
+LOC  Strand       ILE   132 E      ILE    134 E                            3KO9
+LOC  Strand       MET   141 E      ASP    156 E                            3KO9
+LOC  Strand       ARG     2 F      VAL     15 F                            3KO9
+LOC  Strand       GLU    28 F      ILE     33 F                            3KO9
+LOC  Strand       GLY    36 F      GLY     42 F                            3KO9
+LOC  Strand       ARG    63 F      ASN     67 F                            3KO9
+LOC  Strand       LYS    70 F      ASN     75 F                            3KO9
+LOC  Strand       GLU    82 F      SER     87 F                            3KO9
+LOC  Strand       MET   141 F      ASP    156 F                            3KO9
+LOC  TurnIV       VAL     8 A      ALA     11 A                            3KO9
+LOC  TurnIV       SER    14 A      LEU     27 A                            3KO9
+LOC  TurnIV       VAL    15 A      GLU     28 A                            3KO9
+LOC  TurnI        HIS    44 A      ASP     47 A                            3KO9
+LOC  TurnIV       ASN    67 A      LYS     70 A                            3KO9
+LOC  TurnIV       LYS    70 A      ASP     73 A                            3KO9
+LOC  TurnI        ASN    75 A      ASP     78 A                            3KO9
+LOC  TurnIV       VAL    76 A      LEU     79 A                            3KO9
+LOC  TurnI        LYS    77 A      ASN     80 A                            3KO9
+LOC  TurnIV       THR    95 A      GLY     98 A                            3KO9
+LOC  TurnI        PHE   103 A      ALA    106 A                            3KO9
+LOC  TurnI        ASN   128 A      LYS    131 A                            3KO9
+LOC  TurnI        ASP   129 A      ILE    132 A                            3KO9
+LOC  TurnIV       LYS   136 A      ASN    139 A                            3KO9
+LOC  TurnIV       ASN   147 A      PRO    150 A                            3KO9
+LOC  TurnIV       ASP   148 A      VAL    151 A                            3KO9
+LOC  TurnIV       VAL     8 B      ALA     11 B                            3KO9
+LOC  TurnIV       VAL    15 B      LEU     27 B                            3KO9
+LOC  TurnIV       ARG    16 B      GLU     28 B                            3KO9
+LOC  TurnI        HIS    44 B      ASP     47 B                            3KO9
+LOC  TurnIV       ASN    67 B      LYS     70 B                            3KO9
+LOC  TurnIV       LYS    70 B      ASP     73 B                            3KO9
+LOC  TurnIV       ASN    75 B      ASP     78 B                            3KO9
+LOC  TurnIV       VAL    76 B      LEU     79 B                            3KO9
+LOC  TurnI        LYS    77 B      ASN     80 B                            3KO9
+LOC  TurnVIII     THR    95 B      GLY     98 B                            3KO9
+LOC  TurnI        PHE   103 B      ALA    106 B                            3KO9
+LOC  TurnI        ASN   128 B      LYS    131 B                            3KO9
+LOC  TurnI        ASP   129 B      ILE    132 B                            3KO9
+LOC  TurnII       LYS   136 B      ASN    139 B                            3KO9
+LOC  TurnIV       ASN   147 B      PRO    150 B                            3KO9
+LOC  TurnIV       ASP   148 B      VAL    151 B                            3KO9
+LOC  TurnIV       LYS    17 C      ILE     20 C                            3KO9
+LOC  TurnIV       GLY    21 C      GLU     24 C                            3KO9
+LOC  TurnIV       GLU    22 C      LYS     25 C                            3KO9
+LOC  TurnI        HIS    44 C      ASP     47 C                            3KO9
+LOC  TurnIV       ASN    67 C      LYS     70 C                            3KO9
+LOC  TurnIV       LYS    70 C      ASP     73 C                            3KO9
+LOC  TurnIV       ASN    75 C      ASP     78 C                            3KO9
+LOC  TurnIV       VAL    76 C      LEU     79 C                            3KO9
+LOC  TurnI        LYS    77 C      ASN     80 C                            3KO9
+LOC  TurnIV       ASN    94 C      LYS     97 C                            3KO9
+LOC  TurnIV       THR    95 C      GLY     98 C                            3KO9
+LOC  TurnI        PHE   103 C      ALA    106 C                            3KO9
+LOC  TurnI        ASN   128 C      LYS    131 C                            3KO9
+LOC  TurnI        ASP   129 C      ILE    132 C                            3KO9
+LOC  TurnI        LYS   136 C      ASN    139 C                            3KO9
+LOC  TurnIV       ASN   147 C      PRO    150 C                            3KO9
+LOC  TurnIV       ASP   148 C      VAL    151 C                            3KO9
+LOC  TurnIV       ARG    16 D      LEU     27 D                            3KO9
+LOC  TurnIV       LYS    17 D      GLU     28 D                            3KO9
+LOC  TurnI        HIS    44 D      ASP     47 D                            3KO9
+LOC  TurnIV       ASN    66 D      ASN     69 D                            3KO9
+LOC  TurnII'      ASN    67 D      LYS     70 D                            3KO9
+LOC  TurnIV       LYS    70 D      ASP     73 D                            3KO9
+LOC  TurnI        ASN    75 D      ASP     78 D                            3KO9
+LOC  TurnI        VAL    76 D      LEU     79 D                            3KO9
+LOC  TurnI        LYS    77 D      ASN     80 D                            3KO9
+LOC  TurnVIII     THR    95 D      GLY     98 D                            3KO9
+LOC  TurnI        PHE   103 D      ALA    106 D                            3KO9
+LOC  TurnI        ASN   128 D      LYS    131 D                            3KO9
+LOC  TurnI        ASP   129 D      ILE    132 D                            3KO9
+LOC  TurnII       LYS   136 D      ASN    139 D                            3KO9
+LOC  TurnIV       ASN   147 D      PRO    150 D                            3KO9
+LOC  TurnIV       ASP   148 D      VAL    151 D                            3KO9
+LOC  TurnIV       VAL     8 E      ALA     11 E                            3KO9
+LOC  TurnIV       SER    14 E      LEU     27 E                            3KO9
+LOC  TurnIV       VAL    15 E      GLU     28 E                            3KO9
+LOC  TurnI        HIS    44 E      ASP     47 E                            3KO9
+LOC  TurnIV       ASN    67 E      LYS     70 E                            3KO9
+LOC  TurnIV       LYS    70 E      ASP     73 E                            3KO9
+LOC  TurnIV       ASN    75 E      ASP     78 E                            3KO9
+LOC  TurnIV       VAL    76 E      LEU     79 E                            3KO9
+LOC  TurnI        LYS    77 E      ASN     80 E                            3KO9
+LOC  TurnIV       ASN    94 E      LYS     97 E                            3KO9
+LOC  TurnIV       THR    95 E      GLY     98 E                            3KO9
+LOC  TurnVIII     GLY    98 E      PRO    101 E                            3KO9
+LOC  TurnI        PHE   103 E      ALA    106 E                            3KO9
+LOC  TurnI        ASN   128 E      LYS    131 E                            3KO9
+LOC  TurnI        ASP   129 E      ILE    132 E                            3KO9
+LOC  TurnIV       LYS   136 E      ASN    139 E                            3KO9
+LOC  TurnIV       ASN   147 E      PRO    150 E                            3KO9
+LOC  TurnIV       ASP   148 E      VAL    151 E                            3KO9
+LOC  TurnI        ASP   156 E      ASP    159 E                            3KO9
+LOC  TurnIV       VAL    15 F      LEU     27 F                            3KO9
+LOC  TurnIV       ARG    16 F      GLU     28 F                            3KO9
+LOC  TurnI        HIS    44 F      ASP     47 F                            3KO9
+LOC  TurnII'      ASN    67 F      LYS     70 F                            3KO9
+LOC  TurnIV       LYS    70 F      ASP     73 F                            3KO9
+LOC  TurnIV       ASN    75 F      ASP     78 F                            3KO9
+LOC  TurnIV       VAL    76 F      LEU     79 F                            3KO9
+LOC  TurnI        LYS    77 F      ASN     80 F                            3KO9
+LOC  TurnIV       ASN    94 F      LYS     97 F                            3KO9
+LOC  TurnI        THR    95 F      GLY     98 F                            3KO9
+LOC  TurnIV       GLY    98 F      PRO    101 F                            3KO9
+LOC  TurnI        PHE   103 F      ALA    106 F                            3KO9
+LOC  TurnI        ASN   128 F      LYS    131 F                            3KO9
+LOC  TurnIV       ASP   129 F      ILE    132 F                            3KO9
+LOC  TurnII       LYS   136 F      ASN    139 F                            3KO9
+LOC  TurnIV       ASN   147 F      PRO    150 F                            3KO9
+LOC  TurnIV       ASP   148 F      VAL    151 F                            3KO9

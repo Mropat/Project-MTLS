@@ -1,0 +1,83 @@
+REM  -------------------- Secondary structure summary -------------------  3SNA
+REM                                                                        3SNA
+CHN  3sna.pdb A                                                            3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  1    SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDML   50          3SNA
+STR                HHHHHH EEEEEETTEEEEEEEETTEEEEEGGG  TTTTTT               3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  51   NPNYEDLLIRKSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPK  100          3SNA
+STR       TT HHHHHHH  GGGEEEEETTEEE B   EEETTEEEEEB   TTTT                 3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  101  YKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGF  150          3SNA
+STR       EEE   TTTEEEEEEEEETTEEEEEEEEEETTTT B    TTTTTTEEEE               3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  151  NIDYDCVSFCYMHHMELPTGVHAGTDLEGKFYGPFVDRQTAQAAGTDTTI  200          3SNA
+STR       EEETTEEEEEEEEEEETTTT EEEETTTT EE                BT               3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  201  TLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDIL  250          3SNA
+STR       HHHHHHHHHHHHHH  TTTT      HHHHHHHHHHH B    HHHHHHH               3SNA
+REM                                                                        3SNA
+REM                .         .         .         .         .               3SNA
+SEQ  251  GPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQC  300          3SNA
+STR       HHHHHHH   HHHHHHHHHHHHHH TTTTTBTTB        HHHHHHH                3SNA
+REM                                                                        3SNA
+REM                                                                        3SNA
+SEQ  301  S                                                   301          3SNA
+STR                                                                        3SNA
+REM                                                                        3SNA
+REM                                                                        3SNA
+REM                                                                        3SNA
+LOC  AlphaHelix   SER    10 A      GLY     15 A                            3SNA
+LOC  AlphaHelix   TYR    54 A      ARG     60 A                            3SNA
+LOC  AlphaHelix   THR   201 A      ASN    214 A                            3SNA
+LOC  AlphaHelix   LEU   227 A      TYR    237 A                            3SNA
+LOC  AlphaHelix   GLN   244 A      THR    257 A                            3SNA
+LOC  AlphaHelix   VAL   261 A      ASN    274 A                            3SNA
+LOC  AlphaHelix   PRO   293 A      GLN    299 A                            3SNA
+LOC  310Helix     ARG    40 A      VAL     42 A                            3SNA
+LOC  310Helix     ASN    63 A      SER     65 A                            3SNA
+LOC  Strand       MET    17 A      CYS     22 A                            3SNA
+LOC  Strand       THR    25 A      LEU     32 A                            3SNA
+LOC  Strand       THR    35 A      PRO     39 A                            3SNA
+LOC  Strand       PHE    66 A      ALA     70 A                            3SNA
+LOC  Strand       VAL    73 A      LEU     75 A                            3SNA
+LOC  Strand       SER    81 A      GLN     83 A                            3SNA
+LOC  Strand       LEU    86 A      LYS     90 A                            3SNA
+LOC  Strand       TYR   101 A      PHE    103 A                            3SNA
+LOC  Strand       GLN   110 A      TYR    118 A                            3SNA
+LOC  Strand       SER   121 A      MET    130 A                            3SNA
+LOC  Strand       SER   147 A      ASP    153 A                            3SNA
+LOC  Strand       CYS   156 A      GLU    166 A                            3SNA
+LOC  Strand       HIS   172 A      THR    175 A                            3SNA
+LOC  Strand       PHE   181 A      TYR    182 A                            3SNA
+LOC  TurnII'      CYS    22 A      THR     25 A                            3SNA
+LOC  TurnII'      LEU    32 A      THR     35 A                            3SNA
+LOC  TurnIV       THR    45 A      ASP     48 A                            3SNA
+LOC  TurnIV       ALA    46 A      MET     49 A                            3SNA
+LOC  TurnIV       GLU    47 A      LEU     50 A                            3SNA
+LOC  TurnIV       ASP    48 A      ASN     51 A                            3SNA
+LOC  TurnIV       MET    49 A      PRO     52 A                            3SNA
+LOC  TurnIV       GLN    69 A      ASN     72 A                            3SNA
+LOC  TurnII'      ALA    70 A      VAL     73 A                            3SNA
+LOC  TurnII'      GLN    83 A      LEU     86 A                            3SNA
+LOC  TurnI        ASN    95 A      THR     98 A                            3SNA
+LOC  TurnIV       GLN   107 A      GLN    110 A                            3SNA
+LOC  TurnIV       CYS   117 A      GLY    120 A                            3SNA
+LOC  TurnI'       TYR   118 A      SER    121 A                            3SNA
+LOC  TurnI        ARG   131 A      HIS    134 A                            3SNA
+LOC  TurnII       LEU   141 A      SER    144 A                            3SNA
+LOC  TurnII       SER   144 A      SER    147 A                            3SNA
+LOC  TurnIV       ILE   152 A      ASP    155 A                            3SNA
+LOC  TurnIV       ASP   153 A      CYS    156 A                            3SNA
+LOC  TurnI        LEU   167 A      GLY    170 A                            3SNA
+LOC  TurnIV       ASP   176 A      GLY    179 A                            3SNA
+LOC  TurnI        ARG   217 A      LEU    220 A                            3SNA
+LOC  TurnIV       MET   276 A      ARG    279 A                            3SNA
+LOC  TurnIV       THR   280 A      GLY    283 A                            3SNA
+LOC  TurnIV       ILE   281 A      SER    284 A                            3SNA
+LOC  GammaInv     THR   199 A      THR    201 A                            3SNA

@@ -1,23 +1,11 @@
-Extract the feature from your dataset
+
 
 Create cross-validated sets
 
-Train a SVM using single sequence information, using sklearn
 
-Check different window sizes for the inputs
-
-Add evolutionary information by running psi-blast and extracting the information
-
-Train a SVM using multiple sequence information
-
-Optimize the performance of the SVM
-
-Analyze the results and compare it to previous work
 
 Use random forests and a simple decision tree and compare the performance with the SVM performance.
 
+
 Extract the data from 50 other proteins and test the performance
 
-Review the state of art for your predictor
-
-Write a report

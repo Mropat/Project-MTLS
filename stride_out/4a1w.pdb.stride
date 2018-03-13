@@ -1,0 +1,131 @@
+REM  -------------------- Secondary structure summary -------------------  4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb A                                                            4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  1    MSQSNRELVVDFLSYKLSQKGYSWSQMAAVKQALREAGDEFELRYRRAFS   50          4A1W
+STR       HHHHHHHHHHHHHHHHHHH      HHHHHHHHHHHHHHHHHHHHGGGG                4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  51   DLTSQLHITPGTAYQSFEQVVNELFRDGVNWGRIVAFFSFGGALCVESVD  100          4A1W
+STR       HHHHHH  TTTHHHHHHHHHHHHHHTTT  HHHHHHHHHHHHHHHHHHHH               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .                         4A1W
+SEQ  101  KEMQVLVSRIAAWMATYLNDHLEPWIQENGGWDTFVELYGN           141          4A1W
+STR       H   HHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHH                          4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb B                                                            4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  1    LGSMSQSNRELVVDFLSYKLSQKGYSWSQMAAVKQALREAGDEFELRYRR   50          4A1W
+STR           HHHHHHHHHHHHHHHHHH      HHHHHHHHHHHHHHHHHHHHGG               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  51   AFSDLTSQLHITPGTAYQSFEQVVNELFRDGVNWGRIVAFFSFGGALCVE  100          4A1W
+STR       GTTTHHHHH  TTTHHHHHHHHHHHHHHTTT  HHHHHHHHHHHHHHHHH               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .                         4A1W
+SEQ  101  SVDKEMQVLVSRIAAWMATYLNDHLEPWIQENGGWDTFVELYGN        144          4A1W
+STR       HHHH   HHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHH                        4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb C                                                            4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  1    QSNRELVVDFLSYKLSQKGYSWSQMAAVKQALREAGDEFELRYRRAFSDL   50          4A1W
+STR         HHHHHHHHHHHHHHH      HHHHHHHHHHHHHHHHHHHHGGGHHHH               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  51   TSQLHITPGTAYQSFEQVVNELFRDGVNWGRIVAFFSFGGALCVESVDKE  100          4A1W
+STR       HHHH  TTTHHHHHHHHHHHHHHTTT  HHHHHHHHHHHHHHHHHHHHH                4A1W
+REM                                                                        4A1W
+REM                .         .         .                                   4A1W
+SEQ  101  MQVLVSRIAAWMATYLNDHLEPWIQENGGWDTFVELYG              138          4A1W
+STR         HHHHHHHHHHHHHHHHHHHHHHHH   HHHHHHHH                            4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb D                                                            4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  1    SMSQSNRELVVDFLSYKLSQKGYSWSQMAAVKQALREAGDEFELRYRRAF   50          4A1W
+STR        HHHHHHHHHHHHHHHHHHH      HHHHHHHHHHHHHHHHHHHHGGGT               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .         .               4A1W
+SEQ  51   SDLTSQLHITPGTAYQSFEQVVNELFRDGVNWGRIVAFFSFGGALCVESV  100          4A1W
+STR       TTHHHHH  TTTHHHHHHHHHHHHHHTTT  HHHHHHHHHHHHHHHHHHH               4A1W
+REM                                                                        4A1W
+REM                .         .         .         .                         4A1W
+SEQ  101  DKEMQVLVSRIAAWMATYLNDHLEPWIQENGGWDTFVELYG           141          4A1W
+STR       HH   HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHH                          4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb P                                                            4A1W
+REM                                                                        4A1W
+REM                .                                                       4A1W
+SEQ  1    IAQLRRGDENAY                                         12          4A1W
+STR         GGGGGGGGG                                                      4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb Q                                                            4A1W
+REM                                                                        4A1W
+REM                .                                                       4A1W
+SEQ  1    IIAQLRRGDENAY                                        13          4A1W
+STR       TTTGGGGGGGGG                                                     4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb R                                                            4A1W
+REM                                                                        4A1W
+REM                .                                                       4A1W
+SEQ  1    IAQLRRGDENAY                                         12          4A1W
+STR         GGGGGGGGG                                                      4A1W
+REM                                                                        4A1W
+CHN  4a1w.pdb S                                                            4A1W
+REM                                                                        4A1W
+REM                .                                                       4A1W
+SEQ  1    IIAQLRRGDENAY                                        13          4A1W
+STR          GGGGGGGGG                                                     4A1W
+REM                                                                        4A1W
+REM                                                                        4A1W
+REM                                                                        4A1W
+LOC  AlphaHelix   MET     1 A      GLN     19 A                            4A1W
+LOC  AlphaHelix   GLN    26 A      TYR    101 A                            4A1W
+LOC  AlphaHelix   ASP   107 A      LEU    112 A                            4A1W
+LOC  AlphaHelix   THR   118 A      PHE    131 A                            4A1W
+LOC  AlphaHelix   TRP   137 A      LYS    157 A                            4A1W
+LOC  AlphaHelix   VAL   161 A      ASN    185 A                            4A1W
+LOC  AlphaHelix   TRP   188 A      TYR    195 A                            4A1W
+LOC  AlphaHelix   SER     2 B      GLN     19 B                            4A1W
+LOC  AlphaHelix   GLN    26 B      TYR    101 B                            4A1W
+LOC  AlphaHelix   LEU   108 B      LEU    112 B                            4A1W
+LOC  AlphaHelix   THR   118 B      PHE    131 B                            4A1W
+LOC  AlphaHelix   TRP   137 B      LYS    157 B                            4A1W
+LOC  AlphaHelix   VAL   161 B      GLU    184 B                            4A1W
+LOC  AlphaHelix   GLY   187 B      LEU    194 B                            4A1W
+LOC  AlphaHelix   ASN     5 C      GLN     19 C                            4A1W
+LOC  AlphaHelix   GLN    26 C      TYR    101 C                            4A1W
+LOC  AlphaHelix   PHE   105 C      LEU    112 C                            4A1W
+LOC  AlphaHelix   THR   118 C      PHE    131 C                            4A1W
+LOC  AlphaHelix   TRP   137 C      LYS    157 C                            4A1W
+LOC  AlphaHelix   VAL   161 C      GLU    184 C                            4A1W
+LOC  AlphaHelix   TRP   188 C      TYR    195 C                            4A1W
+LOC  AlphaHelix   MET     1 D      GLN     19 D                            4A1W
+LOC  AlphaHelix   GLN    26 D      TYR    101 D                            4A1W
+LOC  AlphaHelix   LEU   108 D      LEU    112 D                            4A1W
+LOC  AlphaHelix   THR   118 D      PHE    131 D                            4A1W
+LOC  AlphaHelix   TRP   137 D      LYS    157 D                            4A1W
+LOC  AlphaHelix   VAL   161 D      ASN    185 D                            4A1W
+LOC  AlphaHelix   GLY   187 D      LEU    194 D                            4A1W
+LOC  310Helix     ARG   102 A      PHE    105 A                            4A1W
+LOC  310Helix     ARG   102 B      ALA    104 B                            4A1W
+LOC  310Helix     ARG   102 C      ALA    104 C                            4A1W
+LOC  310Helix     ARG   102 D      ALA    104 D                            4A1W
+LOC  310Helix     GLN   210 P      ALA    221 P                            4A1W
+LOC  310Helix     GLN   210 Q      ALA    221 Q                            4A1W
+LOC  310Helix     GLN   210 R      ALA    221 R                            4A1W
+LOC  310Helix     GLN   210 S      ALA    221 S                            4A1W
+LOC  TurnI        THR   115 A      THR    118 A                            4A1W
+LOC  TurnI        PHE   131 A      GLY    134 A                            4A1W
+LOC  TurnIV       PHE   105 B      LEU    108 B                            4A1W
+LOC  TurnI        THR   115 B      THR    118 B                            4A1W
+LOC  TurnI        PHE   131 B      GLY    134 B                            4A1W
+LOC  TurnI        THR   115 C      THR    118 C                            4A1W
+LOC  TurnI        PHE   131 C      GLY    134 C                            4A1W
+LOC  TurnIV       PHE   105 D      LEU    108 D                            4A1W
+LOC  TurnI        THR   115 D      THR    118 D                            4A1W
+LOC  TurnI        PHE   131 D      GLY    134 D                            4A1W
+LOC  TurnIV       ILE   206 Q      GLN    210 Q                            4A1W

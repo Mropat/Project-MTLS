@@ -1,0 +1,142 @@
+REM  -------------------- Secondary structure summary -------------------  4A6H
+REM                                                                        4A6H
+CHN  4a6h.pdb A                                                            4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  1    HPFTEIKSGFLERRSKFLKSYSKGYYVLTPNFLHEFKTADRKKDLVPVMS   50          4A6H
+STR         TTTTEEEEEEEEETTTTEEEEEEEEEETTEEEEE   TTTTT  TTEE               4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  51   LALSECTVTEHSRKNSDAKFVLHAKQNGIIRRGHNWVFKADSYESMMSWF  100          4A6H
+STR       EEGGGEEEEEE  TTTT EEEEEE  TTTTTTTEEEEEE   HHHHHHHH               4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+SEQ  101  DNLKILTS                                            108          4A6H
+STR       HHHHHH                                                           4A6H
+REM                                                                        4A6H
+CHN  4a6h.pdb B                                                            4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  1    HPFTEIKSGFLERRSKFLKSYSKGYYVLTPNFLHEFKTADRKKDLVPVMS   50          4A6H
+STR         TTTTEEEEEEEEETTTTEEEEEEEEEETTEEEEE   TTTTT  TTEE               4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  51   LALSECTVTEHSRKNSDAKFVLHAKQNGIIRRGHNWVFKADSYESMMSWF  100          4A6H
+STR       EEGGGEEEEEE  TTTT EEEEEE  TTTTTTTEEEEEE   HHHHHHHH               4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+SEQ  101  DNLKILTS                                            108          4A6H
+STR       HHHHHH                                                           4A6H
+REM                                                                        4A6H
+CHN  4a6h.pdb C                                                            4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  1    FTEIKSGFLERRSKFLKSYSKGYYVLTPNFLHEFKTADRKKDLVPVMSLA   50          4A6H
+STR           EEEEEEEEETTTTEEEEEEEEEETTEEEEE   TTTTTT TTEEEE               4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  51   LSECTVTEHSRKNSSDAKFVLHAKQNGIIRRGHNWVFKADSYESMMSWFD  100          4A6H
+STR       GGGEEEEEE   TTTT EEEEEE  TTTTTTTEEEEEE   HHHHHHHHH               4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+SEQ  101  NLKILTS                                             107          4A6H
+STR       HHHHHH                                                           4A6H
+REM                                                                        4A6H
+CHN  4a6h.pdb D                                                            4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  1    PFTEIKSGFLERRSKFLKSYSKGYYVLTPNFLHEFKTADRKKDLVPVMSL   50          4A6H
+STR            EEEEEEEEETTTTEEEEEEEEEETTEEEEE   TTTTTT TTEEE               4A6H
+REM                                                                        4A6H
+REM                .         .         .         .         .               4A6H
+SEQ  51   ALSECTVTEHSRKSDAKFVLHAKQNGIIRRGHNWVFKADSYESMMSWFDN  100          4A6H
+STR       EGGGEEEEEE TTTT EEEEEE  TTTTTTTEEEEEE   HHHHHHHHHH               4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+SEQ  101  LKILTS                                              106          4A6H
+STR       HHHHH                                                            4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+REM                                                                        4A6H
+LOC  AlphaHelix   TYR   566 A      LEU    579 A                            4A6H
+LOC  AlphaHelix   TYR   566 B      LEU    579 B                            4A6H
+LOC  AlphaHelix   TYR   566 C      THR    580 C                            4A6H
+LOC  AlphaHelix   TYR   566 D      THR    580 D                            4A6H
+LOC  310Helix     LEU   517 A      GLU    519 A                            4A6H
+LOC  310Helix     LEU   517 B      GLU    519 B                            4A6H
+LOC  310Helix     LEU   517 C      GLU    519 C                            4A6H
+LOC  310Helix     LEU   517 D      GLU    519 D                            4A6H
+LOC  Strand       LYS   471 A      SER    479 A                            4A6H
+LOC  Strand       SER   484 A      THR    493 A                            4A6H
+LOC  Strand       PHE   496 A      PHE    500 A                            4A6H
+LOC  Strand       MET   513 A      ALA    516 A                            4A6H
+LOC  Strand       CYS   520 A      HIS    525 A                            4A6H
+LOC  Strand       LYS   542 A      ALA    547 A                            4A6H
+LOC  Strand       HIS   557 A      LYS    562 A                            4A6H
+LOC  Strand       LYS   471 B      SER    479 B                            4A6H
+LOC  Strand       SER   484 B      THR    493 B                            4A6H
+LOC  Strand       PHE   496 B      PHE    500 B                            4A6H
+LOC  Strand       MET   513 B      ALA    516 B                            4A6H
+LOC  Strand       CYS   520 B      HIS    525 B                            4A6H
+LOC  Strand       LYS   542 B      ALA    547 B                            4A6H
+LOC  Strand       HIS   557 B      LYS    562 B                            4A6H
+LOC  Strand       LYS   471 C      SER    479 C                            4A6H
+LOC  Strand       SER   484 C      THR    493 C                            4A6H
+LOC  Strand       PHE   496 C      PHE    500 C                            4A6H
+LOC  Strand       MET   513 C      ALA    516 C                            4A6H
+LOC  Strand       CYS   520 C      HIS    525 C                            4A6H
+LOC  Strand       LYS   542 C      ALA    547 C                            4A6H
+LOC  Strand       HIS   557 C      LYS    562 C                            4A6H
+LOC  Strand       LYS   471 D      SER    479 D                            4A6H
+LOC  Strand       SER   484 D      THR    493 D                            4A6H
+LOC  Strand       PHE   496 D      PHE    500 D                            4A6H
+LOC  Strand       MET   513 D      ALA    516 D                            4A6H
+LOC  Strand       CYS   520 D      HIS    525 D                            4A6H
+LOC  Strand       LYS   542 D      ALA    547 D                            4A6H
+LOC  Strand       HIS   557 D      LYS    562 D                            4A6H
+LOC  TurnIV       GLU   469 A      SER    472 A                            4A6H
+LOC  TurnI        SER   479 A      LEU    482 A                            4A6H
+LOC  TurnI        LYS   480 A      LYS    483 A                            4A6H
+LOC  TurnI        THR   493 A      PHE    496 A                            4A6H
+LOC  TurnI        ASP   504 A      LYS    507 A                            4A6H
+LOC  TurnIV       ARG   505 A      ASP    508 A                            4A6H
+LOC  TurnIV       PRO   511 A      SER    514 A                            4A6H
+LOC  TurnIV       LYS   528 A      ASP    540 A                            4A6H
+LOC  TurnIV       ASN   550 A      ILE    553 A                            4A6H
+LOC  TurnVIII     GLY   551 A      ARG    554 A                            4A6H
+LOC  TurnII       ARG   554 A      HIS    557 A                            4A6H
+LOC  GammaInv     PHE   467 A      GLU    469 A                            4A6H
+LOC  TurnIV       GLU   469 B      SER    472 B                            4A6H
+LOC  TurnI        SER   479 B      LEU    482 B                            4A6H
+LOC  TurnI        LYS   480 B      LYS    483 B                            4A6H
+LOC  TurnI        THR   493 B      PHE    496 B                            4A6H
+LOC  TurnI        ASP   504 B      LYS    507 B                            4A6H
+LOC  TurnIV       ARG   505 B      ASP    508 B                            4A6H
+LOC  TurnIV       PRO   511 B      SER    514 B                            4A6H
+LOC  TurnIV       LYS   528 B      ASP    540 B                            4A6H
+LOC  TurnIV       ASN   550 B      ILE    553 B                            4A6H
+LOC  TurnVIII     GLY   551 B      ARG    554 B                            4A6H
+LOC  TurnII       ARG   554 B      HIS    557 B                            4A6H
+LOC  GammaInv     PHE   467 B      GLU    469 B                            4A6H
+LOC  TurnI        SER   479 C      LEU    482 C                            4A6H
+LOC  TurnI        LYS   480 C      LYS    483 C                            4A6H
+LOC  TurnI        THR   493 C      PHE    496 C                            4A6H
+LOC  TurnI        ASP   504 C      LYS    507 C                            4A6H
+LOC  TurnI        ARG   505 C      ASP    508 C                            4A6H
+LOC  TurnIV       LYS   506 C      LEU    509 C                            4A6H
+LOC  TurnIV       PRO   511 C      SER    514 C                            4A6H
+LOC  TurnIV       ASN   529 C      ASP    540 C                            4A6H
+LOC  TurnIV       ASN   550 C      ILE    553 C                            4A6H
+LOC  TurnVIII     GLY   551 C      ARG    554 C                            4A6H
+LOC  TurnII       ARG   554 C      HIS    557 C                            4A6H
+LOC  TurnI        SER   479 D      LEU    482 D                            4A6H
+LOC  TurnI        LYS   480 D      LYS    483 D                            4A6H
+LOC  TurnI        THR   493 D      PHE    496 D                            4A6H
+LOC  TurnI        ASP   504 D      LYS    507 D                            4A6H
+LOC  TurnI        ARG   505 D      ASP    508 D                            4A6H
+LOC  TurnIV       LYS   506 D      LEU    509 D                            4A6H
+LOC  TurnIV       PRO   511 D      SER    514 D                            4A6H
+LOC  TurnIV       ARG   527 D      ASP    540 D                            4A6H
+LOC  TurnIV       ASN   550 D      ILE    553 D                            4A6H
+LOC  TurnVIII     GLY   551 D      ARG    554 D                            4A6H
+LOC  TurnII       ARG   554 D      HIS    557 D                            4A6H

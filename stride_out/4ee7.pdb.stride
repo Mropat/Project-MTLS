@@ -1,0 +1,154 @@
+REM  -------------------- Secondary structure summary -------------------  4EE7
+REM                                                                        4EE7
+CHN  4ee7.pdb A                                                            4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  1    ESADLTELYSIIETAQVVDVTASHDKVWPILNAFQDVIADSVISFRASTG   50          4EE7
+STR       HHHHHHHHHHHHGGGGGG     HHHHHHHHHHHTTTTTTTEEEEEE TT               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  51   SSADDLDCRFTMLPGLDPYARALEHGLTPTDHPVGSLLKEVHENLPITSC  100          4EE7
+STR       TTTTT EEEEEEETTT HHHHHHHHTTTT   GGGHHHHHHHHHTTEEEE               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  101  GVDFGVAGGFTKTWSFPSAELGKVSELVKLPSIPDAVAANRDFFEKWGIA  150          4EE7
+STR       EEEEETTTEEEEEEEEETTTTB HHHHH TTTT HHHHHHHHHHHHH TT               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  151  DMVSTVGIDYSKRTMNLYFGGGVGDRVPAGVFEEKGVRAILGELGLAAPS  200          4EE7
+STR       TTEEEEEEETTTTEEEEEE TTTT    GGG  HHHHHHHHHHH                     4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  201  EELLKFCERSFVIYVTLSWDSPKINRFTYSVMTPEPLGLPVDLAPTFERL  250          4EE7
+STR       HHHHHHHH   EEEEEEETTT    EEEEEEEETTGGG      HHHHHH               4EE7
+REM                                                                        4EE7
+REM                .         .         .                                   4EE7
+SEQ  251  IKSAPYDTEGRNYVYGIASTPKGEYHIASYYQWQK                 285          4EE7
+STR       HHH    TTTT EEEEEEEETTEEE EEEEEET                                4EE7
+REM                                                                        4EE7
+CHN  4ee7.pdb B                                                            4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  1    ADLTELYSIIETAQVVDVTASHDKVWPILNAFQDVIADSVISFRASTGSS   50          4EE7
+STR       HHHHHHHHHHGGGGGG     HHHHHHHHHHHTTTTTTTEEEEEE TTTT               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  51   ADDLDCRFTMLPGLDPYARALEHGLTPTDHPVGSLLKEVHENLPITSCGV  100          4EE7
+STR       TTT EEEEEEETTT HHHHHHHHTTTT   GGGHHHHHHHHHTTEEEEEE               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  101  DFGVAGGFTKTWSFPSAELGKVSELVKLPSIPDAVAANRDFFEKWGIADM  150          4EE7
+STR       EEETTTEEEEEEEEETTTTB HHHHH TTTT HHHHHHHHHHHHH TTTT               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  151  VSTVGIDYSKRTMNLYFGGGVGDRVPAGVFEEKGVRAILGELGLAAPSEE  200          4EE7
+STR       EEEEEEETTTTEEEEEE TTTT    GGG  HHHHHHHHHHH      HH               4EE7
+REM                                                                        4EE7
+REM                .         .         .         .         .               4EE7
+SEQ  201  LLKFCERSFVIYVTLSWDSPKINRFTYSVMTPEPLGLPVDLAPTFERLIK  250          4EE7
+STR       HHHHHH   EEEEEEETTEEEEEEEEEEEEETTGGG      HHHHHHHH               4EE7
+REM                                                                        4EE7
+REM                .         .         .                                   4EE7
+SEQ  251  SAPYDTEGRNYVYGIASTPKGEYHIASYYQWQK                   283          4EE7
+STR       H    TTTT EEEEEEEETTEEE EEEEEET                                  4EE7
+REM                                                                        4EE7
+REM                                                                        4EE7
+REM                                                                        4EE7
+LOC  AlphaHelix   GLU     3 A      ILE     14 A                            4EE7
+LOC  AlphaHelix   HIS    27 A      PHE     37 A                            4EE7
+LOC  AlphaHelix   PRO    72 A      HIS     79 A                            4EE7
+LOC  AlphaHelix   SER    91 A      ASN     99 A                            4EE7
+LOC  AlphaHelix   VAL   130 A      VAL    134 A                            4EE7
+LOC  AlphaHelix   ASP   141 A      TRP    153 A                            4EE7
+LOC  AlphaHelix   GLU   190 A      LEU    200 A                            4EE7
+LOC  AlphaHelix   GLU   207 A      GLU    214 A                            4EE7
+LOC  AlphaHelix   PRO   251 A      SER    259 A                            4EE7
+LOC  AlphaHelix   ALA     5 B      ILE     14 B                            4EE7
+LOC  AlphaHelix   HIS    27 B      PHE     37 B                            4EE7
+LOC  AlphaHelix   PRO    72 B      HIS     79 B                            4EE7
+LOC  AlphaHelix   SER    91 B      ASN     99 B                            4EE7
+LOC  AlphaHelix   VAL   130 B      VAL    134 B                            4EE7
+LOC  AlphaHelix   ASP   141 B      TRP    153 B                            4EE7
+LOC  AlphaHelix   GLU   190 B      LEU    200 B                            4EE7
+LOC  AlphaHelix   GLU   207 B      GLU    214 B                            4EE7
+LOC  AlphaHelix   PRO   251 B      SER    259 B                            4EE7
+LOC  310Helix     GLU    15 A      VAL     21 A                            4EE7
+LOC  310Helix     PRO    88 A      GLY     90 A                            4EE7
+LOC  310Helix     ALA   185 A      VAL    187 A                            4EE7
+LOC  310Helix     PRO   242 A      GLY    244 A                            4EE7
+LOC  310Helix     GLU    15 B      VAL     21 B                            4EE7
+LOC  310Helix     PRO    88 B      GLY     90 B                            4EE7
+LOC  310Helix     ALA   185 B      VAL    187 B                            4EE7
+LOC  310Helix     PRO   242 B      GLY    244 B                            4EE7
+LOC  Strand       VAL    45 A      ALA     50 A                            4EE7
+LOC  Strand       ASP    60 A      LEU     66 A                            4EE7
+LOC  Strand       ILE   102 A      GLY    110 A                            4EE7
+LOC  Strand       GLY   114 A      PRO    122 A                            4EE7
+LOC  Strand       VAL   159 A      ASP    165 A                            4EE7
+LOC  Strand       THR   170 A      PHE    175 A                            4EE7
+LOC  Strand       VAL   218 A      SER    224 A                            4EE7
+LOC  Strand       ARG   232 A      THR    239 A                            4EE7
+LOC  Strand       TYR   269 A      THR    276 A                            4EE7
+LOC  Strand       GLY   279 A      TYR    281 A                            4EE7
+LOC  Strand       ILE   284 A      GLN    289 A                            4EE7
+LOC  Strand       VAL    45 B      ALA     50 B                            4EE7
+LOC  Strand       ASP    60 B      LEU     66 B                            4EE7
+LOC  Strand       ILE   102 B      GLY    110 B                            4EE7
+LOC  Strand       GLY   114 B      PRO    122 B                            4EE7
+LOC  Strand       VAL   159 B      ASP    165 B                            4EE7
+LOC  Strand       THR   170 B      PHE    175 B                            4EE7
+LOC  Strand       VAL   218 B      SER    224 B                            4EE7
+LOC  Strand       SER   227 B      THR    239 B                            4EE7
+LOC  Strand       TYR   269 B      THR    276 B                            4EE7
+LOC  Strand       GLY   279 B      TYR    281 B                            4EE7
+LOC  Strand       ILE   284 B      GLN    289 B                            4EE7
+LOC  TurnI        PHE    37 A      VAL     40 A                            4EE7
+LOC  TurnI        GLN    38 A      ILE     41 A                            4EE7
+LOC  TurnIV       VAL    40 A      ASP     43 A                            4EE7
+LOC  TurnI        ILE    41 A      SER     44 A                            4EE7
+LOC  TurnIV       THR    52 A      SER     55 A                            4EE7
+LOC  TurnI        GLY    53 A      ALA     56 A                            4EE7
+LOC  TurnI        SER    54 A      ASP     57 A                            4EE7
+LOC  TurnI        SER    55 A      ASP     58 A                            4EE7
+LOC  TurnVIII     GLY    80 A      PRO     83 A                            4EE7
+LOC  TurnI        GLY   110 A      GLY    113 A                            4EE7
+LOC  TurnI        VAL   111 A      GLY    114 A                            4EE7
+LOC  TurnIV       SER   123 A      LEU    127 A                            4EE7
+LOC  TurnI        LEU   136 A      ILE    139 A                            4EE7
+LOC  TurnI        ILE   155 A      MET    158 A                            4EE7
+LOC  TurnIV       ALA   156 A      VAL    159 A                            4EE7
+LOC  TurnI        ASP   165 A      LYS    168 A                            4EE7
+LOC  TurnI        TYR   166 A      ARG    169 A                            4EE7
+LOC  TurnII'      GLY   177 A      GLY    180 A                            4EE7
+LOC  TurnI        SER   224 A      SER    227 A                            4EE7
+LOC  TurnIV       THR   239 A      PRO    242 A                            4EE7
+LOC  TurnIV       THR   264 A      ARG    267 A                            4EE7
+LOC  TurnI        THR   276 A      GLY    279 A                            4EE7
+LOC  TurnVIII     TYR   287 A      TRP    290 A                            4EE7
+LOC  GammaClassic  PRO    67 A      LEU     70 A                           4EE7
+LOC  GammaInv     LEU   100 A      ILE    102 A                            4EE7
+LOC  TurnI        PHE    37 B      VAL     40 B                            4EE7
+LOC  TurnI        GLN    38 B      ILE     41 B                            4EE7
+LOC  TurnIV       VAL    40 B      ASP     43 B                            4EE7
+LOC  TurnI        ILE    41 B      SER     44 B                            4EE7
+LOC  TurnIV       THR    52 B      SER     55 B                            4EE7
+LOC  TurnI        GLY    53 B      ALA     56 B                            4EE7
+LOC  TurnI        SER    54 B      ASP     57 B                            4EE7
+LOC  TurnI        SER    55 B      ASP     58 B                            4EE7
+LOC  TurnVIII     GLY    80 B      PRO     83 B                            4EE7
+LOC  TurnI        GLY   110 B      GLY    113 B                            4EE7
+LOC  TurnI        VAL   111 B      GLY    114 B                            4EE7
+LOC  TurnIV       SER   123 B      LEU    127 B                            4EE7
+LOC  TurnI        LEU   136 B      ILE    139 B                            4EE7
+LOC  TurnI        ILE   155 B      MET    158 B                            4EE7
+LOC  TurnIV       ALA   156 B      VAL    159 B                            4EE7
+LOC  TurnIV       ASP   165 B      LYS    168 B                            4EE7
+LOC  TurnI        TYR   166 B      ARG    169 B                            4EE7
+LOC  TurnII'      GLY   177 B      GLY    180 B                            4EE7
+LOC  TurnI        SER   224 B      SER    227 B                            4EE7
+LOC  TurnIV       THR   239 B      PRO    242 B                            4EE7
+LOC  TurnI'       THR   264 B      ARG    267 B                            4EE7
+LOC  TurnI        THR   276 B      GLY    279 B                            4EE7
+LOC  TurnVIII     TYR   287 B      TRP    290 B                            4EE7
+LOC  GammaClassic  PRO    67 B      LEU     70 B                           4EE7
+LOC  GammaInv     LEU   100 B      ILE    102 B                            4EE7

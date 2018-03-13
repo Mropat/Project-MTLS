@@ -1,0 +1,236 @@
+REM  -------------------- Secondary structure summary -------------------  4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb A                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  1    PTSIKLVVVGDGAVGKTCLLISYSIRKFPEDYIPTVFDNYVVSLTAGTRQ   50          4MIT
+STR        EEEEEEEEETTTT HHHHHHHHHH   TTT     EEEEEEEEEBTTEE               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  51   IQLALWDTAGLEEYDQLRPLSYSSASIFLICFSVTSSVSYDNVITKWHPE  100          4MIT
+STR       EEEEEEE    GGGTTTGGGGTTTT EEEEEEETTTHHHHHHHHHHHHHH               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  101  VIHFAPKVPIILVGTKLDTRNDPAIVKRLTEQGMTVINTAKGEELKNRIK  150          4MIT
+STR       HHHHTTTT EEEEEE GGGTTTHHHHHHHHH       HHHHHHHHHHH                4MIT
+REM                                                                        4MIT
+REM                .         .                                             4MIT
+SEQ  151  AVKYIECSAKTSENLKTVFDEAVKTVLM                        178          4MIT
+STR         EEEE TTTTTTTHHHHHHHHHHHHH                                      4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb B                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  1    PTSIKLVVVGDGAVGKTCLLISYSIRKFPEDYIPTVFDNYVVSLTAGTRQ   50          4MIT
+STR        EEEEEEEE TTTT HHHHHHHHHH   TTT     EEEEEEEEEBTTEE               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  51   IQLALWDTAGLEEYDQLRPLSYSSASIFLICFSVTSSVSYDNVITKWHPE  100          4MIT
+STR       EEEEEEE    GGGTTTGGGGTTTT EEEEEEETTTHHHHHHHHHHHHHH               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  101  VIHFAPKVPIILVGTKLDTRNDPAIVKRLTEQGMTVINTAKGEELKNRIK  150          4MIT
+STR       HHHHTTTT EEEEEETGGGTTTHHHHHHHHH       HHHHHHHHHHH                4MIT
+REM                                                                        4MIT
+REM                .         .                                             4MIT
+SEQ  151  AVKYIECSAKTSENLKTVFDEAVKTVLMN                       179          4MIT
+STR         EEEE TTTTTTTHHHHHHHHHHHHHH                                     4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb C                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  1    EKPTSIKLVVVGDGAVGKTCLLISYSIRKFPEDYIPTVFDNYVVSLTAGT   50          4MIT
+STR          EEEEEEEE TTTT HHHHHHHHHH   TTT     EEEEEEEEETTT               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  51   RQIQLALWDTAGLEEYDQLRPLSYSSASIFLICFSVTSSVSYDNVITKWH  100          4MIT
+STR       TEEEEEEEE    GGGTTTGGGGTTTT EEEEEEETTTHHHHHHHHHHHH               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  101  PEVIHFAPKVPIILVGTKLDTRNDPAIVKRLTEQGMTVINTAKGEELKNR  150          4MIT
+STR       HHHHHHTTTT EEEEEETTTTTT  HHHHHHHH       GGGGGGTTTT               4MIT
+REM                                                                        4MIT
+REM                .         .         .                                   4MIT
+SEQ  151  IKAVKYIECSAKTSENLKTVFDEAVKTVLMN                     181          4MIT
+STR                TTTTTTTTTTHHHHHHHHHH                                    4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb D                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  1    EKPTSIKLVVVGDGAVGKTCLLISYSIRKFPEDYIPTVFDNYVVSLTAGT   50          4MIT
+STR          EEEEEEEE TTTT HHHHHHHHHH   TTT   TTEEEEEEEEEBTT               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  51   RQIQLALWDTAGLEEYDQLRPLSYSSASIFLICFSVTSSVSYDNVITKWH  100          4MIT
+STR       EEEEEEEEE    GGGTTTGGGGTTTT EEEEEEETTTHHHHHHHHHHHH               4MIT
+REM                                                                        4MIT
+REM                .         .         .         .         .               4MIT
+SEQ  101  PEVIHFAPKVPIILVGTKLDTRNDPAIVKRLTEQGMTVINTAKGEELKNR  150          4MIT
+STR       HHHHHHTTTT EEEEEE GGGTTTHHHHHHHHH       HHHHHHHHHH               4MIT
+REM                                                                        4MIT
+REM                .         .         .                                   4MIT
+SEQ  151  IKAVKYIECSAKTSENLKTVFDEAVKTVLMN                     181          4MIT
+STR       H   EEEE TTTTTTTHHHHHHHHHHHHHH                                   4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb E                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .                         4MIT
+SEQ  1    ELIISDPTDFEQITHVELGDSGLTGFPPEWREKLIKAGLT             40          4MIT
+STR          B   EEEEEEEEEEEETTEEEEETTHHHHHHHHHH                           4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb F                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .                                   4MIT
+SEQ  1    LIISDPTDFEQITHVELGLTGFPPEWREKLIKAGL                  35          4MIT
+STR         B   EEEEEEEEEETTTEEETTHHHHHHHHHH                               4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb G                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .                         4MIT
+SEQ  1    SNAELIISDPTDFEQITHVELGDSGLTGFPPEWREKLIKAGLT          43          4MIT
+STR        TTTT     EEEEEEEEEEEETTEEEEETTHHHHHHHHHH                        4MIT
+REM                                                                        4MIT
+CHN  4mit.pdb H                                                            4MIT
+REM                                                                        4MIT
+REM                .         .         .         .                         4MIT
+SEQ  1    NAELIISDPTDFEQITHVELGDSGLTGFPPEWREKLIKAGLT           42          4MIT
+STR       TTTT B   EEEEEEEEEEEETTEEEEETTHHHHHHHHHH                         4MIT
+REM                                                                        4MIT
+REM                                                                        4MIT
+REM                                                                        4MIT
+LOC  AlphaHelix   LYS    23 A      ILE     32 A                            4MIT
+LOC  AlphaHelix   SER    94 A      PHE    111 A                            4MIT
+LOC  AlphaHelix   PRO   130 A      GLU    138 A                            4MIT
+LOC  AlphaHelix   THR   146 A      ILE    156 A                            4MIT
+LOC  AlphaHelix   LEU   172 A      LEU    184 A                            4MIT
+LOC  AlphaHelix   LYS    23 B      ILE     32 B                            4MIT
+LOC  AlphaHelix   SER    94 B      PHE    111 B                            4MIT
+LOC  AlphaHelix   PRO   130 B      GLU    138 B                            4MIT
+LOC  AlphaHelix   THR   146 B      ILE    156 B                            4MIT
+LOC  AlphaHelix   LEU   172 B      MET    185 B                            4MIT
+LOC  AlphaHelix   LYS    23 C      ILE     32 C                            4MIT
+LOC  AlphaHelix   SER    94 C      PHE    111 C                            4MIT
+LOC  AlphaHelix   ALA   131 C      GLU    138 C                            4MIT
+LOC  AlphaHelix   VAL   175 C      LEU    184 C                            4MIT
+LOC  AlphaHelix   LYS    23 D      ILE     32 D                            4MIT
+LOC  AlphaHelix   SER    94 D      PHE    111 D                            4MIT
+LOC  AlphaHelix   PRO   130 D      GLU    138 D                            4MIT
+LOC  AlphaHelix   THR   146 D      ILE    156 D                            4MIT
+LOC  AlphaHelix   LEU   172 D      MET    185 D                            4MIT
+LOC  AlphaHelix   GLU    32 E      GLY     41 E                            4MIT
+LOC  AlphaHelix   GLU    32 F      GLY     41 F                            4MIT
+LOC  AlphaHelix   GLU    32 G      GLY     41 G                            4MIT
+LOC  AlphaHelix   GLU    32 H      GLY     41 H                            4MIT
+LOC  310Helix     GLU    69 A      TYR     71 A                            4MIT
+LOC  310Helix     ARG    75 A      SER     78 A                            4MIT
+LOC  310Helix     LEU   124 A      THR    126 A                            4MIT
+LOC  310Helix     GLU    69 B      TYR     71 B                            4MIT
+LOC  310Helix     ARG    75 B      SER     78 B                            4MIT
+LOC  310Helix     LEU   124 B      THR    126 B                            4MIT
+LOC  310Helix     GLU    69 C      TYR     71 C                            4MIT
+LOC  310Helix     ARG    75 C      SER     78 C                            4MIT
+LOC  310Helix     THR   146 C      GLU    151 C                            4MIT
+LOC  310Helix     GLU    69 D      TYR     71 D                            4MIT
+LOC  310Helix     ARG    75 D      SER     78 D                            4MIT
+LOC  310Helix     LEU   124 D      THR    126 D                            4MIT
+LOC  Strand       THR     9 A      GLY     17 A                            4MIT
+LOC  Strand       PHE    44 A      THR     52 A                            4MIT
+LOC  Strand       ARG    56 A      ASP     64 A                            4MIT
+LOC  Strand       ILE    84 A      SER     90 A                            4MIT
+LOC  Strand       ILE   117 A      THR    122 A                            4MIT
+LOC  Strand       LYS   160 A      GLU    163 A                            4MIT
+LOC  Strand       THR     9 B      VAL     16 B                            4MIT
+LOC  Strand       PHE    44 B      THR     52 B                            4MIT
+LOC  Strand       ARG    56 B      ASP     64 B                            4MIT
+LOC  Strand       ILE    84 B      SER     90 B                            4MIT
+LOC  Strand       ILE   117 B      THR    122 B                            4MIT
+LOC  Strand       LYS   160 B      GLU    163 B                            4MIT
+LOC  Strand       THR     9 C      VAL     16 C                            4MIT
+LOC  Strand       PHE    44 C      THR     52 C                            4MIT
+LOC  Strand       GLN    57 C      ASP     64 C                            4MIT
+LOC  Strand       ILE    84 C      SER     90 C                            4MIT
+LOC  Strand       ILE   117 C      THR    122 C                            4MIT
+LOC  Strand       THR     9 D      VAL     16 D                            4MIT
+LOC  Strand       PHE    44 D      THR     52 D                            4MIT
+LOC  Strand       ARG    56 D      ASP     64 D                            4MIT
+LOC  Strand       ILE    84 D      SER     90 D                            4MIT
+LOC  Strand       ILE   117 D      THR    122 D                            4MIT
+LOC  Strand       LYS   160 D      GLU    163 D                            4MIT
+LOC  Strand       THR    11 E      GLY     22 E                            4MIT
+LOC  Strand       GLY    25 E      PHE     29 E                            4MIT
+LOC  Strand       THR    11 F      GLU     20 F                            4MIT
+LOC  Strand       THR    27 F      PHE     29 F                            4MIT
+LOC  Strand       THR    11 G      GLY     22 G                            4MIT
+LOC  Strand       GLY    25 G      PHE     29 G                            4MIT
+LOC  Strand       THR    11 H      GLY     22 H                            4MIT
+LOC  Strand       GLY    25 H      PHE     29 H                            4MIT
+LOC  TurnII       ASP    18 A      VAL     21 A                            4MIT
+LOC  TurnIV       THR    52 A      THR     55 A                            4MIT
+LOC  TurnII'      ALA    53 A      ARG     56 A                            4MIT
+LOC  TurnI        TYR    71 A      LEU     74 A                            4MIT
+LOC  TurnI        ASP    72 A      ARG     75 A                            4MIT
+LOC  TurnII       TYR    79 A      ALA     82 A                            4MIT
+LOC  TurnI        SER    90 A      SER     93 A                            4MIT
+LOC  TurnI        ALA   112 A      VAL    115 A                            4MIT
+LOC  TurnI        THR   126 A      ASP    129 A                            4MIT
+LOC  TurnIV       SER   165 A      THR    168 A                            4MIT
+LOC  TurnI        ALA   166 A      SER    169 A                            4MIT
+LOC  TurnII       SER   169 A      LEU    172 A                            4MIT
+LOC  GammaClassic  PRO    36 A      ASP     38 A                           4MIT
+LOC  TurnII       ASP    18 B      VAL     21 B                            4MIT
+LOC  TurnIV       THR    52 B      THR     55 B                            4MIT
+LOC  TurnII'      ALA    53 B      ARG     56 B                            4MIT
+LOC  TurnI        TYR    71 B      LEU     74 B                            4MIT
+LOC  TurnI        ASP    72 B      ARG     75 B                            4MIT
+LOC  TurnII       TYR    79 B      ALA     82 B                            4MIT
+LOC  TurnI        SER    90 B      SER     93 B                            4MIT
+LOC  TurnI        ALA   112 B      VAL    115 B                            4MIT
+LOC  TurnIV       GLY   121 B      LEU    124 B                            4MIT
+LOC  TurnI        THR   126 B      ASP    129 B                            4MIT
+LOC  TurnIV       SER   165 B      THR    168 B                            4MIT
+LOC  TurnI        ALA   166 B      SER    169 B                            4MIT
+LOC  TurnII       SER   169 B      LEU    172 B                            4MIT
+LOC  GammaClassic  PRO    36 B      ASP     38 B                           4MIT
+LOC  TurnII       ASP    18 C      VAL     21 C                            4MIT
+LOC  TurnII       ALA    53 C      ARG     56 C                            4MIT
+LOC  TurnI        TYR    71 C      LEU     74 C                            4MIT
+LOC  TurnI        ASP    72 C      ARG     75 C                            4MIT
+LOC  TurnII       TYR    79 C      ALA     82 C                            4MIT
+LOC  TurnI        SER    90 C      SER     93 C                            4MIT
+LOC  TurnI        ALA   112 C      VAL    115 C                            4MIT
+LOC  TurnIV       LYS   123 C      THR    126 C                            4MIT
+LOC  TurnIV       LEU   124 C      ARG    127 C                            4MIT
+LOC  TurnIV       ASP   125 C      ASN    128 C                            4MIT
+LOC  TurnIV       GLU   151 C      ASN    154 C                            4MIT
+LOC  TurnI'       LEU   152 C      ARG    155 C                            4MIT
+LOC  TurnIV       SER   165 C      THR    168 C                            4MIT
+LOC  TurnI        ALA   166 C      SER    169 C                            4MIT
+LOC  TurnII'      SER   169 C      LEU    172 C                            4MIT
+LOC  TurnIV       ASN   171 C      THR    174 C                            4MIT
+LOC  TurnIV       LEU   172 C      VAL    175 C                            4MIT
+LOC  GammaClassic  PRO    36 C      ASP     38 C                           4MIT
+LOC  TurnII       ASP    18 D      VAL     21 D                            4MIT
+LOC  TurnIV       THR    42 D      ASP     45 D                            4MIT
+LOC  TurnIV       THR    52 D      THR     55 D                            4MIT
+LOC  TurnII'      ALA    53 D      ARG     56 D                            4MIT
+LOC  TurnI        TYR    71 D      LEU     74 D                            4MIT
+LOC  TurnI        ASP    72 D      ARG     75 D                            4MIT
+LOC  TurnII       TYR    79 D      ALA     82 D                            4MIT
+LOC  TurnI        SER    90 D      SER     93 D                            4MIT
+LOC  TurnI        ALA   112 D      VAL    115 D                            4MIT
+LOC  TurnI        THR   126 D      ASP    129 D                            4MIT
+LOC  TurnIV       SER   165 D      THR    168 D                            4MIT
+LOC  TurnI        ALA   166 D      SER    169 D                            4MIT
+LOC  TurnII       SER   169 D      LEU    172 D                            4MIT
+LOC  GammaClassic  PRO    36 D      ASP     38 D                           4MIT
+LOC  TurnIV       GLY    22 E      GLY     25 E                            4MIT
+LOC  TurnIV       GLY    28 E      PRO     31 E                            4MIT
+LOC  TurnIV       GLU    20 F      LEU     26 F                            4MIT
+LOC  TurnIV       LEU    21 F      THR     27 F                            4MIT
+LOC  TurnIV       GLY    28 F      PRO     31 F                            4MIT
+LOC  TurnIV       ASN     2 G      LEU      5 G                            4MIT
+LOC  TurnIV       GLY    22 G      GLY     25 G                            4MIT
+LOC  TurnIV       GLY    28 G      PRO     31 G                            4MIT
+LOC  TurnIV       ASN     2 H      LEU      5 H                            4MIT
+LOC  TurnIV       GLY    22 H      GLY     25 H                            4MIT
+LOC  TurnIV       GLY    28 H      PRO     31 H                            4MIT

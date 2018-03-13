@@ -1,0 +1,93 @@
+REM  -------------------- Secondary structure summary -------------------  4FN9
+REM                                                                        4FN9
+CHN  4fn9.pdb A                                                            4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  1    NAPSLISILQAIEPEVVYAGYDNTQPDTTNYLLSSLNRLAEKQLVSVVKW   50          4FN9
+STR           HHHHHHHH         TTTT   HHHHHHHHHHHHHHHHHHHHHH               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  51   AKALPGFRNLHLDDQMTLIQYSWMGLMAFAMGWRSYKHTNGQMLYFAPDL  100          4FN9
+STR       HHHTTTTTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTT EEEETTE               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  101  IFNEQRMQQSAMYDLCQGMQQISQEFVRLQVTQEEFLCMKALLLLSTVPK  150          4FN9
+STR       EE HHHHHHH HHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHH EEET               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  151  EGLKSQASFDEMRMNYIKELNRAIAKKENNSAQNWQRFYQLTKLLDSMHD  200          4FN9
+STR       TTTTTHHHHHHHHHHHHHHHHHHHHH    HHHHHHHHHHHHHHHHHHHH               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  201  LVGGLLQFCFYTFVQSQALSVEFPEMLVEIISAQLPKVLAGMAKPLLFHK  250          4FN9
+STR       HHHHHHHHHHHHHHH GGG     HHHHHHHHHHHHHHHH  EEE                    4FN9
+REM                                                                        4FN9
+CHN  4fn9.pdb B                                                            4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  1    NAPSLISILQAIEPEVVYAGYDNTQPDTTNYLLSSLNRLAEKQLVSVVKW   50          4FN9
+STR           HHHHHHHH         TTTT   HHHHHHHHHHHHHHHHHHHHHH               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  51   AKALPGFRNLHLDDQMTLIQYSWMGLMAFAMGWRSYKHTNGQMLYFAPDL  100          4FN9
+STR       HHHTTTGGG  HHHHHHHHHHHHHHHHHHHHHHHHHHHHTTT EEEETTE               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  101  IFNEQRMQQSAMYDLCQGMQQISQEFVRLQVTQEEFLCMKALLLLSTVPK  150          4FN9
+STR       EE HHHHHHH HHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHH EEET               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .         .               4FN9
+SEQ  151  EGLKSQASFDEMRMNYIKELNRAIAKKENNSAQNWQRFYQLTKLLDSMHD  200          4FN9
+STR       TT  HHHHHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHH               4FN9
+REM                                                                        4FN9
+REM                .         .         .         .                         4FN9
+SEQ  201  LVGGLLQFCFYTFVQSQALSVEFPEMLVEIISAQLPKVLAGMAKPLLFH   249          4FN9
+STR       HHHHHHHHHHHHHHHHHHH     HHHHHHHHHHHHHHHH  EEE                    4FN9
+REM                                                                        4FN9
+REM                                                                        4FN9
+REM                                                                        4FN9
+LOC  AlphaHelix   LEU     3 A      ILE     10 A                            4FN9
+LOC  AlphaHelix   THR    27 A      ALA     51 A                            4FN9
+LOC  AlphaHelix   LEU    60 A      THR     87 A                            4FN9
+LOC  AlphaHelix   GLU   102 A      SER    108 A                            4FN9
+LOC  AlphaHelix   MET   110 A      LEU    127 A                            4FN9
+LOC  AlphaHelix   GLN   131 A      LEU    143 A                            4FN9
+LOC  AlphaHelix   GLN   154 A      LYS    174 A                            4FN9
+LOC  AlphaHelix   SER   179 A      GLN    213 A                            4FN9
+LOC  AlphaHelix   GLU   223 A      ALA    238 A                            4FN9
+LOC  AlphaHelix   LEU     3 B      ILE     10 B                            4FN9
+LOC  AlphaHelix   THR    27 B      ALA     51 B                            4FN9
+LOC  AlphaHelix   LEU    60 B      THR     87 B                            4FN9
+LOC  AlphaHelix   GLU   102 B      SER    108 B                            4FN9
+LOC  AlphaHelix   MET   110 B      LEU    127 B                            4FN9
+LOC  AlphaHelix   GLN   131 B      LEU    143 B                            4FN9
+LOC  AlphaHelix   SER   153 B      LYS    175 B                            4FN9
+LOC  AlphaHelix   SER   179 B      LEU    217 B                            4FN9
+LOC  AlphaHelix   GLU   223 B      ALA    238 B                            4FN9
+LOC  310Helix     GLN   215 A      LEU    217 A                            4FN9
+LOC  310Helix     PHE    55 B      ASN     57 B                            4FN9
+LOC  Strand       LEU    92 A      ALA     95 A                            4FN9
+LOC  Strand       LEU    98 A      PHE    100 A                            4FN9
+LOC  Strand       THR   145 A      PRO    147 A                            4FN9
+LOC  Strand       ALA   241 A      PRO    243 A                            4FN9
+LOC  Strand       LEU    92 B      ALA     95 B                            4FN9
+LOC  Strand       LEU    98 B      PHE    100 B                            4FN9
+LOC  Strand       THR   145 B      PRO    147 B                            4FN9
+LOC  Strand       ALA   241 B      PRO    243 B                            4FN9
+LOC  TurnI        ASP    20 A      GLN     23 A                            4FN9
+LOC  TurnII       LEU    52 A      PHE     55 A                            4FN9
+LOC  TurnI        GLY    54 A      ASN     57 A                            4FN9
+LOC  TurnI        PHE    55 A      LEU     58 A                            4FN9
+LOC  TurnI'       THR    87 A      GLN     90 A                            4FN9
+LOC  TurnVIII     TYR    93 A      PRO     96 A                            4FN9
+LOC  TurnI        ALA    95 A      LEU     98 A                            4FN9
+LOC  TurnVIII     PRO    96 A      ILE     99 A                            4FN9
+LOC  TurnI        PRO   147 A      GLY    150 A                            4FN9
+LOC  TurnVIII     LEU   151 A      GLN    154 A                            4FN9
+LOC  TurnI        ASP    20 B      GLN     23 B                            4FN9
+LOC  TurnII       LEU    52 B      PHE     55 B                            4FN9
+LOC  TurnI'       THR    87 B      GLN     90 B                            4FN9
+LOC  TurnVIII     TYR    93 B      PRO     96 B                            4FN9
+LOC  TurnI        ALA    95 B      LEU     98 B                            4FN9
+LOC  TurnVIII     PRO    96 B      ILE     99 B                            4FN9
+LOC  TurnI        PRO   147 B      GLY    150 B                            4FN9

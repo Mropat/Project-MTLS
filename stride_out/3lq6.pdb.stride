@@ -1,0 +1,161 @@
+REM  -------------------- Secondary structure summary -------------------  3LQ6
+REM                                                                        3LQ6
+CHN  3lq6.pdb A                                                            3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  1    RMVDLPVIQPRLCTHARWPAPVYGLLVDPSLPSNPQWQNGRVHVDGTLLG   50          3LQ6
+STR                GGG EETTTTEE  EEEETTTTTTTT  TTTTBTTTT BTT               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  51   TTPISGSWVSCFAAEAAYEFQSGTGEVATFTLIEQDGSAYVPGDRAAPLG  100          3LQ6
+STR       TT   GGGTTTEEEEEEE  TTTTT EEEEEEETTTT B        TTT               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  101  YPDFSGQLEIEVQTETTKTGDKLKVTTFEMILGPTTNADQAPYQGRVFAS  150          3LQ6
+STR       T   EEEEEEEEEE   TTTEE  EEEEEEE  TTTTT  BGGG EEEEE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  151  VTAAASLDLVDGRVRAVPRSIYGFQDTIPEYNDGLLVPLAPPIGPFLPGE  200          3LQ6
+STR       EEEETTTTT TEEEEEEEEEEEEEETT  TTTTTT           TTTE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  201  VLLRFRTYMRQIDTADAAAEAIDCALPQEFVSWFASNAFTVQSEALLLRY  250          3LQ6
+STR       EEEEEEEEEEEEETTEEEEEEEEE   HHHHHHHHHH       EEEEEE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  251  RNTLTGQLLFECKLYNEGYIALSYSGSGPLTFPTDGIFEVVSWVPRLYQL  300          3LQ6
+STR       ETTTTT EEEEEEEETTTEEEEE      EE TTTTEEEEEEEETTTT                 3LQ6
+REM                                                                        3LQ6
+REM                .                                                       3LQ6
+SEQ  301  ASVGSLATGRMLK                                       313          3LQ6
+STR                                                                        3LQ6
+REM                                                                        3LQ6
+CHN  3lq6.pdb B                                                            3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  1    RMVDLPVIQPRLCTHARWPAPVYGLLVDPSLPSNPQWQNGRVHVDGTLLG   50          3LQ6
+STR                GGG EETTTTEE  EEEETTTTTTTT  TTTTBTTTT BTT               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  51   TTPISGSWVSCFAAEAAYEFQSGTGEVATFTLIEQDGSAYVPGDRAAPLG  100          3LQ6
+STR       TT   GGGTTTEEEEEEEEEETTTEEEEEEEEETTTT B        TTT               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  101  YPDFSGQLEIEVQTETTKTGDKLKVTTFEMILGPTTNADQAPYQGRVFAS  150          3LQ6
+STR       T   EEEEEEEEEE   TTTEE  EEEEEEETTTT     BGGG EEEEE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  151  VTAAASLDLVDGRVRAVPRSIYGFQDTIPEYNDGLLVPLAPPIGPFLPGE  200          3LQ6
+STR       EETTTT     EEEEEEEEEEEEEETT  TTTTTT           TTTE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  201  VLLRFRTYMRQIDTADAAAEAIDCALPQEFVSWFASNAFTVQSEALLLRY  250          3LQ6
+STR       EEEEEEEEEEEEETTEEEEEEEEE   HHHHHHHHHH       EEEEEE               3LQ6
+REM                                                                        3LQ6
+REM                .         .         .         .         .               3LQ6
+SEQ  251  RNTLTGQLLFECKLYNEGYIALSYSGSGPLTFPTDGIFEVVSWVPRLYQL  300          3LQ6
+STR       ETTTTT EEEEEEEETTTEEEEEB     EEETTTTEEEEEEEETTTT                 3LQ6
+REM                                                                        3LQ6
+REM                .                                                       3LQ6
+SEQ  301  ASVGSLATGRMLK                                       313          3LQ6
+STR         B                                                              3LQ6
+REM                                                                        3LQ6
+REM                                                                        3LQ6
+REM                                                                        3LQ6
+LOC  AlphaHelix   GLN   455 A      ASN    464 A                            3LQ6
+LOC  AlphaHelix   GLN   455 B      ASN    464 B                            3LQ6
+LOC  310Helix     PRO   237 A      LEU    239 A                            3LQ6
+LOC  310Helix     GLY   283 A      TRP    285 A                            3LQ6
+LOC  310Helix     PRO   369 A      GLN    371 A                            3LQ6
+LOC  310Helix     PRO   237 B      LEU    239 B                            3LQ6
+LOC  310Helix     GLY   283 B      TRP    285 B                            3LQ6
+LOC  310Helix     PRO   369 B      GLN    371 B                            3LQ6
+LOC  Strand       THR   241 A      HIS    242 A                            3LQ6
+LOC  Strand       ALA   247 A      PRO    248 A                            3LQ6
+LOC  Strand       GLY   251 A      VAL    254 A                            3LQ6
+LOC  Strand       PHE   289 A      TYR    295 A                            3LQ6
+LOC  Strand       VAL   304 A      ILE    310 A                            3LQ6
+LOC  Strand       SER   332 A      THR    341 A                            3LQ6
+LOC  Strand       ASP   348 A      LYS    349 A                            3LQ6
+LOC  Strand       VAL   352 A      ILE    358 A                            3LQ6
+LOC  Strand       ARG   373 A      ALA    381 A                            3LQ6
+LOC  Strand       GLY   389 A      GLN    402 A                            3LQ6
+LOC  Strand       GLU   427 A      ASP    440 A                            3LQ6
+LOC  Strand       ASP   443 A      CYS    451 A                            3LQ6
+LOC  Strand       ALA   472 A      ARG    478 A                            3LQ6
+LOC  Strand       LEU   485 A      TYR    492 A                            3LQ6
+LOC  Strand       TYR   496 A      SER    500 A                            3LQ6
+LOC  Strand       LEU   507 A      THR    508 A                            3LQ6
+LOC  Strand       ILE   514 A      VAL    521 A                            3LQ6
+LOC  Strand       THR   241 B      HIS    242 B                            3LQ6
+LOC  Strand       ALA   247 B      PRO    248 B                            3LQ6
+LOC  Strand       GLY   251 B      VAL    254 B                            3LQ6
+LOC  Strand       PHE   289 B      GLN    298 B                            3LQ6
+LOC  Strand       GLY   302 B      ILE    310 B                            3LQ6
+LOC  Strand       SER   332 B      THR    341 B                            3LQ6
+LOC  Strand       ASP   348 B      LYS    349 B                            3LQ6
+LOC  Strand       VAL   352 B      ILE    358 B                            3LQ6
+LOC  Strand       ARG   373 B      THR    379 B                            3LQ6
+LOC  Strand       GLY   389 B      GLN    402 B                            3LQ6
+LOC  Strand       GLU   427 B      ASP    440 B                            3LQ6
+LOC  Strand       ASP   443 B      CYS    451 B                            3LQ6
+LOC  Strand       ALA   472 B      ARG    478 B                            3LQ6
+LOC  Strand       LEU   485 B      TYR    492 B                            3LQ6
+LOC  Strand       TYR   496 B      SER    500 B                            3LQ6
+LOC  Strand       LEU   507 B      PHE    509 B                            3LQ6
+LOC  Strand       ILE   514 B      VAL    521 B                            3LQ6
+LOC  TurnIV       HIS   242 A      TRP    245 A                            3LQ6
+LOC  TurnI        ASP   255 A      LEU    258 A                            3LQ6
+LOC  TurnIV       PRO   259 A      PRO    262 A                            3LQ6
+LOC  TurnIV       GLN   265 A      ARG    268 A                            3LQ6
+LOC  TurnI        HIS   270 A      GLY    273 A                            3LQ6
+LOC  TurnII'      LEU   276 A      THR    279 A                            3LQ6
+LOC  TurnII       TRP   285 A      CYS    288 A                            3LQ6
+LOC  TurnIV       GLN   298 A      THR    301 A                            3LQ6
+LOC  TurnIV       SER   299 A      GLY    302 A                            3LQ6
+LOC  TurnI        GLU   311 A      GLY    314 A                            3LQ6
+LOC  TurnII       PRO   325 A      TYR    328 A                            3LQ6
+LOC  TurnII       LYS   345 A      ASP    348 A                            3LQ6
+LOC  TurnIV       PRO   361 A      ASN    364 A                            3LQ6
+LOC  TurnIV       THR   362 A      ALA    365 A                            3LQ6
+LOC  TurnI        ALA   381 A      LEU    384 A                            3LQ6
+LOC  TurnIV       SER   383 A      LEU    386 A                            3LQ6
+LOC  TurnIV       ASP   388 A      VAL    391 A                            3LQ6
+LOC  TurnIV       ILE   398 A      PHE    401 A                            3LQ6
+LOC  TurnIV       GLU   407 A      ASP    410 A                            3LQ6
+LOC  TurnII'      ASN   409 A      LEU    412 A                            3LQ6
+LOC  TurnII       LEU   424 A      GLU    427 A                            3LQ6
+LOC  TurnII       ASP   440 A      ASP    443 A                            3LQ6
+LOC  TurnIV       ASN   479 A      THR    482 A                            3LQ6
+LOC  TurnI        THR   480 A      GLY    483 A                            3LQ6
+LOC  TurnI        TYR   492 A      GLY    495 A                            3LQ6
+LOC  TurnIV       PRO   510 A      GLY    513 A                            3LQ6
+LOC  TurnI        PRO   522 A      TYR    525 A                            3LQ6
+LOC  GammaInv     TRP   245 A      ALA    247 A                            3LQ6
+LOC  GammaInv     GLN   402 A      THR    404 A                            3LQ6
+LOC  TurnIV       HIS   242 B      TRP    245 B                            3LQ6
+LOC  TurnI        ASP   255 B      LEU    258 B                            3LQ6
+LOC  TurnIV       PRO   259 B      PRO    262 B                            3LQ6
+LOC  TurnIV       GLN   265 B      ARG    268 B                            3LQ6
+LOC  TurnI        HIS   270 B      GLY    273 B                            3LQ6
+LOC  TurnII'      LEU   276 B      THR    279 B                            3LQ6
+LOC  TurnII       TRP   285 B      CYS    288 B                            3LQ6
+LOC  TurnII       GLN   298 B      THR    301 B                            3LQ6
+LOC  TurnIV       SER   299 B      GLY    302 B                            3LQ6
+LOC  TurnI        GLU   311 B      GLY    314 B                            3LQ6
+LOC  TurnII       PRO   325 B      TYR    328 B                            3LQ6
+LOC  TurnII       LYS   345 B      ASP    348 B                            3LQ6
+LOC  TurnIV       LEU   359 B      THR    362 B                            3LQ6
+LOC  TurnIV       ALA   380 B      SER    383 B                            3LQ6
+LOC  TurnIV       ILE   398 B      PHE    401 B                            3LQ6
+LOC  TurnIV       GLU   407 B      ASP    410 B                            3LQ6
+LOC  TurnII'      ASN   409 B      LEU    412 B                            3LQ6
+LOC  TurnII       LEU   424 B      GLU    427 B                            3LQ6
+LOC  TurnIV       ASP   440 B      ASP    443 B                            3LQ6
+LOC  TurnIV       ASN   479 B      THR    482 B                            3LQ6
+LOC  TurnI        THR   480 B      GLY    483 B                            3LQ6
+LOC  TurnI        TYR   492 B      GLY    495 B                            3LQ6
+LOC  TurnIV       PRO   510 B      GLY    513 B                            3LQ6
+LOC  TurnI        PRO   522 B      TYR    525 B                            3LQ6
+LOC  GammaInv     TRP   245 B      ALA    247 B                            3LQ6
+LOC  GammaInv     GLN   402 B      THR    404 B                            3LQ6

@@ -1,0 +1,173 @@
+REM  -------------------- Secondary structure summary -------------------  4EEE
+REM                                                                        4EEE
+CHN  4eee.pdb A                                                            4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  1    ECVKTRSVNIHVPVKETSKVVLECRGDSYFRHFSYVYWIIGKNKTVDQLP   50          4EEE
+STR            EEEEEEEETTTTTEEEEEEEEEETTTTTTEEEEEETTTEEGGG T               4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  51   PNSGYRERIYLFKKPHRCENRPRADLILTNITDEMRNEKLTCVLIDPKDP  100          4EEE
+STR       TTT EEEEEETTT  BTTBB  EEEEEEETT HHHHH EEEEEEE                    4EEE
+REM                                                                        4EEE
+REM                .                                                       4EEE
+SEQ  101  LKESVILSKIWNCVY                                     115          4EEE
+STR       EEEEEEHHHHHH                                                     4EEE
+REM                                                                        4EEE
+CHN  4eee.pdb B                                                            4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  1    YFGKLESKLSVIRNLNDQVLFIDQGNRPLFEDNAPRTIFIISMYKDSQPR   50          4EEE
+STR        EEEEEEEEEEEETTTT EEEETTTT EEEE  TTTTTEEEEEEEETTT                4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  51   GMAVTISVASAAASTLSSENKIISFKEMNPPDNIKDTKSDIIFFQRSVPG  100          4EEE
+STR        EEEEEEETTTTTEEEE GGG  EEEE   TTEE TTTTTTEEEEEETTT               4EEE
+REM                                                                        4EEE
+REM                .         .         .         .                         4EEE
+SEQ  101  HDNKMQFESSSYEGYFLASEKERDLFKLILKKEDELGDRSIMFTVQN     147          4EEE
+STR       TTTTEEEEETTTTTEEEEEEEETTEEEEEEEETTTT  GGGEEEEE                   4EEE
+REM                                                                        4EEE
+CHN  4eee.pdb C                                                            4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  1    MECVKTRSVNIHVPVKETSKVVLECRGDSYFRHFSYVYWIIGKNKTVDQL   50          4EEE
+STR             EEEEEEEETTTTTEEEEEEEEEETTTTTTEEEEEETTTEEGGG                4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  51   PPNSGYRERIYLFKKPHRCENRPRADLILTNITDEMRNEKLTCVLIDPKD  100          4EEE
+STR       TTTT EEEEEETTT  BTTBB  EEEEEEETT HHHHH EEEEEEE                   4EEE
+REM                                                                        4EEE
+REM                .                                                       4EEE
+SEQ  101  PLKESVILSKIWNCV                                     115          4EEE
+STR        EEEEEEHHHHHH                                                    4EEE
+REM                                                                        4EEE
+CHN  4eee.pdb D                                                            4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  1    YFGKLESKLSVIRNLNDQVLFIDQGNRPLFEDTIFIISMYKDSQPRGMAV   50          4EEE
+STR        EEEEEEEEEEEETTTT EEEETTTT EEEE  EEEEEEEEETTT  EEE               4EEE
+REM                                                                        4EEE
+REM                .         .         .         .         .               4EEE
+SEQ  51   TISVASAAASTLSSENKIISFKEMNPPDNIKDTKSDIIFFQRSVPGHDNK  100          4EEE
+STR       EEEE TTTT EEE GGG  EEE    TTEE TTTTTTEEEEEETTTTTTE               4EEE
+REM                                                                        4EEE
+REM                .         .         .         .                         4EEE
+SEQ  101  MQFESSSYEGYFLASEKERDLFKLILKKLGDRSIMFTVQNE           141          4EEE
+STR       EEEEETTTTTTEEEEEETTTTEEEEEE    GGG EEEEE                         4EEE
+REM                                                                        4EEE
+REM                                                                        4EEE
+REM                                                                        4EEE
+LOC  AlphaHelix   ASP   102 A      ASN    106 A                            4EEE
+LOC  AlphaHelix   LEU   126 A      ASN    131 A                            4EEE
+LOC  AlphaHelix   ASP   102 C      ASN    106 C                            4EEE
+LOC  AlphaHelix   LEU   126 C      ASN    131 C                            4EEE
+LOC  310Helix     VAL    65 A      GLN     67 A                            4EEE
+LOC  310Helix     GLU    77 B      LYS     79 B                            4EEE
+LOC  310Helix     ARG   147 B      ILE    149 B                            4EEE
+LOC  310Helix     VAL    65 C      GLN     67 C                            4EEE
+LOC  310Helix     GLU    77 D      LYS     79 D                            4EEE
+LOC  310Helix     ARG   147 D      ILE    149 D                            4EEE
+LOC  Strand       ARG    25 A      PRO     32 A                            4EEE
+LOC  Strand       LYS    38 A      SER     47 A                            4EEE
+LOC  Strand       TYR    54 A      ILE     59 A                            4EEE
+LOC  Strand       LYS    63 A      THR     64 A                            4EEE
+LOC  Strand       TYR    74 A      TYR     79 A                            4EEE
+LOC  Strand       ARG    92 A      THR     98 A                            4EEE
+LOC  Strand       LYS   108 A      ILE    114 A                            4EEE
+LOC  Strand       LEU   120 A      ILE    125 A                            4EEE
+LOC  Strand       PHE     2 B      ARG     13 B                            4EEE
+LOC  Strand       VAL    19 B      ILE     22 B                            4EEE
+LOC  Strand       PRO    28 B      GLU     31 B                            4EEE
+LOC  Strand       PHE    47 B      ASP     54 B                            4EEE
+LOC  Strand       MET    60 B      VAL     66 B                            4EEE
+LOC  Strand       SER    72 B      SER     75 B                            4EEE
+LOC  Strand       SER    82 B      GLU     85 B                            4EEE
+LOC  Strand       ASN    91 B      ILE     92 B                            4EEE
+LOC  Strand       ILE   100 B      SER    105 B                            4EEE
+LOC  Strand       MET   113 B      SER    117 B                            4EEE
+LOC  Strand       TYR   123 B      GLU    130 B                            4EEE
+LOC  Strand       LEU   133 B      LYS    140 B                            4EEE
+LOC  Strand       MET   150 B      GLN    154 B                            4EEE
+LOC  Strand       ARG    25 C      PRO     32 C                            4EEE
+LOC  Strand       LYS    38 C      SER     47 C                            4EEE
+LOC  Strand       TYR    54 C      ILE     59 C                            4EEE
+LOC  Strand       LYS    63 C      THR     64 C                            4EEE
+LOC  Strand       TYR    74 C      TYR     79 C                            4EEE
+LOC  Strand       ARG    92 C      THR     98 C                            4EEE
+LOC  Strand       LYS   108 C      ILE    114 C                            4EEE
+LOC  Strand       LEU   120 C      ILE    125 C                            4EEE
+LOC  Strand       PHE     2 D      ARG     13 D                            4EEE
+LOC  Strand       VAL    19 D      ILE     22 D                            4EEE
+LOC  Strand       PRO    28 D      GLU     31 D                            4EEE
+LOC  Strand       ILE    46 D      ASP     54 D                            4EEE
+LOC  Strand       MET    60 D      VAL     66 D                            4EEE
+LOC  Strand       THR    73 D      SER     75 D                            4EEE
+LOC  Strand       SER    82 D      LYS     84 D                            4EEE
+LOC  Strand       ASN    91 D      ILE     92 D                            4EEE
+LOC  Strand       ILE   100 D      SER    105 D                            4EEE
+LOC  Strand       LYS   112 D      SER    117 D                            4EEE
+LOC  Strand       PHE   124 D      LYS    129 D                            4EEE
+LOC  Strand       PHE   134 D      LYS    139 D                            4EEE
+LOC  Strand       PHE   151 D      ASN    155 D                            4EEE
+LOC  TurnVIII     PRO    32 A      GLU     35 A                            4EEE
+LOC  TurnVIII     THR    36 A      VAL     39 A                            4EEE
+LOC  TurnIV       SER    47 A      ARG     50 A                            4EEE
+LOC  TurnI        PHE    49 A      PHE     52 A                            4EEE
+LOC  TurnIV       ARG    50 A      SER     53 A                            4EEE
+LOC  TurnII'      ILE    59 A      ASN     62 A                            4EEE
+LOC  TurnIV       GLY    60 A      LYS     63 A                            4EEE
+LOC  TurnIV       PRO    69 A      SER     72 A                            4EEE
+LOC  TurnIV       TYR    79 A      LYS     82 A                            4EEE
+LOC  TurnI        HIS    85 A      GLU     88 A                            4EEE
+LOC  TurnIV       LEU    97 A      ILE    100 A                            4EEE
+LOC  TurnI        ASN    14 B      ASP     17 B                            4EEE
+LOC  TurnI        ASP    23 B      ASN     26 B                            4EEE
+LOC  TurnI        ALA    42 B      THR     45 B                            4EEE
+LOC  TurnI        PRO    43 B      ILE     46 B                            4EEE
+LOC  TurnVIII     ASP    54 B      PRO     57 B                            4EEE
+LOC  TurnIV       VAL    66 B      ALA     69 B                            4EEE
+LOC  TurnVIII     ALA    69 B      SER     72 B                            4EEE
+LOC  TurnVIII     PRO    89 B      ILE     92 B                            4EEE
+LOC  TurnVIII     ASP    94 B      SER     97 B                            4EEE
+LOC  TurnI        SER    97 B      ILE    100 B                            4EEE
+LOC  TurnII       VAL   106 B      HIS    109 B                            4EEE
+LOC  TurnIV       PRO   107 B      ASP    110 B                            4EEE
+LOC  TurnI        HIS   109 B      LYS    112 B                            4EEE
+LOC  TurnI        SER   117 B      TYR    120 B                            4EEE
+LOC  TurnVIII     SER   118 B      GLU    121 B                            4EEE
+LOC  TurnII       TYR   120 B      TYR    123 B                            4EEE
+LOC  TurnIV       LYS   129 B      ASP    132 B                            4EEE
+LOC  TurnII'      GLU   130 B      LEU    133 B                            4EEE
+LOC  TurnIV       GLU   141 B      LEU    144 B                            4EEE
+LOC  TurnVIII     PRO    32 C      GLU     35 C                            4EEE
+LOC  TurnVIII     THR    36 C      VAL     39 C                            4EEE
+LOC  TurnIV       SER    47 C      ARG     50 C                            4EEE
+LOC  TurnI        PHE    49 C      PHE     52 C                            4EEE
+LOC  TurnIV       ARG    50 C      SER     53 C                            4EEE
+LOC  TurnII'      ILE    59 C      ASN     62 C                            4EEE
+LOC  TurnIV       GLY    60 C      LYS     63 C                            4EEE
+LOC  TurnIV       PRO    69 C      SER     72 C                            4EEE
+LOC  TurnIV       TYR    79 C      LYS     82 C                            4EEE
+LOC  TurnI        HIS    85 C      GLU     88 C                            4EEE
+LOC  TurnIV       LEU    97 C      ILE    100 C                            4EEE
+LOC  TurnI        ASN    14 D      ASP     17 D                            4EEE
+LOC  TurnI        ASP    23 D      ASN     26 D                            4EEE
+LOC  TurnVIII     ASP    54 D      PRO     57 D                            4EEE
+LOC  TurnIV       SER    68 D      ALA     71 D                            4EEE
+LOC  TurnVIII     PRO    89 D      ILE     92 D                            4EEE
+LOC  TurnIV       ASP    94 D      SER     97 D                            4EEE
+LOC  TurnI        SER    97 D      ILE    100 D                            4EEE
+LOC  TurnII       VAL   106 D      HIS    109 D                            4EEE
+LOC  TurnIV       PRO   107 D      ASP    110 D                            4EEE
+LOC  TurnI        HIS   109 D      LYS    112 D                            4EEE
+LOC  TurnI        SER   117 D      TYR    120 D                            4EEE
+LOC  TurnVIII     SER   118 D      GLU    121 D                            4EEE
+LOC  TurnII       TYR   120 D      TYR    123 D                            4EEE
+LOC  TurnIV       LYS   129 D      ASP    132 D                            4EEE
+LOC  TurnIV       GLU   130 D      LEU    133 D                            4EEE
+LOC  Disulfide    CYS    21 A      CYS     87 A            PDB             4EEE
+LOC  Disulfide    CYS    43 A      CYS    111 A            PDB             4EEE
+LOC  Disulfide    CYS   132 A      CYS    132 C            PDB             4EEE
+LOC  Disulfide    CYS    21 C      CYS     87 C            PDB             4EEE
+LOC  Disulfide    CYS    43 C      CYS    111 C            PDB             4EEE

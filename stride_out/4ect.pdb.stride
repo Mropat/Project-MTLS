@@ -1,0 +1,110 @@
+REM  -------------------- Secondary structure summary -------------------  4ECT
+REM                                                                        4ECT
+CHN  4ect.pdb A                                                            4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  1    GPHMATGQDRVVALVDMDCFFVQVEQRQNPHLRNKPCAVVQYKSWKGGGI   50          4ECT
+STR       TTTT       EEEEEETTHHHHHHHHH GGGTTT EEEEE TTTTTTEE               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  51   IAVSYEARAFGVTRSMWADDAKKLCPDLLLAQVRESRGKANLTKYREASV  100          4ECT
+STR       EEE HHHHH   TTTEEHHHHHHHTTTTEEEE  EETTEE HHHHHHHHH               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  101  EVMEIMSRFAVIERASIDEAYVDLTSAVQERLQKLQGQPISADLLPSTYI  150          4ECT
+STR       HHHHHHHTTT EEEEETTEEEEEHHHHHHHHHHHHTTT   GGGTTTEEE               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  151  EGLPQGPTVQKEGMRKQGLFQWLDSLQIDNLTSPDLQLTVGAVIVEEMRA  200          4ECT
+STR       TTTTT     HHHHHHHHHHHHHHH TTTTTTTHHHHHHHHHHHHHHHHH               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  201  AIERETGFQCSAGISHNKVLAKLACGLNKPNRQTLVSHGSVPQLFSQMPI  250          4ECT
+STR       HHHHHH   EEEEEE  HHHHHHHHHTTTTTTEEE  GGGHHHHHH  BG               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  251  RKIRSLGGKLGASVIEILGIEYMGELTQFTESQLQSHFGEKNGSWLYAMC  300          4ECT
+STR       GGTTTTT HHHHHHHHHH   BGGGGTTT HHHHHHHH HHHHHHHHHHH               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  301  RGIEHDPVKPRQLPKTIGCSKNFPGKTALATREQVQWWLLQLAQELEERL  350          4ECT
+STR               TTB     EEEEEE TTTTTEEEHHHHHHHHHHHHHHHHHHH               4ECT
+REM                                                                        4ECT
+REM                .         .         .         .         .               4ECT
+SEQ  351  TKDRNDNDRVATQLVVSIRVQGDKRLSSLRRCCALTRYDAHKMSHDAFTV  400          4ECT
+STR       HHHHHHH EEEEEEEEEEEETTT TTTTEEEEEE  TTTHHHHHHHHHHH               4ECT
+REM                                                                        4ECT
+REM                .         .         .                                   4ECT
+SEQ  401  IKNCNTSGIQTEWSPPLTMLFLCATKFSAS                      430          4ECT
+STR       HHTTT   TTTEEEEEEEEEEEEEEEEEE                                    4ECT
+REM                                                                        4ECT
+REM                                                                        4ECT
+REM                                                                        4ECT
+LOC  AlphaHelix   PHE    17 A      GLN     25 A                            4ECT
+LOC  AlphaHelix   TYR    52 A      ALA     56 A                            4ECT
+LOC  AlphaHelix   ALA    65 A      LEU     71 A                            4ECT
+LOC  AlphaHelix   LEU    89 A      SER    104 A                            4ECT
+LOC  AlphaHelix   LEU   121 A      LEU    132 A                            4ECT
+LOC  AlphaHelix   LYS   163 A      SER    177 A                            4ECT
+LOC  AlphaHelix   PRO   186 A      THR    208 A                            4ECT
+LOC  AlphaHelix   LYS   220 A      GLY    228 A                            4ECT
+LOC  AlphaHelix   VAL   243 A      SER    248 A                            4ECT
+LOC  AlphaHelix   LYS   261 A      LEU    270 A                            4ECT
+LOC  AlphaHelix   GLU   283 A      PHE    290 A                            4ECT
+LOC  AlphaHelix   GLU   292 A      CYS    302 A                            4ECT
+LOC  AlphaHelix   ARG   334 A      ASN    359 A                            4ECT
+LOC  AlphaHelix   ALA   392 A      LYS    404 A                            4ECT
+LOC  310Helix     PRO    27 A      LEU     29 A                            4ECT
+LOC  310Helix     ALA   139 A      LEU    141 A                            4ECT
+LOC  310Helix     HIS   240 A      SER    242 A                            4ECT
+LOC  310Helix     ILE   252 A      LYS    254 A                            4ECT
+LOC  310Helix     MET   275 A      LEU    278 A                            4ECT
+LOC  Strand       VAL     9 A      MET     14 A                            4ECT
+LOC  Strand       CYS    34 A      GLN     38 A                            4ECT
+LOC  Strand       GLY    46 A      VAL     50 A                            4ECT
+LOC  Strand       MET    63 A      TRP     64 A                            4ECT
+LOC  Strand       LEU    76 A      GLN     79 A                            4ECT
+LOC  Strand       GLU    82 A      SER     83 A                            4ECT
+LOC  Strand       LYS    86 A      ALA     87 A                            4ECT
+LOC  Strand       ILE   109 A      SER    113 A                            4ECT
+LOC  Strand       GLU   116 A      ASP    120 A                            4ECT
+LOC  Strand       THR   145 A      ILE    147 A                            4ECT
+LOC  Strand       CYS   212 A      SER    217 A                            4ECT
+LOC  Strand       GLN   235 A      LEU    237 A                            4ECT
+LOC  Strand       ILE   319 A      ASN    324 A                            4ECT
+LOC  Strand       LEU   331 A      THR    333 A                            4ECT
+LOC  Strand       ARG   361 A      VAL    372 A                            4ECT
+LOC  Strand       LEU   381 A      ALA    386 A                            4ECT
+LOC  Strand       GLU   414 A      ALA    431 A                            4ECT
+LOC  TurnI        GLY    -2 A      MET      1 A                            4ECT
+LOC  TurnIV       MET    14 A      PHE     17 A                            4ECT
+LOC  TurnII       LEU    29 A      LYS     32 A                            4ECT
+LOC  TurnVIII     LYS    40 A      LYS     43 A                            4ECT
+LOC  TurnII       SER    41 A      GLY     44 A                            4ECT
+LOC  TurnI'       TRP    42 A      GLY     45 A                            4ECT
+LOC  TurnII       THR    60 A      MET     63 A                            4ECT
+LOC  TurnI        CYS    72 A      LEU     75 A                            4ECT
+LOC  TurnIV       GLU    82 A      GLY     85 A                            4ECT
+LOC  TurnI'       SER    83 A      LYS     86 A                            4ECT
+LOC  TurnI        SER   104 A      ALA    107 A                            4ECT
+LOC  TurnI        SER   113 A      GLU    116 A                            4ECT
+LOC  TurnI'       LEU   132 A      GLN    135 A                            4ECT
+LOC  TurnI        LEU   142 A      THR    145 A                            4ECT
+LOC  TurnII       ILE   147 A      LEU    150 A                            4ECT
+LOC  TurnIV       GLY   149 A      GLN    152 A                            4ECT
+LOC  TurnI        GLN   179 A      ASN    182 A                            4ECT
+LOC  TurnI        ASN   182 A      SER    185 A                            4ECT
+LOC  TurnVIII     GLY   228 A      LYS    231 A                            4ECT
+LOC  TurnIV       LYS   231 A      ARG    234 A                            4ECT
+LOC  TurnII       ILE   255 A      LEU    258 A                            4ECT
+LOC  TurnIV       ARG   256 A      GLY    259 A                            4ECT
+LOC  TurnI        LEU   278 A      PHE    281 A                            4ECT
+LOC  TurnII'      PRO   326 A      THR    329 A                            4ECT
+LOC  TurnI        GLY   327 A      ALA    330 A                            4ECT
+LOC  TurnII       VAL   372 A      ASP    375 A                            4ECT
+LOC  TurnVIII     ARG   377 A      SER    380 A                            4ECT
+LOC  TurnIV       LYS   404 A      ASN    407 A                            4ECT
+LOC  TurnI        ILE   411 A      GLU    414 A                            4ECT
+LOC  TurnIV       TRP   415 A      PRO    418 A                            4ECT
+LOC  GammaInv     LYS   311 A      ARG    313 A                            4ECT
+LOC  GammaInv     ARG   389 A      ASP    391 A                            4ECT

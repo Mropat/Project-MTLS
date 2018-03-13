@@ -1,0 +1,77 @@
+REM  -------------------- Secondary structure summary -------------------  2X6B
+REM                                                                        2X6B
+CHN  2x6b.pdb A                                                            2X6B
+REM                                                                        2X6B
+REM                .         .         .         .         .               2X6B
+SEQ  1    PARKPRILNSDGSSNITRLGLDDHYHDLLTVSWPVFITLITGLYLVTNAL   50          2X6B
+STR            TTEETTTEE      TTTHHHHHHH  HHHHHHHHHHHHHHHHHH               2X6B
+REM                                                                        2X6B
+REM                .         .         .         .         .               2X6B
+SEQ  51   FALAYLACGDVIENARPGSFTDAFFFSVQTMATIGYGKLIPIGPLANTLV  100          2X6B
+STR       HHHHHHHTTTTTBTTTTTTHHHHHHHHHHHHH    TTTB   HHHHHHH               2X6B
+REM                                                                        2X6B
+REM                .         .         .         .         .               2X6B
+SEQ  101  TLEALCGMLGLAVAASLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRL  150          2X6B
+STR       HHHHHHHHHHHHHHHHHHHHHHH     EEETTTEEEEEETTEEEEEEEE               2X6B
+REM                                                                        2X6B
+REM                .         .         .         .         .               2X6B
+SEQ  151  ANLRIEAIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWT  200          2X6B
+STR       EE     EEEEEEEEEEEEEEETTTT EEEEEEEE TTTTBTTEE  EEE               2X6B
+REM                                                                        2X6B
+REM                .         .         .         .         .               2X6B
+SEQ  201  VMHPIDHHSPIYGETDETLRNSHSEFLVLFTGHHEAFAQNVHARHAYSCD  250          2X6B
+STR       EEEE TTTTTTTTT HHHHHHH EEEEEEEEEEETTTTEEEEEEEEETTT               2X6B
+REM                                                                        2X6B
+REM                .         .         .                                   2X6B
+SEQ  251  EIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHH               287          2X6B
+STR       TEEETEEE   EEETTTT EEETTTTTTTEEE                                 2X6B
+REM                                                                        2X6B
+REM                                                                        2X6B
+REM                                                                        2X6B
+LOC  AlphaHelix   HIS    37 A      THR     43 A                            2X6B
+LOC  AlphaHelix   TRP    46 A      ALA     70 A                            2X6B
+LOC  AlphaHelix   PHE    83 A      ALA     95 A                            2X6B
+LOC  AlphaHelix   PRO   107 A      THR    136 A                            2X6B
+LOC  AlphaHelix   ASP   229 A      SER    235 A                            2X6B
+LOC  Strand       LEU    15 A      ASN     16 A                            2X6B
+LOC  Strand       SER    20 A      SER     21 A                            2X6B
+LOC  Strand       VAL   142 A      PHE    144 A                            2X6B
+LOC  Strand       MET   148 A      PHE    153 A                            2X6B
+LOC  Strand       LYS   156 A      ASN    165 A                            2X6B
+LOC  Strand       ILE   171 A      ILE    185 A                            2X6B
+LOC  Strand       VAL   191 A      LEU    198 A                            2X6B
+LOC  Strand       ILE   207 A      PHE    208 A                            2X6B
+LOC  Strand       SER   211 A      PRO    217 A                            2X6B
+LOC  Strand       SER   237 A      HIS    247 A                            2X6B
+LOC  Strand       GLN   252 A      TYR    260 A                            2X6B
+LOC  Strand       ILE   265 A      TRP    267 A                            2X6B
+LOC  Strand       GLY   269 A      PHE    271 A                            2X6B
+LOC  Strand       PHE   275 A      THR    277 A                            2X6B
+LOC  Strand       ARG   283 A      LEU    285 A                            2X6B
+LOC  Strand       ILE   293 A      GLN    295 A                            2X6B
+LOC  TurnVIII     ARG    13 A      ASN     16 A                            2X6B
+LOC  TurnI        ASN    16 A      GLY     19 A                            2X6B
+LOC  TurnIV       LEU    34 A      HIS     37 A                            2X6B
+LOC  TurnIV       CYS    71 A      VAL     74 A                            2X6B
+LOC  TurnII       ILE    75 A      ALA     78 A                            2X6B
+LOC  TurnII       ARG    79 A      SER     82 A                            2X6B
+LOC  TurnIV       GLY   100 A      ILE    103 A                            2X6B
+LOC  TurnIV       SER   145 A      MET    148 A                            2X6B
+LOC  TurnIV       ASP   152 A      GLY    155 A                            2X6B
+LOC  TurnIV       PHE   153 A      LYS    156 A                            2X6B
+LOC  TurnIV       ILE   171 A      ALA    174 A                            2X6B
+LOC  TurnVIII     SER   186 A      GLY    189 A                            2X6B
+LOC  TurnVIII     LEU   200 A      SER    203 A                            2X6B
+LOC  TurnIV       SER   205 A      PHE    208 A                            2X6B
+LOC  TurnI        ASP   219 A      SER    222 A                            2X6B
+LOC  TurnI        SER   222 A      TYR    225 A                            2X6B
+LOC  TurnII       ILE   224 A      GLU    227 A                            2X6B
+LOC  TurnIV       HIS   247 A      PHE    250 A                            2X6B
+LOC  TurnI        GLU   248 A      ALA    251 A                            2X6B
+LOC  TurnI        SER   261 A      GLU    264 A                            2X6B
+LOC  TurnI        CYS   262 A      ILE    265 A                            2X6B
+LOC  TurnII       ILE   266 A      GLY    269 A                            2X6B
+LOC  TurnI        LEU   278 A      GLY    281 A                            2X6B
+LOC  TurnI        ASP   286 A      LYS    289 A                            2X6B
+LOC  TurnI        LEU   287 A      PHE    290 A                            2X6B
+LOC  TurnI        LYS   289 A      GLU    292 A                            2X6B

@@ -1,0 +1,124 @@
+REM  -------------------- Secondary structure summary -------------------  4M1T
+REM                                                                        4M1T
+CHN  4m1t.pdb A                                                            4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  1    MTEYKLVVVGACGVGKSALTIQLIQNHFVDIEDSYRKQVVIDGETSLLDI   50          4M1T
+STR        EEEEEEEE TTTT HHHHHHHHHH        EEEEEEEETTEEEEEEE               4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  51   LDTAGQEEYSAMRDQYMRTGEGFLLVFAINNTKSFEDIHHYREQIKRVKD  100          4M1T
+STR       EEE   TTTHHHHHHHHHH  EEEEEEETTBHHHHHHHHHHHHHHHHHH                4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  101  SEDVPMVLVGNKSDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDA  150          4M1T
+STR       TTTT EEEEEETTTT      HHHHHHHHHHH   EEE TTTTTTTHHHH               4M1T
+REM                                                                        4M1T
+REM                .                                                       4M1T
+SEQ  151  FYTLVREIRKHKE                                       163          4M1T
+STR       HHHHHHHHHHHH                                                     4M1T
+REM                                                                        4M1T
+CHN  4m1t.pdb B                                                            4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  1    MTEYKLVVVGACGVGKSALTIQLIQNHFVDEDSYRKQVVIDGETSLLDIL   50          4M1T
+STR        EEEEEEEE TTTT HHHHHHHHHH         EEEEEETTEEEEEEE                4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  51   DTAGQEEYSAMRDQYMRTGEGFLLVFAINNTKSFEDIHHYREQIKRVKDS  100          4M1T
+STR        TTTTTTTHHHHHHHHHH  EEEEEEETTBHHHHHHHHHHHHHHHHHH T               4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  101  EDVPMVLVGNKSDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAF  150          4M1T
+STR       TTT EEEEEETTTTTTT   HHHHHHHHHHH   EEE TTTTTTTHHHHH               4M1T
+REM                                                                        4M1T
+REM                .                                                       4M1T
+SEQ  151  YTLVREIRKHKE                                        162          4M1T
+STR       HHHHHHHHHHH                                                      4M1T
+REM                                                                        4M1T
+CHN  4m1t.pdb C                                                            4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  1    MTEYKLVVVGACGVGKSALTIQLIQNHFVSYRKQVVIDGETSLLDILDTA   50          4M1T
+STR         EEEEEEE TTTT HHHHHHHHHH     EEEEEEETTEEEEEEEEE                 4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  51   GDQYMRTGEGFLLVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNK  100          4M1T
+STR         HHHHH  EEEEEEETTTHHHHHHHHHHHHHHHHHH TTTT EEEEEET               4M1T
+REM                                                                        4M1T
+REM                .         .         .         .         .               4M1T
+SEQ  101  SDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHK  150          4M1T
+STR       TTTTTT   HHHHHHHHHHH   EEE TTTTTTTHHHHHHHHHHHHHHHH               4M1T
+REM                                                                        4M1T
+REM                                                                        4M1T
+SEQ  151  E                                                   151          4M1T
+STR                                                                        4M1T
+REM                                                                        4M1T
+REM                                                                        4M1T
+REM                                                                        4M1T
+LOC  AlphaHelix   LYS    16 A      GLN     25 A                            4M1T
+LOC  AlphaHelix   SER    65 A      THR     74 A                            4M1T
+LOC  AlphaHelix   THR    87 A      LYS    104 A                            4M1T
+LOC  AlphaHelix   THR   127 A      TYR    137 A                            4M1T
+LOC  AlphaHelix   VAL   152 A      LYS    167 A                            4M1T
+LOC  AlphaHelix   LYS    16 B      GLN     25 B                            4M1T
+LOC  AlphaHelix   SER    65 B      THR     74 B                            4M1T
+LOC  AlphaHelix   THR    87 B      LYS    104 B                            4M1T
+LOC  AlphaHelix   THR   127 B      TYR    137 B                            4M1T
+LOC  AlphaHelix   VAL   152 B      LYS    167 B                            4M1T
+LOC  AlphaHelix   LYS    16 C      GLN     25 C                            4M1T
+LOC  AlphaHelix   GLN    70 C      THR     74 C                            4M1T
+LOC  AlphaHelix   THR    87 C      LYS    104 C                            4M1T
+LOC  AlphaHelix   THR   127 C      TYR    137 C                            4M1T
+LOC  AlphaHelix   VAL   152 C      LYS    167 C                            4M1T
+LOC  Strand       THR     2 A      VAL      9 A                            4M1T
+LOC  Strand       SER    39 A      ILE     46 A                            4M1T
+LOC  Strand       GLU    49 A      THR     58 A                            4M1T
+LOC  Strand       GLY    77 A      ALA     83 A                            4M1T
+LOC  Strand       MET   111 A      ASN    116 A                            4M1T
+LOC  Strand       PHE   141 A      GLU    143 A                            4M1T
+LOC  Strand       THR     2 B      VAL      9 B                            4M1T
+LOC  Strand       ARG    41 B      ILE     46 B                            4M1T
+LOC  Strand       GLU    49 B      ILE     55 B                            4M1T
+LOC  Strand       GLY    77 B      ALA     83 B                            4M1T
+LOC  Strand       MET   111 B      ASN    116 B                            4M1T
+LOC  Strand       PHE   141 B      GLU    143 B                            4M1T
+LOC  Strand       GLU     3 C      VAL      9 C                            4M1T
+LOC  Strand       TYR    40 C      ILE     46 C                            4M1T
+LOC  Strand       GLU    49 C      ASP     57 C                            4M1T
+LOC  Strand       GLY    77 C      ALA     83 C                            4M1T
+LOC  Strand       MET   111 C      ASN    116 C                            4M1T
+LOC  Strand       PHE   141 C      GLU    143 C                            4M1T
+LOC  TurnII       ALA    11 A      VAL     14 A                            4M1T
+LOC  TurnIV       VAL    45 A      GLY     48 A                            4M1T
+LOC  TurnI'       ILE    46 A      GLU     49 A                            4M1T
+LOC  TurnIV       GLU    62 A      SER     65 A                            4M1T
+LOC  TurnI        ALA    83 A      ASN     86 A                            4M1T
+LOC  TurnIV       SER   106 A      VAL    109 A                            4M1T
+LOC  TurnI        LYS   117 A      LEU    120 A                            4M1T
+LOC  TurnIV       SER   145 A      THR    148 A                            4M1T
+LOC  TurnI        ALA   146 A      ARG    149 A                            4M1T
+LOC  TurnII       ARG   149 A      VAL    152 A                            4M1T
+LOC  TurnII       ALA    11 B      VAL     14 B                            4M1T
+LOC  TurnIV       VAL    45 B      GLY     48 B                            4M1T
+LOC  TurnI'       ILE    46 B      GLU     49 B                            4M1T
+LOC  TurnIV       THR    58 B      GLN     61 B                            4M1T
+LOC  TurnIV       ALA    59 B      GLU     62 B                            4M1T
+LOC  TurnI        GLN    61 B      TYR     64 B                            4M1T
+LOC  TurnI        ALA    83 B      ASN     86 B                            4M1T
+LOC  TurnIV       SER   106 B      VAL    109 B                            4M1T
+LOC  TurnI        LYS   117 B      LEU    120 B                            4M1T
+LOC  TurnI        LEU   120 B      ARG    123 B                            4M1T
+LOC  TurnIV       SER   145 B      THR    148 B                            4M1T
+LOC  TurnI        ALA   146 B      ARG    149 B                            4M1T
+LOC  TurnII       ARG   149 B      VAL    152 B                            4M1T
+LOC  TurnII       ALA    11 C      VAL     14 C                            4M1T
+LOC  TurnIV       VAL    45 C      GLY     48 C                            4M1T
+LOC  TurnI'       ILE    46 C      GLU     49 C                            4M1T
+LOC  TurnI        ALA    83 C      ASN     86 C                            4M1T
+LOC  TurnIV       SER   106 C      VAL    109 C                            4M1T
+LOC  TurnI        LYS   117 C      LEU    120 C                            4M1T
+LOC  TurnIV       LEU   120 C      ARG    123 C                            4M1T
+LOC  TurnIV       SER   145 C      THR    148 C                            4M1T
+LOC  TurnI        ALA   146 C      ARG    149 C                            4M1T
+LOC  TurnII       ARG   149 C      VAL    152 C                            4M1T

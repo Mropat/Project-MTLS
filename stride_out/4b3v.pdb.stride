@@ -1,0 +1,391 @@
+REM  -------------------- Secondary structure summary -------------------  4B3V
+REM                                                                        4B3V
+CHN  4b3v.pdb A                                                            4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  1    EAFTYLCTAPGCATQTPVPVRLAGVRFESKIVDGGCFAPWDLEATGACIC   50          4B3V
+STR        EEEEE  TTTEEETTTTTEEEEEEEEEEEEEEEEEEE  EEEEEEEEE                4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  51   EIPTDVSCEGLGAWVPTAPCARIWNGTQRACTFWAVNAYSSGGYAQLASY  100          4B3V
+STR         TTTTTTTTTTTTT HHHHHHHHHTEEEEEEEEEEETB   TTTTBGGG               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  101  FNPGGSYYKQYHPTACEVEPAFGHSDAACWGFPTDTVMSVFALASYVQHP  150          4B3V
+STR        TTTTHHHHHH     EEEETTTT TTTTT TTTT  EEEEEEEEEE  G               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  151  HKTVRVKFHTETRTVWQLSVAGVSCNVTTEHPFCNTPHGQLEVQVPPDPG  200          4B3V
+STR       GG EEEEEEEEEEEEEEEEETTEEEEEBTTBTEEEETTEEEEEE                     4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  201  DLVEYIMNQQSRWGLGSPNCHGPDWASPVCQRHSPDCSRLVGATPERPRL  250          4B3V
+STR        EEEEEETTEEEEEETTTTTTTTTTTTGGG EEETTTTT B       EE               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  251  RLVDADDPLLRTAPGPGEVWVTPVIGSQARKCGLHIRAGPYGHATVEMPE  300          4B3V
+STR       EE TTTTGGGG   TTTEEEEEEE TTTTTT EEEEEEETTTTEEE HHH               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  301  WIHAHTTSDPWHPPGPLGLKFKTVRPVALPRALAPPRNVRVTGCYQCGTP  350          4B3V
+STR       HHHHH BTTT      EEEEEE        B    TEEEEEEEETTT                  4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  351  ALVEGLAPGGGNCHLTVNGEDVGAFPPGKFVTAALLNTPPPYQVSCGGES  400          4B3V
+STR       EEEEEEE    BEEEEETTEEEEEE  EEEEEEE       EEEETTT E               4B3V
+REM                                                                        4B3V
+REM                .         .         .                                   4B3V
+SEQ  401  DRASARVIDPAAQSFTGVVYGTHTTAVSET                      430          4B3V
+STR       EEEEEEEE HHHHHHTTEEE  EEEEE                                      4B3V
+REM                                                                        4B3V
+CHN  4b3v.pdb B                                                            4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  1    EAFTYLCTAPGCATQTPVPVRLAGVRFESKIVDGGCFAPWDLEATGACIC   50          4B3V
+STR        EEEEE  TTTEEETTTTTEEEEEEEEEEEEEEEEEEE  EEEEEEEEE                4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  51   EIPTDVSCEGLGAWVPTAPCARIWNGTQRACTFWAVNAYSSGGYAQLASY  100          4B3V
+STR         TTTTTTTTTTTTT HHHHHHHHHTEEEEEEEEEEETB   TTTTBGGG               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  101  FNPGGSYYKQYHPTACEVEPAFGHSDAACWGFPTDTVMSVFALASYVQHP  150          4B3V
+STR        TTTTHHHHHH     EEEETTTT TTTTT TTTT  EEEEEEEEEE  G               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  151  HKTVRVKFHTETRTVWQLSVAGVSCNVTTEHPFCNTPHGQLEVQVPPDPG  200          4B3V
+STR       GG EEEEEEEEEEEEEEEEETTEEEEEBTTBTEEETTTTEEEEE                     4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  201  DLVEYIMNQQSRWGLGSPNCHGPDWASPVCQRHSPDCSRLVGATPERPRL  250          4B3V
+STR        EEEEEETTEEEEEETTTTTTTTTTTTGGG EEETTTTT         EE               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  251  RLVDADDPLLRTAPGPGEVWVTPVIGSQARKCGLHIRAGPYGHATVEMPE  300          4B3V
+STR       EE TTTTGGGG   TTTEEEEEEE TTTTTT EEEEEEETTTTEEE HHH               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  301  WIHAHTTSDPWHPPGPLGLKFKTVRPVALPRALAPPRNVRVTGCYQCGTP  350          4B3V
+STR       HHHHH BTTT      EEEEEE        B    TEEEEEEEETTT                  4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  351  ALVEGLAPGGGNCHLTVNGEDVGAFPPGKFVTAALLNTPPPYQVSCGGES  400          4B3V
+STR       EEEEEEE    BEEEEETTEEEEEE  EEEEEEE       EEEETTT E               4B3V
+REM                                                                        4B3V
+REM                .         .         .                                   4B3V
+SEQ  401  DRASARVIDPAAQSFTGVVYGTHTTAVSET                      430          4B3V
+STR       EEEEEEEE HHHHHHTTEEE  EEEEE                                      4B3V
+REM                                                                        4B3V
+CHN  4b3v.pdb C                                                            4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  1    EAFTYLCTAPGCATQTPVPVRLAGVRFESKIVDGGCFAPWDLEATGACIC   50          4B3V
+STR        EEEEE  TTTEEETTTTTEEEEEEEEEEEEEEEEEEE  EEEEEEEEE                4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  51   EIPTDVSCEGLGAWVPTAPCARIWNGTQRACTFWAVNAYSSGGYAQLASY  100          4B3V
+STR         TTTTTTTTTTTTT HHHHHHHHHTEEEEEEEEEEETB   TTTTBGGG               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  101  FNPGGSYYKQYHPTACEVEPAFGHSDAACWGFPTDTVMSVFALASYVQHP  150          4B3V
+STR        TTTTHHHHHH     EEEETTTT TTTTT TTTT  EEEEEEEEEE  G               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  151  HKTVRVKFHTETRTVWQLSVAGVSCNVTTEHPFCNTPHGQLEVQVPPDPG  200          4B3V
+STR       GG EEEEEEEEEEEEEEEEETTEEEEEBTTBTEEEETTEEEEEE                     4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  201  DLVEYIMNQQSRWGLGSPNCHGPDWASPVCQRHSPDCSRLVGATPERPRL  250          4B3V
+STR        EEEEEETTEEEEEETTTTTTTTTTTTGGG EEETTTTT         EE               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  251  RLVDADDPLLRTAPGPGEVWVTPVIGSQARKCGLHIRAGPYGHATVEMPE  300          4B3V
+STR       EE TTTTGGGG   TTTEEEEEEE TTTTTT EEEEEEETTTTEEE HHH               4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  301  WIHAHTTSDPWHPPGPLGLKFKTVRPVALPRALAPPRNVRVTGCYQCGTP  350          4B3V
+STR       HHHHH BTTT      EEEEEE        B    TEEEEEEEETTT                  4B3V
+REM                                                                        4B3V
+REM                .         .         .         .         .               4B3V
+SEQ  351  ALVEGLAPGGGNCHLTVNGEDVGAFPPGKFVTAALLNTPPPYQVSCGGES  400          4B3V
+STR       EEEEEEE    BEEEEETTEEEEEE  EEEEEEE       EEEETTT E               4B3V
+REM                                                                        4B3V
+REM                .         .         .                                   4B3V
+SEQ  401  DRASARVIDPAAQSFTGVVYGTHTTAVSET                      430          4B3V
+STR       EEEEEEEE HHHHHHTTEEE  EEEEE                                      4B3V
+REM                                                                        4B3V
+REM                                                                        4B3V
+REM                                                                        4B3V
+LOC  AlphaHelix   THR    68 A      ASN     76 A                            4B3V
+LOC  AlphaHelix   SER   107 A      TYR    112 A                            4B3V
+LOC  AlphaHelix   MET   303 A      HIS    310 A                            4B3V
+LOC  AlphaHelix   PRO   415 A      PHE    420 A                            4B3V
+LOC  AlphaHelix   THR    68 B      ASN     76 B                            4B3V
+LOC  AlphaHelix   SER   107 B      TYR    112 B                            4B3V
+LOC  AlphaHelix   MET   303 B      HIS    310 B                            4B3V
+LOC  AlphaHelix   PRO   415 B      PHE    420 B                            4B3V
+LOC  AlphaHelix   THR    68 C      ASN     76 C                            4B3V
+LOC  AlphaHelix   SER   107 C      TYR    112 C                            4B3V
+LOC  AlphaHelix   MET   303 C      HIS    310 C                            4B3V
+LOC  AlphaHelix   PRO   415 C      PHE    420 C                            4B3V
+LOC  310Helix     ALA    99 A      TYR    101 A                            4B3V
+LOC  310Helix     PRO   151 A      LYS    153 A                            4B3V
+LOC  310Helix     PRO   233 A      CYS    235 A                            4B3V
+LOC  310Helix     PRO   263 A      ARG    266 A                            4B3V
+LOC  310Helix     ALA    99 B      TYR    101 B                            4B3V
+LOC  310Helix     PRO   151 B      LYS    153 B                            4B3V
+LOC  310Helix     PRO   233 B      CYS    235 B                            4B3V
+LOC  310Helix     PRO   263 B      ARG    266 B                            4B3V
+LOC  310Helix     ALA    99 C      TYR    101 C                            4B3V
+LOC  310Helix     PRO   151 C      LYS    153 C                            4B3V
+LOC  310Helix     PRO   233 C      CYS    235 C                            4B3V
+LOC  310Helix     PRO   263 C      ARG    266 C                            4B3V
+LOC  Strand       ALA     3 A      LEU      7 A                            4B3V
+LOC  Strand       CYS    13 A      THR     15 A                            4B3V
+LOC  Strand       VAL    21 A      ALA     39 A                            4B3V
+LOC  Strand       ASP    42 A      ILE     50 A                            4B3V
+LOC  Strand       THR    78 A      ASN     88 A                            4B3V
+LOC  Strand       GLU   118 A      PRO    121 A                            4B3V
+LOC  Strand       MET   139 A      VAL    148 A                            4B3V
+LOC  Strand       VAL   155 A      VAL    171 A                            4B3V
+LOC  Strand       VAL   174 A      VAL    178 A                            4B3V
+LOC  Strand       PHE   184 A      THR    187 A                            4B3V
+LOC  Strand       GLY   190 A      GLN    195 A                            4B3V
+LOC  Strand       LEU   203 A      MET    208 A                            4B3V
+LOC  Strand       GLN   215 A      LEU    220 A                            4B3V
+LOC  Strand       ARG   237 A      SER    239 A                            4B3V
+LOC  Strand       ARG   254 A      LEU    257 A                            4B3V
+LOC  Strand       GLU   273 A      VAL    279 A                            4B3V
+LOC  Strand       GLY   288 A      GLY    294 A                            4B3V
+LOC  Strand       ALA   299 A      VAL    301 A                            4B3V
+LOC  Strand       LEU   322 A      LYS    327 A                            4B3V
+LOC  Strand       ARG   342 A      CYS    349 A                            4B3V
+LOC  Strand       ALA   356 A      ALA    362 A                            4B3V
+LOC  Strand       CYS   368 A      VAL    372 A                            4B3V
+LOC  Strand       GLU   375 A      PHE    380 A                            4B3V
+LOC  Strand       GLY   383 A      ALA    389 A                            4B3V
+LOC  Strand       TYR   397 A      SER    400 A                            4B3V
+LOC  Strand       SER   405 A      ILE    413 A                            4B3V
+LOC  Strand       VAL   423 A      TYR    425 A                            4B3V
+LOC  Strand       HIS   428 A      VAL    432 A                            4B3V
+LOC  Strand       ALA     3 B      LEU      7 B                            4B3V
+LOC  Strand       CYS    13 B      THR     15 B                            4B3V
+LOC  Strand       VAL    21 B      ALA     39 B                            4B3V
+LOC  Strand       ASP    42 B      ILE     50 B                            4B3V
+LOC  Strand       THR    78 B      ASN     88 B                            4B3V
+LOC  Strand       GLU   118 B      PRO    121 B                            4B3V
+LOC  Strand       MET   139 B      VAL    148 B                            4B3V
+LOC  Strand       VAL   155 B      VAL    171 B                            4B3V
+LOC  Strand       VAL   174 B      VAL    178 B                            4B3V
+LOC  Strand       PHE   184 B      ASN    186 B                            4B3V
+LOC  Strand       GLN   191 B      GLN    195 B                            4B3V
+LOC  Strand       LEU   203 B      MET    208 B                            4B3V
+LOC  Strand       GLN   215 B      LEU    220 B                            4B3V
+LOC  Strand       ARG   237 B      SER    239 B                            4B3V
+LOC  Strand       ARG   254 B      LEU    257 B                            4B3V
+LOC  Strand       GLU   273 B      VAL    279 B                            4B3V
+LOC  Strand       GLY   288 B      GLY    294 B                            4B3V
+LOC  Strand       ALA   299 B      VAL    301 B                            4B3V
+LOC  Strand       LEU   322 B      LYS    327 B                            4B3V
+LOC  Strand       ARG   342 B      CYS    349 B                            4B3V
+LOC  Strand       ALA   356 B      ALA    362 B                            4B3V
+LOC  Strand       CYS   368 B      VAL    372 B                            4B3V
+LOC  Strand       GLU   375 B      PHE    380 B                            4B3V
+LOC  Strand       GLY   383 B      ALA    389 B                            4B3V
+LOC  Strand       TYR   397 B      SER    400 B                            4B3V
+LOC  Strand       SER   405 B      ILE    413 B                            4B3V
+LOC  Strand       VAL   423 B      TYR    425 B                            4B3V
+LOC  Strand       HIS   428 B      VAL    432 B                            4B3V
+LOC  Strand       ALA     3 C      LEU      7 C                            4B3V
+LOC  Strand       CYS    13 C      THR     15 C                            4B3V
+LOC  Strand       VAL    21 C      ALA     39 C                            4B3V
+LOC  Strand       ASP    42 C      ILE     50 C                            4B3V
+LOC  Strand       THR    78 C      ASN     88 C                            4B3V
+LOC  Strand       GLU   118 C      PRO    121 C                            4B3V
+LOC  Strand       MET   139 C      VAL    148 C                            4B3V
+LOC  Strand       VAL   155 C      VAL    171 C                            4B3V
+LOC  Strand       VAL   174 C      VAL    178 C                            4B3V
+LOC  Strand       PHE   184 C      THR    187 C                            4B3V
+LOC  Strand       GLY   190 C      GLN    195 C                            4B3V
+LOC  Strand       LEU   203 C      MET    208 C                            4B3V
+LOC  Strand       GLN   215 C      LEU    220 C                            4B3V
+LOC  Strand       ARG   237 C      SER    239 C                            4B3V
+LOC  Strand       ARG   254 C      LEU    257 C                            4B3V
+LOC  Strand       GLU   273 C      VAL    279 C                            4B3V
+LOC  Strand       GLY   288 C      GLY    294 C                            4B3V
+LOC  Strand       ALA   299 C      VAL    301 C                            4B3V
+LOC  Strand       LEU   322 C      LYS    327 C                            4B3V
+LOC  Strand       ARG   342 C      CYS    349 C                            4B3V
+LOC  Strand       ALA   356 C      ALA    362 C                            4B3V
+LOC  Strand       CYS   368 C      VAL    372 C                            4B3V
+LOC  Strand       GLU   375 C      PHE    380 C                            4B3V
+LOC  Strand       GLY   383 C      ALA    389 C                            4B3V
+LOC  Strand       TYR   397 C      SER    400 C                            4B3V
+LOC  Strand       SER   405 C      ILE    413 C                            4B3V
+LOC  Strand       VAL   423 C      TYR    425 C                            4B3V
+LOC  Strand       HIS   428 C      VAL    432 C                            4B3V
+LOC  TurnII       ALA    10 A      CYS     13 A                            4B3V
+LOC  TurnVIb      GLN    16 A      VAL     19 A                            4B3V
+LOC  TurnVIII     THR    17 A      PRO     20 A                            4B3V
+LOC  TurnVIII     PRO    54 A      VAL     57 A                            4B3V
+LOC  TurnI        SER    58 A      GLY     61 A                            4B3V
+LOC  TurnI        CYS    59 A      LEU     62 A                            4B3V
+LOC  TurnI        GLU    60 A      GLY     63 A                            4B3V
+LOC  TurnI        LEU    62 A      TRP     65 A                            4B3V
+LOC  TurnIV       GLY    63 A      VAL     66 A                            4B3V
+LOC  TurnIV       GLY    77 A      ARG     80 A                            4B3V
+LOC  TurnVIII     ALA    86 A      ALA     89 A                            4B3V
+LOC  TurnIV       GLY    94 A      GLN     97 A                            4B3V
+LOC  TurnII       ASN   103 A      GLY    106 A                            4B3V
+LOC  TurnII       ALA   122 A      HIS    125 A                            4B3V
+LOC  TurnI        ASP   127 A      CYS    130 A                            4B3V
+LOC  TurnVIII     ALA   128 A      TRP    131 A                            4B3V
+LOC  TurnIV       PHE   133 A      ASP    136 A                            4B3V
+LOC  TurnIV       HIS   160 A      THR    163 A                            4B3V
+LOC  TurnIV       SER   170 A      GLY    173 A                            4B3V
+LOC  TurnI'       VAL   171 A      VAL    174 A                            4B3V
+LOC  TurnI        THR   179 A      HIS    182 A                            4B3V
+LOC  TurnVIII     THR   180 A      PRO    183 A                            4B3V
+LOC  TurnIV       THR   187 A      GLY    190 A                            4B3V
+LOC  TurnIV       ILE   207 A      GLN    214 A                            4B3V
+LOC  TurnIV       MET   208 A      GLN    215 A                            4B3V
+LOC  TurnIV       GLY   221 A      ASN    224 A                            4B3V
+LOC  TurnI        ASN   224 A      GLY    227 A                            4B3V
+LOC  TurnI        GLY   227 A      TRP    230 A                            4B3V
+LOC  TurnI        ASP   229 A      SER    232 A                            4B3V
+LOC  TurnI        SER   239 A      CYS    242 A                            4B3V
+LOC  TurnIV       ASP   241 A      ARG    244 A                            4B3V
+LOC  TurnI        ASP   259 A      ASP    262 A                            4B3V
+LOC  TurnII       GLY   270 A      GLU    273 A                            4B3V
+LOC  TurnVIII     GLY   281 A      ALA    284 A                            4B3V
+LOC  TurnII       GLN   283 A      LYS    286 A                            4B3V
+LOC  TurnII       PRO   295 A      HIS    298 A                            4B3V
+LOC  TurnI'       TYR   296 A      ALA    299 A                            4B3V
+LOC  TurnVIII     THR   312 A      PRO    315 A                            4B3V
+LOC  TurnIV       PRO   341 A      VAL    344 A                            4B3V
+LOC  TurnIV       CYS   349 A      CYS    352 A                            4B3V
+LOC  TurnIV       THR   371 A      GLY    374 A                            4B3V
+LOC  TurnI'       VAL   372 A      GLU    375 A                            4B3V
+LOC  TurnIV       SER   400 A      GLY    403 A                            4B3V
+LOC  TurnII       PHE   420 A      VAL    423 A                            4B3V
+LOC  GammaInv     CYS   368 A      LEU    370 A                            4B3V
+LOC  TurnII       ALA    10 B      CYS     13 B                            4B3V
+LOC  TurnVIb      GLN    16 B      VAL     19 B                            4B3V
+LOC  TurnVIII     THR    17 B      PRO     20 B                            4B3V
+LOC  TurnVIII     PRO    54 B      VAL     57 B                            4B3V
+LOC  TurnI        SER    58 B      GLY     61 B                            4B3V
+LOC  TurnI        CYS    59 B      LEU     62 B                            4B3V
+LOC  TurnI        GLU    60 B      GLY     63 B                            4B3V
+LOC  TurnI        LEU    62 B      TRP     65 B                            4B3V
+LOC  TurnIV       GLY    63 B      VAL     66 B                            4B3V
+LOC  TurnIV       GLY    77 B      ARG     80 B                            4B3V
+LOC  TurnVIII     ALA    86 B      ALA     89 B                            4B3V
+LOC  TurnIV       GLY    94 B      GLN     97 B                            4B3V
+LOC  TurnII       ASN   103 B      GLY    106 B                            4B3V
+LOC  TurnII       ALA   122 B      HIS    125 B                            4B3V
+LOC  TurnI        ASP   127 B      CYS    130 B                            4B3V
+LOC  TurnVIII     ALA   128 B      TRP    131 B                            4B3V
+LOC  TurnIV       PHE   133 B      ASP    136 B                            4B3V
+LOC  TurnIV       HIS   160 B      THR    163 B                            4B3V
+LOC  TurnIV       SER   170 B      GLY    173 B                            4B3V
+LOC  TurnI'       VAL   171 B      VAL    174 B                            4B3V
+LOC  TurnI        THR   179 B      HIS    182 B                            4B3V
+LOC  TurnVIII     THR   180 B      PRO    183 B                            4B3V
+LOC  TurnI        THR   187 B      GLY    190 B                            4B3V
+LOC  TurnIV       ILE   207 B      GLN    214 B                            4B3V
+LOC  TurnIV       MET   208 B      GLN    215 B                            4B3V
+LOC  TurnIV       GLY   221 B      ASN    224 B                            4B3V
+LOC  TurnI        ASN   224 B      GLY    227 B                            4B3V
+LOC  TurnI        GLY   227 B      TRP    230 B                            4B3V
+LOC  TurnI        ASP   229 B      SER    232 B                            4B3V
+LOC  TurnI        SER   239 B      CYS    242 B                            4B3V
+LOC  TurnIV       ASP   241 B      ARG    244 B                            4B3V
+LOC  TurnI        ASP   259 B      ASP    262 B                            4B3V
+LOC  TurnII       GLY   270 B      GLU    273 B                            4B3V
+LOC  TurnVIII     GLY   281 B      ALA    284 B                            4B3V
+LOC  TurnII       GLN   283 B      LYS    286 B                            4B3V
+LOC  TurnII       PRO   295 B      HIS    298 B                            4B3V
+LOC  TurnI'       TYR   296 B      ALA    299 B                            4B3V
+LOC  TurnVIII     THR   312 B      PRO    315 B                            4B3V
+LOC  TurnIV       PRO   341 B      VAL    344 B                            4B3V
+LOC  TurnIV       CYS   349 B      CYS    352 B                            4B3V
+LOC  TurnIV       THR   371 B      GLY    374 B                            4B3V
+LOC  TurnI'       VAL   372 B      GLU    375 B                            4B3V
+LOC  TurnIV       SER   400 B      GLY    403 B                            4B3V
+LOC  TurnII       PHE   420 B      VAL    423 B                            4B3V
+LOC  GammaInv     CYS   368 B      LEU    370 B                            4B3V
+LOC  TurnII       ALA    10 C      CYS     13 C                            4B3V
+LOC  TurnVIb      GLN    16 C      VAL     19 C                            4B3V
+LOC  TurnVIII     THR    17 C      PRO     20 C                            4B3V
+LOC  TurnVIII     PRO    54 C      VAL     57 C                            4B3V
+LOC  TurnI        SER    58 C      GLY     61 C                            4B3V
+LOC  TurnI        CYS    59 C      LEU     62 C                            4B3V
+LOC  TurnI        GLU    60 C      GLY     63 C                            4B3V
+LOC  TurnI        LEU    62 C      TRP     65 C                            4B3V
+LOC  TurnIV       GLY    63 C      VAL     66 C                            4B3V
+LOC  TurnIV       GLY    77 C      ARG     80 C                            4B3V
+LOC  TurnVIII     ALA    86 C      ALA     89 C                            4B3V
+LOC  TurnIV       GLY    94 C      GLN     97 C                            4B3V
+LOC  TurnII       ASN   103 C      GLY    106 C                            4B3V
+LOC  TurnII       ALA   122 C      HIS    125 C                            4B3V
+LOC  TurnI        ASP   127 C      CYS    130 C                            4B3V
+LOC  TurnVIII     ALA   128 C      TRP    131 C                            4B3V
+LOC  TurnIV       PHE   133 C      ASP    136 C                            4B3V
+LOC  TurnIV       HIS   160 C      THR    163 C                            4B3V
+LOC  TurnIV       SER   170 C      GLY    173 C                            4B3V
+LOC  TurnI'       VAL   171 C      VAL    174 C                            4B3V
+LOC  TurnI        THR   179 C      HIS    182 C                            4B3V
+LOC  TurnVIII     THR   180 C      PRO    183 C                            4B3V
+LOC  TurnIV       THR   187 C      GLY    190 C                            4B3V
+LOC  TurnIV       ILE   207 C      GLN    214 C                            4B3V
+LOC  TurnIV       MET   208 C      GLN    215 C                            4B3V
+LOC  TurnIV       GLY   221 C      ASN    224 C                            4B3V
+LOC  TurnI        ASN   224 C      GLY    227 C                            4B3V
+LOC  TurnI        GLY   227 C      TRP    230 C                            4B3V
+LOC  TurnI        ASP   229 C      SER    232 C                            4B3V
+LOC  TurnI        SER   239 C      CYS    242 C                            4B3V
+LOC  TurnIV       ASP   241 C      ARG    244 C                            4B3V
+LOC  TurnI        ASP   259 C      ASP    262 C                            4B3V
+LOC  TurnII       GLY   270 C      GLU    273 C                            4B3V
+LOC  TurnVIII     GLY   281 C      ALA    284 C                            4B3V
+LOC  TurnII       GLN   283 C      LYS    286 C                            4B3V
+LOC  TurnII       PRO   295 C      HIS    298 C                            4B3V
+LOC  TurnI'       TYR   296 C      ALA    299 C                            4B3V
+LOC  TurnVIII     THR   312 C      PRO    315 C                            4B3V
+LOC  TurnIV       PRO   341 C      VAL    344 C                            4B3V
+LOC  TurnIV       CYS   349 C      CYS    352 C                            4B3V
+LOC  TurnIV       THR   371 C      GLY    374 C                            4B3V
+LOC  TurnI'       VAL   372 C      GLU    375 C                            4B3V
+LOC  TurnIV       SER   400 C      GLY    403 C                            4B3V
+LOC  TurnII       PHE   420 C      VAL    423 C                            4B3V
+LOC  GammaInv     CYS   368 C      LEU    370 C                            4B3V
+LOC  Disulfide    CYS     8 A      CYS     13 A            PDB             4B3V
+LOC  Disulfide    CYS    37 A      CYS    242 A            PDB             4B3V
+LOC  Disulfide    CYS    49 A      CYS    287 A            PDB             4B3V
+LOC  Disulfide    CYS    51 A      CYS    130 A            PDB             4B3V
+LOC  Disulfide    CYS    59 A      CYS     71 A            PDB             4B3V
+LOC  Disulfide    CYS    82 A      CYS    117 A            PDB             4B3V
+LOC  Disulfide    CYS   176 A      CYS    185 A            PDB             4B3V
+LOC  Disulfide    CYS   225 A      CYS    235 A            PDB             4B3V
+LOC  Disulfide    CYS   349 A      CYS    352 A            PDB             4B3V
+LOC  Disulfide    CYS   368 A      CYS    401 A            PDB             4B3V
+LOC  Disulfide    CYS     8 B      CYS     13 B            PDB             4B3V
+LOC  Disulfide    CYS    37 B      CYS    242 B            PDB             4B3V
+LOC  Disulfide    CYS    49 B      CYS    287 B            PDB             4B3V
+LOC  Disulfide    CYS    51 B      CYS    130 B            PDB             4B3V
+LOC  Disulfide    CYS    59 B      CYS     71 B            PDB             4B3V
+LOC  Disulfide    CYS    82 B      CYS    117 B            PDB             4B3V
+LOC  Disulfide    CYS   176 B      CYS    185 B            PDB             4B3V
+LOC  Disulfide    CYS   225 B      CYS    235 B            PDB             4B3V
+LOC  Disulfide    CYS   349 B      CYS    352 B            PDB             4B3V
+LOC  Disulfide    CYS   368 B      CYS    401 B            PDB             4B3V
+LOC  Disulfide    CYS     8 C      CYS     13 C            PDB             4B3V
+LOC  Disulfide    CYS    37 C      CYS    242 C            PDB             4B3V
+LOC  Disulfide    CYS    49 C      CYS    287 C            PDB             4B3V
+LOC  Disulfide    CYS    51 C      CYS    130 C            PDB             4B3V
+LOC  Disulfide    CYS    59 C      CYS     71 C            PDB             4B3V
+LOC  Disulfide    CYS    82 C      CYS    117 C            PDB             4B3V
+LOC  Disulfide    CYS   176 C      CYS    185 C            PDB             4B3V
+LOC  Disulfide    CYS   225 C      CYS    235 C            PDB             4B3V
+LOC  Disulfide    CYS   349 C      CYS    352 C            PDB             4B3V
+LOC  Disulfide    CYS   368 C      CYS    401 C            PDB             4B3V

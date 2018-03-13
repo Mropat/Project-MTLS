@@ -1,5 +1,8 @@
 import pickle
 import numpy as np
+from sklearn.svm import LinearSVC
+from sklearn.model_selection import cross_validate
+from sklearn.metrics import recall_score
 
 
 def get_sets(filename):
@@ -24,8 +27,7 @@ def feature_vecs (protid,  window):
     
     for ind, prot in enumerate(protid):
                 
-        strc = structures[ind]
-        
+        strc = structures[ind]        
         for pos in strc:
             str_vec.append(ord(pos))
 
@@ -37,28 +39,34 @@ def feature_vecs (protid,  window):
             features = pssm[i-offset : i+offset+1].flatten()
             seq_vec.append(features)
             testshape = np.concatenate([testshape, features])
-        #print (testshape.shape[0])
-        #print (len(strc)*260)
-        if testshape.shape[0] != len (strc*260):
-            print (protid [ind])
-            
-#    print (len(str_vec))
-#    print (np.array([seq_vec]).shape)
+        #if testshape.shape[0] != len (strc*260):
+            #print (protid [ind])  -- Troubleshoot the training data 
         
-        
-        
+    #pickle.dump(seq_vec, open(dumps, "wb"))
+    return str_vec, seq_vec
 
-    
-            
-    #pickle.dump(seq_vec, open(dumps, "wb"))      
-    
+
+def train_model():
+    str_vec, seq_vec = feature_vecs(protid, window)
+
+    clf = LinearSVC()
+    X = np.asarray(seq_vec)
+    y = np.array(str_vec)
+    clf.fit(X, y)
+    pickle.dump(clf, open(dumpmodel, "wb"))
+
+    scoring = ['precision_macro', 'recall_macro']
+    scores = cross_validate(clf, X, y, scoring =scoring, cv = 3)
+
+    print(scores)
 
     
 
 if __name__ == "__main__":     
-    for window in range (13,15, 2):
+    for window in range (25,27, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
-        feature_vecs(protid, window)
+        dumpmodel = "linsvc%i.sav" % window
+        train_model()
     
     print("all done")

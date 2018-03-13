@@ -1,0 +1,123 @@
+REM  -------------------- Secondary structure summary -------------------  3KOA
+REM                                                                        3KOA
+CHN  3koa.pdb A                                                            3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  1    GLIVDTRDVEERVHVMRKTKLAPTVAHGVFNPEFGPAALSNKDPRLNEGV   50          3KOA
+STR        EEEEEEE            EEE HHHHHH   EEE   TTTTTTTTTTT               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  51   VLDEVIFSKHKGDTKMSAEDKALFRRCAADYASRLHSVLGTANAPLSIYE  100          3KOA
+STR        HHHHHTTTTB      HHHHHHHHHHHHHHHHHHHHHH TTT    HHH               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  101  AIKGVDGLDAMEPDTAPGLPWALQGKRRGALIDFENGTVGPEVEAALKLM  150          3KOA
+STR       HHH BTTB   TTTT  TTTGGGG   GGG EETTTTEE HHHHHHHHHH               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  151  EKREYKFACQTFLKDEIRPMEKVRAGKTRIVDVLPVEHILYTRMMIGRFC  200          3KOA
+STR       H      EEEEEE   EEEHHHHH     EEEE  HHHHHHHHHHHHHHH               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  201  AQMHSNNGPQIGSAVGCNPDVDWQRFGTHFAQYRNVWDVDYSAFDANHCS  250          3KOA
+STR       HHHHHH BGGG BTTTT HHHHHHHHHHHHH TTEEEEEEEETGGG   H               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  251  DAMNIMFEEVFRTEFGFHPNAEWILKTLVNTEHAYENKRITVEGGIPSGC  300          3KOA
+STR       HHHHHHHHHHH GGG   HHHHHHHHHTTEEEEEETTEEEEEE   TTTT               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  301  SATSIINTILNNIYVLYALRRHYEGVELDTYTMISYGDDIVVASDYDLDF  350          3KOA
+STR        HHHHHHHHHHHHHHHHHHHH TTTTTTTTTEEEEETTEEEEEE     H               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  351  EALKPHFKSLGQTITPADKSDKGFVLGHSITDVTFLKRHFHMDYGTGFYK  400          3KOA
+STR       HHHHHHHHHH  EEEETTTTTTT      GGG EETTEEEEETTTTT EE               3KOA
+REM                                                                        3KOA
+REM                .         .         .         .         .               3KOA
+SEQ  401  PVMASKTLEAILSFARRGTIQEKLISVAGLAVHSGPDEYRRLFEPFQGLF  450          3KOA
+STR       EEE HHHHHHHHHEEETTHHHHHHHHHHHHHGGG HHHHHHHHGGGTTTT               3KOA
+REM                                                                        3KOA
+REM                .         .                                             3KOA
+SEQ  451  EIPSYRSLYLRWVNAVCGDAAALEHH                          476          3KOA
+STR           HHHHHHHHHHHH HHHHHHH                                         3KOA
+REM                                                                        3KOA
+REM                                                                        3KOA
+REM                                                                        3KOA
+LOC  AlphaHelix   VAL    25 A      PHE     30 A                            3KOA
+LOC  AlphaHelix   LEU    52 A      ILE     56 A                            3KOA
+LOC  AlphaHelix   ALA    68 A      LEU     89 A                            3KOA
+LOC  AlphaHelix   ILE    98 A      LYS    103 A                            3KOA
+LOC  AlphaHelix   PRO   141 A      GLU    151 A                            3KOA
+LOC  AlphaHelix   MET   170 A      ARG    174 A                            3KOA
+LOC  AlphaHelix   VAL   186 A      ASN    206 A                            3KOA
+LOC  AlphaHelix   PRO   219 A      ALA    231 A                            3KOA
+LOC  AlphaHelix   SER   250 A      PHE    261 A                            3KOA
+LOC  AlphaHelix   PRO   269 A      THR    277 A                            3KOA
+LOC  AlphaHelix   ALA   302 A      ARG    321 A                            3KOA
+LOC  AlphaHelix   PHE   350 A      LEU    360 A                            3KOA
+LOC  AlphaHelix   SER   405 A      SER    413 A                            3KOA
+LOC  AlphaHelix   THR   419 A      ALA    431 A                            3KOA
+LOC  AlphaHelix   PRO   436 A      PHE    443 A                            3KOA
+LOC  AlphaHelix   TYR   455 A      VAL    466 A                            3KOA
+LOC  AlphaHelix   GLY   468 A      GLU    474 A                            3KOA
+LOC  310Helix     TRP   121 A      GLN    124 A                            3KOA
+LOC  310Helix     ARG   128 A      ALA    130 A                            3KOA
+LOC  310Helix     PRO   209 A      ILE    211 A                            3KOA
+LOC  310Helix     PHE   244 A      ALA    246 A                            3KOA
+LOC  310Helix     THR   263 A      PHE    265 A                            3KOA
+LOC  310Helix     ILE   380 A      ASP    382 A                            3KOA
+LOC  310Helix     VAL   432 A      SER    434 A                            3KOA
+LOC  310Helix     GLU   444 A      PHE    446 A                            3KOA
+LOC  Strand       LEU     2 A      ASP      8 A                            3KOA
+LOC  Strand       LEU    21 A      PRO     23 A                            3KOA
+LOC  Strand       PHE    34 A      PRO     36 A                            3KOA
+LOC  Strand       ILE   132 A      ASP    133 A                            3KOA
+LOC  Strand       THR   138 A      VAL    139 A                            3KOA
+LOC  Strand       ALA   158 A      LEU    163 A                            3KOA
+LOC  Strand       ILE   167 A      PRO    169 A                            3KOA
+LOC  Strand       ILE   180 A      VAL    183 A                            3KOA
+LOC  Strand       ASN   235 A      SER    242 A                            3KOA
+LOC  Strand       ASN   280 A      TYR    285 A                            3KOA
+LOC  Strand       LYS   288 A      GLU    293 A                            3KOA
+LOC  Strand       THR   332 A      TYR    336 A                            3KOA
+LOC  Strand       ASP   339 A      SER    344 A                            3KOA
+LOC  Strand       THR   363 A      PRO    366 A                            3KOA
+LOC  Strand       THR   384 A      PHE    385 A                            3KOA
+LOC  Strand       ARG   388 A      MET    392 A                            3KOA
+LOC  Strand       TYR   399 A      MET    403 A                            3KOA
+LOC  Strand       PHE   414 A      ARG    416 A                            3KOA
+LOC  TurnIV       SER    40 A      ASP     43 A                            3KOA
+LOC  TurnIV       ASP    43 A      LEU     46 A                            3KOA
+LOC  TurnII       ASN    47 A      VAL     50 A                            3KOA
+LOC  TurnIV       PHE    57 A      HIS     60 A                            3KOA
+LOC  TurnIV       SER    58 A      LYS     61 A                            3KOA
+LOC  TurnII       VAL   105 A      LEU    108 A                            3KOA
+LOC  TurnIV       GLU   112 A      THR    115 A                            3KOA
+LOC  TurnVIb      GLY   118 A      TRP    121 A                            3KOA
+LOC  TurnIV       ASP   133 A      ASN    136 A                            3KOA
+LOC  TurnIV       PHE   134 A      GLY    137 A                            3KOA
+LOC  TurnII       ALA   214 A      CYS    217 A                            3KOA
+LOC  TurnVIII     TYR   233 A      VAL    236 A                            3KOA
+LOC  TurnIV       TYR   241 A      PHE    244 A                            3KOA
+LOC  TurnIV       THR   277 A      ASN    280 A                            3KOA
+LOC  TurnVIII     LEU   278 A      THR    281 A                            3KOA
+LOC  TurnII'      TYR   285 A      LYS    288 A                            3KOA
+LOC  TurnI        PRO   297 A      CYS    300 A                            3KOA
+LOC  TurnIV       TYR   323 A      VAL    326 A                            3KOA
+LOC  TurnI        GLU   327 A      THR    330 A                            3KOA
+LOC  TurnIV       LEU   328 A      TYR    331 A                            3KOA
+LOC  TurnIV       ASP   329 A      THR    332 A                            3KOA
+LOC  TurnIV       SER   335 A      ASP    338 A                            3KOA
+LOC  TurnII'      TYR   336 A      ASP    339 A                            3KOA
+LOC  TurnIV       PRO   366 A      LYS    369 A                            3KOA
+LOC  TurnIV       ASP   368 A      ASP    371 A                            3KOA
+LOC  TurnIV       THR   384 A      LYS    387 A                            3KOA
+LOC  TurnI'       PHE   385 A      ARG    388 A                            3KOA
+LOC  TurnIV       ASP   393 A      THR    396 A                            3KOA
+LOC  TurnIV       TYR   394 A      GLY    397 A                            3KOA
+LOC  TurnII       ARG   416 A      THR    419 A                            3KOA
+LOC  TurnII       PHE   446 A      LEU    449 A                            3KOA
+LOC  TurnIV       GLN   447 A      PHE    450 A                            3KOA
+LOC  GammaInv     THR    91 A      ASN     93 A                            3KOA
+LOC  GammaInv     ASP   371 A      GLY    373 A                            3KOA

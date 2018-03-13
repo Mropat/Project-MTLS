@@ -1,0 +1,82 @@
+REM  -------------------- Secondary structure summary -------------------  4EEJ
+REM                                                                        4EEJ
+CHN  4eej.pdb A                                                            4EEJ
+REM                                                                        4EEJ
+REM                .         .         .         .         .               4EEJ
+SEQ  1    TRDRNGTWEMESNENFEGWMKALDIDFALRKIAVRLTQTLVIDQDGDNFK   50          4EEJ
+STR            EEEEEEBEETHHHHHHHH   HHHHHHHH    EEEEEEETTEEE               4EEJ
+REM                                                                        4EEJ
+REM                .         .         .         .         .               4EEJ
+SEQ  51   VKCTSTFWNYDVDFTVGVEFDEYTKSLDNRHVKALVTWEGDVLVCVQKGE  100          4EEJ
+STR       EEEEETTEEEEEEEETTEEEEEEETTTTTEEEEEEEEEETTEEEEEEE                 4EEJ
+REM                                                                        4EEJ
+REM                .         .         .                                   4EEJ
+SEQ  101  KENRGWKKWIEGDKLYLELTCGDQVCRQVFKKK                   133          4EEJ
+STR       TTTTEEEEEEETTEEEEEEEETTEEEEEEEEE                                 4EEJ
+REM                                                                        4EEJ
+CHN  4eej.pdb B                                                            4EEJ
+REM                                                                        4EEJ
+REM                .         .         .         .         .               4EEJ
+SEQ  1    TRDRNGTWEMESNENFEGWMKALDIDFALRKIAVRLTQTLVIDQDGDNFK   50          4EEJ
+STR            EEEEEEEEETHHHHHHHH   HHHHHHHH B  EEEEEEETTEEE               4EEJ
+REM                                                                        4EEJ
+REM                .         .         .         .         .               4EEJ
+SEQ  51   VKCTSTFWNYDVDFTVGVEFDEYTKSLDNRHVKALVTWEGDVLVCVQKGE  100          4EEJ
+STR       EEEEETTEEEEEEEETTT EEEEETTTTTEEEEEEEEEETTEEEEEEE                 4EEJ
+REM                                                                        4EEJ
+REM                .         .         .                                   4EEJ
+SEQ  101  KENRGWKKWIEGDKLYLELTCGDQVCRQVFKKK                   133          4EEJ
+STR       TTTTEEEEEEETTEEEEEEEETTEEEEEEEEE                                 4EEJ
+REM                                                                        4EEJ
+REM                                                                        4EEJ
+REM                                                                        4EEJ
+LOC  AlphaHelix   PHE    16 A      LEU     23 A                            4EEJ
+LOC  AlphaHelix   PHE    27 A      VAL     34 A                            4EEJ
+LOC  AlphaHelix   PHE    16 B      LEU     23 B                            4EEJ
+LOC  AlphaHelix   PHE    27 B      VAL     34 B                            4EEJ
+LOC  Strand       GLY     6 A      GLU     11 A                            4EEJ
+LOC  Strand       ASN    13 A      GLU     14 A                            4EEJ
+LOC  Strand       THR    39 A      ASP     45 A                            4EEJ
+LOC  Strand       ASN    48 A      SER     55 A                            4EEJ
+LOC  Strand       TRP    58 A      THR     65 A                            4EEJ
+LOC  Strand       VAL    68 A      THR     74 A                            4EEJ
+LOC  Strand       ARG    80 A      GLU     89 A                            4EEJ
+LOC  Strand       VAL    92 A      LYS     98 A                            4EEJ
+LOC  Strand       GLY   105 A      GLU    111 A                            4EEJ
+LOC  Strand       LYS   114 A      CYS    121 A                            4EEJ
+LOC  Strand       GLN   124 A      LYS    132 A                            4EEJ
+LOC  Strand       GLY     6 B      GLU     14 B                            4EEJ
+LOC  Strand       THR    39 B      ASP     45 B                            4EEJ
+LOC  Strand       ASN    48 B      SER     55 B                            4EEJ
+LOC  Strand       TRP    58 B      THR     65 B                            4EEJ
+LOC  Strand       PHE    70 B      THR     74 B                            4EEJ
+LOC  Strand       ARG    80 B      GLU     89 B                            4EEJ
+LOC  Strand       VAL    92 B      LYS     98 B                            4EEJ
+LOC  Strand       GLY   105 B      GLU    111 B                            4EEJ
+LOC  Strand       LYS   114 B      CYS    121 B                            4EEJ
+LOC  Strand       GLN   124 B      LYS    132 B                            4EEJ
+LOC  TurnIV       ASN    13 A      PHE     16 A                            4EEJ
+LOC  TurnII'      ASP    45 A      ASN     48 A                            4EEJ
+LOC  TurnI        SER    55 A      TRP     58 A                            4EEJ
+LOC  TurnII       THR    65 A      VAL     68 A                            4EEJ
+LOC  TurnI        THR    74 A      LEU     77 A                            4EEJ
+LOC  TurnIV       LYS    75 A      ASP     78 A                            4EEJ
+LOC  TurnIV       SER    76 A      ASN     79 A                            4EEJ
+LOC  TurnIV       TRP    88 A      ASP     91 A                            4EEJ
+LOC  TurnII'      GLU    89 A      VAL     92 A                            4EEJ
+LOC  TurnIV       LYS   101 A      ARG    104 A                            4EEJ
+LOC  TurnII'      GLU   111 A      LYS    114 A                            4EEJ
+LOC  TurnII'      CYS   121 A      GLN    124 A                            4EEJ
+LOC  TurnIV       ASN    13 B      PHE     16 B                            4EEJ
+LOC  TurnII'      ASP    45 B      ASN     48 B                            4EEJ
+LOC  TurnI        SER    55 B      TRP     58 B                            4EEJ
+LOC  TurnII       THR    65 B      VAL     68 B                            4EEJ
+LOC  TurnI        THR    74 B      LEU     77 B                            4EEJ
+LOC  TurnIV       LYS    75 B      ASP     78 B                            4EEJ
+LOC  TurnIV       SER    76 B      ASN     79 B                            4EEJ
+LOC  TurnIV       TRP    88 B      ASP     91 B                            4EEJ
+LOC  TurnII'      GLU    89 B      VAL     92 B                            4EEJ
+LOC  TurnIV       LYS   101 B      ARG    104 B                            4EEJ
+LOC  TurnII'      GLU   111 B      LYS    114 B                            4EEJ
+LOC  TurnII'      CYS   121 B      GLN    124 B                            4EEJ
+LOC  GammaInv     TYR    73 B      LYS     75 B                            4EEJ

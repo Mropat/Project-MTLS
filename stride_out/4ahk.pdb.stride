@@ -1,0 +1,85 @@
+REM  -------------------- Secondary structure summary -------------------  4AHK
+REM                                                                        4AHK
+CHN  4ahk.pdb A                                                            4AHK
+REM                                                                        4AHK
+REM                .         .         .         .         .               4AHK
+SEQ  1    NSRYTHFLTQHYDAKPQGRDDRYCESIMRRRGLTSPCKDINTFIHGNKRS   50          4AHK
+STR        HHHHHHHHHHBTTTTTTT HHHHHHHHHHH  TTTTTTEEEEE   HHH               4AHK
+REM                                                                        4AHK
+REM                .         .         .         .         .               4AHK
+SEQ  51   IEAICENKNGNPHRENLRISKSSFQVTTCKLHGGSPWPPCQYRATAGFRN  100          4AHK
+STR       HHGGGTTTTEEEETTTEEEE B EEEEEEEE     TTTT EEEEEEEE                4AHK
+REM                                                                        4AHK
+REM                .                                                       4AHK
+SEQ  101  VVVACENGLPVHLDQSIFR                                 119          4AHK
+STR        EEEEETTEEEEE  GGG                                               4AHK
+REM                                                                        4AHK
+CHN  4ahk.pdb B                                                            4AHK
+REM                                                                        4AHK
+REM                .         .         .         .         .               4AHK
+SEQ  1    NSRYTHFLTQHYDAKPQGRDDRYCESIMRRRGLTSPCKDINTFIHGNKRS   50          4AHK
+STR       HHHHHHHHHHHBTTTTTTT HHHHHHHHHHH  TTTTTTEEEEE   HHH               4AHK
+REM                                                                        4AHK
+REM                .         .         .         .         .               4AHK
+SEQ  51   IEAICENKNGNPHRENLRISKSSFQVTTCKLHGGSPWPPCQYRATAGFRN  100          4AHK
+STR       HHGGGTTTTEEEETTTEEEE B EEEEEEEE TTT TTTT EEEEEEEE                4AHK
+REM                                                                        4AHK
+REM                .         .                                             4AHK
+SEQ  101  VVVACENGLPVHLDQSIFRR                                120          4AHK
+STR        EEEEETTEEEEE  GGG                                               4AHK
+REM                                                                        4AHK
+REM                                                                        4AHK
+REM                                                                        4AHK
+LOC  AlphaHelix   SER     4 A      HIS     13 A                            4AHK
+LOC  AlphaHelix   ASP    23 A      ARG     33 A                            4AHK
+LOC  AlphaHelix   LYS    50 A      GLU     54 A                            4AHK
+LOC  AlphaHelix   ASN     3 B      HIS     13 B                            4AHK
+LOC  AlphaHelix   ASP    23 B      ARG     33 B                            4AHK
+LOC  AlphaHelix   LYS    50 B      GLU     54 B                            4AHK
+LOC  310Helix     ALA    55 A      CYS     57 A                            4AHK
+LOC  310Helix     SER   118 A      PHE    120 A                            4AHK
+LOC  310Helix     ALA    55 B      CYS     57 B                            4AHK
+LOC  310Helix     SER   118 B      PHE    120 B                            4AHK
+LOC  Strand       ILE    42 A      ILE     46 A                            4AHK
+LOC  Strand       GLY    62 A      HIS     65 A                            4AHK
+LOC  Strand       LEU    69 A      SER     72 A                            4AHK
+LOC  Strand       PHE    76 A      LEU     83 A                            4AHK
+LOC  Strand       TYR    94 A      ARG    101 A                            4AHK
+LOC  Strand       VAL   104 A      GLU    108 A                            4AHK
+LOC  Strand       LEU   111 A      LEU    115 A                            4AHK
+LOC  Strand       ILE    42 B      ILE     46 B                            4AHK
+LOC  Strand       GLY    62 B      HIS     65 B                            4AHK
+LOC  Strand       LEU    69 B      SER     72 B                            4AHK
+LOC  Strand       PHE    76 B      LEU     83 B                            4AHK
+LOC  Strand       TYR    94 B      ARG    101 B                            4AHK
+LOC  Strand       VAL   104 B      GLU    108 B                            4AHK
+LOC  Strand       LEU   111 B      LEU    115 B                            4AHK
+LOC  TurnVIII     ASP    15 A      PRO     18 A                            4AHK
+LOC  TurnIV       PRO    18 A      ARG     21 A                            4AHK
+LOC  TurnIV       THR    36 A      CYS     39 A                            4AHK
+LOC  TurnVIII     LYS    40 A      ASN     43 A                            4AHK
+LOC  TurnIV       GLU    58 A      ASN     61 A                            4AHK
+LOC  TurnIV       ASN    59 A      GLY     62 A                            4AHK
+LOC  TurnIV       HIS    65 A      ASN     68 A                            4AHK
+LOC  TurnIV       ARG    66 A      LEU     69 A                            4AHK
+LOC  TurnIV       TRP    89 A      CYS     92 A                            4AHK
+LOC  TurnIV       CYS   107 A      GLY    110 A                            4AHK
+LOC  TurnI'       GLU   108 A      LEU    111 A                            4AHK
+LOC  TurnIV       ASP    15 B      PRO     18 B                            4AHK
+LOC  TurnIV       PRO    18 B      ARG     21 B                            4AHK
+LOC  TurnIV       THR    36 B      CYS     39 B                            4AHK
+LOC  TurnVIII     LYS    40 B      ASN     43 B                            4AHK
+LOC  TurnIV       GLU    58 B      ASN     61 B                            4AHK
+LOC  TurnIV       ASN    59 B      GLY     62 B                            4AHK
+LOC  TurnII'      HIS    65 B      ASN     68 B                            4AHK
+LOC  TurnIV       ARG    66 B      LEU     69 B                            4AHK
+LOC  TurnIV       TRP    89 B      CYS     92 B                            4AHK
+LOC  TurnIV       CYS   107 B      GLY    110 B                            4AHK
+LOC  TurnI'       GLU   108 B      LEU    111 B                            4AHK
+LOC  GammaClassic  GLY    85 B      SER     87 B                           4AHK
+LOC  Disulfide    CYS    26 A      CYS     81 A            PDB             4AHK
+LOC  Disulfide    CYS    39 A      CYS     92 A            PDB             4AHK
+LOC  Disulfide    CYS    57 A      CYS    107 A            PDB             4AHK
+LOC  Disulfide    CYS    26 B      CYS     81 B            PDB             4AHK
+LOC  Disulfide    CYS    39 B      CYS     92 B            PDB             4AHK
+LOC  Disulfide    CYS    57 B      CYS    107 B            PDB             4AHK

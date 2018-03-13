@@ -1,0 +1,2077 @@
+REM  -------------------- Secondary structure summary -------------------  4BED
+REM                                                                        4BED
+CHN  4bed.pdb A                                                            4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1    ENLVRKSVEHLTQEETLDLQAALRELQMDSSSIGFQKIAAAHGAPASCVH   50          4BED
+STR         EEE BGGG  HHHHHHHHHHHHHHHH  TTTTHHHHHHHHTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  51   KDTSIACCIHGMPTFPHWHRAYVVHMERALQTKRRTSGLPYWDWTEPITQ  100          4BED
+STR       TT      TTTT HHHHHHHHHHHHHHHHHHHH       B TTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  101  LPSLAADPVYIDSQGGKAHTNYWYRGNIDFLDKKTNRAVDDRLFEKVKPG  150          4BED
+STR       T HHHHTTEEETTTTT EEE GGG  EETTTTEE    TTTTTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  151  QHTHLMESVLDALEQDEFCKFEIQFELAHNAIHYLVGGKHDYSMANLEYT  200          4BED
+STR       T  HHHHHHHHHHTT  HHHHHHHHHHHHHHHHHHHHTTTTTTTTTTTTG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  201  AYDPIFFLHHSNVDRIFAIWQRLQELRNKDPKAMDCAQELLHQKMEPFSW  250          4BED
+STR       GG HHHHHHHHHHHHHHHHHHHHHHHH  TTTT TTTHHHHH  TTTGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  251  EDNDIPLTNEHSTPADLFDYCELHYDYDTLNLNGMTPEELKTYLDERSSR  300          4BED
+STR            HHHHHH  GGGGG HHHH EEETTTTBTTB HHHHHHHHHHHHH                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  301  ARAFASFRLKGFGGSANVFVYVCIPDDNDRNDDHCEKAGDFFVLGGPSEM  350          4BED
+STR         EEEEE        EEEEEEEE     TTTT  EEEEEEEEE  TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  351  KWQFYRPYLFDLSDTVHKMGMKLDGHYTVKAELFSVNGTALPDDLLPHPV  400          4BED
+STR          TTTTEEEEHHHHHHHH  TTTT  EEEEEEEETTT B TTTTT   E               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  401  VVHHPEKGFTDPPVKHHQSANLLVRKNINDLTREEVLNLREAFHKFQEDR  450          4BED
+STR       EEE    TTTT         TTEEE  GGG TTTGGGTTTTTTTTTTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  451  SVDGYQATAEYHGLPARCPRPDAKDRYACCVHGMPIFPHWHRLFVTQVED  500          4BED
+STR       TTTTHHHHHHHHTTTTTTTTTTTTTT    TTTT HHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  501  ALVGRGATIGIPYWDWTEPMTHIPGLAGNKTYVDSHGASHTNPFHSSVIA  550          4BED
+STR       HHHHH         TTTTT    TTTTTTTEE TTTTT EETTTTT  TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  551  FEENAPHTKRQIDQRLFKPATFGHHTDLFNQILYAFEQEDYCDFEVQFEI  600          4BED
+STR       TTT   TTTT TTTT    TTTTTT HHHHHHHHHHH   HHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  601  THNTIHAWTGGSEHFSMSSLHYTAFDPLFYFHHSNVDRLWAVWQALQMRR  650          4BED
+STR       HHHHHHHHHHTTTTTTTTTTTTGGG HHHHHHHHHHHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  651  HKPYRAHCAISLEHMHLKPFAFSSPLNNNEKTHANAMPNKIYDYENVLHY  700          4BED
+STR             TTTHHHHH  TTTTTTTTT    HHHHHHTTGGGGG HHHHH E               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  701  TYEDLTFGGISLENIEKMIHENQQEDRIYAGFLLAGIRTSANVDIFIKTT  750          4BED
+STR       EETTTTBTTB HHHHHHHHHHHHH  EEEEEE        EEEEEEEETT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  751  DSVQHKAGTFAVLGGSKEMKWGFDRVFKFDITHVLKDLDLTADGDFEVTV  800          4BED
+STR       TT EEEEEEEEE  TTTT    TTTTEEEEHHHHHHHH  TTTT  EEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  801  DITEVDGTKLASSLIPHASVIREHARVKFDKVPRSRLIRKNVDRLSPEEM  850          4BED
+STR       EEEETTT EE GGG    EEEEE             B   BGGG TTTGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  851  NELRKALALLKEDKSAGGFQQLGAFHGEPKWCPSPEASKKFACCVHGMSV  900          4BED
+STR       GGGTTTTTGGGG  TTTTTTGGGGGGTTTTTTTTTTTTTT    TTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  901  FPHWHRLLTVQSENALRRHGYDGALPYWDWTSPLNHLPELADHEKYVDPE  950          4BED
+STR       GGGGGGGGGGGGGGGTTTTT      B TTTTTBTTTTTTTTT EEETTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  951  DGVEKHNPWFDGHIDTVDKTTTRSVQNKLFEQPEFGHYTSIAKQVLLALE 1000          4BED
+STR       TT EEETTTTT EETTTTEE     TTTTB  TTBTTBTTTTTGGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1001 QDNFCDFEIQYEIAHNYIHALVGGAQPYGMASLRYTAFDPLFYLHHSNTD 1050          4BED
+STR         TTTGGGGGGGGGGGGGTTTTTTTTTTTTTTTTTGGG GGGG GGGTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1051 RIWAIWQALQKYRGKPYNVANCAVTSMREPLQPFGLSANINTDHVTKEHS 1100          4BED
+STR       TTGGG  HHHHHH  TTTT TTTGGGGG  TTTGGGTTTTTT HHHHHH                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1101 VPFNVFDYKTNFNYEYDTLEFNGLSISQLNKKLEAIKSQDRFFAGFLLSG 1150          4BED
+STR       TTTTTTTHHHHTTB     TBTTB HHHHHGGGGGGGG  EEEEEE   T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1151 FKKSSLVKFNICTDSSNCHPAGEFYLLGDENEMPWAYDRVFKYDITEKLH 1200          4BED
+STR       TTT EEEEEEEETTTT EEEEEEEEE  TTTT    TTTTEEEE GGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1201 DLKLHAEDHFYIDYEVFDLKPASLGKDLFKQPSVIHEPRIGHHEGEVYQA 1250          4BED
+STR       TTT TTTT  EEEEEEEETTT EETTTTT   EEEEE TTTTTTTTTT G               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1251 EVTSANRIRKNIENLSLGELESLRAAFLEIENDGTYESIAKFHGSPGLCQ 1300          4BED
+STR       GG      B BGGG  HHHHHHHHHHHHHHH TTTTGGGGGGGTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1301 LNGNPISCCVHGMPTFPHWHRLYVVVVENALLKKGSSVAVPYWDWTKRIE 1350          4BED
+STR       TTT      TTTTTTGGG GGGGGGGGGGGGTTT       B TTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1351 HLPHLISDATYYNSRQHHYETNPFHHGKITHENEITTRDPKDSLFHSDYF 1400          4BED
+STR       TT HHHHTTEE TTTTT  EETTTTT EETTTTEE    TTTTTT  HHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1401 YEQVLYALEQDNFCDFEIQLEILHNALHSLLGGKGKYSMSNLDYAAFDPV 1450          4BED
+STR       HHHHH GGG  TTTTTTTGGGGGG  HHHHHHTTT  TTTTTTTGGG HH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1451 FFLHHATTDRIWAIWQDLQRFRKRPYREANCAIQLMHTPLQPFDKSDNND 1500          4BED
+STR       HHHHTTTTTTTGGGGGGGGGGG  TTTT TTTGGGTTT TTTTTTTTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1501 EATKTHATPHDGFEYQNSFGYAYDNLELNHYSIPQLDHMLQERKRHDRVF 1550          4BED
+STR        GGGTTTTGGGGTTTTTTTT  BTTTTBTTB HHHHHHHHHHHHH   EE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1551 AGFLLHNIGTSADGHVFVCLPTGEHTKDCSHEAGMFSILGGQTEMSFVFD 1600          4BED
+STR       EEE        EEEE       TTTT         EEE  TTTT    TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1601 RLYKLDITKALKKNGVHLQGDFDLEIEITAVNGSHLDSHVIHSPTILFEA 1650          4BED
+STR       TTEEEEHHHHHHHH  TTTT      EEEETTT B TTTTT   EEEE                 4BED
+REM                                                                        4BED
+REM                .                                                       4BED
+SEQ  1651 GTDSAHTDDGHTEP                                     1664          4BED
+STR       TTTT  TTTT                                                       4BED
+REM                                                                        4BED
+CHN  4bed.pdb B                                                            4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1    VMIRKDITQLDKRQQLSLVKALESMKADHSSDGFQAIASFHALPPLCPSP   50          4BED
+STR        EEE BGGG TTTGGGTTTTTTTGGGG  TTTT GGGGGG TTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  51   AASKRFACCVHGMATFPQWHRLYTVQFQDSLRKHGAVVGLPYWDWTLPRS  100          4BED
+STR       TTTTT TTTTTTTTTGGGGGGGGGGGGGGGGGGG       B TTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  101  ELPELLTVSTIHDPETGRDIPNPFIGSKIEFEGENVHTKRDINRDRLFQG  150          4BED
+STR       TTTTTTTTTEE TTTTT  EE GGG  BTTTTT   B    TTTTGGGTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  151  STKTHHNWFIEQALLALEQTNYCDFEVQFEIMHNGVHTWVGGKEPYGIGH  200          4BED
+STR       TTTTTTTTTTTGGGGGGG  TTTGGGGGGGGGGGGGGGTTTTTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  201  LHYASYDPLFYIHHSQTDRIWAIWQSLQRFRGLSGSEANCAVNLMKTPLK  250          4BED
+STR       TTTGGG GGGGGGGG GGGGGGGGGGGGGTTT TTTT TTTGGGGG  TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  251  PFSFGAPYNLNDHTHDFSKPEDTFDYQKFGYIYDTLEFAGWSIRGIDHIV  300          4BED
+STR       TTTTTTTTTTTTTTTTTT GGGTTTGGG  EEETTTTBTTB  GGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  301  RNRQEHSRVFAGFLLEGFGTSATVDFQVCRTAGDCEDAGYFTVLGGEKEM  350          4BED
+STR       GGGGG  EEEEEE    TTTTEEEEEEEETTTT EEEEEEEEE  TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  351  PWAFDRLYKYDITETLDKMNLRHDEIFQIEVTITSYDGTVLDSGLIPTPS  400          4BED
+STR              EEEETTTGGGTTT TTTT  EEEEEEEETTT EE TTTT   E               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  401  IIYDPAHHDISSHHLSLNKVRHDLSTLSERDIGSLKYALSSLQADTSADG  450          4BED
+STR       EEEE TTTT          EE BGGG TTTGGGGGGTTTGGGGG  TTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  451  FAAIASFHGLPAKCNDSHNNEVACCIHGMPTFPHWHRLYTLQFEQALRRH  500          4BED
+STR       TTGGGGGGTTTTTTTT TTTT    TTTTTTGGG GGGGGGGTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  501  GSSVAVPYWDWTKPIHNIPHLFTDKEYYDVWRNKVMPNPFARGYVPSHDT  550          4BED
+STR       T      B TTTTTTTTTTTTTTTTEE  TTTT  EE GGG  EETTTTE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  551  YTVRDVQEGLFHLTSTGEHSALLNQALLALEQHDYCDFAVQFEVMHNTIH  600          4BED
+STR       E      GGG   TTTTTTTTTTTGGGGGGTT TTTGGGTTGGGGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  601  YLVGGPQVYSLSSLHYASYDPIFFIHHSFVDKVWAVWQALQEKRGLPSDR  650          4BED
+STR       TTTTTTTTTTTTTTTTGGG GGGTTGGGTTTTGGGGG GGGTTTT TTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  651  ADCAVSLMTQNMRPFHYEINHNQFTKKHAVPNDVFKYELLGYRYDNLEIG  700          4BED
+STR           GGGGG  TTTTTTTTTT  GGGTTTTGGGTTTGGGG  EETTTTBT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  701  GMNLHEIEKEIKDKQHHVRVFAGFLLHGIRTSADVQFQICKTSEDCHHGG  750          4BED
+STR       TB  GGGG HHHHHHH   EEEEE    TTTTEEEEEEE       EEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  751  QIFVLGGTKEMAWAYNRLFKYDITHALHDAHITPEDVFHPSEPFFIKVSV  800          4BED
+STR       EEEE  TTTT    TTTTEEEE  HHHHHH  TTTT  TTTTTTT  EEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  801  TAVNGTVLPASILHAPTIIYEPGLDHHEDHHSSSMAGHGVRKEINTLTTA  850          4BED
+STR       EETTT B TTTTT   EEEE           TTTT   EEE BTTTT HH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  851  EVDNLKDAMRAVMADHGPNGYQAIAAFHGNPPMCPMPDGKNYSCCTHGMA  900          4BED
+STR       HHHHHHHHHHHHHH  TTTTHHHHHHHHTTTT EETTTT EE   TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  901  TFPHWHRLYTKQMEDALTAHGARVGLPYWDGTTAFTALPTFVTDEEDNPF  950          4BED
+STR       HHHHHHHHHHHHHHHHHHHH       B TTTTT     HHHH TTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  951  HHGHIDYLGVDTTRSPRDKLFNDPERGSESFFYRQVLLALEQTDFCQFEV 1000          4BED
+STR       TT EETTTTEE      GGG   TTTTTTTHHHHHHHHHHH   HHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1001 QFEITHNAIHSWTGGLTPYGMSTLEYTTYDPLFWLHHANTDRIWAIWQAL 1050          4BED
+STR       HHHHHHHHHHHHHHTTTTTTTTTTTTGGG HHHHHHHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1051 QEYRGLPYDHANCEIQAMKRPLRPFSDPINHNAFTHSNAKPTDVFEYSRF 1100          4BED
+STR       HHHH  TTTT TTTHHHHH  TTTTTTTTT  HHHHHH  HHHHH  GGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1101 NFQYDNLRFHGMTIKKLEHELEKQKEEDRTFAAFLLHGIKKSADVSFDVC 1150          4BED
+STR        EEETTTTBTTB HHHHHHHHHHHHH  EEEEEE  B     EEEEEEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1151 NHDGECHFAGTFAILGGEHEMPWSFDRLFRYDITQVLKQMHLEYDSDFTF 1200          4BED
+STR       TTTT EEEEEEEEE  TTTT   BTTTTEEEEHHHHHHHH  TTTT  EE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1201 HMRIIDTSGKQLPSDLIKMPTVEHSPGGKHHEKHHEDHHEDILVRKNIHS 1250          4BED
+STR       EEEEEETTT EE GGG    EEEEE   TTTT      TTTTEEE BTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1251 LSHHEAEELRDALYKLQNDESHGGYEHIAGFHGYPNLCPEKGDEKYPCCV 1300          4BED
+STR       T HHHHHHHHHHHHHHHH  TTTTHHHHHHHHTTTT  TTTTTTT    T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1301 HGMSIFPHWHRLHTIQFERALKKHGSHLGIPYWDWTQTISSLPTFFADSG 1350          4BED
+STR       TTT HHHHHHHHHHHHHHHHHHHH       B TTTT      HHHHTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1351 NNNPFFKYHIRSINQDTVRDVNEAIFQQTKFGEFSSIFYLALQALEEDNY 1400          4BED
+STR       TTTTTTTEETTTTT EE            TTTTT  HHHHHHHHHH   H               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1401 CDFEVQYEILHNEVHALIGGAEKYSMSTLEYSAFDPYFMIHHASLDKIWI 1450          4BED
+STR       HHHHHHHHHHHHHHHHHHHTTTTTTTTTHHHHH  HHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1451 IWQELQKRRVKPAHAGSCAGDIMHVPLHPFNYESVNNDDFTRENSLPNAV 1500          4BED
+STR       HHHHHHHHH       TTTTGGGTT TTTTTTTTTTT HHHHHH  HHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1501 VDSHRFNYKYDNLNLHGHNIEELEEVLRSLRLKSRVFAGFVLSGIRTTAV 1550          4BED
+STR       HTTTTTTEEE   TBTTB HHHHHHHHHHHHH  EEEEEE  B     EE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1551 VKVYIKSGTDSDDEYAGSFVILGGAKEMPWAYERLYRFDITETVHNLNLT 1600          4BED
+STR       EEEE  TTTTTT TEEEEEEE  TTTT   BTTBTEEEEHHHHHHHH  T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1601 DDHVKFRFDLKKYDHTELDASVLPAPIIVRRPNNAVFDIIEIPIGKDVNL 1650          4BED
+STR       TTT     EEEETTTTB  TTTT   EEEEE TTTTTTTEE   TTTT                 4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1651 PPKVVVKRGTKIMFMSVDEAVTTPMLNLGSYTAMFKCKVPPFSFHAFELG 1700          4BED
+STR          B  TTTTEE   TTTTTTT   TTTT  HHHHH   TTTTTTT  TT               4BED
+REM                                                                        4BED
+REM                .         .         .                                   4BED
+SEQ  1701 KMYSVESGDYFMTASTTELCNDNNLRIHVHVDDE                 1734          4BED
+STR       TT     EE    TTTHHHHHH TTT   EE                                  4BED
+REM                                                                        4BED
+CHN  4bed.pdb C                                                            4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1    ENLVRKSVEHLTQEETLDLQAALRELQMDSSSIGFQKIAAAHGAPASCVH   50          4BED
+STR         EEE BGGG  HHHHHHHHHHHHHHHH  TTTTHHHHHTTTTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  51   KDTSIACCIHGMPTFPHWHRAYVVHMERALQTKRRTSGLPYWDWTEPITQ  100          4BED
+STR       TT      TTTTTTGGG  HHHHHHHHHHHHHH       B TTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  101  LPSLAADPVYIDSQGGKAHTNYWYRGNIDFLDKKTNRAVDDRLFEKVKPG  150          4BED
+STR       T HHHHTTEEETTTTT EEE GGG  EETTTTEE    TTTTTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  151  QHTHLMESVLDALEQDEFCKFEIQFELAHNAIHYLVGGKHDYSMANLEYT  200          4BED
+STR       T  HHHHHHHHHHTT TTTTTTTHHHHHHHHHHHHHHTTTTTTTTTTTTG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  201  AYDPIFFLHHSNVDRIFAIWQRLQELRNKDPKAMDCAQELLHQKMEPFSW  250          4BED
+STR       GG HHHHHHHHHHHHHHHHHHHHHHHH  TTTT TTTTGGGG  TTTGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  251  EDNDIPLTNEHSTPADLFDYCELHYDYDTLNLNGMTPEELKTYLDERSSR  300          4BED
+STR            GGGGTTT GGGGG  GGG EEETTTTBTTB HHHHHHHHHHHHH                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  301  ARAFASFRLKGFGGSANVFVYVCIPDDNDRNDDHCEKAGDFFVLGGPSEM  350          4BED
+STR         BEEB         EEEEEEEE     TTTT  EEEEEEEEE  TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  351  KWQFYRPYLFDLSDTVHKMGMKLDGHYTVKAELFSVNGTALPDDLLPHPV  400          4BED
+STR          TTTT  EEHHHHHHHH  TTTT  EEEEEEEETTT   TTTTT   B               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  401  VVHHPEKGFTDPPVKHHQSANLLVRKNINDLTREEVLNLREAFHKFQEDR  450          4BED
+STR         B    TTTT         TTEEE BGGG TTTGGGTTTTTTTGGGG                 4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  451  SVDGYQATAEYHGLPARCPRPDAKDRYACCVHGMPIFPHWHRLFVTQVED  500          4BED
+STR       TTTTGGGGGGGGTTTTTTTTTTTTTT    TTTTTTGGG GGGGGGGTTG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  501  ALVGRGATIGIPYWDWTEPMTHIPGLAGNKTYVDSHGASHTNPFHSSVIA  550          4BED
+STR       GGGTTT      B TTTTT    TTTTTTTEE TTTTT EETTTTT  TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  551  FEENAPHTKRQIDQRLFKPATFGHHTDLFNQILYAFEQEDYCDFEVQFEI  600          4BED
+STR       TTT   TTTT TTTT    TTTTTTTTTTTTGGGGGG  TTTGGG GGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  601  THNTIHAWTGGSEHFSMSSLHYTAFDPLFYFHHSNVDRLWAVWQALQMRR  650          4BED
+STR       GGGGGTTTTTTTTTTTTTTTTTGGG GGGG GGG GGGTTTTTTTGGGTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  651  HKPYRAHCAISLEHMHLKPFAFSSPLNNNEKTHANAMPNKIYDYENVLHY  700          4BED
+STR       T     TTTGGGGG  TTTTTTTTT   TTTGGGGTTGGGGGTTTTTTTE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  701  TYEDLTFGGISLENIEKMIHENQQEDRIYAGFLLAGIRTSANVDIFIKTT  750          4BED
+STR       EETTTTBTTB  GGGGGGGGGGGG  EEEEEE        EEEEEEEETT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  751  DSVQHKAGTFAVLGGSKEMKWGFDRVFKFDITHVLKDLDLTADGDFEVTV  800          4BED
+STR       TT EEEEEEEEE  TTTT    TTTTEEEETTTGGGTTT TTTT  EEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  801  DITEVDGTKLASSLIPHASVIREHARVKFDKVPRSRLIRKNVDRLSPEEM  850          4BED
+STR       EEEETTT EE GGG    EEEEE             EEE BGGG TTTGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  851  NELRKALALLKEDKSAGGFQQLGAFHGEPKWCPSPEASKKFACCVHGMSV  900          4BED
+STR       GGGTTTTTGGGG  TTTTTTGGGGGGTTTTTTTTTTTTTT    TTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  901  FPHWHRLLTVQSENALRRHGYDGALPYWDWTSPLNHLPELADHEKYVDPE  950          4BED
+STR       GGGGGGGGGGGGGGGGGGG       B TTTTTBTTTTTTTTT EEETTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  951  DGVEKHNPWFDGHIDTVDKTTTRSVQNKLFEQPEFGHYTSIAKQVLLALE 1000          4BED
+STR       TT EEETTTTT EETTTTEE     TTTTB  TTBTTBTTTTTGGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1001 QDNFCDFEIQYEIAHNYIHALVGGAQPYGMASLRYTAFDPLFYLHHSNTD 1050          4BED
+STR         TTTGGGGGGGGGGGGGTTTTTTTTTTTTTTTTTGGG GGGG GGGTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1051 RIWAIWQALQKYRGKPYNVANCAVTSMREPLQPFGLSANINTDHVTKEHS 1100          4BED
+STR       TTGGGGTTTGGGG  TTTT TTTGGGGG  TTTGGGTTTTTT  GGGTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1101 VPFNVFDYKTNFNYEYDTLEFNGLSISQLNKKLEAIKSQDRFFAGFLLSG 1150          4BED
+STR        GGGGTTTTTTTTEEETTTTBTTB  GGGGGGGGGGGG  EEEEEE   T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1151 FKKSSLVKFNICTDSSNCHPAGEFYLLGDENEMPWAYDRVFKYDITEKLH 1200          4BED
+STR       TTT EEEEEEEETTTT EEEEEEEEE  TTTT    TTTTEEEE GGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1201 DLKLHAEDHFYIDYEVFDLKPASLGKDLFKQPSVIHEPRIGHHEGEVYQA 1250          4BED
+STR       TTT TTTT  EEEEEEEETTT EETTTTT   EEEEE TTTTTTTTTT G               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1251 EVTSANRIRKNIENLSLGELESLRAAFLEIENDGTYESIAKFHGSPGLCQ 1300          4BED
+STR       GG TTTEEE BGGG TTTGGGTTTTTTTTTTTTTTTGGGGGGGTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1301 LNGNPISCCVHGMPTFPHWHRLYVVVVENALLKKGSSVAVPYWDWTKRIE 1350          4BED
+STR       TTT      TTTTTTGGG GGGGGGGTTGGGTTTT      B TTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1351 HLPHLISDATYYNSRQHHYETNPFHHGKITHENEITTRDPKDSLFHSDYF 1400          4BED
+STR       TTTTTTTTTEE TTTTT  EETTTTT EETTTTEE    TTTTTT TTTG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1401 YEQVLYALEQDNFCDFEIQLEILHNALHSLLGGKGKYSMSNLDYAAFDPV 1450          4BED
+STR       GGTTTGGGG  TTTTTTTGGGGGGGGGGTTTTTTTTTTTTTTTTGGG GG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1451 FFLHHATTDRIWAIWQDLQRFRKRPYREANCAIQLMHTPLQPFDKSDNND 1500          4BED
+STR       GTTGGG GGGGGGGGGGGGGGG  TTTT TTTGGGTTT TTTTTTTTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1501 EATKTHATPHDGFEYQNSFGYAYDNLELNHYSIPQLDHMLQERKRHDRVF 1550          4BED
+STR        GGGTTTTGGGGTTTTTTTTEEETTTTBTTB GGGGGGGGGGGG   EEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1551 AGFLLHNIGTSADGHVFVCLPTGEHTKDCSHEAGMFSILGGQTEMSFVFD 1600          4BED
+STR       EEE        EEEEEEEE   TTTT       EEEEE  TTTT    TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1601 RLYKLDITKALKKNGVHLQGDFDLEIEITAVNGSHLDSHVIHSPTILFEA 1650          4BED
+STR       TTEEEETTTTTTTTT TTTT  EEEEEEEETTT B TTTTT   EEBEE                4BED
+REM                                                                        4BED
+REM                .                                                       4BED
+SEQ  1651 GTDSAHTDDGHTEP                                     1664          4BED
+STR       TTTT  TTTT                                                       4BED
+REM                                                                        4BED
+CHN  4bed.pdb D                                                            4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1    VMIRKDITQLDKRQQLSLVKALESMKADHSSDGFQAIASFHALPPLCPSP   50          4BED
+STR        EEE BGGG TTTGGGTTTTTTTGGGG  TTTT GGGGGG TTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  51   AASKRFACCVHGMATFPQWHRLYTVQFQDSLRKHGAVVGLPYWDWTLPRS  100          4BED
+STR       TTTTT TTTTTTTTTGGGGGGGGGGGGGGGGGGG       B TTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  101  ELPELLTVSTIHDPETGRDIPNPFIGSKIEFEGENVHTKRDINRDRLFQG  150          4BED
+STR       TTTTTTTTTEE TTTTT  EE GGG  BTTTTT   B    TTTTGGGTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  151  STKTHHNWFIEQALLALEQTNYCDFEVQFEIMHNGVHTWVGGKEPYGIGH  200          4BED
+STR       TTTTTTTTTTTGGGGGGG  TTTGGGGGGGGGGGGGGGTTTTTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  201  LHYASYDPLFYIHHSQTDRIWAIWQSLQRFRGLSGSEANCAVNLMKTPLK  250          4BED
+STR       TTTGGG GGGGGGGG GGGGGGGGGGGGGTTT TTTT TBTGGGGG  TT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  251  PFSFGAPYNLNDHTHDFSKPEDTFDYQKFGYIYDTLEFAGWSIRGIDHIV  300          4BED
+STR       TTTTTTTTTTTTTTTTTT GGGTTTGGG  EEETTTTBTTB  GGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  301  RNRQEHSRVFAGFLLEGFGTSATVDFQVCRTAGDCEDAGYFTVLGGEKEM  350          4BED
+STR       GGGGG  EEEEEE    TTTTEEEEEEEETTTT EEEEEEEEE  TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  351  PWAFDRLYKYDITETLDKMNLRHDEIFQIEVTITSYDGTVLDSGLIPTPS  400          4BED
+STR              EEEETTTGGGTTT TTTT  EEEEEEEETTT EE TTTT   E               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  401  IIYDPAHHDISSHHLSLNKVRHDLSTLSERDIGSLKYALSSLQADTSADG  450          4BED
+STR       EEEE TTTT          EE BGGG TTTGGGGGGTTTGGGGG  TTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  451  FAAIASFHGLPAKCNDSHNNEVACCIHGMPTFPHWHRLYTLQFEQALRRH  500          4BED
+STR       TTGGGGGGTTTTTTTT TTTT    TTTTTTGGG GGGGGGGTTTTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  501  GSSVAVPYWDWTKPIHNIPHLFTDKEYYDVWRNKVMPNPFARGYVPSHDT  550          4BED
+STR       T      B TTTTTTTTTTTTTTTTEE  TTTT  EE GGG  EETTTTE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  551  YTVRDVQEGLFHLTSTGEHSALLNQALLALEQHDYCDFAVQFEVMHNTIH  600          4BED
+STR       E      GGG   TTTTTTTTTTTGGGGGGTT TTTGGGTTGGGGGGGGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  601  YLVGGPQVYSLSSLHYASYDPIFFIHHSFVDKVWAVWQALQEKRGLPSDR  650          4BED
+STR       TTTTTTTTTTTTTTTTGGG GGGTTGGGTTTTGGGGG GGGTTTT TTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  651  ADCAVSLMTQNMRPFHYEINHNQFTKKHAVPNDVFKYELLGYRYDNLEIG  700          4BED
+STR           GGGGG  TTTTTTTTTT  GGGTTTTGGGTTTGGGG  EETTTTBT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  701  GMNLHEIEKEIKDKQHHVRVFAGFLLHGIRTSADVQFQICKTSEDCHHGG  750          4BED
+STR       TB  GGGGGGGGGGGG  EEEEEE    TTTTEEEEEEEETTTT EEEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  751  QIFVLGGTKEMAWAYNRLFKYDITHALHDAHITPEDVFHPSEPFFIKVSV  800          4BED
+STR       EEEE  TTTT    TTTTEEEE GGGGGGG  TTTT  TTTTTTT  EEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  801  TAVNGTVLPASILHAPTIIYEPGLDHHEDHHSSSMAGHGVRKEINTLTTA  850          4BED
+STR       EETTT B TTTTT   EEEEE                 EEE BTTTT HH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  851  EVDNLKDAMRAVMADHGPNGYQAIAAFHGNPPMCPMPDGKNYSCCTHGMA  900          4BED
+STR       HHHHHHHHHHHHHH  TTTTHHHHHHHHTTTT EETTTT EE   TTTT                4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  901  TFPHWHRLYTKQMEDALTAHGARVGLPYWDGTTAFTALPTFVTDEEDNPF  950          4BED
+STR       HHHHHHHHHHHHHHHHHHHH       B TTTTT     HHHH TTTTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  951  HHGHIDYLGVDTTRSPRDKLFNDPERGSESFFYRQVLLALEQTDFCQFEV 1000          4BED
+STR       TT EETTTTEE      GGG   TTTTTTTHHHHHHHHHHH   HHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1001 QFEITHNAIHSWTGGLTPYGMSTLEYTTYDPLFWLHHANTDRIWAIWQAL 1050          4BED
+STR       HHHHHHHHHHHHHHTTTTTTTTTTTTGGG HHHHHHHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1051 QEYRGLPYDHANCEIQAMKRPLRPFSDPINHNAFTHSNAKPTDVFEYSRF 1100          4BED
+STR       HTTT  TTTT TTTHHHHH  TTTTTTTTT  HHHHHH  HHHHH  GGG               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1101 NFQYDNLRFHGMTIKKLEHELEKQKEEDRTFAAFLLHGIKKSADVSFDVC 1150          4BED
+STR        EEETTTTBTTBTTTTHHHHHHHHHH  EEEEEE  B     EEEEEEEE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1151 NHDGECHFAGTFAILGGEHEMPWSFDRLFRYDITQVLKQMHLEYDSDFTF 1200          4BED
+STR       TTTT EEEEEEEEE  TTTT   BTTTTEEEEHHHHHHHH  TTTT  EE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1201 HMRIIDTSGKQLPSDLIKMPTVEHSPGGKHHEKHHEDHHEDILVRKNIHS 1250          4BED
+STR       EEEEEETTT EE GGG    EEEEE      TTT     TTTEEE BTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1251 LSHHEAEELRDALYKLQNDESHGGYEHIAGFHGYPNLCPEKGDEKYPCCV 1300          4BED
+STR       T HHHHHHHHTTTTTTTTT TTTTHHHHHHHHTTTT  TTTTTTT    T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1301 HGMSIFPHWHRLHTIQFERALKKHGSHLGIPYWDWTQTISSLPTFFADSG 1350          4BED
+STR       TTT HHHHHHHHHHHHHHHHHH         B TTTT      HHHHTTT               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1351 NNNPFFKYHIRSINQDTVRDVNEAIFQQTKFGEFSSIFYLALQALEEDNY 1400          4BED
+STR       TTTTTTTEETTTT  EE            TTTTT  HHHHHHHHHH   H               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1401 CDFEVQYEILHNEVHALIGGAEKYSMSTLEYSAFDPYFMIHHASLDKIWI 1450          4BED
+STR       HHHHHHHHHHHHHHHHHHHTTTTTTTTTHHHHH  HHHHHHHHHHHHHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1451 IWQELQKRRVKPAHAGSCAGDIMHVPLHPFNYESVNNDDFTRENSLPNAV 1500          4BED
+STR       HHHHHHHHH       TTTTGGGTT TTTTTTTTTTT HHHHHH  HHHH               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1501 VDSHRFNYKYDNLNLHGHNIEELEEVLRSLRLKSRVFAGFVLSGIRTTAV 1550          4BED
+STR       HTTTTTTEEE   TBTTB HHHHHHHHHHHHH  EEEEEE  B     EE               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1551 VKVYIKSGTDSDDEYAGSFVILGGAKEMPWAYERLYRFDITETVHNLNLT 1600          4BED
+STR       EEEE  TTTTTT TEEEEEEE  TTTT   BTTBTEEEEHHHHHHHH  T               4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1601 DDHVKFRFDLKKYDHTELDASVLPAPIIVRRPNNAVFDIIEIPIGKDVNL 1650          4BED
+STR       TTT     EEEETTTTB  TTTT   EEEEE TTTTTTTEE   TTTT                 4BED
+REM                                                                        4BED
+REM                .         .         .         .         .               4BED
+SEQ  1651 PPKVVVKRGTKIMFMSVDEAVTTPMLNLGSYTAMFKCKVPPFSFHAFELG 1700          4BED
+STR          B  TTTTEE   TTTTTTT   TTTT  HHHHH   TTTTTTT  TT               4BED
+REM                                                                        4BED
+REM                .         .         .                                   4BED
+SEQ  1701 KMYSVESGDYFMTASTTELCNDNNLRIHVHVDDE                 1734          4BED
+STR       TT     EE    TTTHHHHHH TTT   EE                                  4BED
+REM                                                                        4BED
+REM                                                                        4BED
+REM                                                                        4BED
+LOC  AlphaHelix   GLN    13 A      MET     28 A                            4BED
+LOC  AlphaHelix   PHE    35 A      HIS     42 A                            4BED
+LOC  AlphaHelix   THR    64 A      LYS     83 A                            4BED
+LOC  AlphaHelix   SER   103 A      ALA    106 A                            4BED
+LOC  AlphaHelix   HIS   154 A      LEU    163 A                            4BED
+LOC  AlphaHelix   PHE   168 A      GLY    187 A                            4BED
+LOC  AlphaHelix   PRO   204 A      ARG    227 A                            4BED
+LOC  AlphaHelix   GLN   238 A      HIS    242 A                            4BED
+LOC  AlphaHelix   PRO   256 A      HIS    261 A                            4BED
+LOC  AlphaHelix   TYR   270 A      LEU    273 A                            4BED
+LOC  AlphaHelix   PRO   287 A      SER    299 A                            4BED
+LOC  AlphaHelix   LEU   362 A      MET    369 A                            4BED
+LOC  AlphaHelix   TYR   455 A      HIS    462 A                            4BED
+LOC  AlphaHelix   ILE   486 A      ARG    505 A                            4BED
+LOC  AlphaHelix   ASP   577 A      GLU    587 A                            4BED
+LOC  AlphaHelix   TYR   591 A      GLY    610 A                            4BED
+LOC  AlphaHelix   PRO   627 A      ARG    650 A                            4BED
+LOC  AlphaHelix   ILE   660 A      HIS    664 A                            4BED
+LOC  AlphaHelix   GLU   680 A      ASN    685 A                            4BED
+LOC  AlphaHelix   TYR   694 A      LEU    698 A                            4BED
+LOC  AlphaHelix   LEU   712 A      GLN    724 A                            4BED
+LOC  AlphaHelix   ILE   781 A      LEU    788 A                            4BED
+LOC  AlphaHelix   ALA  1058 A      ARG   1063 A                            4BED
+LOC  AlphaHelix   HIS  1094 A      HIS   1099 A                            4BED
+LOC  AlphaHelix   TYR  1108 A      ASN   1111 A                            4BED
+LOC  AlphaHelix   ILE  1126 A      ASN   1130 A                            4BED
+LOC  AlphaHelix   LEU  1267 A      GLU   1281 A                            4BED
+LOC  AlphaHelix   HIS  1354 A      SER   1357 A                            4BED
+LOC  AlphaHelix   ASP  1398 A      LEU   1405 A                            4BED
+LOC  AlphaHelix   LEU  1427 A      GLY   1432 A                            4BED
+LOC  AlphaHelix   PRO  1449 A      HIS   1454 A                            4BED
+LOC  AlphaHelix   ILE  1533 A      ARG   1545 A                            4BED
+LOC  AlphaHelix   ILE  1607 A      ASN   1614 A                            4BED
+LOC  AlphaHelix   GLU  2374 B      HIS   2380 B                            4BED
+LOC  AlphaHelix   HIS  2439 B      ALA   2444 B                            4BED
+LOC  AlphaHelix   THR  2513 B      ALA   2528 B                            4BED
+LOC  AlphaHelix   TYR  2535 B      HIS   2542 B                            4BED
+LOC  AlphaHelix   THR  2565 B      HIS   2584 B                            4BED
+LOC  AlphaHelix   THR  2604 B      THR   2607 B                            4BED
+LOC  AlphaHelix   PHE  2645 B      GLU   2655 B                            4BED
+LOC  AlphaHelix   PHE  2659 B      GLY   2678 B                            4BED
+LOC  AlphaHelix   PRO  2695 B      ARG   2718 B                            4BED
+LOC  AlphaHelix   ILE  2729 B      LYS   2733 B                            4BED
+LOC  AlphaHelix   ALA  2747 B      ASN   2752 B                            4BED
+LOC  AlphaHelix   PRO  2755 B      PHE   2759 B                            4BED
+LOC  AlphaHelix   ILE  2778 B      GLU   2790 B                            4BED
+LOC  AlphaHelix   ILE  2847 B      MET   2854 B                            4BED
+LOC  AlphaHelix   HIS  2917 B      ASN   2932 B                            4BED
+LOC  AlphaHelix   TYR  2939 B      HIS   2946 B                            4BED
+LOC  AlphaHelix   ILE  2969 B      HIS   2988 B                            4BED
+LOC  AlphaHelix   THR  3008 B      ALA   3011 B                            4BED
+LOC  AlphaHelix   ILE  3051 B      GLU   3060 B                            4BED
+LOC  AlphaHelix   TYR  3064 B      GLY   3083 B                            4BED
+LOC  AlphaHelix   LEU  3093 B      ALA   3097 B                            4BED
+LOC  AlphaHelix   PRO  3100 B      ARG   3123 B                            4BED
+LOC  AlphaHelix   ASP  3153 B      ASN   3158 B                            4BED
+LOC  AlphaHelix   PRO  3161 B      VAL   3165 B                            4BED
+LOC  AlphaHelix   ILE  3184 B      LEU   3196 B                            4BED
+LOC  AlphaHelix   ILE  3254 B      LEU   3261 B                            4BED
+LOC  AlphaHelix   THR  3346 B      LYS   3350 B                            4BED
+LOC  AlphaHelix   THR  3381 B      ASP   3386 B                            4BED
+LOC  AlphaHelix   GLN    13 C      MET     28 C                            4BED
+LOC  AlphaHelix   PHE    35 C      ALA     39 C                            4BED
+LOC  AlphaHelix   ARG    70 C      LYS     83 C                            4BED
+LOC  AlphaHelix   SER   103 C      ALA    106 C                            4BED
+LOC  AlphaHelix   HIS   154 C      LEU    163 C                            4BED
+LOC  AlphaHelix   GLN   174 C      GLY    187 C                            4BED
+LOC  AlphaHelix   PRO   204 C      ARG    227 C                            4BED
+LOC  AlphaHelix   PRO   287 C      SER    299 C                            4BED
+LOC  AlphaHelix   LEU   362 C      MET    369 C                            4BED
+LOC  AlphaHelix   THR  2513 D      ALA   2528 D                            4BED
+LOC  AlphaHelix   TYR  2535 D      HIS   2542 D                            4BED
+LOC  AlphaHelix   THR  2565 D      HIS   2584 D                            4BED
+LOC  AlphaHelix   THR  2604 D      THR   2607 D                            4BED
+LOC  AlphaHelix   PHE  2645 D      GLU   2655 D                            4BED
+LOC  AlphaHelix   PHE  2659 D      GLY   2678 D                            4BED
+LOC  AlphaHelix   PRO  2695 D      GLN   2715 D                            4BED
+LOC  AlphaHelix   ILE  2729 D      LYS   2733 D                            4BED
+LOC  AlphaHelix   ALA  2747 D      ASN   2752 D                            4BED
+LOC  AlphaHelix   PRO  2755 D      PHE   2759 D                            4BED
+LOC  AlphaHelix   LEU  2781 D      GLU   2790 D                            4BED
+LOC  AlphaHelix   ILE  2847 D      MET   2854 D                            4BED
+LOC  AlphaHelix   HIS  2917 D      ARG   2924 D                            4BED
+LOC  AlphaHelix   TYR  2939 D      HIS   2946 D                            4BED
+LOC  AlphaHelix   ILE  2969 D      LYS   2986 D                            4BED
+LOC  AlphaHelix   THR  3008 D      ALA   3011 D                            4BED
+LOC  AlphaHelix   ILE  3051 D      GLU   3060 D                            4BED
+LOC  AlphaHelix   TYR  3064 D      GLY   3083 D                            4BED
+LOC  AlphaHelix   LEU  3093 D      ALA   3097 D                            4BED
+LOC  AlphaHelix   PRO  3100 D      ARG   3123 D                            4BED
+LOC  AlphaHelix   ASP  3153 D      ASN   3158 D                            4BED
+LOC  AlphaHelix   PRO  3161 D      VAL   3165 D                            4BED
+LOC  AlphaHelix   ILE  3184 D      LEU   3196 D                            4BED
+LOC  AlphaHelix   ILE  3254 D      LEU   3261 D                            4BED
+LOC  AlphaHelix   THR  3346 D      LYS   3350 D                            4BED
+LOC  AlphaHelix   THR  3381 D      ASP   3386 D                            4BED
+LOC  310Helix     VAL     8 A      HIS     10 A                            4BED
+LOC  310Helix     TYR   122 A      TYR    124 A                            4BED
+LOC  310Helix     THR   200 A      TYR    202 A                            4BED
+LOC  310Helix     PHE   248 A      TRP    250 A                            4BED
+LOC  310Helix     PRO   264 A      PHE    268 A                            4BED
+LOC  310Helix     ILE   428 A      ASP    430 A                            4BED
+LOC  310Helix     GLU   435 A      LEU    437 A                            4BED
+LOC  310Helix     THR   623 A      PHE    625 A                            4BED
+LOC  310Helix     PRO   688 A      TYR    692 A                            4BED
+LOC  310Helix     SER   812 A      LEU    814 A                            4BED
+LOC  310Helix     VAL   842 A      ARG    844 A                            4BED
+LOC  310Helix     GLU   849 A      LEU    853 A                            4BED
+LOC  310Helix     LEU   859 A      GLU    862 A                            4BED
+LOC  310Helix     GLN   871 A      HIS    876 A                            4BED
+LOC  310Helix     PHE   901 A      ALA    915 A                            4BED
+LOC  310Helix     GLN   994 A      GLU   1000 A                            4BED
+LOC  310Helix     ASP  1006 A      ILE   1018 A                            4BED
+LOC  310Helix     THR  1036 A      PHE   1038 A                            4BED
+LOC  310Helix     PRO  1040 A      TYR   1043 A                            4BED
+LOC  310Helix     HIS  1045 A      SER   1047 A                            4BED
+LOC  310Helix     TRP  1053 A      ILE   1055 A                            4BED
+LOC  310Helix     VAL  1074 A      ARG   1078 A                            4BED
+LOC  310Helix     PHE  1084 A      LEU   1086 A                            4BED
+LOC  310Helix     LYS  1131 A      SER   1138 A                            4BED
+LOC  310Helix     THR  1196 A      HIS   1200 A                            4BED
+LOC  310Helix     ALA  1250 A      VAL   1252 A                            4BED
+LOC  310Helix     ILE  1262 A      ASN   1264 A                            4BED
+LOC  310Helix     GLU  1287 A      HIS   1293 A                            4BED
+LOC  310Helix     PHE  1316 A      HIS   1318 A                            4BED
+LOC  310Helix     HIS  1320 A      LEU   1331 A                            4BED
+LOC  310Helix     ALA  1407 A      GLU   1409 A                            4BED
+LOC  310Helix     GLN  1419 A      HIS   1424 A                            4BED
+LOC  310Helix     ALA  1445 A      PHE   1447 A                            4BED
+LOC  310Helix     TRP  1462 A      ARG   1472 A                            4BED
+LOC  310Helix     ILE  1483 A      LEU   1485 A                            4BED
+LOC  310Helix     ALA  1502 A      LYS   1504 A                            4BED
+LOC  310Helix     PRO  1509 A      GLY   1512 A                            4BED
+LOC  310Helix     ILE  1671 B      GLN   1673 B                            4BED
+LOC  310Helix     GLN  1678 B      LEU   1680 B                            4BED
+LOC  310Helix     SER  1688 B      ALA   1691 B                            4BED
+LOC  310Helix     GLN  1699 B      PHE   1704 B                            4BED
+LOC  310Helix     PHE  1730 B      HIS   1748 B                            4BED
+LOC  310Helix     PRO  1787 B      ILE   1789 B                            4BED
+LOC  310Helix     ARG  1810 B      PHE   1812 B                            4BED
+LOC  310Helix     GLN  1826 B      GLU   1832 B                            4BED
+LOC  310Helix     ASP  1838 B      THR   1852 B                            4BED
+LOC  310Helix     ALA  1868 B      TYR   1870 B                            4BED
+LOC  310Helix     PRO  1872 B      SER   1879 B                            4BED
+LOC  310Helix     THR  1881 B      ARG   1893 B                            4BED
+LOC  310Helix     VAL  1906 B      LYS   1910 B                            4BED
+LOC  310Helix     PRO  1934 B      ASP   1936 B                            4BED
+LOC  310Helix     TYR  1940 B      LYS   1942 B                            4BED
+LOC  310Helix     ARG  1958 B      GLU   1969 B                            4BED
+LOC  310Helix     THR  2029 B      ASP   2031 B                            4BED
+LOC  310Helix     LEU  2088 B      THR   2090 B                            4BED
+LOC  310Helix     ASP  2095 B      LYS   2100 B                            4BED
+LOC  310Helix     SER  2104 B      ALA   2108 B                            4BED
+LOC  310Helix     ALA  2117 B      HIS   2122 B                            4BED
+LOC  310Helix     PHE  2146 B      HIS   2148 B                            4BED
+LOC  310Helix     HIS  2150 B      GLN   2156 B                            4BED
+LOC  310Helix     PRO  2203 B      ALA   2205 B                            4BED
+LOC  310Helix     GLU  2222 B      LEU   2224 B                            4BED
+LOC  310Helix     GLN  2239 B      LEU   2244 B                            4BED
+LOC  310Helix     ASP  2251 B      ALA   2253 B                            4BED
+LOC  310Helix     PHE  2256 B      HIS   2264 B                            4BED
+LOC  310Helix     ALA  2281 B      TYR   2283 B                            4BED
+LOC  310Helix     PRO  2285 B      PHE   2287 B                            4BED
+LOC  310Helix     HIS  2290 B      SER   2292 B                            4BED
+LOC  310Helix     VAL  2297 B      TRP   2301 B                            4BED
+LOC  310Helix     ALA  2303 B      GLN   2305 B                            4BED
+LOC  310Helix     VAL  2319 B      THR   2323 B                            4BED
+LOC  310Helix     PHE  2338 B      LYS   2340 B                            4BED
+LOC  310Helix     PRO  2345 B      ASP   2347 B                            4BED
+LOC  310Helix     TYR  2351 B      LEU   2354 B                            4BED
+LOC  310Helix     HIS  2369 B      GLU   2372 B                            4BED
+LOC  310Helix     ASP  2632 B      LEU   2634 B                            4BED
+LOC  310Helix     THR  2691 B      TYR   2693 B                            4BED
+LOC  310Helix     SER  2762 B      PHE   2764 B                            4BED
+LOC  310Helix     SER  2878 B      LEU   2880 B                            4BED
+LOC  310Helix     ASP  3135 B      MET   3137 B                            4BED
+LOC  310Helix     VAL     8 C      HIS     10 C                            4BED
+LOC  310Helix     PHE    65 C      HIS     67 C                            4BED
+LOC  310Helix     TYR   122 C      TYR    124 C                            4BED
+LOC  310Helix     THR   200 C      TYR    202 C                            4BED
+LOC  310Helix     GLU   239 C      HIS    242 C                            4BED
+LOC  310Helix     PHE   248 C      TRP    250 C                            4BED
+LOC  310Helix     PRO   256 C      ASN    259 C                            4BED
+LOC  310Helix     PRO   264 C      PHE    268 C                            4BED
+LOC  310Helix     CYS   271 C      LEU    273 C                            4BED
+LOC  310Helix     ILE   428 C      ASP    430 C                            4BED
+LOC  310Helix     GLU   435 C      LEU    437 C                            4BED
+LOC  310Helix     LYS   445 C      GLU    448 C                            4BED
+LOC  310Helix     TYR   455 C      HIS    462 C                            4BED
+LOC  310Helix     PHE   487 C      HIS    489 C                            4BED
+LOC  310Helix     HIS   491 C      GLN    497 C                            4BED
+LOC  310Helix     ASP   500 C      VAL    503 C                            4BED
+LOC  310Helix     ILE   582 C      GLU    587 C                            4BED
+LOC  310Helix     ASP   593 C      GLU    595 C                            4BED
+LOC  310Helix     GLN   597 C      ILE    605 C                            4BED
+LOC  310Helix     THR   623 C      PHE    625 C                            4BED
+LOC  310Helix     PRO   627 C      TYR    630 C                            4BED
+LOC  310Helix     HIS   632 C      SER    634 C                            4BED
+LOC  310Helix     VAL   636 C      ARG    638 C                            4BED
+LOC  310Helix     LEU   646 C      MET    648 C                            4BED
+LOC  310Helix     ILE   660 C      HIS    664 C                            4BED
+LOC  310Helix     THR   682 C      ASN    685 C                            4BED
+LOC  310Helix     PRO   688 C      TYR    692 C                            4BED
+LOC  310Helix     GLU   713 C      GLN    724 C                            4BED
+LOC  310Helix     VAL   784 C      LYS    786 C                            4BED
+LOC  310Helix     SER   812 C      LEU    814 C                            4BED
+LOC  310Helix     VAL   842 C      ARG    844 C                            4BED
+LOC  310Helix     GLU   849 C      LEU    853 C                            4BED
+LOC  310Helix     LEU   859 C      GLU    862 C                            4BED
+LOC  310Helix     GLN   871 C      HIS    876 C                            4BED
+LOC  310Helix     PHE   901 C      HIS    919 C                            4BED
+LOC  310Helix     GLN   994 C      GLU   1000 C                            4BED
+LOC  310Helix     ASP  1006 C      ILE   1018 C                            4BED
+LOC  310Helix     THR  1036 C      PHE   1038 C                            4BED
+LOC  310Helix     PRO  1040 C      TYR   1043 C                            4BED
+LOC  310Helix     HIS  1045 C      SER   1047 C                            4BED
+LOC  310Helix     TRP  1053 C      TRP   1056 C                            4BED
+LOC  310Helix     GLN  1060 C      ARG   1063 C                            4BED
+LOC  310Helix     VAL  1074 C      ARG   1078 C                            4BED
+LOC  310Helix     PHE  1084 C      LEU   1086 C                            4BED
+LOC  310Helix     VAL  1095 C      LYS   1097 C                            4BED
+LOC  310Helix     PRO  1102 C      VAL   1105 C                            4BED
+LOC  310Helix     SER  1127 C      SER   1138 C                            4BED
+LOC  310Helix     THR  1196 C      HIS   1200 C                            4BED
+LOC  310Helix     ALA  1250 C      VAL   1252 C                            4BED
+LOC  310Helix     ILE  1262 C      ASN   1264 C                            4BED
+LOC  310Helix     GLU  1269 C      GLU   1271 C                            4BED
+LOC  310Helix     GLU  1287 C      HIS   1293 C                            4BED
+LOC  310Helix     PHE  1316 C      HIS   1318 C                            4BED
+LOC  310Helix     HIS  1320 C      VAL   1326 C                            4BED
+LOC  310Helix     ASN  1329 C      LEU   1331 C                            4BED
+LOC  310Helix     PHE  1400 C      GLU   1402 C                            4BED
+LOC  310Helix     TYR  1406 C      GLU   1409 C                            4BED
+LOC  310Helix     GLN  1419 C      HIS   1428 C                            4BED
+LOC  310Helix     ALA  1445 C      PHE   1447 C                            4BED
+LOC  310Helix     PRO  1449 C      PHE   1451 C                            4BED
+LOC  310Helix     HIS  1454 C      ALA   1456 C                            4BED
+LOC  310Helix     THR  1458 C      ARG   1472 C                            4BED
+LOC  310Helix     ILE  1483 C      LEU   1485 C                            4BED
+LOC  310Helix     ALA  1502 C      LYS   1504 C                            4BED
+LOC  310Helix     PRO  1509 C      GLY   1512 C                            4BED
+LOC  310Helix     ILE  1533 C      LYS   1544 C                            4BED
+LOC  310Helix     ILE  1671 D      GLN   1673 D                            4BED
+LOC  310Helix     GLN  1678 D      LEU   1680 D                            4BED
+LOC  310Helix     SER  1688 D      ALA   1691 D                            4BED
+LOC  310Helix     GLN  1699 D      PHE   1704 D                            4BED
+LOC  310Helix     PHE  1730 D      HIS   1748 D                            4BED
+LOC  310Helix     PRO  1787 D      ILE   1789 D                            4BED
+LOC  310Helix     ARG  1810 D      PHE   1812 D                            4BED
+LOC  310Helix     GLN  1826 D      GLU   1832 D                            4BED
+LOC  310Helix     ASP  1838 D      THR   1852 D                            4BED
+LOC  310Helix     ALA  1868 D      TYR   1870 D                            4BED
+LOC  310Helix     PRO  1872 D      SER   1879 D                            4BED
+LOC  310Helix     THR  1881 D      ARG   1893 D                            4BED
+LOC  310Helix     VAL  1906 D      LYS   1910 D                            4BED
+LOC  310Helix     PRO  1934 D      ASP   1936 D                            4BED
+LOC  310Helix     TYR  1940 D      LYS   1942 D                            4BED
+LOC  310Helix     ARG  1958 D      GLU   1969 D                            4BED
+LOC  310Helix     THR  2029 D      ASP   2031 D                            4BED
+LOC  310Helix     LEU  2088 D      THR   2090 D                            4BED
+LOC  310Helix     ASP  2095 D      LYS   2100 D                            4BED
+LOC  310Helix     SER  2104 D      ALA   2108 D                            4BED
+LOC  310Helix     ALA  2117 D      HIS   2122 D                            4BED
+LOC  310Helix     PHE  2146 D      HIS   2148 D                            4BED
+LOC  310Helix     HIS  2150 D      GLN   2156 D                            4BED
+LOC  310Helix     PRO  2203 D      ALA   2205 D                            4BED
+LOC  310Helix     GLU  2222 D      LEU   2224 D                            4BED
+LOC  310Helix     GLN  2239 D      LEU   2244 D                            4BED
+LOC  310Helix     ASP  2251 D      ALA   2253 D                            4BED
+LOC  310Helix     PHE  2256 D      HIS   2264 D                            4BED
+LOC  310Helix     ALA  2281 D      TYR   2283 D                            4BED
+LOC  310Helix     PRO  2285 D      PHE   2287 D                            4BED
+LOC  310Helix     HIS  2290 D      SER   2292 D                            4BED
+LOC  310Helix     VAL  2297 D      TRP   2301 D                            4BED
+LOC  310Helix     ALA  2303 D      GLN   2305 D                            4BED
+LOC  310Helix     VAL  2319 D      THR   2323 D                            4BED
+LOC  310Helix     PHE  2338 D      LYS   2340 D                            4BED
+LOC  310Helix     PRO  2345 D      ASP   2347 D                            4BED
+LOC  310Helix     TYR  2351 D      LEU   2354 D                            4BED
+LOC  310Helix     HIS  2369 D      HIS   2380 D                            4BED
+LOC  310Helix     THR  2438 D      ALA   2444 D                            4BED
+LOC  310Helix     ASP  2632 D      LEU   2634 D                            4BED
+LOC  310Helix     THR  2691 D      TYR   2693 D                            4BED
+LOC  310Helix     SER  2762 D      PHE   2764 D                            4BED
+LOC  310Helix     SER  2878 D      LEU   2880 D                            4BED
+LOC  310Helix     ASP  3135 D      MET   3137 D                            4BED
+LOC  Strand       LEU     3 A      ARG      5 A                            4BED
+LOC  Strand       VAL   109 A      ILE    111 A                            4BED
+LOC  Strand       ALA   118 A      THR    120 A                            4BED
+LOC  Strand       ASN   127 A      ILE    128 A                            4BED
+LOC  Strand       LYS   133 A      LYS    134 A                            4BED
+LOC  Strand       TYR   275 A      TYR    277 A                            4BED
+LOC  Strand       ALA   303 A      PHE    307 A                            4BED
+LOC  Strand       ALA   316 A      CYS    323 A                            4BED
+LOC  Strand       CYS   335 A      VAL    343 A                            4BED
+LOC  Strand       TYR   358 A      ASP    361 A                            4BED
+LOC  Strand       THR   378 A      SER    385 A                            4BED
+LOC  Strand       VAL   400 A      HIS    403 A                            4BED
+LOC  Strand       LEU   423 A      ARG    425 A                            4BED
+LOC  Strand       THR   531 A      TYR    532 A                            4BED
+LOC  Strand       HIS   540 A      THR    541 A                            4BED
+LOC  Strand       TYR   700 A      TYR    702 A                            4BED
+LOC  Strand       ARG   727 A      PHE    732 A                            4BED
+LOC  Strand       ALA   741 A      LYS    748 A                            4BED
+LOC  Strand       GLN   754 A      VAL    762 A                            4BED
+LOC  Strand       PHE   777 A      ASP    780 A                            4BED
+LOC  Strand       GLU   797 A      GLU    804 A                            4BED
+LOC  Strand       LYS   809 A      LEU    810 A                            4BED
+LOC  Strand       SER   819 A      GLU    823 A                            4BED
+LOC  Strand       LYS   945 A      VAL    947 A                            4BED
+LOC  Strand       GLU   954 A      HIS    956 A                            4BED
+LOC  Strand       HIS   963 A      ILE    964 A                            4BED
+LOC  Strand       LYS   969 A      THR    970 A                            4BED
+LOC  Strand       ARG  1141 A      PHE   1146 A                            4BED
+LOC  Strand       SER  1155 A      CYS   1162 A                            4BED
+LOC  Strand       CYS  1168 A      LEU   1176 A                            4BED
+LOC  Strand       PHE  1191 A      ASP   1194 A                            4BED
+LOC  Strand       TYR  1211 A      ASP   1218 A                            4BED
+LOC  Strand       SER  1223 A      LEU   1224 A                            4BED
+LOC  Strand       SER  1233 A      GLU   1237 A                            4BED
+LOC  Strand       THR  1360 A      TYR   1361 A                            4BED
+LOC  Strand       GLU  1370 A      THR   1371 A                            4BED
+LOC  Strand       LYS  1378 A      ILE   1379 A                            4BED
+LOC  Strand       GLU  1384 A      ILE   1385 A                            4BED
+LOC  Strand       VAL  1549 A      PHE   1553 A                            4BED
+LOC  Strand       ALA  1562 A      HIS   1565 A                            4BED
+LOC  Strand       PHE  1586 A      ILE   1588 A                            4BED
+LOC  Strand       TYR  1603 A      ASP   1606 A                            4BED
+LOC  Strand       GLU  1627 A      ALA   1630 A                            4BED
+LOC  Strand       THR  1645 A      PHE   1648 A                            4BED
+LOC  Strand       MET  1666 B      ARG   1668 B                            4BED
+LOC  Strand       THR  1774 B      ILE   1775 B                            4BED
+LOC  Strand       ILE  1784 B      PRO   1785 B                            4BED
+LOC  Strand       TYR  1945 B      TYR   1947 B                            4BED
+LOC  Strand       ARG  1972 B      PHE   1977 B                            4BED
+LOC  Strand       ALA  1986 B      CYS   1993 B                            4BED
+LOC  Strand       CYS  1999 B      VAL   2007 B                            4BED
+LOC  Strand       TYR  2022 B      ASP   2025 B                            4BED
+LOC  Strand       GLN  2042 B      SER   2049 B                            4BED
+LOC  Strand       VAL  2054 B      LEU   2055 B                            4BED
+LOC  Strand       SER  2064 B      ASP   2068 B                            4BED
+LOC  Strand       VAL  2084 B      ARG   2085 B                            4BED
+LOC  Strand       GLU  2190 B      TYR   2191 B                            4BED
+LOC  Strand       MET  2200 B      PRO   2201 B                            4BED
+LOC  Strand       TYR  2208 B      VAL   2209 B                            4BED
+LOC  Strand       THR  2214 B      TYR   2215 B                            4BED
+LOC  Strand       ARG  2357 B      TYR   2358 B                            4BED
+LOC  Strand       VAL  2384 B      PHE   2388 B                            4BED
+LOC  Strand       ALA  2397 B      ILE   2403 B                            4BED
+LOC  Strand       HIS  2411 B      VAL   2418 B                            4BED
+LOC  Strand       PHE  2433 B      ASP   2436 B                            4BED
+LOC  Strand       VAL  2462 B      ALA   2466 B                            4BED
+LOC  Strand       THR  2481 B      TYR   2484 B                            4BED
+LOC  Strand       GLY  2503 B      ARG   2505 B                            4BED
+LOC  Strand       CYS  2548 B      PRO   2549 B                            4BED
+LOC  Strand       ASN  2555 B      TYR   2556 B                            4BED
+LOC  Strand       HIS  2618 B      ILE   2619 B                            4BED
+LOC  Strand       VAL  2624 B      ASP   2625 B                            4BED
+LOC  Strand       PHE  2766 B      TYR   2768 B                            4BED
+LOC  Strand       ARG  2793 B      PHE   2798 B                            4BED
+LOC  Strand       ALA  2807 B      CYS   2814 B                            4BED
+LOC  Strand       CYS  2820 B      ILE   2828 B                            4BED
+LOC  Strand       PHE  2843 B      ASP   2846 B                            4BED
+LOC  Strand       THR  2863 B      ASP   2870 B                            4BED
+LOC  Strand       GLN  2875 B      LEU   2876 B                            4BED
+LOC  Strand       THR  2885 B      SER   2889 B                            4BED
+LOC  Strand       LEU  2907 B      ARG   2909 B                            4BED
+LOC  Strand       TYR  3022 B      HIS   3023 B                            4BED
+LOC  Strand       ASP  3030 B      THR   3031 B                            4BED
+LOC  Strand       TYR  3172 B      TYR   3174 B                            4BED
+LOC  Strand       ARG  3199 B      PHE   3204 B                            4BED
+LOC  Strand       ALA  3213 B      TYR   3218 B                            4BED
+LOC  Strand       TYR  3229 B      ILE   3235 B                            4BED
+LOC  Strand       TYR  3250 B      ASP   3253 B                            4BED
+LOC  Strand       ASP  3273 B      LYS   3276 B                            4BED
+LOC  Strand       ILE  3291 B      ARG   3295 B                            4BED
+LOC  Strand       ILE  3304 B      GLU   3305 B                            4BED
+LOC  Strand       LYS  3325 B      ILE   3326 B                            4BED
+LOC  Strand       GLY  3372 B      ASP   3373 B                            4BED
+LOC  Strand       HIS  3394 B      VAL   3395 B                            4BED
+LOC  Strand       LEU     3 C      ARG      5 C                            4BED
+LOC  Strand       VAL   109 C      ILE    111 C                            4BED
+LOC  Strand       ALA   118 C      THR    120 C                            4BED
+LOC  Strand       ASN   127 C      ILE    128 C                            4BED
+LOC  Strand       LYS   133 C      LYS    134 C                            4BED
+LOC  Strand       TYR   275 C      TYR    277 C                            4BED
+LOC  Strand       PHE   304 C      ALA    305 C                            4BED
+LOC  Strand       ALA   316 C      CYS    323 C                            4BED
+LOC  Strand       CYS   335 C      VAL    343 C                            4BED
+LOC  Strand       PHE   360 C      ASP    361 C                            4BED
+LOC  Strand       THR   378 C      SER    385 C                            4BED
+LOC  Strand       LEU   423 C      ARG    425 C                            4BED
+LOC  Strand       THR   531 C      TYR    532 C                            4BED
+LOC  Strand       HIS   540 C      THR    541 C                            4BED
+LOC  Strand       TYR   700 C      TYR    702 C                            4BED
+LOC  Strand       ARG   727 C      PHE    732 C                            4BED
+LOC  Strand       ALA   741 C      LYS    748 C                            4BED
+LOC  Strand       GLN   754 C      VAL    762 C                            4BED
+LOC  Strand       PHE   777 C      ASP    780 C                            4BED
+LOC  Strand       GLU   797 C      GLU    804 C                            4BED
+LOC  Strand       LYS   809 C      LEU    810 C                            4BED
+LOC  Strand       SER   819 C      GLU    823 C                            4BED
+LOC  Strand       LEU   837 C      ARG    839 C                            4BED
+LOC  Strand       LYS   945 C      VAL    947 C                            4BED
+LOC  Strand       GLU   954 C      HIS    956 C                            4BED
+LOC  Strand       HIS   963 C      ILE    964 C                            4BED
+LOC  Strand       LYS   969 C      THR    970 C                            4BED
+LOC  Strand       TYR  1114 C      TYR   1116 C                            4BED
+LOC  Strand       ARG  1141 C      PHE   1146 C                            4BED
+LOC  Strand       SER  1155 C      CYS   1162 C                            4BED
+LOC  Strand       CYS  1168 C      LEU   1176 C                            4BED
+LOC  Strand       PHE  1191 C      ASP   1194 C                            4BED
+LOC  Strand       TYR  1211 C      ASP   1218 C                            4BED
+LOC  Strand       SER  1223 C      LEU   1224 C                            4BED
+LOC  Strand       SER  1233 C      GLU   1237 C                            4BED
+LOC  Strand       ARG  1257 C      ARG   1259 C                            4BED
+LOC  Strand       THR  1360 C      TYR   1361 C                            4BED
+LOC  Strand       GLU  1370 C      THR   1371 C                            4BED
+LOC  Strand       LYS  1378 C      ILE   1379 C                            4BED
+LOC  Strand       GLU  1384 C      ILE   1385 C                            4BED
+LOC  Strand       TYR  1521 C      TYR   1523 C                            4BED
+LOC  Strand       ARG  1548 C      PHE   1553 C                            4BED
+LOC  Strand       ALA  1562 C      CYS   1569 C                            4BED
+LOC  Strand       GLY  1584 C      ILE   1588 C                            4BED
+LOC  Strand       TYR  1603 C      ASP   1606 C                            4BED
+LOC  Strand       ASP  1623 C      ALA   1630 C                            4BED
+LOC  Strand       THR  1645 C      ILE   1646 C                            4BED
+LOC  Strand       PHE  1648 C      GLU   1649 C                            4BED
+LOC  Strand       MET  1666 D      ARG   1668 D                            4BED
+LOC  Strand       THR  1774 D      ILE   1775 D                            4BED
+LOC  Strand       ILE  1784 D      PRO   1785 D                            4BED
+LOC  Strand       TYR  1945 D      TYR   1947 D                            4BED
+LOC  Strand       ARG  1972 D      PHE   1977 D                            4BED
+LOC  Strand       ALA  1986 D      CYS   1993 D                            4BED
+LOC  Strand       CYS  1999 D      VAL   2007 D                            4BED
+LOC  Strand       TYR  2022 D      ASP   2025 D                            4BED
+LOC  Strand       GLN  2042 D      SER   2049 D                            4BED
+LOC  Strand       VAL  2054 D      LEU   2055 D                            4BED
+LOC  Strand       SER  2064 D      ASP   2068 D                            4BED
+LOC  Strand       VAL  2084 D      ARG   2085 D                            4BED
+LOC  Strand       GLU  2190 D      TYR   2191 D                            4BED
+LOC  Strand       MET  2200 D      PRO   2201 D                            4BED
+LOC  Strand       TYR  2208 D      VAL   2209 D                            4BED
+LOC  Strand       THR  2214 D      TYR   2215 D                            4BED
+LOC  Strand       ARG  2357 D      TYR   2358 D                            4BED
+LOC  Strand       ARG  2383 D      PHE   2388 D                            4BED
+LOC  Strand       ALA  2397 D      CYS   2404 D                            4BED
+LOC  Strand       CYS  2410 D      VAL   2418 D                            4BED
+LOC  Strand       PHE  2433 D      ASP   2436 D                            4BED
+LOC  Strand       VAL  2462 D      ALA   2466 D                            4BED
+LOC  Strand       THR  2481 D      GLU   2485 D                            4BED
+LOC  Strand       GLY  2503 D      ARG   2505 D                            4BED
+LOC  Strand       CYS  2548 D      PRO   2549 D                            4BED
+LOC  Strand       ASN  2555 D      TYR   2556 D                            4BED
+LOC  Strand       HIS  2618 D      ILE   2619 D                            4BED
+LOC  Strand       VAL  2624 D      ASP   2625 D                            4BED
+LOC  Strand       PHE  2766 D      TYR   2768 D                            4BED
+LOC  Strand       ARG  2793 D      PHE   2798 D                            4BED
+LOC  Strand       ALA  2807 D      CYS   2814 D                            4BED
+LOC  Strand       CYS  2820 D      ILE   2828 D                            4BED
+LOC  Strand       PHE  2843 D      ASP   2846 D                            4BED
+LOC  Strand       THR  2863 D      ASP   2870 D                            4BED
+LOC  Strand       GLN  2875 D      LEU   2876 D                            4BED
+LOC  Strand       THR  2885 D      SER   2889 D                            4BED
+LOC  Strand       LEU  2907 D      ARG   2909 D                            4BED
+LOC  Strand       TYR  3022 D      HIS   3023 D                            4BED
+LOC  Strand       ASP  3030 D      THR   3031 D                            4BED
+LOC  Strand       TYR  3172 D      TYR   3174 D                            4BED
+LOC  Strand       ARG  3199 D      PHE   3204 D                            4BED
+LOC  Strand       ALA  3213 D      TYR   3218 D                            4BED
+LOC  Strand       TYR  3229 D      ILE   3235 D                            4BED
+LOC  Strand       TYR  3250 D      ASP   3253 D                            4BED
+LOC  Strand       ASP  3273 D      LYS   3276 D                            4BED
+LOC  Strand       ILE  3291 D      ARG   3295 D                            4BED
+LOC  Strand       ILE  3304 D      GLU   3305 D                            4BED
+LOC  Strand       LYS  3325 D      ILE   3326 D                            4BED
+LOC  Strand       GLY  3372 D      ASP   3373 D                            4BED
+LOC  Strand       HIS  3394 D      VAL   3395 D                            4BED
+LOC  TurnI        SER    31 A      GLY     34 A                            4BED
+LOC  TurnIV       GLY    43 A      ALA     46 A                            4BED
+LOC  TurnVIII     SER    47 A      HIS     50 A                            4BED
+LOC  TurnIV       VAL    49 A      ASP     52 A                            4BED
+LOC  TurnIV       ILE    59 A      MET     62 A                            4BED
+LOC  TurnIV       ASP    93 A      GLU     96 A                            4BED
+LOC  TurnIV       TRP    94 A      PRO     97 A                            4BED
+LOC  TurnIV       ILE    98 A      LEU    101 A                            4BED
+LOC  TurnVIII     ASP   107 A      TYR    110 A                            4BED
+LOC  TurnIV       ASP   112 A      GLY    115 A                            4BED
+LOC  TurnI'       SER   113 A      GLY    116 A                            4BED
+LOC  TurnIV       ILE   128 A      LEU    131 A                            4BED
+LOC  TurnVIII     ASP   129 A      ASP    132 A                            4BED
+LOC  TurnVIII     VAL   139 A      ARG    142 A                            4BED
+LOC  TurnI        ASP   141 A      PHE    144 A                            4BED
+LOC  TurnIV       ARG   142 A      GLU    145 A                            4BED
+LOC  TurnII       PHE   144 A      VAL    147 A                            4BED
+LOC  TurnIV       LYS   148 A      GLN    151 A                            4BED
+LOC  TurnIV       GLY   187 A      HIS    190 A                            4BED
+LOC  TurnVIII     HIS   190 A      SER    193 A                            4BED
+LOC  TurnIV       SER   193 A      ASN    196 A                            4BED
+LOC  TurnVIII     MET   194 A      LEU    197 A                            4BED
+LOC  TurnIV       ASN   196 A      TYR    199 A                            4BED
+LOC  TurnI        LEU   197 A      THR    200 A                            4BED
+LOC  TurnI        ASP   230 A      ALA    233 A                            4BED
+LOC  TurnIV       ASP   235 A      GLN    238 A                            4BED
+LOC  TurnIV       MET   245 A      PHE    248 A                            4BED
+LOC  TurnVIII     TYR   277 A      LEU    280 A                            4BED
+LOC  TurnIV       ASN   281 A      GLY    284 A                            4BED
+LOC  TurnI'       LEU   282 A      MET    285 A                            4BED
+LOC  TurnIV       ASP   329 A      ASP    332 A                            4BED
+LOC  TurnVIII     GLY   346 A      GLU    349 A                            4BED
+LOC  TurnVIII     PHE   354 A      PRO    357 A                            4BED
+LOC  TurnVIII     LYS   372 A      GLY    375 A                            4BED
+LOC  TurnI        SER   385 A      GLY    388 A                            4BED
+LOC  TurnIV       PRO   392 A      LEU    395 A                            4BED
+LOC  TurnI        ASP   393 A      LEU    396 A                            4BED
+LOC  TurnVIII     GLY   408 A      ASP    411 A                            4BED
+LOC  TurnVIII     ASN   421 A      VAL    424 A                            4BED
+LOC  TurnI'       THR   432 A      GLU    435 A                            4BED
+LOC  TurnI'       LEU   437 A      ARG    440 A                            4BED
+LOC  TurnI'       ASN   438 A      GLU    441 A                            4BED
+LOC  TurnI'       LEU   439 A      ALA    442 A                            4BED
+LOC  TurnI'       ARG   440 A      PHE    443 A                            4BED
+LOC  TurnI'       GLU   441 A      HIS    444 A                            4BED
+LOC  TurnIV       ALA   442 A      LYS    445 A                            4BED
+LOC  TurnI        PHE   446 A      ASP    449 A                            4BED
+LOC  TurnI        SER   451 A      GLY    454 A                            4BED
+LOC  TurnIV       GLY   463 A      ALA    466 A                            4BED
+LOC  TurnIV       ARG   467 A      ARG    470 A                            4BED
+LOC  TurnIV       CYS   468 A      PRO    471 A                            4BED
+LOC  TurnVIII     ARG   470 A      ALA    473 A                            4BED
+LOC  TurnVIII     ALA   473 A      ARG    476 A                            4BED
+LOC  TurnIV       VAL   481 A      MET    484 A                            4BED
+LOC  TurnIV       ASP   515 A      GLU    518 A                            4BED
+LOC  TurnIV       TRP   516 A      PRO    519 A                            4BED
+LOC  TurnIV       PRO   524 A      ALA    527 A                            4BED
+LOC  TurnI'       GLY   525 A      GLY    528 A                            4BED
+LOC  TurnI'       LEU   526 A      ASN    529 A                            4BED
+LOC  TurnIV       ASN   529 A      TYR    532 A                            4BED
+LOC  TurnIV       ASP   534 A      GLY    537 A                            4BED
+LOC  TurnIV       SER   535 A      ALA    538 A                            4BED
+LOC  TurnI'       ASN   542 A      HIS    545 A                            4BED
+LOC  TurnIV       PRO   543 A      SER    546 A                            4BED
+LOC  TurnIV       ILE   549 A      GLU    552 A                            4BED
+LOC  TurnI        ALA   550 A      GLU    553 A                            4BED
+LOC  TurnIV       HIS   557 A      ARG    560 A                            4BED
+LOC  TurnVIII     ILE   562 A      ARG    565 A                            4BED
+LOC  TurnVIII     ALA   570 A      GLY    573 A                            4BED
+LOC  TurnII'      PHE   572 A      HIS    575 A                            4BED
+LOC  TurnII'      GLY   610 A      GLU    613 A                            4BED
+LOC  TurnVIII     GLU   613 A      SER    616 A                            4BED
+LOC  TurnI        SER   616 A      SER    619 A                            4BED
+LOC  TurnIV       SER   619 A      TYR    622 A                            4BED
+LOC  TurnI        LEU   620 A      THR    623 A                            4BED
+LOC  TurnIV       HIS   657 A      ILE    660 A                            4BED
+LOC  TurnIV       LEU   667 A      PHE    670 A                            4BED
+LOC  TurnIV       LYS   668 A      ALA    671 A                            4BED
+LOC  TurnI        PRO   669 A      PHE    672 A                            4BED
+LOC  TurnIV       PHE   672 A      PRO    675 A                            4BED
+LOC  TurnIV       ASN   685 A      PRO    688 A                            4BED
+LOC  TurnVIII     TYR   702 A      LEU    705 A                            4BED
+LOC  TurnIV       THR   706 A      GLY    709 A                            4BED
+LOC  TurnI'       PHE   707 A      ILE    710 A                            4BED
+LOC  TurnI        THR   749 A      SER    752 A                            4BED
+LOC  TurnI        GLY   765 A      GLU    768 A                            4BED
+LOC  TurnVIII     PHE   773 A      VAL    776 A                            4BED
+LOC  TurnI        THR   791 A      GLY    794 A                            4BED
+LOC  TurnIV       GLU   804 A      GLY    807 A                            4BED
+LOC  TurnIV       SER   846 A      GLU    849 A                            4BED
+LOC  TurnIV       LEU   853 A      ALA    856 A                            4BED
+LOC  TurnI'       ARG   854 A      LEU    857 A                            4BED
+LOC  TurnI'       LYS   855 A      ALA    858 A                            4BED
+LOC  TurnI'       ALA   856 A      LEU    859 A                            4BED
+LOC  TurnI'       SER   865 A      GLY    868 A                            4BED
+LOC  TurnI'       GLY   868 A      GLN    871 A                            4BED
+LOC  TurnIV       GLY   877 A      LYS    880 A                            4BED
+LOC  TurnIV       TRP   881 A      SER    884 A                            4BED
+LOC  TurnIV       SER   884 A      ALA    887 A                            4BED
+LOC  TurnIV       ALA   887 A      LYS    890 A                            4BED
+LOC  TurnIV       VAL   895 A      MET    898 A                            4BED
+LOC  TurnI'       MET   898 A      PHE    901 A                            4BED
+LOC  TurnIV       LEU   916 A      HIS    919 A                            4BED
+LOC  TurnIV       ARG   917 A      GLY    920 A                            4BED
+LOC  TurnIV       ASP   929 A      SER    932 A                            4BED
+LOC  TurnIV       TRP   930 A      PRO    933 A                            4BED
+LOC  TurnIV       LEU   934 A      LEU    937 A                            4BED
+LOC  TurnIV       PRO   938 A      ALA    941 A                            4BED
+LOC  TurnI'       GLU   939 A      ASP    942 A                            4BED
+LOC  TurnIV       LEU   940 A      HIS    943 A                            4BED
+LOC  TurnIV       ASP   948 A      ASP    951 A                            4BED
+LOC  TurnIV       PRO   949 A      GLY    952 A                            4BED
+LOC  TurnI'       ASN   957 A      PHE    960 A                            4BED
+LOC  TurnIV       PRO   958 A      ASP    961 A                            4BED
+LOC  TurnIV       ILE   964 A      VAL    967 A                            4BED
+LOC  TurnIV       ASP   965 A      ASP    968 A                            4BED
+LOC  TurnI'       GLN   976 A      LEU    979 A                            4BED
+LOC  TurnI'       ASN   977 A      PHE    980 A                            4BED
+LOC  TurnIV       PRO   983 A      GLY    986 A                            4BED
+LOC  TurnII       PHE   985 A      TYR    988 A                            4BED
+LOC  TurnIV       THR   989 A      ALA    992 A                            4BED
+LOC  TurnI'       SER   990 A      LYS    993 A                            4BED
+LOC  TurnIV       ILE   991 A      GLN    994 A                            4BED
+LOC  TurnI'       ASN  1003 A      ASP   1006 A                            4BED
+LOC  TurnI'       ILE  1018 A      LEU   1021 A                            4BED
+LOC  TurnIV       HIS  1019 A      VAL   1022 A                            4BED
+LOC  TurnIV       ALA  1020 A      GLY   1023 A                            4BED
+LOC  TurnIV       LEU  1021 A      GLY   1024 A                            4BED
+LOC  TurnII       GLY  1023 A      GLN   1026 A                            4BED
+LOC  TurnIV       GLN  1026 A      GLY   1029 A                            4BED
+LOC  TurnI'       GLY  1029 A      SER   1032 A                            4BED
+LOC  TurnIV       SER  1032 A      TYR   1035 A                            4BED
+LOC  TurnI'       LEU  1033 A      THR   1036 A                            4BED
+LOC  TurnI'       SER  1047 A      ASP   1050 A                            4BED
+LOC  TurnI'       ASN  1048 A      ARG   1051 A                            4BED
+LOC  TurnI'       THR  1049 A      ILE   1052 A                            4BED
+LOC  TurnI'       ASP  1050 A      TRP   1053 A                            4BED
+LOC  TurnI        PRO  1066 A      VAL   1069 A                            4BED
+LOC  TurnIV       ASN  1071 A      VAL   1074 A                            4BED
+LOC  TurnIV       LEU  1081 A      PHE   1084 A                            4BED
+LOC  TurnIV       SER  1087 A      ILE   1090 A                            4BED
+LOC  TurnIV       ALA  1088 A      ASN   1091 A                            4BED
+LOC  TurnIV       ASN  1089 A      THR   1092 A                            4BED
+LOC  TurnIV       VAL  1101 A      ASN   1104 A                            4BED
+LOC  TurnI        PHE  1103 A      PHE   1106 A                            4BED
+LOC  TurnIV       ASN  1104 A      ASP   1107 A                            4BED
+LOC  TurnIV       VAL  1105 A      TYR   1108 A                            4BED
+LOC  TurnIV       GLU  1120 A      GLY   1123 A                            4BED
+LOC  TurnIV       PHE  1121 A      LEU   1124 A                            4BED
+LOC  TurnIV       GLY  1150 A      LYS   1153 A                            4BED
+LOC  TurnIV       THR  1163 A      SER   1166 A                            4BED
+LOC  TurnI'       ASP  1179 A      GLU   1182 A                            4BED
+LOC  TurnIV       TYR  1187 A      VAL   1190 A                            4BED
+LOC  TurnI'       HIS  1200 A      LYS   1203 A                            4BED
+LOC  TurnI'       HIS  1205 A      ASP   1208 A                            4BED
+LOC  TurnIV       ASP  1218 A      PRO   1221 A                            4BED
+LOC  TurnIV       GLY  1225 A      LEU   1228 A                            4BED
+LOC  TurnI'       LYS  1226 A      PHE   1229 A                            4BED
+LOC  TurnIV       ARG  1239 A      HIS   1242 A                            4BED
+LOC  TurnIV       ILE  1240 A      HIS   1243 A                            4BED
+LOC  TurnIV       HIS  1243 A      GLU   1246 A                            4BED
+LOC  TurnIV       GLU  1244 A      VAL   1247 A                            4BED
+LOC  TurnIV       GLY  1245 A      TYR   1248 A                            4BED
+LOC  TurnI'       ASP  1283 A      TYR   1286 A                            4BED
+LOC  TurnIV       GLY  1284 A      GLU   1287 A                            4BED
+LOC  TurnIV       GLY  1294 A      GLY   1297 A                            4BED
+LOC  TurnIV       LEU  1298 A      LEU   1301 A                            4BED
+LOC  TurnIV       GLN  1300 A      GLY   1303 A                            4BED
+LOC  TurnIV       VAL  1310 A      MET   1313 A                            4BED
+LOC  TurnI'       MET  1313 A      PHE   1316 A                            4BED
+LOC  TurnI'       LEU  1331 A      LYS   1334 A                            4BED
+LOC  TurnIV       ASP  1344 A      LYS   1347 A                            4BED
+LOC  TurnIV       TRP  1345 A      ARG   1348 A                            4BED
+LOC  TurnIV       ILE  1349 A      LEU   1352 A                            4BED
+LOC  TurnVIII     ASP  1358 A      TYR   1361 A                            4BED
+LOC  TurnIV       ASN  1363 A      GLN   1366 A                            4BED
+LOC  TurnVIII     SER  1364 A      HIS   1367 A                            4BED
+LOC  TurnI        ASN  1372 A      HIS   1375 A                            4BED
+LOC  TurnIV       PRO  1373 A      HIS   1376 A                            4BED
+LOC  TurnIV       ILE  1379 A      GLU   1382 A                            4BED
+LOC  TurnIV       THR  1380 A      ASN   1383 A                            4BED
+LOC  TurnVIII     PRO  1390 A      SER   1393 A                            4BED
+LOC  TurnI        ASP  1392 A      PHE   1395 A                            4BED
+LOC  TurnI'       ASN  1412 A      ASP   1415 A                            4BED
+LOC  TurnI'       PHE  1413 A      PHE   1416 A                            4BED
+LOC  TurnI'       CYS  1414 A      GLU   1417 A                            4BED
+LOC  TurnI'       ASP  1415 A      ILE   1418 A                            4BED
+LOC  TurnI'       PHE  1416 A      GLN   1419 A                            4BED
+LOC  TurnII'      GLY  1432 A      GLY   1435 A                            4BED
+LOC  TurnI'       SER  1438 A      ASN   1441 A                            4BED
+LOC  TurnIV       ASN  1441 A      TYR   1444 A                            4BED
+LOC  TurnI'       LEU  1442 A      ALA   1445 A                            4BED
+LOC  TurnIV       HIS  1454 A      THR   1457 A                            4BED
+LOC  TurnIV       HIS  1455 A      THR   1458 A                            4BED
+LOC  TurnIV       THR  1457 A      ARG   1460 A                            4BED
+LOC  TurnIV       ASP  1459 A      TRP   1462 A                            4BED
+LOC  TurnIV       PRO  1475 A      GLU   1478 A                            4BED
+LOC  TurnIV       ASN  1480 A      ILE   1483 A                            4BED
+LOC  TurnI'       LEU  1485 A      THR   1488 A                            4BED
+LOC  TurnIV       LEU  1490 A      PHE   1493 A                            4BED
+LOC  TurnIV       GLN  1491 A      ASP   1494 A                            4BED
+LOC  TurnI'       PRO  1492 A      LYS   1495 A                            4BED
+LOC  TurnIV       LYS  1495 A      ASN   1498 A                            4BED
+LOC  TurnIV       SER  1496 A      ASN   1499 A                            4BED
+LOC  TurnI'       LYS  1504 A      ALA   1507 A                            4BED
+LOC  TurnIV       HIS  1506 A      PRO   1509 A                            4BED
+LOC  TurnIV       GLY  1512 A      TYR   1515 A                            4BED
+LOC  TurnII'      TYR  1515 A      SER   1518 A                            4BED
+LOC  TurnIV       GLN  1516 A      PHE   1519 A                            4BED
+LOC  TurnIV       ASN  1517 A      GLY   1520 A                            4BED
+LOC  TurnVIII     TYR  1523 A      LEU   1526 A                            4BED
+LOC  TurnIV       GLU  1527 A      HIS   1530 A                            4BED
+LOC  TurnIV       LEU  1528 A      TYR   1531 A                            4BED
+LOC  TurnII'      GLY  1573 A      THR   1576 A                            4BED
+LOC  TurnI'       GLY  1591 A      GLU   1594 A                            4BED
+LOC  TurnIV       PHE  1599 A      LEU   1602 A                            4BED
+LOC  TurnIV       HIS  1617 A      GLY   1620 A                            4BED
+LOC  TurnI'       ALA  1630 A      GLY   1633 A                            4BED
+LOC  TurnIV       ASP  1637 A      VAL   1640 A                            4BED
+LOC  TurnI'       SER  1638 A      ILE   1641 A                            4BED
+LOC  TurnIV       GLY  1651 A      SER   1654 A                            4BED
+LOC  TurnIV       THR  1657 A      GLY   1660 A                            4BED
+LOC  GammaInv     LEU   163 A      GLN    165 A                            4BED
+LOC  GammaInv     PHE  1112 A      TYR   1114 A                            4BED
+LOC  TurnI'       ASP  1675 B      GLN   1678 B                            4BED
+LOC  TurnI'       LEU  1680 B      VAL   1683 B                            4BED
+LOC  TurnIV       SER  1681 B      LYS   1684 B                            4BED
+LOC  TurnI'       LEU  1682 B      ALA   1685 B                            4BED
+LOC  TurnIV       VAL  1683 B      LEU   1686 B                            4BED
+LOC  TurnI'       LYS  1684 B      GLU   1687 B                            4BED
+LOC  TurnI'       ALA  1685 B      SER   1688 B                            4BED
+LOC  TurnI'       SER  1694 B      GLY   1697 B                            4BED
+LOC  TurnIV       ALA  1706 B      PRO   1709 B                            4BED
+LOC  TurnI'       LEU  1710 B      SER   1713 B                            4BED
+LOC  TurnIV       CYS  1711 B      PRO   1714 B                            4BED
+LOC  TurnIV       SER  1713 B      ALA   1716 B                            4BED
+LOC  TurnIV       ALA  1716 B      ARG   1719 B                            4BED
+LOC  TurnII'      VAL  1724 B      MET   1727 B                            4BED
+LOC  TurnI'       MET  1727 B      PHE   1730 B                            4BED
+LOC  TurnIV       ASP  1758 B      LEU   1761 B                            4BED
+LOC  TurnIV       TRP  1759 B      PRO   1762 B                            4BED
+LOC  TurnIV       ARG  1763 B      LEU   1766 B                            4BED
+LOC  TurnIV       PRO  1767 B      LEU   1770 B                            4BED
+LOC  TurnI'       GLU  1768 B      THR   1771 B                            4BED
+LOC  TurnI'       LEU  1769 B      VAL   1772 B                            4BED
+LOC  TurnIV       VAL  1772 B      ILE   1775 B                            4BED
+LOC  TurnIV       ASP  1777 B      THR   1780 B                            4BED
+LOC  TurnI'       PRO  1778 B      GLY   1781 B                            4BED
+LOC  TurnIV       ILE  1793 B      GLU   1796 B                            4BED
+LOC  TurnIV       GLU  1794 B      GLY   1797 B                            4BED
+LOC  TurnIV       ILE  1806 B      ASP   1809 B                            4BED
+LOC  TurnI'       SER  1815 B      THR   1818 B                            4BED
+LOC  TurnIV       LYS  1817 B      HIS   1820 B                            4BED
+LOC  TurnIV       THR  1818 B      ASN   1821 B                            4BED
+LOC  TurnIV       ASN  1821 B      ILE   1824 B                            4BED
+LOC  TurnI'       TRP  1822 B      GLU   1825 B                            4BED
+LOC  TurnI'       PHE  1823 B      GLN   1826 B                            4BED
+LOC  TurnIV       ASN  1835 B      ASP   1838 B                            4BED
+LOC  TurnIV       THR  1852 B      GLY   1855 B                            4BED
+LOC  TurnI'       TRP  1853 B      GLY   1856 B                            4BED
+LOC  TurnII       GLY  1855 B      GLU   1858 B                            4BED
+LOC  TurnIV       GLU  1858 B      GLY   1861 B                            4BED
+LOC  TurnI'       GLY  1861 B      HIS   1864 B                            4BED
+LOC  TurnIV       HIS  1864 B      TYR   1867 B                            4BED
+LOC  TurnI'       LEU  1865 B      ALA   1868 B                            4BED
+LOC  TurnI'       ARG  1893 B      GLY   1896 B                            4BED
+LOC  TurnI'       SER  1898 B      GLU   1901 B                            4BED
+LOC  TurnIV       ASN  1903 B      VAL   1906 B                            4BED
+LOC  TurnIV       LEU  1913 B      PHE   1916 B                            4BED
+LOC  TurnIV       LYS  1914 B      SER   1917 B                            4BED
+LOC  TurnI'       PRO  1915 B      PHE   1918 B                            4BED
+LOC  TurnIV       PHE  1916 B      GLY   1919 B                            4BED
+LOC  TurnIV       GLY  1919 B      TYR   1922 B                            4BED
+LOC  TurnI'       ALA  1920 B      ASN   1923 B                            4BED
+LOC  TurnIV       PRO  1921 B      LEU   1924 B                            4BED
+LOC  TurnIV       ASN  1925 B      THR   1928 B                            4BED
+LOC  TurnI'       ASP  1926 B      HIS   1929 B                            4BED
+LOC  TurnIV       HIS  1927 B      ASP   1930 B                            4BED
+LOC  TurnI'       THR  1928 B      PHE   1931 B                            4BED
+LOC  TurnI'       HIS  1929 B      SER   1932 B                            4BED
+LOC  TurnIV       ASP  1936 B      ASP   1939 B                            4BED
+LOC  TurnIV       THR  1937 B      TYR   1940 B                            4BED
+LOC  TurnIV       TYR  1947 B      LEU   1950 B                            4BED
+LOC  TurnIV       GLU  1951 B      GLY   1954 B                            4BED
+LOC  TurnI        PHE  1952 B      TRP   1955 B                            4BED
+LOC  TurnIV       PHE  1982 B      SER   1985 B                            4BED
+LOC  TurnIV       ARG  1994 B      GLY   1997 B                            4BED
+LOC  TurnI'       GLY  2010 B      GLU   2013 B                            4BED
+LOC  TurnIV       ILE  2026 B      THR   2029 B                            4BED
+LOC  TurnI'       ASP  2031 B      ASN   2034 B                            4BED
+LOC  TurnI'       ARG  2036 B      GLU   2039 B                            4BED
+LOC  TurnIV       SER  2049 B      GLY   2052 B                            4BED
+LOC  TurnIV       SER  2057 B      ILE   2060 B                            4BED
+LOC  TurnIV       ALA  2070 B      ASP   2073 B                            4BED
+LOC  TurnIV       SER  2092 B      ASP   2095 B                            4BED
+LOC  TurnI'       LYS  2100 B      LEU   2103 B                            4BED
+LOC  TurnI'       TYR  2101 B      SER   2104 B                            4BED
+LOC  TurnI'       SER  2111 B      GLY   2114 B                            4BED
+LOC  TurnIV       GLY  2114 B      ALA   2117 B                            4BED
+LOC  TurnIV       GLY  2123 B      ALA   2126 B                            4BED
+LOC  TurnIV       LYS  2127 B      ASP   2130 B                            4BED
+LOC  TurnIV       HIS  2132 B      GLU   2135 B                            4BED
+LOC  TurnIV       ILE  2140 B      MET   2143 B                            4BED
+LOC  TurnI'       MET  2143 B      PHE   2146 B                            4BED
+LOC  TurnIV       GLN  2156 B      GLN   2159 B                            4BED
+LOC  TurnI'       PHE  2157 B      ALA   2160 B                            4BED
+LOC  TurnIV       GLU  2158 B      LEU   2161 B                            4BED
+LOC  TurnI'       GLN  2159 B      ARG   2162 B                            4BED
+LOC  TurnI'       ALA  2160 B      ARG   2163 B                            4BED
+LOC  TurnI'       LEU  2161 B      HIS   2164 B                            4BED
+LOC  TurnI'       ARG  2162 B      GLY   2165 B                            4BED
+LOC  TurnIV       ASP  2174 B      LYS   2177 B                            4BED
+LOC  TurnIV       TRP  2175 B      PRO   2178 B                            4BED
+LOC  TurnIV       ILE  2179 B      ILE   2182 B                            4BED
+LOC  TurnIV       PRO  2183 B      PHE   2186 B                            4BED
+LOC  TurnI'       HIS  2184 B      THR   2187 B                            4BED
+LOC  TurnIV       LEU  2185 B      ASP   2188 B                            4BED
+LOC  TurnIV       ASP  2188 B      TYR   2191 B                            4BED
+LOC  TurnI'       VAL  2194 B      ASN   2197 B                            4BED
+LOC  TurnIV       VAL  2209 B      HIS   2212 B                            4BED
+LOC  TurnI'       PRO  2210 B      ASP   2213 B                            4BED
+LOC  TurnIV       THR  2228 B      GLY   2231 B                            4BED
+LOC  TurnIV       GLY  2231 B      SER   2234 B                            4BED
+LOC  TurnI'       SER  2234 B      LEU   2237 B                            4BED
+LOC  TurnI'       ALA  2235 B      ASN   2238 B                            4BED
+LOC  TurnI'       LEU  2236 B      GLN   2239 B                            4BED
+LOC  TurnIV       ASP  2248 B      ASP   2251 B                            4BED
+LOC  TurnI'       ALA  2253 B      PHE   2256 B                            4BED
+LOC  TurnIV       HIS  2264 B      VAL   2267 B                            4BED
+LOC  TurnIV       TYR  2265 B      GLY   2268 B                            4BED
+LOC  TurnIV       LEU  2266 B      GLY   2269 B                            4BED
+LOC  TurnII       GLY  2268 B      GLN   2271 B                            4BED
+LOC  TurnIV       GLN  2271 B      SER   2274 B                            4BED
+LOC  TurnI'       SER  2274 B      SER   2277 B                            4BED
+LOC  TurnIV       SER  2277 B      TYR   2280 B                            4BED
+LOC  TurnI'       LEU  2278 B      ALA   2281 B                            4BED
+LOC  TurnIV       PHE  2287 B      HIS   2290 B                            4BED
+LOC  TurnI'       SER  2292 B      ASP   2295 B                            4BED
+LOC  TurnI'       PHE  2293 B      LYS   2296 B                            4BED
+LOC  TurnIV       VAL  2294 B      VAL   2297 B                            4BED
+LOC  TurnI'       GLN  2305 B      ARG   2308 B                            4BED
+LOC  TurnI'       GLU  2306 B      GLY   2309 B                            4BED
+LOC  TurnIV       PRO  2311 B      ARG   2314 B                            4BED
+LOC  TurnIV       MET  2326 B      PHE   2329 B                            4BED
+LOC  TurnIV       ARG  2327 B      HIS   2330 B                            4BED
+LOC  TurnI'       PRO  2328 B      TYR   2331 B                            4BED
+LOC  TurnIV       TYR  2331 B      ASN   2334 B                            4BED
+LOC  TurnIV       GLU  2332 B      HIS   2335 B                            4BED
+LOC  TurnI'       LYS  2340 B      ALA   2343 B                            4BED
+LOC  TurnIV       HIS  2342 B      PRO   2345 B                            4BED
+LOC  TurnIV       ASP  2347 B      LYS   2350 B                            4BED
+LOC  TurnIV       VAL  2348 B      TYR   2351 B                            4BED
+LOC  TurnIV       TYR  2358 B      LEU   2361 B                            4BED
+LOC  TurnIV       GLU  2362 B      GLY   2365 B                            4BED
+LOC  TurnI        ILE  2363 B      MET   2366 B                            4BED
+LOC  TurnIV       ILE  2393 B      SER   2396 B                            4BED
+LOC  TurnI'       GLY  2421 B      GLU   2424 B                            4BED
+LOC  TurnIV       TYR  2429 B      LEU   2432 B                            4BED
+LOC  TurnI        THR  2447 B      ASP   2450 B                            4BED
+LOC  TurnIV       HIS  2453 B      GLU   2456 B                            4BED
+LOC  TurnIV       PRO  2454 B      PRO   2457 B                            4BED
+LOC  TurnIV       GLU  2456 B      PHE   2459 B                            4BED
+LOC  TurnIV       ALA  2466 B      GLY   2469 B                            4BED
+LOC  TurnIV       PRO  2473 B      ILE   2476 B                            4BED
+LOC  TurnI'       ALA  2474 B      LEU   2477 B                            4BED
+LOC  TurnVIII     SER  2496 B      MET   2499 B                            4BED
+LOC  TurnIV       GLU  2507 B      THR   2510 B                            4BED
+LOC  TurnIV       ILE  2508 B      LEU   2511 B                            4BED
+LOC  TurnI        GLY  2531 B      GLY   2534 B                            4BED
+LOC  TurnIV       GLY  2543 B      PRO   2546 B                            4BED
+LOC  TurnI        MET  2550 B      GLY   2553 B                            4BED
+LOC  TurnIV       THR  2560 B      MET   2563 B                            4BED
+LOC  TurnIV       ASP  2594 B      THR   2597 B                            4BED
+LOC  TurnIV       GLY  2595 B      ALA   2598 B                            4BED
+LOC  TurnIV       GLU  2609 B      ASN   2612 B                            4BED
+LOC  TurnI        ASN  2612 B      HIS   2615 B                            4BED
+LOC  TurnIV       PRO  2613 B      HIS   2616 B                            4BED
+LOC  TurnIV       ILE  2619 B      LEU   2622 B                            4BED
+LOC  TurnI        ASP  2620 B      GLY   2623 B                            4BED
+LOC  TurnI        PRO  2638 B      GLY   2641 B                            4BED
+LOC  TurnIV       ARG  2640 B      GLU   2643 B                            4BED
+LOC  TurnIV       GLY  2641 B      SER   2644 B                            4BED
+LOC  TurnII'      GLY  2678 B      THR   2681 B                            4BED
+LOC  TurnI        THR  2681 B      GLY   2684 B                            4BED
+LOC  TurnI        GLY  2684 B      THR   2687 B                            4BED
+LOC  TurnIV       THR  2687 B      TYR   2690 B                            4BED
+LOC  TurnI        LEU  2688 B      THR   2691 B                            4BED
+LOC  TurnI        PRO  2721 B      HIS   2724 B                            4BED
+LOC  TurnIV       ASN  2726 B      ILE   2729 B                            4BED
+LOC  TurnVIa      LEU  2736 B      PHE   2739 B                            4BED
+LOC  TurnIV       ARG  2737 B      SER   2740 B                            4BED
+LOC  TurnI        PRO  2738 B      ASP   2741 B                            4BED
+LOC  TurnI        ASP  2741 B      ASN   2744 B                            4BED
+LOC  TurnVIII     TYR  2768 B      LEU   2771 B                            4BED
+LOC  TurnIV       ARG  2772 B      GLY   2775 B                            4BED
+LOC  TurnII'      PHE  2773 B      MET   2776 B                            4BED
+LOC  TurnIV       ASN  2815 B      GLY   2818 B                            4BED
+LOC  TurnII       GLY  2831 B      GLU   2834 B                            4BED
+LOC  TurnIV       PHE  2839 B      LEU   2842 B                            4BED
+LOC  TurnI        GLU  2857 B      SER   2860 B                            4BED
+LOC  TurnI        ASP  2870 B      GLY   2873 B                            4BED
+LOC  TurnIV       LYS  2893 B      GLU   2896 B                            4BED
+LOC  TurnIV       HIS  2903 B      ILE   2906 B                            4BED
+LOC  TurnI        ASN  2911 B      SER   2914 B                            4BED
+LOC  TurnI        ILE  2912 B      LEU   2915 B                            4BED
+LOC  TurnI        SER  2935 B      GLY   2938 B                            4BED
+LOC  TurnIV       GLY  2947 B      ASN   2950 B                            4BED
+LOC  TurnII       PRO  2953 B      GLY   2956 B                            4BED
+LOC  TurnIV       GLY  2956 B      LYS   2959 B                            4BED
+LOC  TurnIV       VAL  2964 B      MET   2967 B                            4BED
+LOC  TurnI        ASP  2998 B      GLN   3001 B                            4BED
+LOC  TurnIV       SER  3013 B      ASN   3016 B                            4BED
+LOC  TurnIV       GLY  3014 B      ASN   3017 B                            4BED
+LOC  TurnI        ASN  3017 B      PHE   3020 B                            4BED
+LOC  TurnIV       PRO  3018 B      LYS   3021 B                            4BED
+LOC  TurnIV       ILE  3024 B      ILE   3027 B                            4BED
+LOC  TurnIV       ARG  3025 B      ASN   3028 B                            4BED
+LOC  TurnIV       LYS  3044 B      GLU   3047 B                            4BED
+LOC  TurnIV       PHE  3045 B      PHE   3048 B                            4BED
+LOC  TurnII'      GLY  3083 B      GLU   3086 B                            4BED
+LOC  TurnI        GLU  3086 B      SER   3089 B                            4BED
+LOC  TurnI        SER  3089 B      THR   3092 B                            4BED
+LOC  TurnIV       SER  3131 B      GLY   3134 B                            4BED
+LOC  TurnVIa      LEU  3141 B      PHE   3144 B                            4BED
+LOC  TurnIV       HIS  3142 B      ASN   3145 B                            4BED
+LOC  TurnI        PRO  3143 B      TYR   3146 B                            4BED
+LOC  TurnIV       TYR  3146 B      VAL   3149 B                            4BED
+LOC  TurnIV       SER  3148 B      ASN   3151 B                            4BED
+LOC  TurnI        ASP  3166 B      ARG   3169 B                            4BED
+LOC  TurnI        SER  3167 B      PHE   3170 B                            4BED
+LOC  TurnI        HIS  3168 B      ASN   3171 B                            4BED
+LOC  TurnIV       ASN  3178 B      GLY   3181 B                            4BED
+LOC  TurnI'       LEU  3179 B      HIS   3182 B                            4BED
+LOC  TurnIV       SER  3221 B      ASP   3224 B                            4BED
+LOC  TurnIV       GLY  3222 B      SER   3225 B                            4BED
+LOC  TurnIV       THR  3223 B      ASP   3226 B                            4BED
+LOC  TurnIV       GLY  3238 B      GLU   3241 B                            4BED
+LOC  TurnVIII     TYR  3246 B      LEU   3249 B                            4BED
+LOC  TurnI        THR  3264 B      HIS   3267 B                            4BED
+LOC  TurnIV       TYR  3277 B      THR   3280 B                            4BED
+LOC  TurnIV       ALA  3284 B      LEU   3287 B                            4BED
+LOC  TurnIV       ASN  3297 B      VAL   3300 B                            4BED
+LOC  TurnIV       VAL  3300 B      ILE   3303 B                            4BED
+LOC  TurnIV       GLY  3309 B      VAL   3312 B                            4BED
+LOC  TurnII       LYS  3321 B      THR   3324 B                            4BED
+LOC  TurnIV       SER  3330 B      GLU   3333 B                            4BED
+LOC  TurnIV       ASP  3332 B      VAL   3335 B                            4BED
+LOC  TurnVIII     GLU  3333 B      THR   3336 B                            4BED
+LOC  TurnIV       LEU  3340 B      GLY   3343 B                            4BED
+LOC  TurnII       PRO  3354 B      SER   3357 B                            4BED
+LOC  TurnIV       LEU  3363 B      MET   3366 B                            4BED
+LOC  TurnIV       ALA  3378 B      THR   3381 B                            4BED
+LOC  GammaClassic  ALA  1721 B      CYS   1723 B                           4BED
+LOC  GammaClassic  PHE  1812 B      GLY   1814 B                           4BED
+LOC  GammaClassic  LEU  2244 B      GLN   2246 B                           4BED
+LOC  GammaInv     ALA  3011 B      SER   3013 B                            4BED
+LOC  GammaInv     MET  3137 B      VAL   3139 B                            4BED
+LOC  GammaInv     GLU  3228 B      ALA   3230 B                            4BED
+LOC  GammaInv     PHE  3358 B      ALA   3360 B                            4BED
+LOC  GammaInv     ASN  3388 B      ARG   3390 B                            4BED
+LOC  TurnIV       SER    31 C      GLY     34 C                            4BED
+LOC  TurnI'       ALA    40 C      GLY     43 C                            4BED
+LOC  TurnIV       GLY    43 C      ALA     46 C                            4BED
+LOC  TurnIV       SER    47 C      HIS     50 C                            4BED
+LOC  TurnIV       VAL    49 C      ASP     52 C                            4BED
+LOC  TurnIV       ILE    59 C      MET     62 C                            4BED
+LOC  TurnI'       MET    62 C      PHE     65 C                            4BED
+LOC  TurnIV       ASP    93 C      GLU     96 C                            4BED
+LOC  TurnIV       TRP    94 C      PRO     97 C                            4BED
+LOC  TurnIV       ILE    98 C      LEU    101 C                            4BED
+LOC  TurnVIII     ASP   107 C      TYR    110 C                            4BED
+LOC  TurnIV       ASP   112 C      GLY    115 C                            4BED
+LOC  TurnI'       SER   113 C      GLY    116 C                            4BED
+LOC  TurnIV       ILE   128 C      LEU    131 C                            4BED
+LOC  TurnIV       ASP   129 C      ASP    132 C                            4BED
+LOC  TurnVIII     VAL   139 C      ARG    142 C                            4BED
+LOC  TurnI        ASP   141 C      PHE    144 C                            4BED
+LOC  TurnIV       ARG   142 C      GLU    145 C                            4BED
+LOC  TurnII       PHE   144 C      VAL    147 C                            4BED
+LOC  TurnIV       LYS   148 C      GLN    151 C                            4BED
+LOC  TurnI'       GLU   167 C      LYS    170 C                            4BED
+LOC  TurnIV       CYS   169 C      GLU    172 C                            4BED
+LOC  TurnIV       LYS   170 C      ILE    173 C                            4BED
+LOC  TurnIV       PHE   171 C      GLN    174 C                            4BED
+LOC  TurnIV       GLY   187 C      HIS    190 C                            4BED
+LOC  TurnVIII     HIS   190 C      SER    193 C                            4BED
+LOC  TurnIV       SER   193 C      ASN    196 C                            4BED
+LOC  TurnVIII     MET   194 C      LEU    197 C                            4BED
+LOC  TurnIV       ASN   196 C      TYR    199 C                            4BED
+LOC  TurnIV       LEU   197 C      THR    200 C                            4BED
+LOC  TurnI'       ASP   230 C      ALA    233 C                            4BED
+LOC  TurnIV       ASP   235 C      GLN    238 C                            4BED
+LOC  TurnIV       MET   245 C      PHE    248 C                            4BED
+LOC  TurnI'       ASN   259 C      SER    262 C                            4BED
+LOC  TurnVIII     TYR   277 C      LEU    280 C                            4BED
+LOC  TurnIV       ASN   281 C      GLY    284 C                            4BED
+LOC  TurnI'       LEU   282 C      MET    285 C                            4BED
+LOC  TurnIV       ASP   329 C      ASP    332 C                            4BED
+LOC  TurnIV       GLY   346 C      GLU    349 C                            4BED
+LOC  TurnIV       PHE   354 C      PRO    357 C                            4BED
+LOC  TurnVIII     LYS   372 C      GLY    375 C                            4BED
+LOC  TurnI        SER   385 C      GLY    388 C                            4BED
+LOC  TurnIV       PRO   392 C      LEU    395 C                            4BED
+LOC  TurnI'       ASP   393 C      LEU    396 C                            4BED
+LOC  TurnIV       GLY   408 C      ASP    411 C                            4BED
+LOC  TurnIV       ASN   421 C      VAL    424 C                            4BED
+LOC  TurnI'       THR   432 C      GLU    435 C                            4BED
+LOC  TurnI'       LEU   437 C      ARG    440 C                            4BED
+LOC  TurnI'       ASN   438 C      GLU    441 C                            4BED
+LOC  TurnI'       LEU   439 C      ALA    442 C                            4BED
+LOC  TurnI'       ARG   440 C      PHE    443 C                            4BED
+LOC  TurnI'       GLU   441 C      HIS    444 C                            4BED
+LOC  TurnIV       ALA   442 C      LYS    445 C                            4BED
+LOC  TurnI'       SER   451 C      GLY    454 C                            4BED
+LOC  TurnIV       GLY   463 C      ALA    466 C                            4BED
+LOC  TurnIV       ARG   467 C      ARG    470 C                            4BED
+LOC  TurnIV       CYS   468 C      PRO    471 C                            4BED
+LOC  TurnIV       ARG   470 C      ALA    473 C                            4BED
+LOC  TurnIV       ALA   473 C      ARG    476 C                            4BED
+LOC  TurnIV       VAL   481 C      MET    484 C                            4BED
+LOC  TurnI'       MET   484 C      PHE    487 C                            4BED
+LOC  TurnIV       GLN   497 C      ASP    500 C                            4BED
+LOC  TurnI'       VAL   503 C      GLY    506 C                            4BED
+LOC  TurnIV       ASP   515 C      GLU    518 C                            4BED
+LOC  TurnIV       TRP   516 C      PRO    519 C                            4BED
+LOC  TurnIV       PRO   524 C      ALA    527 C                            4BED
+LOC  TurnI'       GLY   525 C      GLY    528 C                            4BED
+LOC  TurnI'       LEU   526 C      ASN    529 C                            4BED
+LOC  TurnIV       ASN   529 C      TYR    532 C                            4BED
+LOC  TurnIV       ASP   534 C      GLY    537 C                            4BED
+LOC  TurnIV       SER   535 C      ALA    538 C                            4BED
+LOC  TurnI'       ASN   542 C      HIS    545 C                            4BED
+LOC  TurnIV       PRO   543 C      SER    546 C                            4BED
+LOC  TurnIV       ILE   549 C      GLU    552 C                            4BED
+LOC  TurnI'       ALA   550 C      GLU    553 C                            4BED
+LOC  TurnIV       HIS   557 C      ARG    560 C                            4BED
+LOC  TurnIV       ILE   562 C      ARG    565 C                            4BED
+LOC  TurnIV       ALA   570 C      GLY    573 C                            4BED
+LOC  TurnII       PHE   572 C      HIS    575 C                            4BED
+LOC  TurnI'       THR   576 C      PHE    579 C                            4BED
+LOC  TurnIV       ASP   577 C      ASN    580 C                            4BED
+LOC  TurnIV       LEU   578 C      GLN    581 C                            4BED
+LOC  TurnIV       PHE   579 C      ILE    582 C                            4BED
+LOC  TurnI'       ASP   590 C      ASP    593 C                            4BED
+LOC  TurnI'       ILE   605 C      TRP    608 C                            4BED
+LOC  TurnIV       HIS   606 C      THR    609 C                            4BED
+LOC  TurnIV       ALA   607 C      GLY    610 C                            4BED
+LOC  TurnIV       TRP   608 C      GLY    611 C                            4BED
+LOC  TurnII       GLY   610 C      GLU    613 C                            4BED
+LOC  TurnIV       GLU   613 C      SER    616 C                            4BED
+LOC  TurnI'       SER   616 C      SER    619 C                            4BED
+LOC  TurnIV       SER   619 C      TYR    622 C                            4BED
+LOC  TurnI'       LEU   620 C      THR    623 C                            4BED
+LOC  TurnIV       ARG   638 C      ALA    641 C                            4BED
+LOC  TurnI'       LEU   639 C      VAL    642 C                            4BED
+LOC  TurnI'       TRP   640 C      TRP    643 C                            4BED
+LOC  TurnI'       ALA   641 C      GLN    644 C                            4BED
+LOC  TurnI'       VAL   642 C      ALA    645 C                            4BED
+LOC  TurnI'       TRP   643 C      LEU    646 C                            4BED
+LOC  TurnI'       MET   648 C      HIS    651 C                            4BED
+LOC  TurnIV       HIS   657 C      ILE    660 C                            4BED
+LOC  TurnIV       LEU   667 C      PHE    670 C                            4BED
+LOC  TurnIV       LYS   668 C      ALA    671 C                            4BED
+LOC  TurnI'       PRO   669 C      PHE    672 C                            4BED
+LOC  TurnIV       PHE   672 C      PRO    675 C                            4BED
+LOC  TurnIV       ASN   679 C      THR    682 C                            4BED
+LOC  TurnIV       ASN   685 C      PRO    688 C                            4BED
+LOC  TurnIV       ASP   693 C      ASN    696 C                            4BED
+LOC  TurnIV       TYR   694 C      VAL    697 C                            4BED
+LOC  TurnIV       GLU   695 C      LEU    698 C                            4BED
+LOC  TurnI'       ASN   696 C      HIS    699 C                            4BED
+LOC  TurnIV       TYR   702 C      LEU    705 C                            4BED
+LOC  TurnIV       THR   706 C      GLY    709 C                            4BED
+LOC  TurnI        PHE   707 C      ILE    710 C                            4BED
+LOC  TurnI'       THR   749 C      SER    752 C                            4BED
+LOC  TurnI'       GLY   765 C      GLU    768 C                            4BED
+LOC  TurnIV       PHE   773 C      VAL    776 C                            4BED
+LOC  TurnIV       ILE   781 C      VAL    784 C                            4BED
+LOC  TurnI'       LYS   786 C      ASP    789 C                            4BED
+LOC  TurnI'       THR   791 C      GLY    794 C                            4BED
+LOC  TurnI'       GLU   804 C      GLY    807 C                            4BED
+LOC  TurnIV       SER   846 C      GLU    849 C                            4BED
+LOC  TurnIV       LEU   853 C      ALA    856 C                            4BED
+LOC  TurnI'       ARG   854 C      LEU    857 C                            4BED
+LOC  TurnI'       LYS   855 C      ALA    858 C                            4BED
+LOC  TurnI'       ALA   856 C      LEU    859 C                            4BED
+LOC  TurnI'       SER   865 C      GLY    868 C                            4BED
+LOC  TurnI'       GLY   868 C      GLN    871 C                            4BED
+LOC  TurnIV       GLY   877 C      LYS    880 C                            4BED
+LOC  TurnIV       TRP   881 C      SER    884 C                            4BED
+LOC  TurnIV       SER   884 C      ALA    887 C                            4BED
+LOC  TurnIV       ALA   887 C      LYS    890 C                            4BED
+LOC  TurnIV       VAL   895 C      MET    898 C                            4BED
+LOC  TurnI'       MET   898 C      PHE    901 C                            4BED
+LOC  TurnIV       ASP   929 C      SER    932 C                            4BED
+LOC  TurnIV       TRP   930 C      PRO    933 C                            4BED
+LOC  TurnIV       LEU   934 C      LEU    937 C                            4BED
+LOC  TurnIV       PRO   938 C      ALA    941 C                            4BED
+LOC  TurnI'       GLU   939 C      ASP    942 C                            4BED
+LOC  TurnIV       LEU   940 C      HIS    943 C                            4BED
+LOC  TurnIV       ASP   948 C      ASP    951 C                            4BED
+LOC  TurnIV       PRO   949 C      GLY    952 C                            4BED
+LOC  TurnI'       ASN   957 C      PHE    960 C                            4BED
+LOC  TurnIV       PRO   958 C      ASP    961 C                            4BED
+LOC  TurnIV       ILE   964 C      VAL    967 C                            4BED
+LOC  TurnIV       ASP   965 C      ASP    968 C                            4BED
+LOC  TurnI'       GLN   976 C      LEU    979 C                            4BED
+LOC  TurnI'       ASN   977 C      PHE    980 C                            4BED
+LOC  TurnIV       PRO   983 C      GLY    986 C                            4BED
+LOC  TurnII       PHE   985 C      TYR    988 C                            4BED
+LOC  TurnIV       THR   989 C      ALA    992 C                            4BED
+LOC  TurnI'       SER   990 C      LYS    993 C                            4BED
+LOC  TurnIV       ILE   991 C      GLN    994 C                            4BED
+LOC  TurnI'       ASN  1003 C      ASP   1006 C                            4BED
+LOC  TurnI'       ILE  1018 C      LEU   1021 C                            4BED
+LOC  TurnIV       HIS  1019 C      VAL   1022 C                            4BED
+LOC  TurnIV       ALA  1020 C      GLY   1023 C                            4BED
+LOC  TurnIV       LEU  1021 C      GLY   1024 C                            4BED
+LOC  TurnII       GLY  1023 C      GLN   1026 C                            4BED
+LOC  TurnIV       GLN  1026 C      GLY   1029 C                            4BED
+LOC  TurnI'       GLY  1029 C      SER   1032 C                            4BED
+LOC  TurnIV       SER  1032 C      TYR   1035 C                            4BED
+LOC  TurnI'       LEU  1033 C      THR   1036 C                            4BED
+LOC  TurnI'       SER  1047 C      ASP   1050 C                            4BED
+LOC  TurnI'       ASN  1048 C      ARG   1051 C                            4BED
+LOC  TurnI'       THR  1049 C      ILE   1052 C                            4BED
+LOC  TurnI'       ASP  1050 C      TRP   1053 C                            4BED
+LOC  TurnI'       TRP  1056 C      LEU   1059 C                            4BED
+LOC  TurnI'       GLN  1057 C      GLN   1060 C                            4BED
+LOC  TurnI'       PRO  1066 C      VAL   1069 C                            4BED
+LOC  TurnIV       ASN  1071 C      VAL   1074 C                            4BED
+LOC  TurnIV       LEU  1081 C      PHE   1084 C                            4BED
+LOC  TurnIV       SER  1087 C      ILE   1090 C                            4BED
+LOC  TurnIV       ALA  1088 C      ASN   1091 C                            4BED
+LOC  TurnIV       ASN  1089 C      THR   1092 C                            4BED
+LOC  TurnI'       LYS  1097 C      SER   1100 C                            4BED
+LOC  TurnIV       VAL  1105 C      TYR   1108 C                            4BED
+LOC  TurnIV       ASP  1107 C      THR   1110 C                            4BED
+LOC  TurnIV       TYR  1108 C      ASN   1111 C                            4BED
+LOC  TurnIV       LYS  1109 C      PHE   1112 C                            4BED
+LOC  TurnIV       THR  1110 C      ASN   1113 C                            4BED
+LOC  TurnIV       TYR  1116 C      LEU   1119 C                            4BED
+LOC  TurnIV       GLU  1120 C      GLY   1123 C                            4BED
+LOC  TurnIV       PHE  1121 C      LEU   1124 C                            4BED
+LOC  TurnIV       GLY  1150 C      LYS   1153 C                            4BED
+LOC  TurnIV       THR  1163 C      SER   1166 C                            4BED
+LOC  TurnI'       ASP  1179 C      GLU   1182 C                            4BED
+LOC  TurnIV       TYR  1187 C      VAL   1190 C                            4BED
+LOC  TurnI'       HIS  1200 C      LYS   1203 C                            4BED
+LOC  TurnI'       HIS  1205 C      ASP   1208 C                            4BED
+LOC  TurnIV       ASP  1218 C      PRO   1221 C                            4BED
+LOC  TurnIV       GLY  1225 C      LEU   1228 C                            4BED
+LOC  TurnI'       LYS  1226 C      PHE   1229 C                            4BED
+LOC  TurnIV       ARG  1239 C      HIS   1242 C                            4BED
+LOC  TurnIV       ILE  1240 C      HIS   1243 C                            4BED
+LOC  TurnIV       HIS  1243 C      GLU   1246 C                            4BED
+LOC  TurnIV       GLU  1244 C      VAL   1247 C                            4BED
+LOC  TurnIV       GLY  1245 C      TYR   1248 C                            4BED
+LOC  TurnIV       SER  1254 C      ARG   1257 C                            4BED
+LOC  TurnI'       SER  1266 C      GLU   1269 C                            4BED
+LOC  TurnI'       GLU  1271 C      ARG   1274 C                            4BED
+LOC  TurnIV       SER  1272 C      ALA   1275 C                            4BED
+LOC  TurnIV       LEU  1273 C      ALA   1276 C                            4BED
+LOC  TurnI'       ARG  1274 C      PHE   1277 C                            4BED
+LOC  TurnI'       ALA  1275 C      LEU   1278 C                            4BED
+LOC  TurnI'       ALA  1276 C      GLU   1279 C                            4BED
+LOC  TurnI'       PHE  1277 C      ILE   1280 C                            4BED
+LOC  TurnI'       LEU  1278 C      GLU   1281 C                            4BED
+LOC  TurnIV       GLU  1279 C      ASN   1282 C                            4BED
+LOC  TurnI'       ILE  1280 C      ASP   1283 C                            4BED
+LOC  TurnI'       ASP  1283 C      TYR   1286 C                            4BED
+LOC  TurnIV       GLY  1284 C      GLU   1287 C                            4BED
+LOC  TurnIV       GLY  1294 C      GLY   1297 C                            4BED
+LOC  TurnIV       LEU  1298 C      LEU   1301 C                            4BED
+LOC  TurnIV       GLN  1300 C      GLY   1303 C                            4BED
+LOC  TurnIV       VAL  1310 C      MET   1313 C                            4BED
+LOC  TurnI'       MET  1313 C      PHE   1316 C                            4BED
+LOC  TurnI'       VAL  1326 C      ASN   1329 C                            4BED
+LOC  TurnI'       LEU  1331 C      LYS   1334 C                            4BED
+LOC  TurnI'       LEU  1332 C      GLY   1335 C                            4BED
+LOC  TurnIV       ASP  1344 C      LYS   1347 C                            4BED
+LOC  TurnIV       TRP  1345 C      ARG   1348 C                            4BED
+LOC  TurnIV       ILE  1349 C      LEU   1352 C                            4BED
+LOC  TurnIV       PRO  1353 C      ILE   1356 C                            4BED
+LOC  TurnI'       HIS  1354 C      SER   1357 C                            4BED
+LOC  TurnI'       LEU  1355 C      ASP   1358 C                            4BED
+LOC  TurnIV       ASP  1358 C      TYR   1361 C                            4BED
+LOC  TurnIV       ASN  1363 C      GLN   1366 C                            4BED
+LOC  TurnIV       SER  1364 C      HIS   1367 C                            4BED
+LOC  TurnI'       ASN  1372 C      HIS   1375 C                            4BED
+LOC  TurnIV       PRO  1373 C      HIS   1376 C                            4BED
+LOC  TurnIV       ILE  1379 C      GLU   1382 C                            4BED
+LOC  TurnIV       THR  1380 C      ASN   1383 C                            4BED
+LOC  TurnIV       PRO  1390 C      SER   1393 C                            4BED
+LOC  TurnI'       ASP  1392 C      PHE   1395 C                            4BED
+LOC  TurnIV       SER  1397 C      PHE   1400 C                            4BED
+LOC  TurnI'       GLU  1402 C      LEU   1405 C                            4BED
+LOC  TurnI'       GLN  1403 C      TYR   1406 C                            4BED
+LOC  TurnI'       ASN  1412 C      ASP   1415 C                            4BED
+LOC  TurnI'       PHE  1413 C      PHE   1416 C                            4BED
+LOC  TurnI'       CYS  1414 C      GLU   1417 C                            4BED
+LOC  TurnI'       ASP  1415 C      ILE   1418 C                            4BED
+LOC  TurnI'       PHE  1416 C      GLN   1419 C                            4BED
+LOC  TurnIV       HIS  1428 C      LEU   1431 C                            4BED
+LOC  TurnIV       SER  1429 C      GLY   1432 C                            4BED
+LOC  TurnIV       LEU  1430 C      GLY   1433 C                            4BED
+LOC  TurnII       GLY  1432 C      GLY   1435 C                            4BED
+LOC  TurnIV       GLY  1435 C      SER   1438 C                            4BED
+LOC  TurnI'       SER  1438 C      ASN   1441 C                            4BED
+LOC  TurnIV       ASN  1441 C      TYR   1444 C                            4BED
+LOC  TurnI'       LEU  1442 C      ALA   1445 C                            4BED
+LOC  TurnI'       PHE  1451 C      HIS   1454 C                            4BED
+LOC  TurnIV       PRO  1475 C      GLU   1478 C                            4BED
+LOC  TurnIV       ASN  1480 C      ILE   1483 C                            4BED
+LOC  TurnI'       LEU  1485 C      THR   1488 C                            4BED
+LOC  TurnIV       LEU  1490 C      PHE   1493 C                            4BED
+LOC  TurnIV       GLN  1491 C      ASP   1494 C                            4BED
+LOC  TurnI'       PRO  1492 C      LYS   1495 C                            4BED
+LOC  TurnIV       LYS  1495 C      ASN   1498 C                            4BED
+LOC  TurnIV       SER  1496 C      ASN   1499 C                            4BED
+LOC  TurnI'       LYS  1504 C      ALA   1507 C                            4BED
+LOC  TurnIV       HIS  1506 C      PRO   1509 C                            4BED
+LOC  TurnIV       GLY  1512 C      TYR   1515 C                            4BED
+LOC  TurnII'      TYR  1515 C      SER   1518 C                            4BED
+LOC  TurnIV       GLN  1516 C      PHE   1519 C                            4BED
+LOC  TurnIV       ASN  1517 C      GLY   1520 C                            4BED
+LOC  TurnIV       TYR  1523 C      LEU   1526 C                            4BED
+LOC  TurnIV       GLU  1527 C      HIS   1530 C                            4BED
+LOC  TurnIV       LEU  1528 C      TYR   1531 C                            4BED
+LOC  TurnII       GLY  1573 C      THR   1576 C                            4BED
+LOC  TurnI'       GLY  1591 C      GLU   1594 C                            4BED
+LOC  TurnIV       PHE  1599 C      LEU   1602 C                            4BED
+LOC  TurnIV       ILE  1607 C      ALA   1610 C                            4BED
+LOC  TurnI'       THR  1608 C      LEU   1611 C                            4BED
+LOC  TurnI'       LYS  1609 C      LYS   1612 C                            4BED
+LOC  TurnI'       ALA  1610 C      LYS   1613 C                            4BED
+LOC  TurnIV       LEU  1611 C      ASN   1614 C                            4BED
+LOC  TurnI'       LYS  1612 C      GLY   1615 C                            4BED
+LOC  TurnI'       HIS  1617 C      GLY   1620 C                            4BED
+LOC  TurnI'       ALA  1630 C      GLY   1633 C                            4BED
+LOC  TurnI'       ASP  1637 C      VAL   1640 C                            4BED
+LOC  TurnI'       SER  1638 C      ILE   1641 C                            4BED
+LOC  TurnIV       GLY  1651 C      SER   1654 C                            4BED
+LOC  TurnIV       THR  1657 C      GLY   1660 C                            4BED
+LOC  GammaInv     LEU   163 C      GLN    165 C                            4BED
+LOC  TurnI'       ASP  1675 D      GLN   1678 D                            4BED
+LOC  TurnI'       LEU  1680 D      VAL   1683 D                            4BED
+LOC  TurnIV       SER  1681 D      LYS   1684 D                            4BED
+LOC  TurnI'       LEU  1682 D      ALA   1685 D                            4BED
+LOC  TurnIV       VAL  1683 D      LEU   1686 D                            4BED
+LOC  TurnI'       LYS  1684 D      GLU   1687 D                            4BED
+LOC  TurnI'       ALA  1685 D      SER   1688 D                            4BED
+LOC  TurnI'       SER  1694 D      GLY   1697 D                            4BED
+LOC  TurnIV       ALA  1706 D      PRO   1709 D                            4BED
+LOC  TurnI'       LEU  1710 D      SER   1713 D                            4BED
+LOC  TurnIV       CYS  1711 D      PRO   1714 D                            4BED
+LOC  TurnIV       SER  1713 D      ALA   1716 D                            4BED
+LOC  TurnIV       ALA  1716 D      ARG   1719 D                            4BED
+LOC  TurnII'      VAL  1724 D      MET   1727 D                            4BED
+LOC  TurnI'       MET  1727 D      PHE   1730 D                            4BED
+LOC  TurnIV       ASP  1758 D      LEU   1761 D                            4BED
+LOC  TurnIV       TRP  1759 D      PRO   1762 D                            4BED
+LOC  TurnIV       ARG  1763 D      LEU   1766 D                            4BED
+LOC  TurnIV       PRO  1767 D      LEU   1770 D                            4BED
+LOC  TurnI'       GLU  1768 D      THR   1771 D                            4BED
+LOC  TurnI'       LEU  1769 D      VAL   1772 D                            4BED
+LOC  TurnIV       VAL  1772 D      ILE   1775 D                            4BED
+LOC  TurnIV       ASP  1777 D      THR   1780 D                            4BED
+LOC  TurnI'       PRO  1778 D      GLY   1781 D                            4BED
+LOC  TurnIV       ILE  1793 D      GLU   1796 D                            4BED
+LOC  TurnIV       GLU  1794 D      GLY   1797 D                            4BED
+LOC  TurnIV       ILE  1806 D      ASP   1809 D                            4BED
+LOC  TurnI'       SER  1815 D      THR   1818 D                            4BED
+LOC  TurnIV       LYS  1817 D      HIS   1820 D                            4BED
+LOC  TurnIV       THR  1818 D      ASN   1821 D                            4BED
+LOC  TurnIV       ASN  1821 D      ILE   1824 D                            4BED
+LOC  TurnI'       TRP  1822 D      GLU   1825 D                            4BED
+LOC  TurnI'       PHE  1823 D      GLN   1826 D                            4BED
+LOC  TurnIV       ASN  1835 D      ASP   1838 D                            4BED
+LOC  TurnIV       THR  1852 D      GLY   1855 D                            4BED
+LOC  TurnI'       TRP  1853 D      GLY   1856 D                            4BED
+LOC  TurnII       GLY  1855 D      GLU   1858 D                            4BED
+LOC  TurnIV       GLU  1858 D      GLY   1861 D                            4BED
+LOC  TurnI'       GLY  1861 D      HIS   1864 D                            4BED
+LOC  TurnIV       HIS  1864 D      TYR   1867 D                            4BED
+LOC  TurnI'       LEU  1865 D      ALA   1868 D                            4BED
+LOC  TurnI'       ARG  1893 D      GLY   1896 D                            4BED
+LOC  TurnI'       SER  1898 D      GLU   1901 D                            4BED
+LOC  TurnIV       ASN  1903 D      VAL   1906 D                            4BED
+LOC  TurnIV       LEU  1913 D      PHE   1916 D                            4BED
+LOC  TurnIV       LYS  1914 D      SER   1917 D                            4BED
+LOC  TurnI'       PRO  1915 D      PHE   1918 D                            4BED
+LOC  TurnIV       PHE  1916 D      GLY   1919 D                            4BED
+LOC  TurnIV       GLY  1919 D      TYR   1922 D                            4BED
+LOC  TurnI'       ALA  1920 D      ASN   1923 D                            4BED
+LOC  TurnIV       PRO  1921 D      LEU   1924 D                            4BED
+LOC  TurnIV       ASN  1925 D      THR   1928 D                            4BED
+LOC  TurnI'       ASP  1926 D      HIS   1929 D                            4BED
+LOC  TurnIV       HIS  1927 D      ASP   1930 D                            4BED
+LOC  TurnI'       THR  1928 D      PHE   1931 D                            4BED
+LOC  TurnI'       HIS  1929 D      SER   1932 D                            4BED
+LOC  TurnIV       ASP  1936 D      ASP   1939 D                            4BED
+LOC  TurnIV       THR  1937 D      TYR   1940 D                            4BED
+LOC  TurnIV       TYR  1947 D      LEU   1950 D                            4BED
+LOC  TurnIV       GLU  1951 D      GLY   1954 D                            4BED
+LOC  TurnI        PHE  1952 D      TRP   1955 D                            4BED
+LOC  TurnIV       PHE  1982 D      SER   1985 D                            4BED
+LOC  TurnIV       ARG  1994 D      GLY   1997 D                            4BED
+LOC  TurnI'       GLY  2010 D      GLU   2013 D                            4BED
+LOC  TurnIV       ILE  2026 D      THR   2029 D                            4BED
+LOC  TurnI'       ASP  2031 D      ASN   2034 D                            4BED
+LOC  TurnI'       ARG  2036 D      GLU   2039 D                            4BED
+LOC  TurnIV       SER  2049 D      GLY   2052 D                            4BED
+LOC  TurnIV       SER  2057 D      ILE   2060 D                            4BED
+LOC  TurnIV       ALA  2070 D      ASP   2073 D                            4BED
+LOC  TurnIV       SER  2092 D      ASP   2095 D                            4BED
+LOC  TurnI'       LYS  2100 D      LEU   2103 D                            4BED
+LOC  TurnI'       TYR  2101 D      SER   2104 D                            4BED
+LOC  TurnI'       SER  2111 D      GLY   2114 D                            4BED
+LOC  TurnIV       GLY  2114 D      ALA   2117 D                            4BED
+LOC  TurnIV       GLY  2123 D      ALA   2126 D                            4BED
+LOC  TurnIV       LYS  2127 D      ASP   2130 D                            4BED
+LOC  TurnIV       HIS  2132 D      GLU   2135 D                            4BED
+LOC  TurnIV       ILE  2140 D      MET   2143 D                            4BED
+LOC  TurnI'       MET  2143 D      PHE   2146 D                            4BED
+LOC  TurnIV       GLN  2156 D      GLN   2159 D                            4BED
+LOC  TurnI'       PHE  2157 D      ALA   2160 D                            4BED
+LOC  TurnIV       GLU  2158 D      LEU   2161 D                            4BED
+LOC  TurnI'       GLN  2159 D      ARG   2162 D                            4BED
+LOC  TurnI'       ALA  2160 D      ARG   2163 D                            4BED
+LOC  TurnI'       LEU  2161 D      HIS   2164 D                            4BED
+LOC  TurnI'       ARG  2162 D      GLY   2165 D                            4BED
+LOC  TurnIV       ASP  2174 D      LYS   2177 D                            4BED
+LOC  TurnIV       TRP  2175 D      PRO   2178 D                            4BED
+LOC  TurnIV       ILE  2179 D      ILE   2182 D                            4BED
+LOC  TurnIV       PRO  2183 D      PHE   2186 D                            4BED
+LOC  TurnI'       HIS  2184 D      THR   2187 D                            4BED
+LOC  TurnIV       LEU  2185 D      ASP   2188 D                            4BED
+LOC  TurnIV       ASP  2188 D      TYR   2191 D                            4BED
+LOC  TurnI'       VAL  2194 D      ASN   2197 D                            4BED
+LOC  TurnIV       VAL  2209 D      HIS   2212 D                            4BED
+LOC  TurnI'       PRO  2210 D      ASP   2213 D                            4BED
+LOC  TurnIV       THR  2228 D      GLY   2231 D                            4BED
+LOC  TurnIV       THR  2230 D      HIS   2233 D                            4BED
+LOC  TurnIV       GLY  2231 D      SER   2234 D                            4BED
+LOC  TurnI'       SER  2234 D      LEU   2237 D                            4BED
+LOC  TurnI'       ALA  2235 D      ASN   2238 D                            4BED
+LOC  TurnI'       LEU  2236 D      GLN   2239 D                            4BED
+LOC  TurnIV       ASP  2248 D      ASP   2251 D                            4BED
+LOC  TurnI'       ALA  2253 D      PHE   2256 D                            4BED
+LOC  TurnIV       HIS  2264 D      VAL   2267 D                            4BED
+LOC  TurnIV       TYR  2265 D      GLY   2268 D                            4BED
+LOC  TurnIV       LEU  2266 D      GLY   2269 D                            4BED
+LOC  TurnII       GLY  2268 D      GLN   2271 D                            4BED
+LOC  TurnIV       GLN  2271 D      SER   2274 D                            4BED
+LOC  TurnI'       SER  2274 D      SER   2277 D                            4BED
+LOC  TurnIV       SER  2277 D      TYR   2280 D                            4BED
+LOC  TurnI'       LEU  2278 D      ALA   2281 D                            4BED
+LOC  TurnIV       PHE  2287 D      HIS   2290 D                            4BED
+LOC  TurnI'       SER  2292 D      ASP   2295 D                            4BED
+LOC  TurnI'       PHE  2293 D      LYS   2296 D                            4BED
+LOC  TurnIV       VAL  2294 D      VAL   2297 D                            4BED
+LOC  TurnI'       GLN  2305 D      ARG   2308 D                            4BED
+LOC  TurnI'       GLU  2306 D      GLY   2309 D                            4BED
+LOC  TurnIV       PRO  2311 D      ARG   2314 D                            4BED
+LOC  TurnIV       MET  2326 D      PHE   2329 D                            4BED
+LOC  TurnIV       ARG  2327 D      HIS   2330 D                            4BED
+LOC  TurnI'       PRO  2328 D      TYR   2331 D                            4BED
+LOC  TurnIV       TYR  2331 D      ASN   2334 D                            4BED
+LOC  TurnIV       GLU  2332 D      HIS   2335 D                            4BED
+LOC  TurnI'       LYS  2340 D      ALA   2343 D                            4BED
+LOC  TurnIV       HIS  2342 D      PRO   2345 D                            4BED
+LOC  TurnIV       ASP  2347 D      LYS   2350 D                            4BED
+LOC  TurnIV       VAL  2348 D      TYR   2351 D                            4BED
+LOC  TurnIV       TYR  2358 D      LEU   2361 D                            4BED
+LOC  TurnIV       GLU  2362 D      GLY   2365 D                            4BED
+LOC  TurnI        ILE  2363 D      MET   2366 D                            4BED
+LOC  TurnIV       ILE  2393 D      SER   2396 D                            4BED
+LOC  TurnIV       LYS  2405 D      GLU   2408 D                            4BED
+LOC  TurnI'       GLY  2421 D      GLU   2424 D                            4BED
+LOC  TurnIV       TYR  2429 D      LEU   2432 D                            4BED
+LOC  TurnI'       THR  2447 D      ASP   2450 D                            4BED
+LOC  TurnIV       HIS  2453 D      GLU   2456 D                            4BED
+LOC  TurnIV       PRO  2454 D      PRO   2457 D                            4BED
+LOC  TurnIV       GLU  2456 D      PHE   2459 D                            4BED
+LOC  TurnIV       ALA  2466 D      GLY   2469 D                            4BED
+LOC  TurnIV       PRO  2473 D      ILE   2476 D                            4BED
+LOC  TurnI'       ALA  2474 D      LEU   2477 D                            4BED
+LOC  TurnIV       GLU  2507 D      THR   2510 D                            4BED
+LOC  TurnIV       ILE  2508 D      LEU   2511 D                            4BED
+LOC  TurnI        GLY  2531 D      GLY   2534 D                            4BED
+LOC  TurnIV       GLY  2543 D      PRO   2546 D                            4BED
+LOC  TurnI        MET  2550 D      GLY   2553 D                            4BED
+LOC  TurnIV       THR  2560 D      MET   2563 D                            4BED
+LOC  TurnIV       ASP  2594 D      THR   2597 D                            4BED
+LOC  TurnIV       GLY  2595 D      ALA   2598 D                            4BED
+LOC  TurnIV       GLU  2609 D      ASN   2612 D                            4BED
+LOC  TurnI        ASN  2612 D      HIS   2615 D                            4BED
+LOC  TurnIV       PRO  2613 D      HIS   2616 D                            4BED
+LOC  TurnIV       ILE  2619 D      LEU   2622 D                            4BED
+LOC  TurnI        ASP  2620 D      GLY   2623 D                            4BED
+LOC  TurnI        PRO  2638 D      GLY   2641 D                            4BED
+LOC  TurnIV       ARG  2640 D      GLU   2643 D                            4BED
+LOC  TurnIV       GLY  2641 D      SER   2644 D                            4BED
+LOC  TurnII'      GLY  2678 D      THR   2681 D                            4BED
+LOC  TurnI        THR  2681 D      GLY   2684 D                            4BED
+LOC  TurnI        GLY  2684 D      THR   2687 D                            4BED
+LOC  TurnIV       THR  2687 D      TYR   2690 D                            4BED
+LOC  TurnI        LEU  2688 D      THR   2691 D                            4BED
+LOC  TurnIV       GLN  2715 D      ARG   2718 D                            4BED
+LOC  TurnI        PRO  2721 D      HIS   2724 D                            4BED
+LOC  TurnIV       ASN  2726 D      ILE   2729 D                            4BED
+LOC  TurnVIa      LEU  2736 D      PHE   2739 D                            4BED
+LOC  TurnIV       ARG  2737 D      SER   2740 D                            4BED
+LOC  TurnI        PRO  2738 D      ASP   2741 D                            4BED
+LOC  TurnI        ASP  2741 D      ASN   2744 D                            4BED
+LOC  TurnVIII     TYR  2768 D      LEU   2771 D                            4BED
+LOC  TurnIV       ARG  2772 D      GLY   2775 D                            4BED
+LOC  TurnII'      PHE  2773 D      MET   2776 D                            4BED
+LOC  TurnIV       THR  2777 D      LYS   2780 D                            4BED
+LOC  TurnIV       ILE  2778 D      LEU   2781 D                            4BED
+LOC  TurnIV       ASN  2815 D      GLY   2818 D                            4BED
+LOC  TurnII       GLY  2831 D      GLU   2834 D                            4BED
+LOC  TurnIV       PHE  2839 D      LEU   2842 D                            4BED
+LOC  TurnI        GLU  2857 D      SER   2860 D                            4BED
+LOC  TurnI        ASP  2870 D      GLY   2873 D                            4BED
+LOC  TurnIV       GLU  2904 D      LEU   2907 D                            4BED
+LOC  TurnI        ASN  2911 D      SER   2914 D                            4BED
+LOC  TurnI        ILE  2912 D      LEU   2915 D                            4BED
+LOC  TurnIV       ARG  2924 D      LEU   2927 D                            4BED
+LOC  TurnIV       ASP  2925 D      TYR   2928 D                            4BED
+LOC  TurnI'       TYR  2928 D      GLN   2931 D                            4BED
+LOC  TurnI'       LYS  2929 D      ASN   2932 D                            4BED
+LOC  TurnI'       LEU  2930 D      ASP   2933 D                            4BED
+LOC  TurnI'       SER  2935 D      GLY   2938 D                            4BED
+LOC  TurnIV       GLY  2947 D      ASN   2950 D                            4BED
+LOC  TurnII       PRO  2953 D      GLY   2956 D                            4BED
+LOC  TurnIV       GLY  2956 D      LYS   2959 D                            4BED
+LOC  TurnIV       VAL  2964 D      MET   2967 D                            4BED
+LOC  TurnI        ASP  2998 D      GLN   3001 D                            4BED
+LOC  TurnIV       SER  3013 D      ASN   3016 D                            4BED
+LOC  TurnIV       GLY  3014 D      ASN   3017 D                            4BED
+LOC  TurnI        ASN  3017 D      PHE   3020 D                            4BED
+LOC  TurnIV       PRO  3018 D      LYS   3021 D                            4BED
+LOC  TurnIV       ILE  3024 D      ILE   3027 D                            4BED
+LOC  TurnIV       LYS  3044 D      GLU   3047 D                            4BED
+LOC  TurnIV       PHE  3045 D      PHE   3048 D                            4BED
+LOC  TurnII'      GLY  3083 D      GLU   3086 D                            4BED
+LOC  TurnI        GLU  3086 D      SER   3089 D                            4BED
+LOC  TurnI        SER  3089 D      THR   3092 D                            4BED
+LOC  TurnIV       SER  3131 D      GLY   3134 D                            4BED
+LOC  TurnVIa      LEU  3141 D      PHE   3144 D                            4BED
+LOC  TurnIV       HIS  3142 D      ASN   3145 D                            4BED
+LOC  TurnI        PRO  3143 D      TYR   3146 D                            4BED
+LOC  TurnIV       TYR  3146 D      VAL   3149 D                            4BED
+LOC  TurnIV       SER  3148 D      ASN   3151 D                            4BED
+LOC  TurnI        ASP  3166 D      ARG   3169 D                            4BED
+LOC  TurnI        SER  3167 D      PHE   3170 D                            4BED
+LOC  TurnI        HIS  3168 D      ASN   3171 D                            4BED
+LOC  TurnIV       ASN  3178 D      GLY   3181 D                            4BED
+LOC  TurnI'       LEU  3179 D      HIS   3182 D                            4BED
+LOC  TurnIV       SER  3221 D      ASP   3224 D                            4BED
+LOC  TurnIV       GLY  3222 D      SER   3225 D                            4BED
+LOC  TurnIV       THR  3223 D      ASP   3226 D                            4BED
+LOC  TurnIV       GLY  3238 D      GLU   3241 D                            4BED
+LOC  TurnVIII     TYR  3246 D      LEU   3249 D                            4BED
+LOC  TurnI        THR  3264 D      HIS   3267 D                            4BED
+LOC  TurnIV       TYR  3277 D      THR   3280 D                            4BED
+LOC  TurnIV       ALA  3284 D      LEU   3287 D                            4BED
+LOC  TurnIV       ASN  3297 D      VAL   3300 D                            4BED
+LOC  TurnIV       VAL  3300 D      ILE   3303 D                            4BED
+LOC  TurnIV       GLY  3309 D      VAL   3312 D                            4BED
+LOC  TurnII       LYS  3321 D      THR   3324 D                            4BED
+LOC  TurnIV       SER  3330 D      GLU   3333 D                            4BED
+LOC  TurnIV       ASP  3332 D      VAL   3335 D                            4BED
+LOC  TurnVIII     GLU  3333 D      THR   3336 D                            4BED
+LOC  TurnIV       LEU  3340 D      GLY   3343 D                            4BED
+LOC  TurnII       PRO  3354 D      SER   3357 D                            4BED
+LOC  TurnIV       LEU  3363 D      MET   3366 D                            4BED
+LOC  TurnIV       ALA  3378 D      THR   3381 D                            4BED
+LOC  GammaClassic  ALA  1721 D      CYS   1723 D                           4BED
+LOC  GammaClassic  PHE  1812 D      GLY   1814 D                           4BED
+LOC  GammaClassic  LEU  2244 D      GLN   2246 D                           4BED
+LOC  GammaInv     GLU  2896 D      HIS   2898 D                            4BED
+LOC  GammaInv     ALA  3011 D      SER   3013 D                            4BED
+LOC  GammaInv     MET  3137 D      VAL   3139 D                            4BED
+LOC  GammaInv     GLU  3228 D      ALA   3230 D                            4BED
+LOC  GammaInv     PHE  3358 D      ALA   3360 D                            4BED
+LOC  GammaInv     ASN  3388 D      ARG   3390 D                            4BED
+LOC  Disulfide    CYS    48 A      CYS     57 A            PDB             4BED
+LOC  Disulfide    CYS   169 A      CYS    236 A            PDB             4BED
+LOC  Disulfide    CYS   323 A      CYS    335 A            PDB             4BED
+LOC  Disulfide    CYS   468 A      CYS    479 A            PDB             4BED
+LOC  Disulfide    CYS   592 A      CYS    658 A            PDB             4BED
+LOC  Disulfide    CYS   882 A      CYS    893 A            PDB             4BED
+LOC  Disulfide    CYS  1005 A      CYS   1072 A            PDB             4BED
+LOC  Disulfide    CYS  1162 A      CYS   1168 A            PDB             4BED
+LOC  Disulfide    CYS  1299 A      CYS   1308 A            PDB             4BED
+LOC  Disulfide    CYS  1414 A      CYS   1481 A            PDB             4BED
+LOC  Disulfide    CYS  1569 A      CYS   1579 A            PDB             4BED
+LOC  Disulfide    CYS  1711 B      CYS   1722 B            PDB             4BED
+LOC  Disulfide    CYS  1837 B      CYS   1904 B            PDB             4BED
+LOC  Disulfide    CYS  1993 B      CYS   1999 B            PDB             4BED
+LOC  Disulfide    CYS  2128 B      CYS   2138 B            PDB             4BED
+LOC  Disulfide    CYS  2250 B      CYS   2317 B            PDB             4BED
+LOC  Disulfide    CYS  2404 B      CYS   2410 B            PDB             4BED
+LOC  Disulfide    CYS  2548 B      CYS   2558 B            PDB             4BED
+LOC  Disulfide    CYS  2660 B      CYS   2727 B            PDB             4BED
+LOC  Disulfide    CYS  2814 B      CYS   2820 B            PDB             4BED
+LOC  Disulfide    CYS  2952 B      CYS   2962 B            PDB             4BED
+LOC  Disulfide    CYS  3065 B      CYS   3132 B            PDB             4BED
+LOC  Disulfide    CYS  3351 B      CYS   3384 B            PDB             4BED
+LOC  Disulfide    CYS    48 C      CYS     57 C            PDB             4BED
+LOC  Disulfide    CYS   169 C      CYS    236 C            PDB             4BED
+LOC  Disulfide    CYS   323 C      CYS    335 C            PDB             4BED
+LOC  Disulfide    CYS   468 C      CYS    479 C            PDB             4BED
+LOC  Disulfide    CYS   592 C      CYS    658 C            PDB             4BED
+LOC  Disulfide    CYS   882 C      CYS    893 C            PDB             4BED
+LOC  Disulfide    CYS  1005 C      CYS   1072 C            PDB             4BED
+LOC  Disulfide    CYS  1162 C      CYS   1168 C            PDB             4BED
+LOC  Disulfide    CYS  1299 C      CYS   1308 C            PDB             4BED
+LOC  Disulfide    CYS  1414 C      CYS   1481 C            PDB             4BED
+LOC  Disulfide    CYS  1569 C      CYS   1579 C            PDB             4BED
+LOC  Disulfide    CYS  1711 D      CYS   1722 D            PDB             4BED
+LOC  Disulfide    CYS  1837 D      CYS   1904 D            PDB             4BED
+LOC  Disulfide    CYS  1993 D      CYS   1999 D            PDB             4BED
+LOC  Disulfide    CYS  2128 D      CYS   2138 D            PDB             4BED
+LOC  Disulfide    CYS  2250 D      CYS   2317 D            PDB             4BED
+LOC  Disulfide    CYS  2404 D      CYS   2410 D            PDB             4BED
+LOC  Disulfide    CYS  2548 D      CYS   2558 D            PDB             4BED
+LOC  Disulfide    CYS  2660 D      CYS   2727 D            PDB             4BED
+LOC  Disulfide    CYS  2814 D      CYS   2820 D            PDB             4BED
+LOC  Disulfide    CYS  2952 D      CYS   2962 D            PDB             4BED
+LOC  Disulfide    CYS  3065 D      CYS   3132 D            PDB             4BED
+LOC  Disulfide    CYS  3351 D      CYS   3384 D            PDB             4BED

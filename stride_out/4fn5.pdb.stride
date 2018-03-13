@@ -1,0 +1,179 @@
+REM  -------------------- Secondary structure summary -------------------  4FN5
+REM                                                                        4FN5
+CHN  4fn5.pdb A                                                            4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  1    RTTPINRYRNIGICAHVDAGKTTTTERVLFYTGVNHKLSAAVTTFWKGSR   50          4FN5
+STR           GGGEEEEEEE TTTT HHHHHHHHHHHHHHHHHHTTEEEEEE TTT               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  51   GQYDNYRVNVIDTPGHVDFTIEVERSLRVLDGAVVVFCGTSGVEPQSETV  100          4FN5
+STR       T    EEEEEE    TTTTHHHHHHHHHH  EEEEEEETTTBTTHHHHHH               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  101  WRQANKYGVPRIVYVNKMDRQGANFLRVVEQIKKRLGHTPVPVQLAIGAE  150          4FN5
+STR       HHHHHHH   EEEEEETTTTTTT HHHHHHHHHHHH   EEE EEEE TT               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  151  ENFVGQVDLIKMKAIYWNDKGMTYREEEIPAELKDLAEEWRSSMVEAAAE  200          4FN5
+STR       TTT EEEETTTTEEEEEETTTTEEEET   HHHHHHHHHHHHHHHHHHHH               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  201  ANEELMNKYLEEGELSEAEIKEGLRLRTLACEIVPAVCGSSFKNKGVPLV  250          4FN5
+STR         HHHHHHHHHH    HHHHHHHHHHHHHH   EEEEE TTTTTTTHHHH               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  251  LDAVIDYLPAPTEIPAIKGVSPDETVEDERHADDNEPFSSLAFKIATDPF  300          4FN5
+STR       HHHHHHH  TTTTT   EEETTTT  EEE TTTTTT  EEEEEEEEEETT               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  301  VGTLTFARVYSGVLSSGDSVLNSVKGKKERVGRMVQMHANQREEIKEVRA  350          4FN5
+STR       TEEEEEEEEEE  EETTEEEETTTTT EEEE  EE  TTTT  EE EETT               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  351  GDIAALIGMKDVTTGDTLCSIEKPIILEPEPVISVAVEPKTKADQEKMGI  400          4FN5
+STR       TEEEEETTTTTTTTTEEEETTTTT B      EEEEEEETTTTHHHHHHH               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  401  ALGKLAQEDPSFRVKTDEESGQTIISGMGELHLDIIVDRMKREFGVEANI  450          4FN5
+STR       HHHHHHHHTTTTEEEEETTTTEEEEEE  HHHHHHHHHHHHHTTT  EEE               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  451  GKPQVAYRETITKDNVEIEGKFVRQSGGRGQFGHCWIRFSAADVDKGNIT  500          4FN5
+STR       E   TTTEEE  TTTEEEEEEEEEEETTEEEEEEEEEEEE   BTTTTB                4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  501  EGLVFENEVGGVVPKEYIPAIQKGIEEQMKNGVVAGYPLIGLKATVFDGS  550          4FN5
+STR        EEEEEE TTTTTTTTHHHHHHHHHHHHHHHTTTTT  B EEEEEEEE                 4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  551  YHDVDSNEMAFKIAASMATKQLAQKGGGKVLEPIMKVEVVTPEDYMGDVM  600          4FN5
+STR        TTTTB HHHHHHHHHHHHHGGGTTTT EEEEEEEEEEEEEETTHHHHHH               4FN5
+REM                                                                        4FN5
+REM                .         .         .         .         .               4FN5
+SEQ  601  GDLNRRRGLIQGMEDTVSGKVIRAEVPLGEMFGYATDVRSMSQGRASYSM  650          4FN5
+STR       HHHGGG  EEEEEEETTTEEEEEEEEEGGGTTTHHHHHHHHHTTT EEEE               4FN5
+REM                                                                        4FN5
+REM                .         .                                             4FN5
+SEQ  651  EFSKYAEAPSNIVEALVKKQ                                670          4FN5
+STR       EEEEEEE  HHHHHHHHHH                                              4FN5
+REM                                                                        4FN5
+REM                                                                        4FN5
+REM                                                                        4FN5
+LOC  AlphaHelix   LYS    23 A      LEU     40 A                            4FN5
+LOC  AlphaHelix   THR    96 A      VAL    105 A                            4FN5
+LOC  AlphaHelix   PRO   121 A      TYR    133 A                            4FN5
+LOC  AlphaHelix   PHE   151 A      LEU    162 A                            4FN5
+LOC  AlphaHelix   ALA   209 A      GLU    228 A                            4FN5
+LOC  AlphaHelix   GLU   231 A      GLU    240 A                            4FN5
+LOC  AlphaHelix   GLU   245 A      ALA    258 A                            4FN5
+LOC  AlphaHelix   VAL   275 A      TYR    285 A                            4FN5
+LOC  AlphaHelix   ASP   427 A      GLU    441 A                            4FN5
+LOC  AlphaHelix   GLU   463 A      ARG    475 A                            4FN5
+LOC  AlphaHelix   TYR   552 A      ASN    566 A                            4FN5
+LOC  AlphaHelix   GLU   593 A      LYS    605 A                            4FN5
+LOC  AlphaHelix   TYR   630 A      LEU    638 A                            4FN5
+LOC  AlphaHelix   TYR   669 A      SER    677 A                            4FN5
+LOC  AlphaHelix   SER   695 A      LYS    704 A                            4FN5
+LOC  310Helix     ILE     7 A      ARG      9 A                            4FN5
+LOC  310Helix     GLN   606 A      ALA    608 A                            4FN5
+LOC  310Helix     ASN   639 A      ARG    641 A                            4FN5
+LOC  310Helix     LEU   663 A      GLU    665 A                            4FN5
+LOC  Strand       TYR    10 A      CYS     16 A                            4FN5
+LOC  Strand       ALA    67 A      TRP     72 A                            4FN5
+LOC  Strand       TYR    82 A      ILE     87 A                            4FN5
+LOC  Strand       GLY   108 A      CYS    114 A                            4FN5
+LOC  Strand       ARG   137 A      ASN    142 A                            4FN5
+LOC  Strand       PRO   166 A      PRO    168 A                            4FN5
+LOC  Strand       GLN   170 A      ILE    173 A                            4FN5
+LOC  Strand       GLY   181 A      ASP    184 A                            4FN5
+LOC  Strand       LYS   189 A      ASN    194 A                            4FN5
+LOC  Strand       THR   201 A      GLU    204 A                            4FN5
+LOC  Strand       VAL   262 A      CYS    266 A                            4FN5
+LOC  Strand       LYS   296 A      VAL    298 A                            4FN5
+LOC  Strand       GLU   306 A      GLU    308 A                            4FN5
+LOC  Strand       SER   318 A      ASP    327 A                            4FN5
+LOC  Strand       GLY   331 A      SER    340 A                            4FN5
+LOC  Strand       LEU   343 A      SER    344 A                            4FN5
+LOC  Strand       ASP   347 A      LEU    350 A                            4FN5
+LOC  Strand       LYS   357 A      VAL    360 A                            4FN5
+LOC  Strand       MET   363 A      VAL    364 A                            4FN5
+LOC  Strand       GLU   373 A      ILE    374 A                            4FN5
+LOC  Strand       GLU   376 A      VAL    377 A                            4FN5
+LOC  Strand       ASP   381 A      LEU    385 A                            4FN5
+LOC  Strand       ASP   395 A      CYS    398 A                            4FN5
+LOC  Strand       ILE   416 A      PRO    422 A                            4FN5
+LOC  Strand       ARG   446 A      ASP    450 A                            4FN5
+LOC  Strand       GLN   455 A      GLY    460 A                            4FN5
+LOC  Strand       ALA   481 A      GLY    484 A                            4FN5
+LOC  Strand       ARG   491 A      THR    493 A                            4FN5
+LOC  Strand       VAL   499 A      SER    509 A                            4FN5
+LOC  Strand       ARG   512 A      SER    523 A                            4FN5
+LOC  Strand       GLY   536 A      ASN    541 A                            4FN5
+LOC  Strand       GLY   576 A      ASP    583 A                            4FN5
+LOC  Strand       LYS   614 A      PRO    627 A                            4FN5
+LOC  Strand       LEU   644 A      ASP    650 A                            4FN5
+LOC  Strand       GLY   654 A      PRO    662 A                            4FN5
+LOC  Strand       SER   682 A      GLU    692 A                            4FN5
+LOC  TurnIV       HIS    18 A      ALA     21 A                            4FN5
+LOC  TurnVIII     SER    65 A      VAL     68 A                            4FN5
+LOC  TurnIV       GLY    74 A      GLY     77 A                            4FN5
+LOC  TurnI        HIS    92 A      PHE     95 A                            4FN5
+LOC  TurnIV       VAL    93 A      THR     96 A                            4FN5
+LOC  TurnIV       CYS   114 A      SER    117 A                            4FN5
+LOC  TurnIV       GLY   115 A      GLY    118 A                            4FN5
+LOC  TurnIV       SER   117 A      GLU    120 A                            4FN5
+LOC  TurnI        LYS   143 A      ARG    146 A                            4FN5
+LOC  TurnII       ARG   146 A      ALA    149 A                            4FN5
+LOC  TurnIV       ALA   175 A      ASN    178 A                            4FN5
+LOC  TurnI        GLU   176 A      PHE    179 A                            4FN5
+LOC  TurnIV       ASP   184 A      LYS    187 A                            4FN5
+LOC  TurnI        LEU   185 A      MET    188 A                            4FN5
+LOC  TurnIV       ASN   194 A      GLY    199 A                            4FN5
+LOC  TurnIV       ASP   195 A      MET    200 A                            4FN5
+LOC  TurnIV       GLY   199 A      TYR    202 A                            4FN5
+LOC  TurnI        SER   268 A      LYS    271 A                            4FN5
+LOC  TurnI        SER   269 A      ASN    272 A                            4FN5
+LOC  TurnIV       ASN   272 A      VAL    275 A                            4FN5
+LOC  TurnI        ALA   288 A      GLU    291 A                            4FN5
+LOC  TurnI        PRO   289 A      ILE    292 A                            4FN5
+LOC  TurnIV       SER   299 A      GLU    303 A                            4FN5
+LOC  TurnI        ASP   312 A      GLU    315 A                            4FN5
+LOC  TurnIV       ASP   327 A      VAL    330 A                            4FN5
+LOC  TurnI        PRO   328 A      GLY    331 A                            4FN5
+LOC  TurnII       SER   344 A      ASP    347 A                            4FN5
+LOC  TurnIV       ASN   351 A      LYS    354 A                            4FN5
+LOC  TurnIV       SER   352 A      GLY    355 A                            4FN5
+LOC  TurnIV       HIS   367 A      GLN    370 A                            4FN5
+LOC  TurnII       ARG   378 A      ASP    381 A                            4FN5
+LOC  TurnIV       LEU   385 A      MET    388 A                            4FN5
+LOC  TurnIV       MET   388 A      VAL    391 A                            4FN5
+LOC  TurnII       THR   392 A      ASP    395 A                            4FN5
+LOC  TurnIV       SER   399 A      LYS    402 A                            4FN5
+LOC  TurnVIII     ILE   400 A      PRO    403 A                            4FN5
+LOC  TurnVIII     PRO   422 A      LYS    425 A                            4FN5
+LOC  TurnI        THR   424 A      ASP    427 A                            4FN5
+LOC  TurnI        ASP   442 A      PHE    445 A                            4FN5
+LOC  TurnI        ASP   450 A      SER    453 A                            4FN5
+LOC  TurnI        GLU   451 A      GLY    454 A                            4FN5
+LOC  TurnI        ARG   475 A      GLY    478 A                            4FN5
+LOC  TurnIV       LYS   496 A      VAL    499 A                            4FN5
+LOC  TurnI'       SER   509 A      ARG    512 A                            4FN5
+LOC  TurnIV       VAL   527 A      GLY    531 A                            4FN5
+LOC  TurnIV       ASP   528 A      ASN    532 A                            4FN5
+LOC  TurnIV       VAL   543 A      VAL    547 A                            4FN5
+LOC  TurnVIII     GLY   546 A      PRO    549 A                            4FN5
+LOC  TurnI        PRO   549 A      TYR    552 A                            4FN5
+LOC  TurnIV       GLY   567 A      ALA    570 A                            4FN5
+LOC  TurnIV       VAL   568 A      GLY    571 A                            4FN5
+LOC  TurnIV       HIS   587 A      ASP    590 A                            4FN5
+LOC  TurnI        ASP   588 A      SER    591 A                            4FN5
+LOC  TurnIV       ALA   608 A      GLY    611 A                            4FN5
+LOC  TurnI        GLN   609 A      GLY    612 A                            4FN5
+LOC  TurnIV       PRO   627 A      TYR    630 A                            4FN5
+LOC  TurnIV       THR   651 A      GLY    654 A                            4FN5
+LOC  TurnII       MET   666 A      TYR    669 A                            4FN5
+LOC  TurnI'       SER   677 A      ARG    680 A                            4FN5
+LOC  GammaInv     ARG   203 A      GLU    205 A                            4FN5
+LOC  GammaInv     HIS   310 A      ASP    312 A                            4FN5
+LOC  GammaInv     VAL   488 A      TYR    490 A                            4FN5

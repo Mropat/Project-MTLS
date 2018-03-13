@@ -1,0 +1,256 @@
+REM  -------------------- Secondary structure summary -------------------  4FNA
+REM                                                                        4FNA
+CHN  4fna.pdb A                                                            4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  1    NNKAETKSYKMDDGKTVDIPKDPKRIAVVAPTYAGGLKKLGANIVAVNQQ   50          4FNA
+STR            EEEE TTTT  EEEETTTTTEEETTHHHHHHHHHH   EEEEEGG               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  51   VDQSKVLKDKFKGVTKIGDGDVEKVAKEKPDLIIVYSTDKDIKKYQKVAP  100          4FNA
+STR       GGG HHHHHHTTTT EETTTTHHHHHH  TTEEEEETTT HHHHHHHH                 4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  101  TVVVDYNKHKYLEQQEMLGKIVGKEDKVKAWKKDWEETTAKDGKEIKKAI  150          4FNA
+STR       EEEE GGG  HHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHH               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  151  GQDATVSLFDEFDKKLYTYGDNWGRGGEVLYQAFGLKMQPEQQKLTAKAG  200          4FNA
+STR       TTTTEEEEEEEETTEEEE  TTTTTTHHHHHTTTT EE HHHHH  TTTT               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  201  WAEVKQEEIEKYAGDYIVSTSEGKPTPGYESTNMWKNLKATKEGHIVKVD  250          4FNA
+STR        EEETTTTGGG  TTEEEEETTTTTT TTTTTTTTTTTHHHHH  EEE                 4FNA
+REM                                                                        4FNA
+REM                .         .                                             4FNA
+SEQ  251  AGTYWYNDPYTLDFMRKDLKEKLIKAAK                        278          4FNA
+STR       GGGTTT  HHHHHHHHHHHHHHHHHHH                                      4FNA
+REM                                                                        4FNA
+CHN  4fna.pdb B                                                            4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  1    NNKAETKSYKMDDGKTVDIPKDPKRIAVVAPTYAGGLKKLGANIVAVNQQ   50          4FNA
+STR            EEEE TTTT  EEEETTTTTEEETTTHHHHHHHHH   EEEEEGG               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  51   VDQSKVLKDKFKGVTKIGDGDVEKVAKEKPDLIIVYSTDKDIKKYQKVAP  100          4FNA
+STR       GGGTTTTTTTTTTT EETTTTHHHHHH    EEEEETTT HHHHHHHH                 4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  101  TVVVDYNKHKYLEQQEMLGKIVGKEDKVKAWKKDWEETTAKDGKEIKKAI  150          4FNA
+STR       EEEE GGG  HHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHH               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  151  GQDATVSLFDEFDKKLYTYGDNWGRGGEVLYQAFGLKMQPEQQKLTAKAG  200          4FNA
+STR       TTTTEEEEEEEETTEEEETTTTT HHHHHHHTTTT EE HHHHHTTTT                 4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  201  WAEVKQEEIEKYAGDYIVSTSEGKPTPGYESTNMWKNLKATKEGHIVKVD  250          4FNA
+STR        EEETTTGGGGG TTEEEEE TTTTTTTTTTTTTTTTTHHHHH  EEE T               4FNA
+REM                                                                        4FNA
+REM                .         .                                             4FNA
+SEQ  251  AGTYWYNDPYTLDFMRKDLKEKLIKAAK                        278          4FNA
+STR       TTTTTT  HHHHHHHHHHHHHHHHHHH                                      4FNA
+REM                                                                        4FNA
+CHN  4fna.pdb C                                                            4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  1    ETKSYKMDDGKTVDIPKDPKRIAVVAPTYAGGLKKLGANIVAVNQQVDQS   50          4FNA
+STR         EEE TTTT  EEETTTTTTEEETTHHHHHHHHHH   EEEEEGGGGGT               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  51   KVLKDKFKGVTKIGDGDVEKVAKEKPDLIIVYSTDKDIKKYQKVAPTVVV  100          4FNA
+STR       TTTTTTTTTT EETTTTHHHHHH  TTEEEEETTT HHHHHHHH  EEEE               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  101  DYNKHKYLEQQEMLGKIVGKEDKVKAWKKDWEETTAKDGKEIKKAIGQDA  150          4FNA
+STR        GGG  HHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHTTTT               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  151  TVSLFDEFDKKLYTYGDNWGRGGEVLYQAFGLKMQPEQQKLTAKAGWAEV  200          4FNA
+STR       EEEEEEEETTEEEETTTTTTTTHHHHHTTTT EE GGGTTTTTT   EEE               4FNA
+REM                                                                        4FNA
+REM                .         .         .         .         .               4FNA
+SEQ  201  KQEEIEKYAGDYIVSTSEGKPTPGYESTNMWKNLKATKEGHIVKVDAGTY  250          4FNA
+STR       TTTTTGGG TTEEEEE TTTT TTTTTTTTTTTTHHHHH  EEE TTTTT               4FNA
+REM                                                                        4FNA
+REM                .         .                                             4FNA
+SEQ  251  WYNDPYTLDFMRKDLKEKLIKAAK                            274          4FNA
+STR       TT  HHHHHHHHHHHHHHHHHHH                                          4FNA
+REM                                                                        4FNA
+REM                                                                        4FNA
+REM                                                                        4FNA
+LOC  AlphaHelix   PRO    55 A      LEU     64 A                            4FNA
+LOC  AlphaHelix   LYS    79 A      LYS     84 A                            4FNA
+LOC  AlphaHelix   VAL    96 A      LYS    101 A                            4FNA
+LOC  AlphaHelix   ASP   115 A      VAL    122 A                            4FNA
+LOC  AlphaHelix   TYR   135 A      VAL    146 A                            4FNA
+LOC  AlphaHelix   GLU   149 A      ILE    174 A                            4FNA
+LOC  AlphaHelix   GLY   201 A      TYR    205 A                            4FNA
+LOC  AlphaHelix   PRO   214 A      LYS    218 A                            4FNA
+LOC  AlphaHelix   LYS   263 A      GLU    267 A                            4FNA
+LOC  AlphaHelix   PRO   283 A      ALA    301 A                            4FNA
+LOC  AlphaHelix   THR    56 B      LEU     64 B                            4FNA
+LOC  AlphaHelix   VAL    96 B      LYS    101 B                            4FNA
+LOC  AlphaHelix   ASP   115 B      VAL    122 B                            4FNA
+LOC  AlphaHelix   TYR   135 B      VAL    146 B                            4FNA
+LOC  AlphaHelix   GLU   149 B      ILE    174 B                            4FNA
+LOC  AlphaHelix   ARG   199 B      TYR    205 B                            4FNA
+LOC  AlphaHelix   PRO   214 B      LYS    218 B                            4FNA
+LOC  AlphaHelix   LYS   263 B      GLU    267 B                            4FNA
+LOC  AlphaHelix   PRO   283 B      ALA    301 B                            4FNA
+LOC  AlphaHelix   PRO    55 C      LEU     64 C                            4FNA
+LOC  AlphaHelix   VAL    96 C      LYS    101 C                            4FNA
+LOC  AlphaHelix   ASP   115 C      VAL    122 C                            4FNA
+LOC  AlphaHelix   TYR   135 C      VAL    146 C                            4FNA
+LOC  AlphaHelix   GLU   149 C      ILE    174 C                            4FNA
+LOC  AlphaHelix   GLY   201 C      TYR    205 C                            4FNA
+LOC  AlphaHelix   LYS   263 C      GLU    267 C                            4FNA
+LOC  AlphaHelix   PRO   283 C      ALA    301 C                            4FNA
+LOC  310Helix     GLN    73 A      GLN     77 A                            4FNA
+LOC  310Helix     TYR   130 A      LYS    132 A                            4FNA
+LOC  310Helix     ILE   233 A      LYS    235 A                            4FNA
+LOC  310Helix     ALA   275 A      THR    277 A                            4FNA
+LOC  310Helix     GLN    73 B      GLN     77 B                            4FNA
+LOC  310Helix     TYR   130 B      LYS    132 B                            4FNA
+LOC  310Helix     GLU   232 B      TYR    236 B                            4FNA
+LOC  310Helix     GLN    73 C      GLN     77 C                            4FNA
+LOC  310Helix     TYR   130 C      LYS    132 C                            4FNA
+LOC  310Helix     PRO   214 C      GLN    216 C                            4FNA
+LOC  310Helix     GLU   234 C      TYR    236 C                            4FNA
+LOC  Strand       THR    30 A      TYR     33 A                            4FNA
+LOC  Strand       VAL    41 A      PRO     44 A                            4FNA
+LOC  Strand       ILE    50 A      VAL     52 A                            4FNA
+LOC  Strand       ILE    68 A      ASN     72 A                            4FNA
+LOC  Strand       LYS    90 A      ILE     91 A                            4FNA
+LOC  Strand       LEU   106 A      TYR    110 A                            4FNA
+LOC  Strand       THR   125 A      VAL    128 A                            4FNA
+LOC  Strand       THR   179 A      PHE    186 A                            4FNA
+LOC  Strand       LYS   189 A      THR    192 A                            4FNA
+LOC  Strand       LYS   211 A      MET    212 A                            4FNA
+LOC  Strand       ALA   226 A      VAL    228 A                            4FNA
+LOC  Strand       TYR   240 A      THR    244 A                            4FNA
+LOC  Strand       ILE   270 A      LYS    272 A                            4FNA
+LOC  Strand       THR    30 B      TYR     33 B                            4FNA
+LOC  Strand       VAL    41 B      PRO     44 B                            4FNA
+LOC  Strand       ILE    50 B      VAL     52 B                            4FNA
+LOC  Strand       ILE    68 B      ASN     72 B                            4FNA
+LOC  Strand       LYS    90 B      ILE     91 B                            4FNA
+LOC  Strand       LEU   106 B      TYR    110 B                            4FNA
+LOC  Strand       THR   125 B      VAL    128 B                            4FNA
+LOC  Strand       THR   179 B      PHE    186 B                            4FNA
+LOC  Strand       LYS   189 B      THR    192 B                            4FNA
+LOC  Strand       LYS   211 B      MET    212 B                            4FNA
+LOC  Strand       ALA   226 B      VAL    228 B                            4FNA
+LOC  Strand       TYR   240 B      THR    244 B                            4FNA
+LOC  Strand       ILE   270 B      LYS    272 B                            4FNA
+LOC  Strand       LYS    31 C      TYR     33 C                            4FNA
+LOC  Strand       VAL    41 C      ILE     43 C                            4FNA
+LOC  Strand       ILE    50 C      VAL     52 C                            4FNA
+LOC  Strand       ILE    68 C      ASN     72 C                            4FNA
+LOC  Strand       LYS    90 C      ILE     91 C                            4FNA
+LOC  Strand       LEU   106 C      TYR    110 C                            4FNA
+LOC  Strand       THR   125 C      VAL    128 C                            4FNA
+LOC  Strand       THR   179 C      PHE    186 C                            4FNA
+LOC  Strand       LYS   189 C      THR    192 C                            4FNA
+LOC  Strand       LYS   211 C      MET    212 C                            4FNA
+LOC  Strand       ALA   226 C      VAL    228 C                            4FNA
+LOC  Strand       TYR   240 C      THR    244 C                            4FNA
+LOC  Strand       ILE   270 C      LYS    272 C                            4FNA
+LOC  TurnIV       MET    35 A      GLY     38 A                            4FNA
+LOC  TurnVIII     PRO    44 A      PRO     47 A                            4FNA
+LOC  TurnIV       PRO    47 A      ILE     50 A                            4FNA
+LOC  TurnIV       VAL    52 A      PRO     55 A                            4FNA
+LOC  TurnII       PHE    85 A      VAL     88 A                            4FNA
+LOC  TurnII       GLY    92 A      ASP     95 A                            4FNA
+LOC  TurnVIII     PRO   104 A      ILE    107 A                            4FNA
+LOC  TurnI        TYR   110 A      ASP    113 A                            4FNA
+LOC  TurnI        GLY   175 A      ALA    178 A                            4FNA
+LOC  TurnIV       GLU   185 A      LYS    188 A                            4FNA
+LOC  TurnI'       PHE   186 A      LYS    189 A                            4FNA
+LOC  TurnIV       ASP   195 A      GLY    198 A                            4FNA
+LOC  TurnIV       GLY   198 A      GLY    201 A                            4FNA
+LOC  TurnIV       TYR   205 A      PHE    208 A                            4FNA
+LOC  TurnIV       GLN   206 A      GLY    209 A                            4FNA
+LOC  TurnIV       ALA   221 A      GLY    224 A                            4FNA
+LOC  TurnIV       LYS   229 A      GLU    232 A                            4FNA
+LOC  TurnIV       GLN   230 A      ILE    233 A                            4FNA
+LOC  TurnVIII     GLY   238 A      ILE    241 A                            4FNA
+LOC  TurnIV       SER   245 A      LYS    248 A                            4FNA
+LOC  TurnI        GLY   247 A      THR    250 A                            4FNA
+LOC  TurnIV       GLY   252 A      SER    255 A                            4FNA
+LOC  TurnIV       THR   256 A      TRP    259 A                            4FNA
+LOC  TurnIV       ASN   257 A      LYS    260 A                            4FNA
+LOC  TurnI        MET   258 A      ASN    261 A                            4FNA
+LOC  TurnI        TRP   259 A      LEU    262 A                            4FNA
+LOC  TurnIV       THR   277 A      TYR    280 A                            4FNA
+LOC  TurnIV       MET    35 B      GLY     38 B                            4FNA
+LOC  TurnVIII     PRO    44 B      PRO     47 B                            4FNA
+LOC  TurnIV       PRO    47 B      ILE     50 B                            4FNA
+LOC  TurnIV       VAL    52 B      PRO     55 B                            4FNA
+LOC  TurnVIII     ILE    68 B      VAL     71 B                            4FNA
+LOC  TurnIV       SER    78 B      LEU     81 B                            4FNA
+LOC  TurnI        LYS    79 B      LYS     82 B                            4FNA
+LOC  TurnI        LEU    81 B      LYS     84 B                            4FNA
+LOC  TurnI        LYS    82 B      PHE     85 B                            4FNA
+LOC  TurnIV       ASP    83 B      LYS     86 B                            4FNA
+LOC  TurnII       PHE    85 B      VAL     88 B                            4FNA
+LOC  TurnII       GLY    92 B      ASP     95 B                            4FNA
+LOC  TurnI        TYR   110 B      ASP    113 B                            4FNA
+LOC  TurnI        GLY   175 B      ALA    178 B                            4FNA
+LOC  TurnIV       GLU   185 B      LYS    188 B                            4FNA
+LOC  TurnI'       PHE   186 B      LYS    189 B                            4FNA
+LOC  TurnIV       TYR   193 B      ASN    196 B                            4FNA
+LOC  TurnIV       GLY   194 B      TRP    197 B                            4FNA
+LOC  TurnIV       TYR   205 B      PHE    208 B                            4FNA
+LOC  TurnIV       GLN   206 B      GLY    209 B                            4FNA
+LOC  TurnIV       LEU   219 B      LYS    222 B                            4FNA
+LOC  TurnI        LYS   229 B      GLU    232 B                            4FNA
+LOC  TurnVIII     GLY   238 B      ILE    241 B                            4FNA
+LOC  TurnIV       GLU   246 B      PRO    249 B                            4FNA
+LOC  TurnIV       GLY   247 B      THR    250 B                            4FNA
+LOC  TurnIV       PRO   251 B      GLU    254 B                            4FNA
+LOC  TurnII       TYR   253 B      THR    256 B                            4FNA
+LOC  TurnIV       THR   256 B      TRP    259 B                            4FNA
+LOC  TurnIV       ASN   257 B      LYS    260 B                            4FNA
+LOC  TurnI        TRP   259 B      LEU    262 B                            4FNA
+LOC  TurnI        ASP   274 B      THR    277 B                            4FNA
+LOC  TurnIV       THR   277 B      TYR    280 B                            4FNA
+LOC  TurnIV       MET    35 C      GLY     38 C                            4FNA
+LOC  TurnVIII     PRO    44 C      PRO     47 C                            4FNA
+LOC  TurnIV       PRO    47 C      ILE     50 C                            4FNA
+LOC  TurnIV       VAL    52 C      PRO     55 C                            4FNA
+LOC  TurnVIII     ILE    68 C      VAL     71 C                            4FNA
+LOC  TurnIV       SER    78 C      LEU     81 C                            4FNA
+LOC  TurnI        LYS    79 C      LYS     82 C                            4FNA
+LOC  TurnI        LEU    81 C      LYS     84 C                            4FNA
+LOC  TurnI        LYS    82 C      PHE     85 C                            4FNA
+LOC  TurnIV       ASP    83 C      LYS     86 C                            4FNA
+LOC  TurnII       PHE    85 C      VAL     88 C                            4FNA
+LOC  TurnII       GLY    92 C      ASP     95 C                            4FNA
+LOC  TurnVIII     PRO   104 C      ILE    107 C                            4FNA
+LOC  TurnI        TYR   110 C      ASP    113 C                            4FNA
+LOC  TurnI        GLY   175 C      ALA    178 C                            4FNA
+LOC  TurnIV       GLU   185 C      LYS    188 C                            4FNA
+LOC  TurnI'       PHE   186 C      LYS    189 C                            4FNA
+LOC  TurnIV       TYR   193 C      ASN    196 C                            4FNA
+LOC  TurnVIII     GLY   194 C      TRP    197 C                            4FNA
+LOC  TurnIV       GLY   198 C      GLY    201 C                            4FNA
+LOC  TurnIV       TYR   205 C      PHE    208 C                            4FNA
+LOC  TurnIV       GLN   206 C      GLY    209 C                            4FNA
+LOC  TurnI        GLN   216 C      LEU    219 C                            4FNA
+LOC  TurnI        GLN   217 C      THR    220 C                            4FNA
+LOC  TurnIV       LEU   219 C      LYS    222 C                            4FNA
+LOC  TurnIV       LYS   229 C      GLU    232 C                            4FNA
+LOC  TurnIV       GLN   230 C      ILE    233 C                            4FNA
+LOC  TurnIV       GLU   231 C      GLU    234 C                            4FNA
+LOC  TurnVIII     GLY   238 C      ILE    241 C                            4FNA
+LOC  TurnIV       GLU   246 C      PRO    249 C                            4FNA
+LOC  TurnIV       PRO   251 C      GLU    254 C                            4FNA
+LOC  TurnIV       TYR   253 C      THR    256 C                            4FNA
+LOC  TurnIV       THR   256 C      TRP    259 C                            4FNA
+LOC  TurnIV       ASN   257 C      LYS    260 C                            4FNA
+LOC  TurnI        MET   258 C      ASN    261 C                            4FNA
+LOC  TurnI        TRP   259 C      LEU    262 C                            4FNA
+LOC  TurnI        ASP   274 C      THR    277 C                            4FNA
+LOC  TurnIV       THR   277 C      TYR    280 C                            4FNA

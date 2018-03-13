@@ -1,0 +1,802 @@
+REM  -------------------- Secondary structure summary -------------------  3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb A                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    RVDVMDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMD   50          3G1H
+STR       TTTT   GGGEEEEE    HHHHHHHHHHHHTTT EEEE HHHHHHH HH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   IIAEFRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGAD  100          3G1H
+STR       HHHHHHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  SVRACLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNY  150          3G1H
+STR       HHHHHHHHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EE               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  VGPSTRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRS  200          3G1H
+STR       E TTTTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEE HH               3G1H
+REM                                                                        3G1H
+REM                .         .                                             3G1H
+SEQ  201  IYLADNPAAAAAGIIESIKDL                               221          3G1H
+STR       HHHTTTHHHHHHHHHHHHHH                                             3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb B                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    DVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEF   50          3G1H
+STR         GGGEEEEE    HHHHHHHHTTTTTTT EEEE HHHHHHH  HHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   RKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRAC  100          3G1H
+STR       HHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  LNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPST  150          3G1H
+STR       HHHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE TTT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  RPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLAD  200          3G1H
+STR       THHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTT EEEE HHHHHTT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  NPAAAAAGIIESIKDL                                    216          3G1H
+STR       THHHHHHHHHHHTTT                                                  3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb C                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    VMDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIA   50          3G1H
+STR           GGGEEEEE    HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   EFRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVR  100          3G1H
+STR       HHHHHH  EEEEEEEE   HHHHHHHHHHHHHH TTEEEEETTTTHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  ACLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGP  150          3G1H
+STR       HHHHHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE T               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  STRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYL  200          3G1H
+STR       TTTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEE HHHHH               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  ADNPAAAAAGIIESIKDL                                  218          3G1H
+STR       TTTHHHHHHHHHHHH                                                  3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb D                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    VMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEFR   50          3G1H
+STR        GGGEEEEE    HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   KRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRACL  100          3G1H
+STR       HHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  NVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPSTR  150          3G1H
+STR       HHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE TTTT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  PERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLADN  200          3G1H
+STR       HHHHHHHHHHHTTTTEEEE TBBTTTB HHHHHTTT EEEE HHHHHTTT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  PAAAAAGIIESIKDL                                     215          3G1H
+STR       HHHHHHHHHHHHH                                                    3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb E                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE   50          3G1H
+STR         TTTTEEEEE    HHHHHHHHHHHHTTT EEEE HHHHHHH HHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA  100          3G1H
+STR       HHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS  150          3G1H
+STR       HHHHHHHH  EEEEE     GGGG HHHHHHHHHHHHHHHH   EEE TT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA  200          3G1H
+STR       TTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEE HHHHHT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  DNPAAAAAGIIESIKDL                                   217          3G1H
+STR       TTHHHHHHHHHHH                                                    3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb F                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE   50          3G1H
+STR         TTTTEEEEE    HHHHHHHHHHTTTTT EEEE HHHHHHH HHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA  100          3G1H
+STR       HHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS  150          3G1H
+STR       HHHHHHHH  EEEEE     GGGG HHHHHHHHHHHHHHHH   EEE TT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA  200          3G1H
+STR       TTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEEHHHHHHT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  DNPAAAAAGIIESIKDL                                   217          3G1H
+STR       TTHHHHHHHHHHH                                                    3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb G                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE   50          3G1H
+STR          GGGEEEEE    HHHHHHHHHHHTTTT EEEEEHHHHHHH HHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA  100          3G1H
+STR       HHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS  150          3G1H
+STR       HHHHHHH   EEEEE     GGGGTTGGGGHHHHHHHHHHH   EEE TT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA  200          3G1H
+STR       TTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEE HHHHHT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  DNPAAAAAGIIESIKDL                                   217          3G1H
+STR       TTHHHHHHHHHHHTTT                                                 3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb H                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    DVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEF   50          3G1H
+STR        TTTTEEEEE    HHHHHHHHHHTTTTT EEEE HHHHHHH HHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   RKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRAC  100          3G1H
+STR       HHH   EEEEEEEE   HHHHHHHHHHHHHH TTEEEEETTTTHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  LNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPST  150          3G1H
+STR       HHHHHH   EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE TTT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  RPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLAD  200          3G1H
+STR       THHHHHHHHHHHTTTTEEEE  TBTTTB HHHHHTTTTEEEE HHHHHTT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  NPAAAAAGIIESIKDL                                    216          3G1H
+STR       THHHHHHHHHHHHH                                                   3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb I                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    RLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEFRKRF   50          3G1H
+STR        EEEE     HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   GCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRACLNVA  100          3G1H
+STR         EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  EEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPSTRPER  150          3G1H
+STR       HHH  EEEEE     GGGGTTGGGGHHHHHHHHHHH   EEE TTTTTHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  LSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLADNPAA  200          3G1H
+STR       HHHHHHHHTTTTEEEEEEETTTT TTTTTTTTTTEEEE HHHHHTTTHHH               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  AAAGIIESIKDL                                        212          3G1H
+STR       HHHHHHHHHHH                                                      3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb J                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    VMDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIA   50          3G1H
+STR          TTTTEEEEET   HHHHHHHHHHHHTTT EEEEEHHHHHHH HHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   EFRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVR  100          3G1H
+STR       HHHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  ACLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGP  150          3G1H
+STR       HHHHHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE T               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  STRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYL  200          3G1H
+STR       TTTHHHHHHHHHHHTTTTEEEEETBTTTTB HHHHHHHTTEEEE HHHHH               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  ADNPAAAAAGIIESIKDL                                  218          3G1H
+STR       TTTHHHHHHHHHHH                                                   3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb K                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    DVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEF   50          3G1H
+STR        TTTTEEEEE    HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   RKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRAC  100          3G1H
+STR       HHHH  EEEETT B     HHHHHHHHHHHH   EEEEETTTT GGGGGG               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  LNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPST  150          3G1H
+STR       TTTTGGG  EEEEE     GGGGTTTTTTTTTTTGGGGGG   EEE TTT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  RPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLAD  200          3G1H
+STR       TTTTTTTGGGGGTTTTEEEE TTBTTTBTTTTTTTTTTEEEE HHHHHTT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  NPAAAAAGIIESIKDL                                    216          3G1H
+STR       THHHHHHGGGGGG                                                    3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb L                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    DVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAEF   50          3G1H
+STR         GGGEEEEE    HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   RKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRAC  100          3G1H
+STR       HHHH  EEEETT      HHHHHHHHHHHHH   EEE TTTTTTTTTHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  LNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPST  150          3G1H
+STR       HHHHHHH  EEE       GGGTTTTTTTTTTTTGGGGG    EE  TTT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  RPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLAD  200          3G1H
+STR       TGGGGGGGTTTTT   EEEEETTTT   TTTTTTTTTTEEEE HHHHHTT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  NPAAAAAGIIESIKDL                                    216          3G1H
+STR       TTTHHHHHHHHHTTT                                                  3G1H
+REM                                                                        3G1H
+CHN  3g1h.pdb M                                                            3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  1    MDVMNRLILAMDLMNRDDALRVTGEVREYIDTVKIGYPLVLSEGMDIIAE   50          3G1H
+STR         TTTTEEEEE    HHHHHHHHHHHTTTT EEEE HHHHHHH HHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  51   FRKRFGCRIIADFKVADIPETNEKICRATFKAGADAIIVHGFPGADSVRA  100          3G1H
+STR       HHHHH  EEEEEEEE   HHHHHHHHHHHHHH   EEEEETTTTHHHHHH               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  101  CLNVAEEMGREVFLLTEMSHPGAEMFIQGAADEIARMGVDLGVKNYVGPS  150          3G1H
+STR       HHHHHHHH  EEEEE     GGGGTTTGGGHHHHHHHHHHH   EEE TT               3G1H
+REM                                                                        3G1H
+REM                .         .         .         .         .               3G1H
+SEQ  151  TRPERLSRLREIIGQDSFLISPGVGAQGGDPGETLRFADAIIVGRSIYLA  200          3G1H
+STR       TTHHHHHHHHHHHTTTTEEEE TBTTTTB HHHHHTTTTEEEE HHHHHT               3G1H
+REM                                                                        3G1H
+REM                .                                                       3G1H
+SEQ  201  DNPAAAAAGIIESIKDL                                   217          3G1H
+STR       TTHHHHHHHHHHHTTT                                                 3G1H
+REM                                                                        3G1H
+REM                                                                        3G1H
+REM                                                                        3G1H
+LOC  AlphaHelix   ARG    24 A      ARG     35 A                            3G1H
+LOC  AlphaHelix   TYR    45 A      GLU     51 A                            3G1H
+LOC  AlphaHelix   MET    53 A      PHE     63 A                            3G1H
+LOC  AlphaHelix   PRO    77 A      ALA     90 A                            3G1H
+LOC  AlphaHelix   ALA   103 A      MET    116 A                            3G1H
+LOC  AlphaHelix   ALA   139 A      LEU    149 A                            3G1H
+LOC  AlphaHelix   PRO   161 A      ILE    171 A                            3G1H
+LOC  AlphaHelix   PRO   189 A      LEU    193 A                            3G1H
+LOC  AlphaHelix   ARG   203 A      LEU    207 A                            3G1H
+LOC  AlphaHelix   PRO   211 A      ASP    224 A                            3G1H
+LOC  AlphaHelix   ARG    24 B      THR     31 B                            3G1H
+LOC  AlphaHelix   TYR    45 B      GLU     51 B                            3G1H
+LOC  AlphaHelix   ASP    54 B      PHE     63 B                            3G1H
+LOC  AlphaHelix   PRO    77 B      ALA     90 B                            3G1H
+LOC  AlphaHelix   ALA   103 B      MET    116 B                            3G1H
+LOC  AlphaHelix   ALA   139 B      LEU    149 B                            3G1H
+LOC  AlphaHelix   PRO   161 B      ILE    171 B                            3G1H
+LOC  AlphaHelix   PRO   189 B      LEU    193 B                            3G1H
+LOC  AlphaHelix   ARG   203 B      LEU    207 B                            3G1H
+LOC  AlphaHelix   PRO   211 B      SER    221 B                            3G1H
+LOC  AlphaHelix   ARG    24 C      VAL     34 C                            3G1H
+LOC  AlphaHelix   TYR    45 C      GLU     51 C                            3G1H
+LOC  AlphaHelix   MET    53 C      PHE     63 C                            3G1H
+LOC  AlphaHelix   PRO    77 C      ALA     90 C                            3G1H
+LOC  AlphaHelix   ALA   103 C      MET    116 C                            3G1H
+LOC  AlphaHelix   ALA   139 C      LEU    149 C                            3G1H
+LOC  AlphaHelix   PRO   161 C      ILE    171 C                            3G1H
+LOC  AlphaHelix   PRO   189 C      LEU    193 C                            3G1H
+LOC  AlphaHelix   ARG   203 C      LEU    207 C                            3G1H
+LOC  AlphaHelix   PRO   211 C      ILE    222 C                            3G1H
+LOC  AlphaHelix   ARG    24 D      VAL     34 D                            3G1H
+LOC  AlphaHelix   TYR    45 D      GLU     51 D                            3G1H
+LOC  AlphaHelix   MET    53 D      PHE     63 D                            3G1H
+LOC  AlphaHelix   PRO    77 D      ALA     90 D                            3G1H
+LOC  AlphaHelix   ALA   103 D      MET    116 D                            3G1H
+LOC  AlphaHelix   ALA   139 D      LEU    149 D                            3G1H
+LOC  AlphaHelix   PRO   161 D      ILE    171 D                            3G1H
+LOC  AlphaHelix   PRO   189 D      LEU    193 D                            3G1H
+LOC  AlphaHelix   ARG   203 D      LEU    207 D                            3G1H
+LOC  AlphaHelix   PRO   211 D      LYS    223 D                            3G1H
+LOC  AlphaHelix   ARG    24 E      ARG     35 E                            3G1H
+LOC  AlphaHelix   TYR    45 E      GLU     51 E                            3G1H
+LOC  AlphaHelix   MET    53 E      PHE     63 E                            3G1H
+LOC  AlphaHelix   PRO    77 E      ALA     90 E                            3G1H
+LOC  AlphaHelix   ALA   103 E      MET    116 E                            3G1H
+LOC  AlphaHelix   PHE   134 E      LEU    149 E                            3G1H
+LOC  AlphaHelix   PRO   161 E      ILE    171 E                            3G1H
+LOC  AlphaHelix   PRO   189 E      LEU    193 E                            3G1H
+LOC  AlphaHelix   ARG   203 E      LEU    207 E                            3G1H
+LOC  AlphaHelix   PRO   211 E      SER    221 E                            3G1H
+LOC  AlphaHelix   ARG    24 F      GLU     33 F                            3G1H
+LOC  AlphaHelix   TYR    45 F      GLU     51 F                            3G1H
+LOC  AlphaHelix   MET    53 F      PHE     63 F                            3G1H
+LOC  AlphaHelix   PRO    77 F      ALA     90 F                            3G1H
+LOC  AlphaHelix   ALA   103 F      MET    116 F                            3G1H
+LOC  AlphaHelix   PHE   134 F      LEU    149 F                            3G1H
+LOC  AlphaHelix   PRO   161 F      ILE    171 F                            3G1H
+LOC  AlphaHelix   PRO   189 F      LEU    193 F                            3G1H
+LOC  AlphaHelix   GLY   202 F      LEU    207 F                            3G1H
+LOC  AlphaHelix   PRO   211 F      SER    221 F                            3G1H
+LOC  AlphaHelix   ARG    24 G      VAL     34 G                            3G1H
+LOC  AlphaHelix   TYR    45 G      GLU     51 G                            3G1H
+LOC  AlphaHelix   MET    53 G      PHE     63 G                            3G1H
+LOC  AlphaHelix   PRO    77 G      ALA     90 G                            3G1H
+LOC  AlphaHelix   ALA   103 G      GLU    115 G                            3G1H
+LOC  AlphaHelix   ALA   139 G      LEU    149 G                            3G1H
+LOC  AlphaHelix   PRO   161 G      ILE    171 G                            3G1H
+LOC  AlphaHelix   PRO   189 G      LEU    193 G                            3G1H
+LOC  AlphaHelix   ARG   203 G      LEU    207 G                            3G1H
+LOC  AlphaHelix   PRO   211 G      SER    221 G                            3G1H
+LOC  AlphaHelix   ARG    24 H      GLU     33 H                            3G1H
+LOC  AlphaHelix   TYR    45 H      GLU     51 H                            3G1H
+LOC  AlphaHelix   MET    53 H      ARG     62 H                            3G1H
+LOC  AlphaHelix   PRO    77 H      ALA     90 H                            3G1H
+LOC  AlphaHelix   ALA   103 H      GLU    115 H                            3G1H
+LOC  AlphaHelix   ALA   139 H      LEU    149 H                            3G1H
+LOC  AlphaHelix   PRO   161 H      ILE    171 H                            3G1H
+LOC  AlphaHelix   PRO   189 H      LEU    193 H                            3G1H
+LOC  AlphaHelix   ARG   203 H      LEU    207 H                            3G1H
+LOC  AlphaHelix   PRO   211 H      LYS    223 H                            3G1H
+LOC  AlphaHelix   ARG    24 I      VAL     34 I                            3G1H
+LOC  AlphaHelix   TYR    45 I      GLU     51 I                            3G1H
+LOC  AlphaHelix   MET    53 I      PHE     63 I                            3G1H
+LOC  AlphaHelix   PRO    77 I      ALA     90 I                            3G1H
+LOC  AlphaHelix   ALA   103 I      MET    116 I                            3G1H
+LOC  AlphaHelix   ALA   139 I      LEU    149 I                            3G1H
+LOC  AlphaHelix   GLU   162 I      ILE    171 I                            3G1H
+LOC  AlphaHelix   ARG   203 I      LEU    207 I                            3G1H
+LOC  AlphaHelix   PRO   211 I      ASP    224 I                            3G1H
+LOC  AlphaHelix   ARG    24 J      ARG     35 J                            3G1H
+LOC  AlphaHelix   TYR    45 J      GLU     51 J                            3G1H
+LOC  AlphaHelix   MET    53 J      PHE     63 J                            3G1H
+LOC  AlphaHelix   PRO    77 J      ALA     90 J                            3G1H
+LOC  AlphaHelix   ALA   103 J      MET    116 J                            3G1H
+LOC  AlphaHelix   ALA   139 J      LEU    149 J                            3G1H
+LOC  AlphaHelix   PRO   161 J      ILE    171 J                            3G1H
+LOC  AlphaHelix   PRO   189 J      PHE    195 J                            3G1H
+LOC  AlphaHelix   ARG   203 J      LEU    207 J                            3G1H
+LOC  AlphaHelix   PRO   211 J      SER    221 J                            3G1H
+LOC  AlphaHelix   ARG    24 K      VAL     34 K                            3G1H
+LOC  AlphaHelix   TYR    45 K      GLU     51 K                            3G1H
+LOC  AlphaHelix   MET    53 K      PHE     63 K                            3G1H
+LOC  AlphaHelix   THR    79 K      ALA     90 K                            3G1H
+LOC  AlphaHelix   ARG   203 K      LEU    207 K                            3G1H
+LOC  AlphaHelix   PRO   211 K      ALA    216 K                            3G1H
+LOC  AlphaHelix   ARG    24 L      VAL     34 L                            3G1H
+LOC  AlphaHelix   TYR    45 L      GLU     51 L                            3G1H
+LOC  AlphaHelix   MET    53 L      PHE     63 L                            3G1H
+LOC  AlphaHelix   GLU    78 L      ALA     90 L                            3G1H
+LOC  AlphaHelix   ARG   107 L      MET    116 L                            3G1H
+LOC  AlphaHelix   ARG   203 L      LEU    207 L                            3G1H
+LOC  AlphaHelix   ALA   213 L      SER    221 L                            3G1H
+LOC  AlphaHelix   ARG    24 M      VAL     34 M                            3G1H
+LOC  AlphaHelix   TYR    45 M      GLU     51 M                            3G1H
+LOC  AlphaHelix   MET    53 M      PHE     63 M                            3G1H
+LOC  AlphaHelix   PRO    77 M      ALA     90 M                            3G1H
+LOC  AlphaHelix   ALA   103 M      MET    116 M                            3G1H
+LOC  AlphaHelix   ALA   139 M      LEU    149 M                            3G1H
+LOC  AlphaHelix   PRO   161 M      ILE    171 M                            3G1H
+LOC  AlphaHelix   PRO   189 M      LEU    193 M                            3G1H
+LOC  AlphaHelix   ARG   203 M      LEU    207 M                            3G1H
+LOC  AlphaHelix   PRO   211 M      SER    221 M                            3G1H
+LOC  310Helix     MET    12 A      ARG     14 A                            3G1H
+LOC  310Helix     PRO   129 A      GLU    132 A                            3G1H
+LOC  310Helix     GLN   136 A      ALA    138 A                            3G1H
+LOC  310Helix     MET    12 B      ARG     14 B                            3G1H
+LOC  310Helix     PRO   129 B      GLU    132 B                            3G1H
+LOC  310Helix     GLN   136 B      ALA    138 B                            3G1H
+LOC  310Helix     MET    12 C      ARG     14 C                            3G1H
+LOC  310Helix     PRO   129 C      GLU    132 C                            3G1H
+LOC  310Helix     GLN   136 C      ALA    138 C                            3G1H
+LOC  310Helix     MET    12 D      ARG     14 D                            3G1H
+LOC  310Helix     PRO   129 D      GLU    132 D                            3G1H
+LOC  310Helix     GLN   136 D      ALA    138 D                            3G1H
+LOC  310Helix     PRO   129 E      GLU    132 E                            3G1H
+LOC  310Helix     PRO   129 F      GLU    132 F                            3G1H
+LOC  310Helix     MET    12 G      ARG     14 G                            3G1H
+LOC  310Helix     PRO   129 G      GLU    132 G                            3G1H
+LOC  310Helix     ILE   135 G      ALA    138 G                            3G1H
+LOC  310Helix     PRO   129 H      GLU    132 H                            3G1H
+LOC  310Helix     GLN   136 H      ALA    138 H                            3G1H
+LOC  310Helix     PRO   129 I      GLU    132 I                            3G1H
+LOC  310Helix     ILE   135 I      ALA    138 I                            3G1H
+LOC  310Helix     PRO   129 J      GLU    132 J                            3G1H
+LOC  310Helix     GLN   136 J      ALA    138 J                            3G1H
+LOC  310Helix     ASP   104 K      CYS    109 K                            3G1H
+LOC  310Helix     GLU   114 K      MET    116 K                            3G1H
+LOC  310Helix     PRO   129 K      GLU    132 K                            3G1H
+LOC  310Helix     ARG   144 K      LEU    149 K                            3G1H
+LOC  310Helix     LEU   167 K      ILE    171 K                            3G1H
+LOC  310Helix     GLY   217 K      ILE    222 K                            3G1H
+LOC  310Helix     MET    12 L      ARG     14 L                            3G1H
+LOC  310Helix     PRO   129 L      ALA    131 L                            3G1H
+LOC  310Helix     ARG   144 L      ASP    148 L                            3G1H
+LOC  310Helix     PRO   161 L      LEU    167 L                            3G1H
+LOC  310Helix     PRO   129 M      GLU    132 M                            3G1H
+LOC  310Helix     GLN   136 M      ALA    138 M                            3G1H
+LOC  Strand       LEU    15 A      MET     19 A                            3G1H
+LOC  Strand       THR    40 A      ILE     43 A                            3G1H
+LOC  Strand       ARG    66 A      VAL     73 A                            3G1H
+LOC  Strand       ALA    94 A      HIS     98 A                            3G1H
+LOC  Strand       GLU   119 A      LEU    123 A                            3G1H
+LOC  Strand       ASN   153 A      VAL    155 A                            3G1H
+LOC  Strand       PHE   176 A      SER    179 A                            3G1H
+LOC  Strand       ALA   198 A      VAL    201 A                            3G1H
+LOC  Strand       LEU    15 B      MET     19 B                            3G1H
+LOC  Strand       THR    40 B      ILE     43 B                            3G1H
+LOC  Strand       ARG    66 B      VAL     73 B                            3G1H
+LOC  Strand       ALA    94 B      HIS     98 B                            3G1H
+LOC  Strand       GLU   119 B      LEU    123 B                            3G1H
+LOC  Strand       ASN   153 B      VAL    155 B                            3G1H
+LOC  Strand       PHE   176 B      SER    179 B                            3G1H
+LOC  Strand       ALA   198 B      VAL    201 B                            3G1H
+LOC  Strand       LEU    15 C      MET     19 C                            3G1H
+LOC  Strand       THR    40 C      ILE     43 C                            3G1H
+LOC  Strand       ARG    66 C      VAL     73 C                            3G1H
+LOC  Strand       ALA    94 C      HIS     98 C                            3G1H
+LOC  Strand       GLU   119 C      LEU    123 C                            3G1H
+LOC  Strand       ASN   153 C      VAL    155 C                            3G1H
+LOC  Strand       PHE   176 C      SER    179 C                            3G1H
+LOC  Strand       ALA   198 C      VAL    201 C                            3G1H
+LOC  Strand       LEU    15 D      MET     19 D                            3G1H
+LOC  Strand       THR    40 D      ILE     43 D                            3G1H
+LOC  Strand       ARG    66 D      VAL     73 D                            3G1H
+LOC  Strand       ALA    94 D      HIS     98 D                            3G1H
+LOC  Strand       GLU   119 D      LEU    123 D                            3G1H
+LOC  Strand       ASN   153 D      VAL    155 D                            3G1H
+LOC  Strand       PHE   176 D      SER    179 D                            3G1H
+LOC  Strand       ALA   198 D      VAL    201 D                            3G1H
+LOC  Strand       LEU    15 E      MET     19 E                            3G1H
+LOC  Strand       THR    40 E      ILE     43 E                            3G1H
+LOC  Strand       ARG    66 E      VAL     73 E                            3G1H
+LOC  Strand       ALA    94 E      HIS     98 E                            3G1H
+LOC  Strand       GLU   119 E      LEU    123 E                            3G1H
+LOC  Strand       ASN   153 E      VAL    155 E                            3G1H
+LOC  Strand       PHE   176 E      SER    179 E                            3G1H
+LOC  Strand       ALA   198 E      VAL    201 E                            3G1H
+LOC  Strand       LEU    15 F      MET     19 F                            3G1H
+LOC  Strand       THR    40 F      ILE     43 F                            3G1H
+LOC  Strand       ARG    66 F      VAL     73 F                            3G1H
+LOC  Strand       ALA    94 F      HIS     98 F                            3G1H
+LOC  Strand       GLU   119 F      LEU    123 F                            3G1H
+LOC  Strand       ASN   153 F      VAL    155 F                            3G1H
+LOC  Strand       PHE   176 F      SER    179 F                            3G1H
+LOC  Strand       ALA   198 F      VAL    201 F                            3G1H
+LOC  Strand       LEU    15 G      MET     19 G                            3G1H
+LOC  Strand       THR    40 G      GLY     44 G                            3G1H
+LOC  Strand       ARG    66 G      VAL     73 G                            3G1H
+LOC  Strand       ALA    94 G      HIS     98 G                            3G1H
+LOC  Strand       GLU   119 G      LEU    123 G                            3G1H
+LOC  Strand       ASN   153 G      VAL    155 G                            3G1H
+LOC  Strand       PHE   176 G      SER    179 G                            3G1H
+LOC  Strand       ALA   198 G      VAL    201 G                            3G1H
+LOC  Strand       LEU    15 H      MET     19 H                            3G1H
+LOC  Strand       THR    40 H      ILE     43 H                            3G1H
+LOC  Strand       ARG    66 H      VAL     73 H                            3G1H
+LOC  Strand       ALA    94 H      HIS     98 H                            3G1H
+LOC  Strand       GLU   119 H      LEU    123 H                            3G1H
+LOC  Strand       ASN   153 H      VAL    155 H                            3G1H
+LOC  Strand       PHE   176 H      SER    179 H                            3G1H
+LOC  Strand       ALA   198 H      VAL    201 H                            3G1H
+LOC  Strand       LEU    15 I      ALA     18 I                            3G1H
+LOC  Strand       THR    40 I      ILE     43 I                            3G1H
+LOC  Strand       ARG    66 I      VAL     73 I                            3G1H
+LOC  Strand       ALA    94 I      HIS     98 I                            3G1H
+LOC  Strand       GLU   119 I      LEU    123 I                            3G1H
+LOC  Strand       ASN   153 I      VAL    155 I                            3G1H
+LOC  Strand       PHE   176 I      VAL    182 I                            3G1H
+LOC  Strand       ALA   198 I      VAL    201 I                            3G1H
+LOC  Strand       LEU    15 J      MET     19 J                            3G1H
+LOC  Strand       THR    40 J      GLY     44 J                            3G1H
+LOC  Strand       ARG    66 J      VAL     73 J                            3G1H
+LOC  Strand       ALA    94 J      HIS     98 J                            3G1H
+LOC  Strand       GLU   119 J      LEU    123 J                            3G1H
+LOC  Strand       ASN   153 J      VAL    155 J                            3G1H
+LOC  Strand       PHE   176 J      PRO    180 J                            3G1H
+LOC  Strand       ALA   198 J      VAL    201 J                            3G1H
+LOC  Strand       LEU    15 K      MET     19 K                            3G1H
+LOC  Strand       THR    40 K      ILE     43 K                            3G1H
+LOC  Strand       ARG    66 K      ALA     69 K                            3G1H
+LOC  Strand       ALA    94 K      HIS     98 K                            3G1H
+LOC  Strand       GLU   119 K      LEU    123 K                            3G1H
+LOC  Strand       ASN   153 K      VAL    155 K                            3G1H
+LOC  Strand       PHE   176 K      SER    179 K                            3G1H
+LOC  Strand       ALA   198 K      VAL    201 K                            3G1H
+LOC  Strand       LEU    15 L      MET     19 L                            3G1H
+LOC  Strand       THR    40 L      ILE     43 L                            3G1H
+LOC  Strand       ARG    66 L      ALA     69 L                            3G1H
+LOC  Strand       ALA    94 L      ILE     96 L                            3G1H
+LOC  Strand       GLU   119 L      PHE    121 L                            3G1H
+LOC  Strand       ASN   153 L      TYR    154 L                            3G1H
+LOC  Strand       PHE   176 L      PRO    180 L                            3G1H
+LOC  Strand       ALA   198 L      VAL    201 L                            3G1H
+LOC  Strand       LEU    15 M      MET     19 M                            3G1H
+LOC  Strand       THR    40 M      ILE     43 M                            3G1H
+LOC  Strand       ARG    66 M      VAL     73 M                            3G1H
+LOC  Strand       ALA    94 M      HIS     98 M                            3G1H
+LOC  Strand       GLU   119 M      LEU    123 M                            3G1H
+LOC  Strand       ASN   153 M      VAL    155 M                            3G1H
+LOC  Strand       PHE   176 M      SER    179 M                            3G1H
+LOC  Strand       ALA   198 M      VAL    201 M                            3G1H
+LOC  TurnIV       ARG     5 A      VAL      8 A                            3G1H
+LOC  TurnI        ARG    35 A      ILE     38 A                            3G1H
+LOC  TurnIV       HIS    98 A      PRO    101 A                            3G1H
+LOC  TurnI        GLY    99 A      GLY    102 A                            3G1H
+LOC  TurnIV       GLU   132 A      ILE    135 A                            3G1H
+LOC  TurnI        PRO   157 A      ARG    160 A                            3G1H
+LOC  TurnIV       SER   158 A      PRO    161 A                            3G1H
+LOC  TurnI        GLY   172 A      SER    175 A                            3G1H
+LOC  TurnIV       GLY   181 A      ALA    184 A                            3G1H
+LOC  TurnIV       VAL   182 A      GLN    185 A                            3G1H
+LOC  TurnI        GLY   183 A      GLY    186 A                            3G1H
+LOC  TurnI        LEU   193 A      ALA    196 A                            3G1H
+LOC  TurnIV       ALA   196 A      ILE    199 A                            3G1H
+LOC  TurnVIII     ALA   208 A      PRO    211 A                            3G1H
+LOC  GammaInv     ALA    69 A      PHE     71 A                            3G1H
+LOC  TurnI        THR    31 B      VAL     34 B                            3G1H
+LOC  TurnIV       GLY    32 B      ARG     35 B                            3G1H
+LOC  TurnI        VAL    34 B      TYR     37 B                            3G1H
+LOC  TurnI        ARG    35 B      ILE     38 B                            3G1H
+LOC  TurnIV       HIS    98 B      PRO    101 B                            3G1H
+LOC  TurnI        GLY    99 B      GLY    102 B                            3G1H
+LOC  TurnIV       GLU   132 B      ILE    135 B                            3G1H
+LOC  TurnI        PRO   157 B      ARG    160 B                            3G1H
+LOC  TurnVIII     SER   158 B      PRO    161 B                            3G1H
+LOC  TurnI        GLY   172 B      SER    175 B                            3G1H
+LOC  TurnIV       GLY   181 B      ALA    184 B                            3G1H
+LOC  TurnIV       VAL   182 B      GLN    185 B                            3G1H
+LOC  TurnI        GLY   183 B      GLY    186 B                            3G1H
+LOC  TurnI        LEU   193 B      ALA    196 B                            3G1H
+LOC  TurnVIII     ALA   208 B      PRO    211 B                            3G1H
+LOC  TurnIV       SER   221 B      ASP    224 B                            3G1H
+LOC  GammaInv     ALA    69 B      PHE     71 B                            3G1H
+LOC  TurnI        VAL    34 C      TYR     37 C                            3G1H
+LOC  TurnI        ARG    35 C      ILE     38 C                            3G1H
+LOC  TurnVIII     ALA    92 C      ILE     95 C                            3G1H
+LOC  TurnIV       HIS    98 C      PRO    101 C                            3G1H
+LOC  TurnI        GLY    99 C      GLY    102 C                            3G1H
+LOC  TurnIV       GLU   132 C      ILE    135 C                            3G1H
+LOC  TurnIV       MET   133 C      GLN    136 C                            3G1H
+LOC  TurnI        PRO   157 C      ARG    160 C                            3G1H
+LOC  TurnVIII     SER   158 C      PRO    161 C                            3G1H
+LOC  TurnI        GLY   172 C      SER    175 C                            3G1H
+LOC  TurnIV       GLY   181 C      ALA    184 C                            3G1H
+LOC  TurnIV       VAL   182 C      GLN    185 C                            3G1H
+LOC  TurnI        GLY   183 C      GLY    186 C                            3G1H
+LOC  TurnI        LEU   193 C      ALA    196 C                            3G1H
+LOC  TurnVIII     ALA   196 C      ILE    199 C                            3G1H
+LOC  TurnVIII     ALA   208 C      PRO    211 C                            3G1H
+LOC  GammaInv     ALA    69 C      PHE     71 C                            3G1H
+LOC  TurnI        VAL    34 D      TYR     37 D                            3G1H
+LOC  TurnI        ARG    35 D      ILE     38 D                            3G1H
+LOC  TurnIV       HIS    98 D      PRO    101 D                            3G1H
+LOC  TurnI        GLY    99 D      GLY    102 D                            3G1H
+LOC  TurnIV       GLU   132 D      ILE    135 D                            3G1H
+LOC  TurnIV       MET   133 D      GLN    136 D                            3G1H
+LOC  TurnIV       PRO   157 D      ARG    160 D                            3G1H
+LOC  TurnIV       SER   158 D      PRO    161 D                            3G1H
+LOC  TurnI        GLY   172 D      SER    175 D                            3G1H
+LOC  TurnIV       GLY   181 D      ALA    184 D                            3G1H
+LOC  TurnIV       VAL   182 D      GLN    185 D                            3G1H
+LOC  TurnI        GLY   183 D      GLY    186 D                            3G1H
+LOC  TurnI        LEU   193 D      ALA    196 D                            3G1H
+LOC  TurnVIII     ALA   208 D      PRO    211 D                            3G1H
+LOC  TurnII       VAL    11 E      ARG     14 E                            3G1H
+LOC  TurnI'       MET    12 E      LEU     15 E                            3G1H
+LOC  TurnI        ARG    35 E      ILE     38 E                            3G1H
+LOC  TurnIV       HIS    98 E      PRO    101 E                            3G1H
+LOC  TurnI        GLY    99 E      GLY    102 E                            3G1H
+LOC  TurnI        PRO   157 E      ARG    160 E                            3G1H
+LOC  TurnVIII     SER   158 E      PRO    161 E                            3G1H
+LOC  TurnIV       GLY   172 E      SER    175 E                            3G1H
+LOC  TurnIV       GLY   181 E      ALA    184 E                            3G1H
+LOC  TurnII'      VAL   182 E      GLN    185 E                            3G1H
+LOC  TurnI        GLY   183 E      GLY    186 E                            3G1H
+LOC  TurnI        LEU   193 E      ALA    196 E                            3G1H
+LOC  TurnVIII     ALA   196 E      ILE    199 E                            3G1H
+LOC  TurnVIII     ALA   208 E      PRO    211 E                            3G1H
+LOC  GammaInv     ALA    69 E      PHE     71 E                            3G1H
+LOC  TurnIV       VAL    11 F      ARG     14 F                            3G1H
+LOC  TurnIV       MET    12 F      LEU     15 F                            3G1H
+LOC  TurnI        VAL    34 F      TYR     37 F                            3G1H
+LOC  TurnI        ARG    35 F      ILE     38 F                            3G1H
+LOC  TurnIV       HIS    98 F      PRO    101 F                            3G1H
+LOC  TurnI        GLY    99 F      GLY    102 F                            3G1H
+LOC  TurnI        PRO   157 F      ARG    160 F                            3G1H
+LOC  TurnIV       SER   158 F      PRO    161 F                            3G1H
+LOC  TurnI        GLY   172 F      SER    175 F                            3G1H
+LOC  TurnIV       GLY   181 F      ALA    184 F                            3G1H
+LOC  TurnIV       VAL   182 F      GLN    185 F                            3G1H
+LOC  TurnI        GLY   183 F      GLY    186 F                            3G1H
+LOC  TurnI        LEU   193 F      ALA    196 F                            3G1H
+LOC  TurnIV       ALA   196 F      ILE    199 F                            3G1H
+LOC  TurnVIII     ALA   208 F      PRO    211 F                            3G1H
+LOC  GammaInv     ALA    69 F      PHE     71 F                            3G1H
+LOC  TurnI        VAL    34 G      TYR     37 G                            3G1H
+LOC  TurnI        ARG    35 G      ILE     38 G                            3G1H
+LOC  TurnI        HIS    98 G      PRO    101 G                            3G1H
+LOC  TurnI        GLY    99 G      GLY    102 G                            3G1H
+LOC  TurnIV       GLU   132 G      ILE    135 G                            3G1H
+LOC  TurnI        PRO   157 G      ARG    160 G                            3G1H
+LOC  TurnIV       SER   158 G      PRO    161 G                            3G1H
+LOC  TurnI        GLY   172 G      SER    175 G                            3G1H
+LOC  TurnIV       GLY   181 G      ALA    184 G                            3G1H
+LOC  TurnII'      VAL   182 G      GLN    185 G                            3G1H
+LOC  TurnI        GLY   183 G      GLY    186 G                            3G1H
+LOC  TurnI        LEU   193 G      ALA    196 G                            3G1H
+LOC  TurnIV       ALA   196 G      ILE    199 G                            3G1H
+LOC  TurnVIII     ALA   208 G      PRO    211 G                            3G1H
+LOC  TurnIV       SER   221 G      ASP    224 G                            3G1H
+LOC  GammaInv     ALA    69 G      PHE     71 G                            3G1H
+LOC  TurnII       VAL    11 H      ARG     14 H                            3G1H
+LOC  TurnI'       MET    12 H      LEU     15 H                            3G1H
+LOC  TurnI        VAL    34 H      TYR     37 H                            3G1H
+LOC  TurnIV       ARG    35 H      ILE     38 H                            3G1H
+LOC  TurnIV       ALA    92 H      ILE     95 H                            3G1H
+LOC  TurnIV       HIS    98 H      PRO    101 H                            3G1H
+LOC  TurnI        GLY    99 H      GLY    102 H                            3G1H
+LOC  TurnIV       GLU   132 H      ILE    135 H                            3G1H
+LOC  TurnIV       MET   133 H      GLN    136 H                            3G1H
+LOC  TurnI        PRO   157 H      ARG    160 H                            3G1H
+LOC  TurnVIII     SER   158 H      PRO    161 H                            3G1H
+LOC  TurnI        GLY   172 H      SER    175 H                            3G1H
+LOC  TurnII'      VAL   182 H      GLN    185 H                            3G1H
+LOC  TurnI        GLY   183 H      GLY    186 H                            3G1H
+LOC  TurnIV       LEU   193 H      ALA    196 H                            3G1H
+LOC  TurnVIII     ALA   196 H      ILE    199 H                            3G1H
+LOC  TurnVIII     ALA   208 H      PRO    211 H                            3G1H
+LOC  GammaInv     ALA    69 H      PHE     71 H                            3G1H
+LOC  TurnI        VAL    34 I      TYR     37 I                            3G1H
+LOC  TurnI        ARG    35 I      ILE     38 I                            3G1H
+LOC  TurnI        HIS    98 I      PRO    101 I                            3G1H
+LOC  TurnI        GLY    99 I      GLY    102 I                            3G1H
+LOC  TurnIV       GLU   132 I      ILE    135 I                            3G1H
+LOC  TurnI        PRO   157 I      ARG    160 I                            3G1H
+LOC  TurnIV       SER   158 I      PRO    161 I                            3G1H
+LOC  TurnI        GLY   172 I      SER    175 I                            3G1H
+LOC  TurnIV       GLY   181 I      ALA    184 I                            3G1H
+LOC  TurnIV       VAL   182 I      GLN    185 I                            3G1H
+LOC  TurnIV       GLY   183 I      GLY    186 I                            3G1H
+LOC  TurnIV       ASP   188 I      GLU    191 I                            3G1H
+LOC  TurnIV       PRO   189 I      THR    192 I                            3G1H
+LOC  TurnI        GLY   190 I      LEU    193 I                            3G1H
+LOC  TurnI        GLU   191 I      ARG    194 I                            3G1H
+LOC  TurnIV       THR   192 I      PHE    195 I                            3G1H
+LOC  TurnI        LEU   193 I      ALA    196 I                            3G1H
+LOC  TurnIV       ALA   196 I      ILE    199 I                            3G1H
+LOC  TurnIV       ALA   208 I      PRO    211 I                            3G1H
+LOC  GammaInv     ALA    69 I      PHE     71 I                            3G1H
+LOC  TurnII       VAL    11 J      ARG     14 J                            3G1H
+LOC  TurnI'       MET    12 J      LEU     15 J                            3G1H
+LOC  TurnIV       ARG    35 J      ILE     38 J                            3G1H
+LOC  TurnIV       HIS    98 J      PRO    101 J                            3G1H
+LOC  TurnI        GLY    99 J      GLY    102 J                            3G1H
+LOC  TurnIV       GLU   132 J      ILE    135 J                            3G1H
+LOC  TurnI        PRO   157 J      ARG    160 J                            3G1H
+LOC  TurnIV       SER   158 J      PRO    161 J                            3G1H
+LOC  TurnIV       GLY   172 J      SER    175 J                            3G1H
+LOC  TurnIV       GLY   181 J      ALA    184 J                            3G1H
+LOC  TurnIV       VAL   182 J      GLN    185 J                            3G1H
+LOC  TurnI        GLY   183 J      GLY    186 J                            3G1H
+LOC  TurnIV       ALA   196 J      ILE    199 J                            3G1H
+LOC  TurnVIII     ALA   208 J      PRO    211 J                            3G1H
+LOC  GammaInv     ALA    18 J      ASP     20 J                            3G1H
+LOC  TurnII'      VAL    11 K      ARG     14 K                            3G1H
+LOC  TurnI        MET    12 K      LEU     15 K                            3G1H
+LOC  TurnI        VAL    34 K      TYR     37 K                            3G1H
+LOC  TurnI        ARG    35 K      ILE     38 K                            3G1H
+LOC  TurnIV       HIS    98 K      PRO    101 K                            3G1H
+LOC  TurnI'       GLY    99 K      GLY    102 K                            3G1H
+LOC  TurnIV       CYS   109 K      VAL    112 K                            3G1H
+LOC  TurnI'       LEU   110 K      ALA    113 K                            3G1H
+LOC  TurnIV       ASN   111 K      GLU    114 K                            3G1H
+LOC  TurnIV       GLU   132 K      ILE    135 K                            3G1H
+LOC  TurnI'       PHE   134 K      GLY    137 K                            3G1H
+LOC  TurnI'       ILE   135 K      ALA    138 K                            3G1H
+LOC  TurnI'       GLN   136 K      ALA    139 K                            3G1H
+LOC  TurnIV       ALA   138 K      GLU    141 K                            3G1H
+LOC  TurnIV       ALA   139 K      ILE    142 K                            3G1H
+LOC  TurnIV       ASP   140 K      ALA    143 K                            3G1H
+LOC  TurnIV       GLU   141 K      ARG    144 K                            3G1H
+LOC  TurnI'       PRO   157 K      ARG    160 K                            3G1H
+LOC  TurnIV       SER   158 K      PRO    161 K                            3G1H
+LOC  TurnIV       ARG   160 K      ARG    163 K                            3G1H
+LOC  TurnI'       PRO   161 K      LEU    164 K                            3G1H
+LOC  TurnI'       GLU   162 K      SER    165 K                            3G1H
+LOC  TurnI'       ARG   163 K      ARG    166 K                            3G1H
+LOC  TurnIV       LEU   164 K      LEU    167 K                            3G1H
+LOC  TurnIV       GLY   172 K      SER    175 K                            3G1H
+LOC  TurnIV       GLY   181 K      ALA    184 K                            3G1H
+LOC  TurnIV       VAL   182 K      GLN    185 K                            3G1H
+LOC  TurnI'       GLY   183 K      GLY    186 K                            3G1H
+LOC  TurnI'       ASP   188 K      GLU    191 K                            3G1H
+LOC  TurnIV       PRO   189 K      THR    192 K                            3G1H
+LOC  TurnIV       GLY   190 K      LEU    193 K                            3G1H
+LOC  TurnI'       GLU   191 K      ARG    194 K                            3G1H
+LOC  TurnIV       THR   192 K      PHE    195 K                            3G1H
+LOC  TurnI'       LEU   193 K      ALA    196 K                            3G1H
+LOC  TurnIV       ALA   196 K      ILE    199 K                            3G1H
+LOC  TurnVIII     ALA   208 K      PRO    211 K                            3G1H
+LOC  GammaInv     ALA    69 K      PHE     71 K                            3G1H
+LOC  TurnIV       VAL    34 L      TYR     37 L                            3G1H
+LOC  TurnI        ARG    35 L      ILE     38 L                            3G1H
+LOC  TurnIV       HIS    98 L      PRO    101 L                            3G1H
+LOC  TurnI'       GLY    99 L      GLY    102 L                            3G1H
+LOC  TurnIV       GLY   102 L      SER    105 L                            3G1H
+LOC  TurnI'       ALA   103 L      VAL    106 L                            3G1H
+LOC  TurnIV       ALA   131 L      PHE    134 L                            3G1H
+LOC  TurnIV       GLU   132 L      ILE    135 L                            3G1H
+LOC  TurnIV       MET   133 L      GLN    136 L                            3G1H
+LOC  TurnI'       PHE   134 L      GLY    137 L                            3G1H
+LOC  TurnI'       ILE   135 L      ALA    138 L                            3G1H
+LOC  TurnIV       GLN   136 L      ALA    139 L                            3G1H
+LOC  TurnI'       ALA   138 L      GLU    141 L                            3G1H
+LOC  TurnIV       ALA   139 L      ILE    142 L                            3G1H
+LOC  TurnI'       ASP   140 L      ALA    143 L                            3G1H
+LOC  TurnI'       GLU   141 L      ARG    144 L                            3G1H
+LOC  TurnIV       PRO   157 L      ARG    160 L                            3G1H
+LOC  TurnIV       SER   158 L      PRO    161 L                            3G1H
+LOC  TurnI'       LEU   167 L      ILE    170 L                            3G1H
+LOC  TurnI'       ARG   168 L      ILE    171 L                            3G1H
+LOC  TurnI'       GLU   169 L      GLY    172 L                            3G1H
+LOC  TurnIV       GLY   181 L      ALA    184 L                            3G1H
+LOC  TurnIV       ASP   188 L      GLU    191 L                            3G1H
+LOC  TurnIV       GLY   190 L      LEU    193 L                            3G1H
+LOC  TurnIV       GLU   191 L      ARG    194 L                            3G1H
+LOC  TurnIV       THR   192 L      PHE    195 L                            3G1H
+LOC  TurnIV       LEU   193 L      ALA    196 L                            3G1H
+LOC  TurnVIII     ALA   196 L      ILE    199 L                            3G1H
+LOC  TurnVIII     ALA   208 L      PRO    211 L                            3G1H
+LOC  TurnIV       ASN   210 L      ALA    213 L                            3G1H
+LOC  TurnIV       SER   221 L      ASP    224 L                            3G1H
+LOC  GammaInv     ALA    69 L      PHE     71 L                            3G1H
+LOC  TurnII       VAL    11 M      ARG     14 M                            3G1H
+LOC  TurnI'       MET    12 M      LEU     15 M                            3G1H
+LOC  TurnI        VAL    34 M      TYR     37 M                            3G1H
+LOC  TurnI        ARG    35 M      ILE     38 M                            3G1H
+LOC  TurnIV       HIS    98 M      PRO    101 M                            3G1H
+LOC  TurnI        GLY    99 M      GLY    102 M                            3G1H
+LOC  TurnIV       GLU   132 M      ILE    135 M                            3G1H
+LOC  TurnI        PRO   157 M      ARG    160 M                            3G1H
+LOC  TurnVIII     SER   158 M      PRO    161 M                            3G1H
+LOC  TurnI        GLY   172 M      SER    175 M                            3G1H
+LOC  TurnIV       GLY   181 M      ALA    184 M                            3G1H
+LOC  TurnIV       VAL   182 M      GLN    185 M                            3G1H
+LOC  TurnI        GLY   183 M      GLY    186 M                            3G1H
+LOC  TurnI        LEU   193 M      ALA    196 M                            3G1H
+LOC  TurnIV       ALA   196 M      ILE    199 M                            3G1H
+LOC  TurnVIII     ALA   208 M      PRO    211 M                            3G1H
+LOC  TurnIV       SER   221 M      ASP    224 M                            3G1H
+LOC  GammaInv     ALA    69 M      PHE     71 M                            3G1H
+LOC  Disulfide    CYS    84 B      CYS    109 B            PDB             3G1H

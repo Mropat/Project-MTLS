@@ -1,0 +1,1697 @@
+REM  -------------------- Secondary structure summary -------------------  4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb A                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHH TTTT  EEEB TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       ETTHHHHHHH        HHHHHHHHHHHHH  TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHH          TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHH  HHHHHHHHHHHHHHHHHHH        EEEEEE   TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EETTEEE          EEETT EEEE        TTTT     TTTHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTT GGGB     EEEEEEETTEEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT  EEEEEE    GGGGGGHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEETTTTT EEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHHTTTT                                                          4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb B                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTTT  EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       ETTHHHHHHH        HHHHHHHHHHHHH  TTTTHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHTTT  HHHHHHHHHHHHHHHHHHTTT   B   TTTTTTTTT  HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTTTHHHHHHHHHHHHHHHHTTTTT    EEEEE   TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EETTEEE          EEETT EEEE        TTTT          H               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT   EEEEE   TTTHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEEETTTTEEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHHTTTT                                                          4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb C                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR        B     HHHHHHHHHHHHHHHHHHHHH  TTTT  EEE  TTTTTT EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHHH  TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTT          TTTTT   HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHH  HHHHHHHHHHHHHHHHHHH TTTTTT  EEEEE B TTTTB                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTAEKEKMKEKVERILKHG  250          4A0W
+STR        BTTEEE          EETTT EEEETTT   HHHHHHHHHHHHHHHH                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  INCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIASTFD  300          4A0W
+STR         EEEE     HHHHHHHHHH  EEETTT HHHHHHHHHHH  B   TTT               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQILDEA  350          4A0W
+STR       TTTTTBT    EEEEEEETTEEEEEEE TTTT   EEEEE B  HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  ERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEAVAM  400          4A0W
+STR       HHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH  HHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  ESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEGTIG  450          4A0W
+STR       HHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHH TTTEEE GGGTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  DMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR            490          4A0W
+STR       EHHHH  EEEHHHHHHHHHHTTTTHHHHHH                                   4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb D                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR               HHHHHHHHHHHHHHHHHHHHH TTTT    B  TTTT   B                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR          HHHHHHH        HHHHHHHHHHHHH  TTTTHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTT       TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHH  HHHHHHHHHHHHHHHHHHHTTTT    EEEEEEEEETTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE  EEE          EEETT EEEE       TTTTT       TTTH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEE TTTT   EEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT  EEEEEEE   HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEETTTTT EEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb E                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHHH  TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTT        TTTTTTTT  HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTT HHHHHHHHHHHHHHHHHHH        EEEEE    TTTT                 4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE  EEE          BTTTT EEEETTT    TTTTT        GGG               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       GGGGGGGGGGGHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B  TTTTTTTTTBT    EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT  EEEEE     HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHH    HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEETTTTT EEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HH  TTT                                                          4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb F                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHH  TTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E   HHHHHH        HHHHHHHHHHHHHH TTTT HHHHHHHHH HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTTTT     TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTT HHHHHHHHHHHHHHHHHHH         EEEE    TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EETTEE           EEETT EEEE        TTTT     TTTTTH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTT GGGB     EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT   EEEE     HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEEETTTTEEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb G                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR          TTT HHHHHHHHHHHHHHHHHHHHHH TTTT    B  TTTT   B                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR          HHHHHHH        HHHHHHHHHHHHH  TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHTTTTT       TTTTTTTT   HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTTTTTTHHHHHHHHHHHHHHHH   TTTT EEEEE    TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE   EE          EEETT EEEETTT    TTTTT         GG               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       GHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEEEEETTEEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT  EEEEE     HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEE GGGTTEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHHTTTTTT                                                        4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb H                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR               HHHHHHHHHHHHHHHHHHHHHTTTTT  EEEE TTTT  EEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH       HHHHHHHHHHHHHH  TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHTTTTT       TTTTTTTTT  HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTHHHHHHHHHHHHHHHHHH          B  B   TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDIEHAEKEKMKEKVERILK  250          4A0W
+STR        TTTEEE          EEETT EEEETTT  HHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  HGINCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIAST  300          4A0W
+STR       H   EEEETT   HHHHHHHHHH  EEETTT HHHHHHHHHHH  B   T               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  FDHPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQILD  350          4A0W
+STR       TTTTTTTBT    EEEEETTTTT EEEEE TTTT    BEEB    HHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  EAERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEAV  400          4A0W
+STR       HHHHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH  HHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  AMESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEGT  450          4A0W
+STR       HHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHH  TTTEEETTTTTT               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  IGDMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR          492          4A0W
+STR       EEEHHHH  EEEHHHHHHHHHHHHHHHHHHHHH                                4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb I                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR       TTT    HHHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTTT  EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHHTTTTTTTHHHHHHHHHTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHHTT HHHHHHHHHHHHHHHHTTTTT       TTTTTTTTT  HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTTTTT HHHHHHHHHHHHHHHH         EEEEEE  TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EETTEEE    TTTT  EEETT EEEETTT    TTTTTTTTT TTTTTH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTTTTTEEEEEE   HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEEETTTTEEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb J                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHH  TTTT  B    TTTT                    4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       BTTHHHHHHH        HHHHHHHHHHHHHH TTTT HHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTT       TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTTTTTTHHHHHHHHHHHHHHHH   TTTT EEEEEE   TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE EEEE          EEETT EEEE       TTTTTTTTT TTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT  EEEEEE    HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEETTTTT EEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb K                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       ETTHHHHHHH        HHHHHHHHHHHHHH TTTTHHHHHHHHHH HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHHHTTT     TTTTTTTT   HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTTTHHHHHHHHHHHHHHHHTTTT          B  TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDAEKEKMKEKVERILKH  250          4A0W
+STR          EEEE    TTTT  EEETT EEEE       HHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  GINCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIASTF  300          4A0W
+STR          EEEETT   HHHHHHHHHH  EEETTT HHHHHHHHHHH  B   TT               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  DHPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQILDE  350          4A0W
+STR       TTTTTTBT    EEEEEEETTEEEEEEE TTTT     EE B   HHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  AERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEAVA  400          4A0W
+STR       HHHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH  HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  MESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEGTI  450          4A0W
+STR       HHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHH TTTEEE GGG  E               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  GDMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR           491          4A0W
+STR       EEGGGG  EEEHHHHHHHHHHHHHHHHHHHH       TTT                        4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb L                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR        TTTT   HHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHHH  TTTTHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHHH    B   TTTTTTTTTT HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTT HHHHHHHHHHHHHHHH        EEEE     TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDEKEKMKEKVERILKHG  250          4A0W
+STR           EEE          EETTT EEEE       HHHHHHHHHHHHHHH                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  INCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIASTFD  300          4A0W
+STR         EEEE     HHHHHHHHHH  EEETTT HHHHHHHHHHH  B   TTT               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQILDEA  350          4A0W
+STR       TTTTTBT    EEEEEEETTEEEEEEE TTTT  EEEEE   TTTHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  ERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEAVAM  400          4A0W
+STR       HHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH  HHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  ESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEGTIG  450          4A0W
+STR       HHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHH TTTEEE GGG  EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  DMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR            490          4A0W
+STR       EHHHH  EEEHHHHHHHHHHHHHHHHHTTTT                                  4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb M                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHHTTTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       ETTHHHHHHH        HHHHHHHHHHHHHH TTTTHHHHHHHH HHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHHH        TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTHHHHHHHHHHHHHHHHHH         EEEEEE  TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE EEEE          EEETT EEEE     TTTTTTT          H               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEE     HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B  TTTTTTGGGB     EEEEEETTTTEEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT   EEEEEE TTTHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEE GGGTTEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb N                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR        TTTT  HHHHHHHHHHHHHHHHHHHHH  TTTT  EEEE TTTTT EEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHTTTTTTTT HHHHHHHHTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHTTTT       TTTTTTTTTTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHH  HHHHHHHHHHHHHHHHHHHTTTT    EEEE  B  TTTTB                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTIEHAEKEKMKEKVERIL  250          4A0W
+STR            EE    TTTT  EEETT EEEETTT   HHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  KHGINCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIAS  300          4A0W
+STR       HH   EEEETT   HHHHHHHHHH  EEETTT HHHHHHHHHHH  B                  4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  TFDHPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQIL  350          4A0W
+STR       TTTTTTTTBT    EEEEEETTTTEEEEEE TTTT  EEEEB B   HHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  DEAERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEA  400          4A0W
+STR       HHHHHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH   HHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  VAMESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEG  450          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHH TTTEEE GGG                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  TIGDMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR         493          4A0W
+STR        EEEHHHH  EEEHHHHHHHHHHHHHHHHHHHH                                4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb O                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR              HHHHHHHHHHHHHHHHHHHHHH TTTT  EEE  TTTT   EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       E  HHHHHHH        HHHHHHHHHHHHH  TTTTHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHHH        TTTTTTTT   HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHTTTTHHHHHHHHHHHHHHHHHHH          EEEEE  TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDEKEKMKEKVERILKHG  250          4A0W
+STR       EETTEEE          EETTT EEEETTT    HHHHHHHHHHHHHHH                4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  INCFINRQLIYNYPEQLFGAAGVMAIEHADFVGVERLALVTGGEIASTFD  300          4A0W
+STR         EEEE     HHHHHHHHHH  EEETTT HHHHHHHHHHH  B  TTTT               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HPELVKLGSCKLIEEVMIGEDKLIHFSGVALGEACTIVLRGATQQILDEA  350          4A0W
+STR       TTTTTBT    EEEE  TTTT  EEEE TTTTTTTEEEEEE   GGGGGG               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  ERSLHDALCVLAQTVKDSRTVYGGGCSEMLMAHAVTQLASRTPGKEAVAM  400          4A0W
+STR       HHHHHHHHHHHHHHHHH  EEETTTHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  ESYAKALRMLPTIIADNAGYDSADLVAQLRAAHSEGKTTAGLDMKEGTIG  450          4A0W
+STR       HHHHHHHHHHHHHHHHH    HHHHHHHHHHHHHH TTTEEETTTTT EE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .                         4A0W
+SEQ  451  DMSVLGITESFQVKRQVLLSAAEAAEVILRVDNIIKAAPR            490          4A0W
+STR       EHHHH  EEEHHHHHHHHHHHHHHHHHHHHTTTT                               4A0W
+REM                                                                        4A0W
+CHN  4a0w.pdb P                                                            4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  1    AGADEERAETARLSSFIGAIAIGDLVKSTLGPKGMDKILLSSGRDASLMV   50          4A0W
+STR               HHHHHHHHHHHHHHHHHHHHH TTTT  EE   TTTT TTTE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  51   TNDGATILKNIGVDNPAAKVLVDMSRVQDDEVGDGTTSVTVLAAELLREA  100          4A0W
+STR       ETTHHHHHHH        HHHHHHHHHHHHH  TTTTHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  101  ESLIAKKIHPQTIIAGWREATKAARQALLNSAVDHGSDEVKFRQDLMNIA  150          4A0W
+STR       HHHHHH   HHHHHHHHHHHHHHHHHHTTTT      TTTTTTTTT  HH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  151  GTTLSSKLLTHHKDHFTKLAVEAVLRLKGSGNLEAIHVIKKLGGSLADSY  200          4A0W
+STR       HHHHHHTTTTTHHHHHHHHHHHHHHHH   TTTT  EEEEEE  TTTTEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  201  LDEGFLLDKKIGVNQPKRIENAKILIANTGMDTDKIKIFGSRVRVDSTAK  250          4A0W
+STR       EE  EEE    TTTT  EEETT EEEE       TTTTT     TTTHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  251  VAEIEHAEKEKMKEKVERILKHGINCFINRQLIYNYPEQLFGAAGVMAIE  300          4A0W
+STR       HHHHHHHHHHHHHHHHHHHHHH   EEEETT   HHHHHHHHHH  EEET               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  301  HADFVGVERLALVTGGEIASTFDHPELVKLGSCKLIEEVMIGEDKLIHFS  350          4A0W
+STR       TT HHHHHHHHHHH  B   TTTTTTTTBT    EEEEEETTT EEEEEE               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  351  GVALGEACTIVLRGATQQILDEAERSLHDALCVLAQTVKDSRTVYGGGCS  400          4A0W
+STR        TTTT   EEEEEE   HHHHHHHHHHHHHHHHHHHHHHH  EEETTTHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  401  EMLMAHAVTQLASRTPGKEAVAMESYAKALRMLPTIIADNAGYDSADLVA  450          4A0W
+STR       HHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHH               4A0W
+REM                                                                        4A0W
+REM                .         .         .         .         .               4A0W
+SEQ  451  QLRAAHSEGKTTAGLDMKEGTIGDMSVLGITESFQVKRQVLLSAAEAAEV  500          4A0W
+STR       HHHHHHHH TTTEEEETTTTEEEEHHHH  EEEHHHHHHHHHHHHHHHHH               4A0W
+REM                                                                        4A0W
+REM                .                                                       4A0W
+SEQ  501  ILRVDNIIKAAPR                                       513          4A0W
+STR       HHH                                                              4A0W
+REM                                                                        4A0W
+REM                                                                        4A0W
+REM                                                                        4A0W
+LOC  AlphaHelix   ALA     8 A      THR     29 A                            4A0W
+LOC  AlphaHelix   GLY    54 A      ASN     60 A                            4A0W
+LOC  AlphaHelix   LYS    69 A      GLU     81 A                            4A0W
+LOC  AlphaHelix   VAL    89 A      LYS    106 A                            4A0W
+LOC  AlphaHelix   PRO   110 A      ALA    127 A                            4A0W
+LOC  AlphaHelix   ILE   149 A      SER    156 A                            4A0W
+LOC  AlphaHelix   LEU   159 A      LEU    177 A                            4A0W
+LOC  AlphaHelix   THR   248 A      HIS    272 A                            4A0W
+LOC  AlphaHelix   ASN   285 A      ALA    294 A                            4A0W
+LOC  AlphaHelix   PHE   304 A      THR    314 A                            4A0W
+LOC  AlphaHelix   GLU   374 A      ASP    390 A                            4A0W
+LOC  AlphaHelix   CYS   399 A      ARG    414 A                            4A0W
+LOC  AlphaHelix   LYS   418 A      ALA    441 A                            4A0W
+LOC  AlphaHelix   SER   445 A      GLU    458 A                            4A0W
+LOC  AlphaHelix   MET   475 A      LEU    478 A                            4A0W
+LOC  AlphaHelix   PHE   484 A      ARG    503 A                            4A0W
+LOC  AlphaHelix   ALA     8 B      THR     29 B                            4A0W
+LOC  AlphaHelix   GLY    54 B      ASN     60 B                            4A0W
+LOC  AlphaHelix   LYS    69 B      GLU     81 B                            4A0W
+LOC  AlphaHelix   SER    88 B      ILE    104 B                            4A0W
+LOC  AlphaHelix   PRO   110 B      ALA    127 B                            4A0W
+LOC  AlphaHelix   ILE   149 B      SER    156 B                            4A0W
+LOC  AlphaHelix   HIS   162 B      LEU    177 B                            4A0W
+LOC  AlphaHelix   LYS   250 B      HIS    272 B                            4A0W
+LOC  AlphaHelix   ASN   285 B      ALA    294 B                            4A0W
+LOC  AlphaHelix   PHE   304 B      THR    314 B                            4A0W
+LOC  AlphaHelix   LEU   370 B      ASP    390 B                            4A0W
+LOC  AlphaHelix   CYS   399 B      ARG    414 B                            4A0W
+LOC  AlphaHelix   GLY   417 B      ALA    441 B                            4A0W
+LOC  AlphaHelix   SER   445 B      GLU    458 B                            4A0W
+LOC  AlphaHelix   MET   475 B      LEU    478 B                            4A0W
+LOC  AlphaHelix   PHE   484 B      ARG    503 B                            4A0W
+LOC  AlphaHelix   ALA     8 C      SER     28 C                            4A0W
+LOC  AlphaHelix   GLY    54 C      ASN     60 C                            4A0W
+LOC  AlphaHelix   LYS    69 C      GLU     81 C                            4A0W
+LOC  AlphaHelix   VAL    89 C      LYS    106 C                            4A0W
+LOC  AlphaHelix   PRO   110 C      ALA    127 C                            4A0W
+LOC  AlphaHelix   ILE   149 C      SER    156 C                            4A0W
+LOC  AlphaHelix   LEU   159 C      LEU    177 C                            4A0W
+LOC  AlphaHelix   ALA   257 C      HIS    272 C                            4A0W
+LOC  AlphaHelix   ASN   285 C      ALA    294 C                            4A0W
+LOC  AlphaHelix   PHE   304 C      THR    314 C                            4A0W
+LOC  AlphaHelix   GLN   368 C      ASP    390 C                            4A0W
+LOC  AlphaHelix   CYS   399 C      ARG    414 C                            4A0W
+LOC  AlphaHelix   GLY   417 C      ALA    441 C                            4A0W
+LOC  AlphaHelix   SER   445 C      GLU    458 C                            4A0W
+LOC  AlphaHelix   MET   475 C      LEU    478 C                            4A0W
+LOC  AlphaHelix   PHE   484 C      SER    493 C                            4A0W
+LOC  AlphaHelix   ALA   498 C      ARG    503 C                            4A0W
+LOC  AlphaHelix   GLU     9 D      THR     29 D                            4A0W
+LOC  AlphaHelix   GLY    54 D      ASN     60 D                            4A0W
+LOC  AlphaHelix   LYS    69 D      GLU     81 D                            4A0W
+LOC  AlphaHelix   SER    88 D      LYS    106 D                            4A0W
+LOC  AlphaHelix   PRO   110 D      ALA    127 D                            4A0W
+LOC  AlphaHelix   ILE   149 D      SER    156 D                            4A0W
+LOC  AlphaHelix   LEU   159 D      LEU    177 D                            4A0W
+LOC  AlphaHelix   LYS   250 D      HIS    272 D                            4A0W
+LOC  AlphaHelix   ASN   285 D      ALA    294 D                            4A0W
+LOC  AlphaHelix   PHE   304 D      THR    314 D                            4A0W
+LOC  AlphaHelix   GLN   368 D      ASP    390 D                            4A0W
+LOC  AlphaHelix   CYS   399 D      ARG    414 D                            4A0W
+LOC  AlphaHelix   LYS   418 D      ALA    441 D                            4A0W
+LOC  AlphaHelix   SER   445 D      GLU    458 D                            4A0W
+LOC  AlphaHelix   MET   475 D      LEU    478 D                            4A0W
+LOC  AlphaHelix   PHE   484 D      ARG    503 D                            4A0W
+LOC  AlphaHelix   ALA     8 E      THR     29 E                            4A0W
+LOC  AlphaHelix   GLY    54 E      ASN     60 E                            4A0W
+LOC  AlphaHelix   LYS    69 E      GLU     81 E                            4A0W
+LOC  AlphaHelix   VAL    89 E      LYS    106 E                            4A0W
+LOC  AlphaHelix   PRO   110 E      ALA    127 E                            4A0W
+LOC  AlphaHelix   ILE   149 E      LEU    154 E                            4A0W
+LOC  AlphaHelix   LEU   159 E      LEU    177 E                            4A0W
+LOC  AlphaHelix   MET   262 E      HIS    272 E                            4A0W
+LOC  AlphaHelix   ASN   285 E      ALA    294 E                            4A0W
+LOC  AlphaHelix   PHE   304 E      THR    314 E                            4A0W
+LOC  AlphaHelix   GLN   368 E      ASP    390 E                            4A0W
+LOC  AlphaHelix   CYS   399 E      ARG    414 E                            4A0W
+LOC  AlphaHelix   LYS   418 E      ASN    440 E                            4A0W
+LOC  AlphaHelix   SER   445 E      GLU    458 E                            4A0W
+LOC  AlphaHelix   MET   475 E      LEU    478 E                            4A0W
+LOC  AlphaHelix   PHE   484 E      LEU    502 E                            4A0W
+LOC  AlphaHelix   ALA     8 F      SER     28 F                            4A0W
+LOC  AlphaHelix   ALA    55 F      ASN     60 F                            4A0W
+LOC  AlphaHelix   LYS    69 F      VAL     82 F                            4A0W
+LOC  AlphaHelix   VAL    89 F      LEU     97 F                            4A0W
+LOC  AlphaHelix   GLU    99 F      LYS    106 F                            4A0W
+LOC  AlphaHelix   PRO   110 F      ALA    127 F                            4A0W
+LOC  AlphaHelix   ILE   149 F      LEU    154 F                            4A0W
+LOC  AlphaHelix   LEU   159 F      LEU    177 F                            4A0W
+LOC  AlphaHelix   LYS   250 F      HIS    272 F                            4A0W
+LOC  AlphaHelix   ASN   285 F      ALA    294 F                            4A0W
+LOC  AlphaHelix   PHE   304 F      THR    314 F                            4A0W
+LOC  AlphaHelix   GLN   368 F      ASP    390 F                            4A0W
+LOC  AlphaHelix   CYS   399 F      ARG    414 F                            4A0W
+LOC  AlphaHelix   GLY   417 F      ALA    441 F                            4A0W
+LOC  AlphaHelix   SER   445 F      GLU    458 F                            4A0W
+LOC  AlphaHelix   MET   475 F      LEU    478 F                            4A0W
+LOC  AlphaHelix   PHE   484 F      ARG    503 F                            4A0W
+LOC  AlphaHelix   ALA     8 G      THR     29 G                            4A0W
+LOC  AlphaHelix   GLY    54 G      ASN     60 G                            4A0W
+LOC  AlphaHelix   LYS    69 G      GLU     81 G                            4A0W
+LOC  AlphaHelix   VAL    89 G      LYS    106 G                            4A0W
+LOC  AlphaHelix   PRO   110 G      ARG    125 G                            4A0W
+LOC  AlphaHelix   ILE   149 G      LEU    154 G                            4A0W
+LOC  AlphaHelix   HIS   162 G      LEU    177 G                            4A0W
+LOC  AlphaHelix   ALA   252 G      HIS    272 G                            4A0W
+LOC  AlphaHelix   ASN   285 G      ALA    294 G                            4A0W
+LOC  AlphaHelix   PHE   304 G      THR    314 G                            4A0W
+LOC  AlphaHelix   GLN   368 G      ASP    390 G                            4A0W
+LOC  AlphaHelix   CYS   399 G      ARG    414 G                            4A0W
+LOC  AlphaHelix   GLY   417 G      ALA    441 G                            4A0W
+LOC  AlphaHelix   SER   445 G      GLU    458 G                            4A0W
+LOC  AlphaHelix   MET   475 G      LEU    478 G                            4A0W
+LOC  AlphaHelix   PHE   484 G      ARG    503 G                            4A0W
+LOC  AlphaHelix   GLU     9 H      THR     29 H                            4A0W
+LOC  AlphaHelix   GLY    54 H      ASN     60 H                            4A0W
+LOC  AlphaHelix   ALA    68 H      GLU     81 H                            4A0W
+LOC  AlphaHelix   VAL    89 H      LYS    106 H                            4A0W
+LOC  AlphaHelix   PRO   110 H      ARG    125 H                            4A0W
+LOC  AlphaHelix   ILE   149 H      SER    156 H                            4A0W
+LOC  AlphaHelix   THR   160 H      LEU    177 H                            4A0W
+LOC  AlphaHelix   ILE   254 H      HIS    272 H                            4A0W
+LOC  AlphaHelix   ASN   285 H      ALA    294 H                            4A0W
+LOC  AlphaHelix   PHE   304 H      THR    314 H                            4A0W
+LOC  AlphaHelix   GLN   368 H      ASP    390 H                            4A0W
+LOC  AlphaHelix   CYS   399 H      ARG    414 H                            4A0W
+LOC  AlphaHelix   GLY   417 H      ALA    441 H                            4A0W
+LOC  AlphaHelix   SER   445 H      SER    457 H                            4A0W
+LOC  AlphaHelix   MET   475 H      LEU    478 H                            4A0W
+LOC  AlphaHelix   PHE   484 H      VAL    504 H                            4A0W
+LOC  AlphaHelix   ALA     8 I      THR     29 I                            4A0W
+LOC  AlphaHelix   GLY    54 I      ASN     60 I                            4A0W
+LOC  AlphaHelix   LYS    69 I      ASP     80 I                            4A0W
+LOC  AlphaHelix   SER    88 I      LEU     96 I                            4A0W
+LOC  AlphaHelix   GLU    99 I      LYS    106 I                            4A0W
+LOC  AlphaHelix   PRO   110 I      ARG    125 I                            4A0W
+LOC  AlphaHelix   ILE   149 I      LEU    154 I                            4A0W
+LOC  AlphaHelix   HIS   162 I      LEU    177 I                            4A0W
+LOC  AlphaHelix   LYS   250 I      HIS    272 I                            4A0W
+LOC  AlphaHelix   ASN   285 I      ALA    294 I                            4A0W
+LOC  AlphaHelix   PHE   304 I      THR    314 I                            4A0W
+LOC  AlphaHelix   GLN   368 I      ASP    390 I                            4A0W
+LOC  AlphaHelix   CYS   399 I      ARG    414 I                            4A0W
+LOC  AlphaHelix   GLY   417 I      ALA    441 I                            4A0W
+LOC  AlphaHelix   SER   445 I      GLU    458 I                            4A0W
+LOC  AlphaHelix   MET   475 I      LEU    478 I                            4A0W
+LOC  AlphaHelix   PHE   484 I      ARG    503 I                            4A0W
+LOC  AlphaHelix   ALA     8 J      SER     28 J                            4A0W
+LOC  AlphaHelix   GLY    54 J      ASN     60 J                            4A0W
+LOC  AlphaHelix   LYS    69 J      VAL     82 J                            4A0W
+LOC  AlphaHelix   VAL    89 J      LYS    106 J                            4A0W
+LOC  AlphaHelix   PRO   110 J      ALA    127 J                            4A0W
+LOC  AlphaHelix   ILE   149 J      LEU    154 J                            4A0W
+LOC  AlphaHelix   HIS   162 J      LEU    177 J                            4A0W
+LOC  AlphaHelix   ALA   249 J      HIS    272 J                            4A0W
+LOC  AlphaHelix   ASN   285 J      ALA    294 J                            4A0W
+LOC  AlphaHelix   PHE   304 J      THR    314 J                            4A0W
+LOC  AlphaHelix   GLN   368 J      ASP    390 J                            4A0W
+LOC  AlphaHelix   CYS   399 J      ARG    414 J                            4A0W
+LOC  AlphaHelix   GLY   417 J      ALA    441 J                            4A0W
+LOC  AlphaHelix   SER   445 J      GLU    458 J                            4A0W
+LOC  AlphaHelix   MET   475 J      LEU    478 J                            4A0W
+LOC  AlphaHelix   PHE   484 J      ARG    503 J                            4A0W
+LOC  AlphaHelix   ALA     8 K      THR     29 K                            4A0W
+LOC  AlphaHelix   GLY    54 K      ASN     60 K                            4A0W
+LOC  AlphaHelix   LYS    69 K      VAL     82 K                            4A0W
+LOC  AlphaHelix   SER    88 K      LEU     97 K                            4A0W
+LOC  AlphaHelix   GLU    99 K      LYS    106 K                            4A0W
+LOC  AlphaHelix   PRO   110 K      LEU    129 K                            4A0W
+LOC  AlphaHelix   ILE   149 K      SER    156 K                            4A0W
+LOC  AlphaHelix   HIS   162 K      LEU    177 K                            4A0W
+LOC  AlphaHelix   ALA   257 K      HIS    272 K                            4A0W
+LOC  AlphaHelix   ASN   285 K      ALA    294 K                            4A0W
+LOC  AlphaHelix   PHE   304 K      THR    314 K                            4A0W
+LOC  AlphaHelix   GLN   368 K      ASP    390 K                            4A0W
+LOC  AlphaHelix   CYS   399 K      ARG    414 K                            4A0W
+LOC  AlphaHelix   GLY   417 K      ALA    441 K                            4A0W
+LOC  AlphaHelix   SER   445 K      GLU    458 K                            4A0W
+LOC  AlphaHelix   PHE   484 K      ARG    503 K                            4A0W
+LOC  AlphaHelix   GLU     9 L      THR     29 L                            4A0W
+LOC  AlphaHelix   GLY    54 L      ASN     60 L                            4A0W
+LOC  AlphaHelix   LYS    69 L      GLU     81 L                            4A0W
+LOC  AlphaHelix   SER    88 L      LYS    106 L                            4A0W
+LOC  AlphaHelix   PRO   110 L      LEU    129 L                            4A0W
+LOC  AlphaHelix   ILE   149 L      SER    156 L                            4A0W
+LOC  AlphaHelix   HIS   162 L      LEU    177 L                            4A0W
+LOC  AlphaHelix   GLU   258 L      HIS    272 L                            4A0W
+LOC  AlphaHelix   ASN   285 L      ALA    294 L                            4A0W
+LOC  AlphaHelix   PHE   304 L      THR    314 L                            4A0W
+LOC  AlphaHelix   ILE   369 L      ASP    390 L                            4A0W
+LOC  AlphaHelix   CYS   399 L      ARG    414 L                            4A0W
+LOC  AlphaHelix   GLY   417 L      ALA    441 L                            4A0W
+LOC  AlphaHelix   SER   445 L      GLU    458 L                            4A0W
+LOC  AlphaHelix   MET   475 L      LEU    478 L                            4A0W
+LOC  AlphaHelix   PHE   484 L      VAL    500 L                            4A0W
+LOC  AlphaHelix   ALA     8 M      THR     29 M                            4A0W
+LOC  AlphaHelix   GLY    54 M      ASN     60 M                            4A0W
+LOC  AlphaHelix   LYS    69 M      VAL     82 M                            4A0W
+LOC  AlphaHelix   SER    88 M      GLU     95 M                            4A0W
+LOC  AlphaHelix   LEU    97 M      LYS    106 M                            4A0W
+LOC  AlphaHelix   PRO   110 M      LEU    129 M                            4A0W
+LOC  AlphaHelix   ILE   149 M      SER    156 M                            4A0W
+LOC  AlphaHelix   THR   160 M      LEU    177 M                            4A0W
+LOC  AlphaHelix   LYS   250 M      HIS    272 M                            4A0W
+LOC  AlphaHelix   ASN   285 M      ALA    294 M                            4A0W
+LOC  AlphaHelix   PHE   304 M      THR    314 M                            4A0W
+LOC  AlphaHelix   ILE   369 M      ASP    390 M                            4A0W
+LOC  AlphaHelix   CYS   399 M      ARG    414 M                            4A0W
+LOC  AlphaHelix   GLY   417 M      ALA    441 M                            4A0W
+LOC  AlphaHelix   SER   445 M      GLU    458 M                            4A0W
+LOC  AlphaHelix   MET   475 M      LEU    478 M                            4A0W
+LOC  AlphaHelix   PHE   484 M      ARG    503 M                            4A0W
+LOC  AlphaHelix   ALA     8 N      SER     28 N                            4A0W
+LOC  AlphaHelix   GLY    54 N      ASN     60 N                            4A0W
+LOC  AlphaHelix   LYS    69 N      ASP     79 N                            4A0W
+LOC  AlphaHelix   VAL    89 N      LEU     96 N                            4A0W
+LOC  AlphaHelix   GLU    99 N      LYS    106 N                            4A0W
+LOC  AlphaHelix   PRO   110 N      GLN    126 N                            4A0W
+LOC  AlphaHelix   ILE   149 N      SER    156 N                            4A0W
+LOC  AlphaHelix   LEU   159 N      LEU    177 N                            4A0W
+LOC  AlphaHelix   ILE   254 N      HIS    272 N                            4A0W
+LOC  AlphaHelix   ASN   285 N      ALA    294 N                            4A0W
+LOC  AlphaHelix   PHE   304 N      THR    314 N                            4A0W
+LOC  AlphaHelix   GLN   368 N      ASP    390 N                            4A0W
+LOC  AlphaHelix   CYS   399 N      ARG    414 N                            4A0W
+LOC  AlphaHelix   LYS   418 N      ALA    441 N                            4A0W
+LOC  AlphaHelix   SER   445 N      GLU    458 N                            4A0W
+LOC  AlphaHelix   MET   475 N      LEU    478 N                            4A0W
+LOC  AlphaHelix   PHE   484 N      ARG    503 N                            4A0W
+LOC  AlphaHelix   ALA     8 O      THR     29 O                            4A0W
+LOC  AlphaHelix   GLY    54 O      ASN     60 O                            4A0W
+LOC  AlphaHelix   LYS    69 O      GLU     81 O                            4A0W
+LOC  AlphaHelix   SER    88 O      LYS    106 O                            4A0W
+LOC  AlphaHelix   PRO   110 O      LEU    129 O                            4A0W
+LOC  AlphaHelix   ILE   149 O      LEU    154 O                            4A0W
+LOC  AlphaHelix   LEU   159 O      LEU    177 O                            4A0W
+LOC  AlphaHelix   GLU   258 O      HIS    272 O                            4A0W
+LOC  AlphaHelix   ASN   285 O      ALA    294 O                            4A0W
+LOC  AlphaHelix   PHE   304 O      THR    314 O                            4A0W
+LOC  AlphaHelix   GLU   374 O      ASP    390 O                            4A0W
+LOC  AlphaHelix   CYS   399 O      ARG    414 O                            4A0W
+LOC  AlphaHelix   LYS   418 O      ASN    440 O                            4A0W
+LOC  AlphaHelix   SER   445 O      GLU    458 O                            4A0W
+LOC  AlphaHelix   MET   475 O      LEU    478 O                            4A0W
+LOC  AlphaHelix   PHE   484 O      ARG    503 O                            4A0W
+LOC  AlphaHelix   GLU     9 P      THR     29 P                            4A0W
+LOC  AlphaHelix   GLY    54 P      ASN     60 P                            4A0W
+LOC  AlphaHelix   LYS    69 P      GLU     81 P                            4A0W
+LOC  AlphaHelix   SER    88 P      LYS    106 P                            4A0W
+LOC  AlphaHelix   PRO   110 P      ALA    127 P                            4A0W
+LOC  AlphaHelix   ILE   149 P      SER    156 P                            4A0W
+LOC  AlphaHelix   HIS   162 P      LEU    177 P                            4A0W
+LOC  AlphaHelix   THR   248 P      HIS    272 P                            4A0W
+LOC  AlphaHelix   ASN   285 P      ALA    294 P                            4A0W
+LOC  AlphaHelix   PHE   304 P      THR    314 P                            4A0W
+LOC  AlphaHelix   GLN   368 P      ASP    390 P                            4A0W
+LOC  AlphaHelix   CYS   399 P      ARG    414 P                            4A0W
+LOC  AlphaHelix   GLY   417 P      ALA    441 P                            4A0W
+LOC  AlphaHelix   SER   445 P      GLU    458 P                            4A0W
+LOC  AlphaHelix   MET   475 P      LEU    478 P                            4A0W
+LOC  AlphaHelix   PHE   484 P      ARG    503 P                            4A0W
+LOC  310Helix     GLU   326 A      VAL    328 A                            4A0W
+LOC  310Helix     GLN   368 A      ALA    373 A                            4A0W
+LOC  310Helix     MET   467 C      GLU    469 C                            4A0W
+LOC  310Helix     THR   248 E      LYS    261 E                            4A0W
+LOC  310Helix     GLU   326 F      VAL    328 F                            4A0W
+LOC  310Helix     ALA   249 G      VAL    251 G                            4A0W
+LOC  310Helix     MET   467 G      GLU    469 G                            4A0W
+LOC  310Helix     MET   467 K      GLU    469 K                            4A0W
+LOC  310Helix     MET   475 K      LEU    478 K                            4A0W
+LOC  310Helix     MET   467 L      GLU    469 L                            4A0W
+LOC  310Helix     GLU   326 M      VAL    328 M                            4A0W
+LOC  310Helix     MET   467 M      GLU    469 M                            4A0W
+LOC  310Helix     MET   467 N      GLU    469 N                            4A0W
+LOC  310Helix     GLN   368 O      ALA    373 O                            4A0W
+LOC  Strand       LYS    37 A      LEU     39 A                            4A0W
+LOC  Strand       MET    49 A      THR     51 A                            4A0W
+LOC  Strand       ILE   186 A      LYS    191 A                            4A0W
+LOC  Strand       SER   199 A      ASP    202 A                            4A0W
+LOC  Strand       PHE   205 A      LEU    207 A                            4A0W
+LOC  Strand       ARG   218 A      GLU    220 A                            4A0W
+LOC  Strand       ILE   224 A      ALA    227 A                            4A0W
+LOC  Strand       CYS   276 A      ASN    279 A                            4A0W
+LOC  Strand       MET   297 A      ILE    299 A                            4A0W
+LOC  Strand       LEU   335 A      ILE    341 A                            4A0W
+LOC  Strand       ASP   344 A      SER    350 A                            4A0W
+LOC  Strand       CYS   358 A      ARG    363 A                            4A0W
+LOC  Strand       THR   393 A      TYR    395 A                            4A0W
+LOC  Strand       ALA   463 A      LEU    465 A                            4A0W
+LOC  Strand       ILE   472 A      ASP    474 A                            4A0W
+LOC  Strand       THR   481 A      SER    483 A                            4A0W
+LOC  Strand       LYS    37 B      LEU     39 B                            4A0W
+LOC  Strand       MET    49 B      THR     51 B                            4A0W
+LOC  Strand       HIS   187 B      LYS    191 B                            4A0W
+LOC  Strand       SER   199 B      ASP    202 B                            4A0W
+LOC  Strand       PHE   205 B      LEU    207 B                            4A0W
+LOC  Strand       ARG   218 B      GLU    220 B                            4A0W
+LOC  Strand       ILE   224 B      ALA    227 B                            4A0W
+LOC  Strand       CYS   276 B      ASN    279 B                            4A0W
+LOC  Strand       MET   297 B      ILE    299 B                            4A0W
+LOC  Strand       LEU   335 B      MET    340 B                            4A0W
+LOC  Strand       LYS   345 B      SER    350 B                            4A0W
+LOC  Strand       THR   359 B      ARG    363 B                            4A0W
+LOC  Strand       THR   393 B      TYR    395 B                            4A0W
+LOC  Strand       ALA   463 B      ASP    466 B                            4A0W
+LOC  Strand       THR   471 B      ASP    474 B                            4A0W
+LOC  Strand       THR   481 B      SER    483 B                            4A0W
+LOC  Strand       LYS    37 C      LEU     39 C                            4A0W
+LOC  Strand       MET    49 C      THR     51 C                            4A0W
+LOC  Strand       HIS   187 C      LYS    191 C                            4A0W
+LOC  Strand       PHE   205 C      LEU    207 C                            4A0W
+LOC  Strand       ARG   218 C      ILE    219 C                            4A0W
+LOC  Strand       ILE   224 C      ALA    227 C                            4A0W
+LOC  Strand       CYS   276 C      ASN    279 C                            4A0W
+LOC  Strand       MET   297 C      ILE    299 C                            4A0W
+LOC  Strand       LEU   335 C      ILE    341 C                            4A0W
+LOC  Strand       ASP   344 C      SER    350 C                            4A0W
+LOC  Strand       THR   359 C      ARG    363 C                            4A0W
+LOC  Strand       THR   393 C      TYR    395 C                            4A0W
+LOC  Strand       ALA   463 C      LEU    465 C                            4A0W
+LOC  Strand       ILE   472 C      ASP    474 C                            4A0W
+LOC  Strand       THR   481 C      SER    483 C                            4A0W
+LOC  Strand       ILE   186 D      GLY    194 D                            4A0W
+LOC  Strand       SER   199 D      ASP    202 D                            4A0W
+LOC  Strand       PHE   205 D      LEU    207 D                            4A0W
+LOC  Strand       ARG   218 D      GLU    220 D                            4A0W
+LOC  Strand       ILE   224 D      ALA    227 D                            4A0W
+LOC  Strand       CYS   276 D      ASN    279 D                            4A0W
+LOC  Strand       MET   297 D      ILE    299 D                            4A0W
+LOC  Strand       LEU   335 D      GLU    338 D                            4A0W
+LOC  Strand       ILE   347 D      SER    350 D                            4A0W
+LOC  Strand       CYS   358 D      GLY    364 D                            4A0W
+LOC  Strand       THR   393 D      TYR    395 D                            4A0W
+LOC  Strand       ALA   463 D      LEU    465 D                            4A0W
+LOC  Strand       ILE   472 D      ASP    474 D                            4A0W
+LOC  Strand       THR   481 D      SER    483 D                            4A0W
+LOC  Strand       LYS    37 E      LEU     39 E                            4A0W
+LOC  Strand       MET    49 E      THR     51 E                            4A0W
+LOC  Strand       ILE   186 E      LYS    190 E                            4A0W
+LOC  Strand       LEU   201 E      ASP    202 E                            4A0W
+LOC  Strand       PHE   205 E      LEU    207 E                            4A0W
+LOC  Strand       ILE   224 E      ALA    227 E                            4A0W
+LOC  Strand       CYS   276 E      ASN    279 E                            4A0W
+LOC  Strand       MET   297 E      ILE    299 E                            4A0W
+LOC  Strand       LEU   335 E      MET    340 E                            4A0W
+LOC  Strand       LYS   345 E      SER    350 E                            4A0W
+LOC  Strand       CYS   358 E      LEU    362 E                            4A0W
+LOC  Strand       THR   393 E      TYR    395 E                            4A0W
+LOC  Strand       ALA   463 E      LEU    465 E                            4A0W
+LOC  Strand       ILE   472 E      ASP    474 E                            4A0W
+LOC  Strand       THR   481 E      SER    483 E                            4A0W
+LOC  Strand       LYS    37 F      LEU     39 F                            4A0W
+LOC  Strand       MET    49 F      THR     51 F                            4A0W
+LOC  Strand       HIS   187 F      LYS    190 F                            4A0W
+LOC  Strand       SER   199 F      ASP    202 F                            4A0W
+LOC  Strand       PHE   205 F      LEU    206 F                            4A0W
+LOC  Strand       ARG   218 F      GLU    220 F                            4A0W
+LOC  Strand       ILE   224 F      ALA    227 F                            4A0W
+LOC  Strand       CYS   276 F      ASN    279 F                            4A0W
+LOC  Strand       MET   297 F      ILE    299 F                            4A0W
+LOC  Strand       LEU   335 F      MET    340 F                            4A0W
+LOC  Strand       LYS   345 F      SER    350 F                            4A0W
+LOC  Strand       THR   359 F      LEU    362 F                            4A0W
+LOC  Strand       THR   393 F      TYR    395 F                            4A0W
+LOC  Strand       ALA   463 F      ASP    466 F                            4A0W
+LOC  Strand       THR   471 F      ASP    474 F                            4A0W
+LOC  Strand       THR   481 F      SER    483 F                            4A0W
+LOC  Strand       ILE   186 G      LYS    190 G                            4A0W
+LOC  Strand       SER   199 G      ASP    202 G                            4A0W
+LOC  Strand       LEU   206 G      LEU    207 G                            4A0W
+LOC  Strand       ARG   218 G      GLU    220 G                            4A0W
+LOC  Strand       ILE   224 G      ALA    227 G                            4A0W
+LOC  Strand       CYS   276 G      ASN    279 G                            4A0W
+LOC  Strand       MET   297 G      ILE    299 G                            4A0W
+LOC  Strand       LEU   335 G      ILE    341 G                            4A0W
+LOC  Strand       ASP   344 G      SER    350 G                            4A0W
+LOC  Strand       CYS   358 G      LEU    362 G                            4A0W
+LOC  Strand       THR   393 G      TYR    395 G                            4A0W
+LOC  Strand       ALA   463 G      LEU    465 G                            4A0W
+LOC  Strand       ILE   472 G      ASP    474 G                            4A0W
+LOC  Strand       THR   481 G      SER    483 G                            4A0W
+LOC  Strand       LYS    37 H      LEU     40 H                            4A0W
+LOC  Strand       LEU    48 H      THR     51 H                            4A0W
+LOC  Strand       SER   199 H      TYR    200 H                            4A0W
+LOC  Strand       PHE   205 H      LEU    207 H                            4A0W
+LOC  Strand       ARG   218 H      GLU    220 H                            4A0W
+LOC  Strand       ILE   224 H      ALA    227 H                            4A0W
+LOC  Strand       CYS   276 H      ASN    279 H                            4A0W
+LOC  Strand       MET   297 H      ILE    299 H                            4A0W
+LOC  Strand       LEU   335 H      VAL    339 H                            4A0W
+LOC  Strand       LEU   346 H      SER    350 H                            4A0W
+LOC  Strand       VAL   361 H      LEU    362 H                            4A0W
+LOC  Strand       THR   393 H      TYR    395 H                            4A0W
+LOC  Strand       ALA   463 H      LEU    465 H                            4A0W
+LOC  Strand       ILE   472 H      ASP    474 H                            4A0W
+LOC  Strand       THR   481 H      SER    483 H                            4A0W
+LOC  Strand       LYS    37 I      LEU     39 I                            4A0W
+LOC  Strand       MET    49 I      THR     51 I                            4A0W
+LOC  Strand       HIS   187 I      LEU    192 I                            4A0W
+LOC  Strand       SER   199 I      ASP    202 I                            4A0W
+LOC  Strand       PHE   205 I      LEU    207 I                            4A0W
+LOC  Strand       ARG   218 I      GLU    220 I                            4A0W
+LOC  Strand       ILE   224 I      ALA    227 I                            4A0W
+LOC  Strand       CYS   276 I      ASN    279 I                            4A0W
+LOC  Strand       MET   297 I      ILE    299 I                            4A0W
+LOC  Strand       LEU   335 I      MET    340 I                            4A0W
+LOC  Strand       LYS   345 I      SER    350 I                            4A0W
+LOC  Strand       THR   359 I      GLY    364 I                            4A0W
+LOC  Strand       THR   393 I      TYR    395 I                            4A0W
+LOC  Strand       ALA   463 I      ASP    466 I                            4A0W
+LOC  Strand       THR   471 I      ASP    474 I                            4A0W
+LOC  Strand       THR   481 I      SER    483 I                            4A0W
+LOC  Strand       ILE   186 J      LYS    191 J                            4A0W
+LOC  Strand       SER   199 J      ASP    202 J                            4A0W
+LOC  Strand       GLY   204 J      LEU    207 J                            4A0W
+LOC  Strand       ARG   218 J      GLU    220 J                            4A0W
+LOC  Strand       ILE   224 J      ALA    227 J                            4A0W
+LOC  Strand       CYS   276 J      ASN    279 J                            4A0W
+LOC  Strand       MET   297 J      ILE    299 J                            4A0W
+LOC  Strand       LEU   335 J      MET    340 J                            4A0W
+LOC  Strand       LYS   345 J      SER    350 J                            4A0W
+LOC  Strand       CYS   358 J      ARG    363 J                            4A0W
+LOC  Strand       THR   393 J      TYR    395 J                            4A0W
+LOC  Strand       ALA   463 J      LEU    465 J                            4A0W
+LOC  Strand       ILE   472 J      ASP    474 J                            4A0W
+LOC  Strand       THR   481 J      SER    483 J                            4A0W
+LOC  Strand       LYS    37 K      LEU     39 K                            4A0W
+LOC  Strand       MET    49 K      THR     51 K                            4A0W
+LOC  Strand       SER   199 K      TYR    200 K                            4A0W
+LOC  Strand       GLY   204 K      LEU    207 K                            4A0W
+LOC  Strand       ARG   218 K      GLU    220 K                            4A0W
+LOC  Strand       ILE   224 K      ALA    227 K                            4A0W
+LOC  Strand       CYS   276 K      ASN    279 K                            4A0W
+LOC  Strand       MET   297 K      ILE    299 K                            4A0W
+LOC  Strand       LEU   335 K      ILE    341 K                            4A0W
+LOC  Strand       ASP   344 K      SER    350 K                            4A0W
+LOC  Strand       VAL   361 K      LEU    362 K                            4A0W
+LOC  Strand       THR   393 K      TYR    395 K                            4A0W
+LOC  Strand       ALA   463 K      LEU    465 K                            4A0W
+LOC  Strand       ILE   472 K      ASP    474 K                            4A0W
+LOC  Strand       THR   481 K      SER    483 K                            4A0W
+LOC  Strand       LYS    37 L      LEU     39 L                            4A0W
+LOC  Strand       MET    49 L      THR     51 L                            4A0W
+LOC  Strand       ILE   186 L      ILE    189 L                            4A0W
+LOC  Strand       SER   199 L      TYR    200 L                            4A0W
+LOC  Strand       PHE   205 L      LEU    207 L                            4A0W
+LOC  Strand       ARG   218 L      ILE    219 L                            4A0W
+LOC  Strand       ILE   224 L      ALA    227 L                            4A0W
+LOC  Strand       CYS   276 L      ASN    279 L                            4A0W
+LOC  Strand       MET   297 L      ILE    299 L                            4A0W
+LOC  Strand       LEU   335 L      ILE    341 L                            4A0W
+LOC  Strand       ASP   344 L      SER    350 L                            4A0W
+LOC  Strand       CYS   358 L      LEU    362 L                            4A0W
+LOC  Strand       THR   393 L      TYR    395 L                            4A0W
+LOC  Strand       ALA   463 L      LEU    465 L                            4A0W
+LOC  Strand       ILE   472 L      ASP    474 L                            4A0W
+LOC  Strand       THR   481 L      SER    483 L                            4A0W
+LOC  Strand       LYS    37 M      LEU     39 M                            4A0W
+LOC  Strand       MET    49 M      THR     51 M                            4A0W
+LOC  Strand       HIS   187 M      LEU    192 M                            4A0W
+LOC  Strand       SER   199 M      ASP    202 M                            4A0W
+LOC  Strand       GLY   204 M      LEU    207 M                            4A0W
+LOC  Strand       ARG   218 M      GLU    220 M                            4A0W
+LOC  Strand       ILE   224 M      ALA    227 M                            4A0W
+LOC  Strand       CYS   276 M      ASN    279 M                            4A0W
+LOC  Strand       MET   297 M      ILE    299 M                            4A0W
+LOC  Strand       LEU   335 M      MET    340 M                            4A0W
+LOC  Strand       LYS   345 M      SER    350 M                            4A0W
+LOC  Strand       THR   359 M      GLY    364 M                            4A0W
+LOC  Strand       THR   393 M      TYR    395 M                            4A0W
+LOC  Strand       ALA   463 M      LEU    465 M                            4A0W
+LOC  Strand       ILE   472 M      ASP    474 M                            4A0W
+LOC  Strand       THR   481 M      SER    483 M                            4A0W
+LOC  Strand       LYS    37 N      LEU     40 N                            4A0W
+LOC  Strand       LEU    48 N      THR     51 N                            4A0W
+LOC  Strand       ILE   186 N      ILE    189 N                            4A0W
+LOC  Strand       LEU   206 N      LEU    207 N                            4A0W
+LOC  Strand       ARG   218 N      GLU    220 N                            4A0W
+LOC  Strand       ILE   224 N      ALA    227 N                            4A0W
+LOC  Strand       CYS   276 N      ASN    279 N                            4A0W
+LOC  Strand       MET   297 N      ILE    299 N                            4A0W
+LOC  Strand       LEU   335 N      MET    340 N                            4A0W
+LOC  Strand       LYS   345 N      SER    350 N                            4A0W
+LOC  Strand       CYS   358 N      VAL    361 N                            4A0W
+LOC  Strand       THR   393 N      TYR    395 N                            4A0W
+LOC  Strand       ALA   463 N      LEU    465 N                            4A0W
+LOC  Strand       ILE   472 N      ASP    474 N                            4A0W
+LOC  Strand       THR   481 N      SER    483 N                            4A0W
+LOC  Strand       LYS    37 O      LEU     39 O                            4A0W
+LOC  Strand       MET    49 O      THR     51 O                            4A0W
+LOC  Strand       VAL   188 O      LEU    192 O                            4A0W
+LOC  Strand       SER   199 O      ASP    202 O                            4A0W
+LOC  Strand       PHE   205 O      LEU    207 O                            4A0W
+LOC  Strand       ARG   218 O      ILE    219 O                            4A0W
+LOC  Strand       ILE   224 O      ALA    227 O                            4A0W
+LOC  Strand       CYS   276 O      ASN    279 O                            4A0W
+LOC  Strand       MET   297 O      ILE    299 O                            4A0W
+LOC  Strand       LEU   335 O      GLU    338 O                            4A0W
+LOC  Strand       ILE   347 O      SER    350 O                            4A0W
+LOC  Strand       THR   359 O      GLY    364 O                            4A0W
+LOC  Strand       THR   393 O      TYR    395 O                            4A0W
+LOC  Strand       ALA   463 O      LEU    465 O                            4A0W
+LOC  Strand       ILE   472 O      ASP    474 O                            4A0W
+LOC  Strand       THR   481 O      SER    483 O                            4A0W
+LOC  Strand       LYS    37 P      ILE     38 P                            4A0W
+LOC  Strand       VAL    50 P      THR     51 P                            4A0W
+LOC  Strand       HIS   187 P      LEU    192 P                            4A0W
+LOC  Strand       SER   199 P      ASP    202 P                            4A0W
+LOC  Strand       PHE   205 P      LEU    207 P                            4A0W
+LOC  Strand       ARG   218 P      GLU    220 P                            4A0W
+LOC  Strand       ILE   224 P      ALA    227 P                            4A0W
+LOC  Strand       CYS   276 P      ASN    279 P                            4A0W
+LOC  Strand       MET   297 P      ILE    299 P                            4A0W
+LOC  Strand       LEU   335 P      MET    340 P                            4A0W
+LOC  Strand       LYS   345 P      SER    350 P                            4A0W
+LOC  Strand       THR   359 P      GLY    364 P                            4A0W
+LOC  Strand       THR   393 P      TYR    395 P                            4A0W
+LOC  Strand       ALA   463 P      ASP    466 P                            4A0W
+LOC  Strand       THR   471 P      ASP    474 P                            4A0W
+LOC  Strand       THR   481 P      SER    483 P                            4A0W
+LOC  TurnI        GLY    31 A      GLY     34 A                            4A0W
+LOC  TurnII'      SER    42 A      ASP     45 A                            4A0W
+LOC  TurnVIII     THR    51 A      GLY     54 A                            4A0W
+LOC  TurnIV       ASP    84 A      THR     87 A                            4A0W
+LOC  TurnIV       ASP   138 A      LYS    141 A                            4A0W
+LOC  TurnI        LYS   141 A      GLN    144 A                            4A0W
+LOC  TurnIV       PHE   142 A      ASP    145 A                            4A0W
+LOC  TurnIV       LEU   146 A      ILE    149 A                            4A0W
+LOC  TurnI        SER   195 A      ASP    198 A                            4A0W
+LOC  TurnIV       ASP   202 A      PHE    205 A                            4A0W
+LOC  TurnIV       ILE   219 A      ALA    222 A                            4A0W
+LOC  TurnVIII     ILE   236 A      PHE    239 A                            4A0W
+LOC  TurnII       ILE   299 A      ALA    302 A                            4A0W
+LOC  TurnI        THR   321 A      HIS    324 A                            4A0W
+LOC  TurnIV       MET   340 A      GLU    343 A                            4A0W
+LOC  TurnII'      ILE   341 A      ASP    344 A                            4A0W
+LOC  TurnIV       VAL   352 A      GLY    355 A                            4A0W
+LOC  TurnI'       GLY   396 A      CYS    399 A                            4A0W
+LOC  TurnI        LYS   460 A      ALA    463 A                            4A0W
+LOC  TurnI        ASP   466 A      GLU    469 A                            4A0W
+LOC  TurnI        MET   467 A      GLY    470 A                            4A0W
+LOC  TurnIV       VAL   504 A      ILE    507 A                            4A0W
+LOC  GammaInv     VAL   245 A      SER    247 A                            4A0W
+LOC  TurnIV       GLY    31 B      GLY     34 B                            4A0W
+LOC  TurnIV       SER    42 B      ASP     45 B                            4A0W
+LOC  TurnIV       GLY    43 B      ALA     46 B                            4A0W
+LOC  TurnIV       THR    51 B      GLY     54 B                            4A0W
+LOC  TurnIV       ASP    84 B      THR     87 B                            4A0W
+LOC  TurnIV       ILE   104 B      LYS    107 B                            4A0W
+LOC  TurnIV       ALA   127 B      ASN    130 B                            4A0W
+LOC  TurnIV       ASP   138 B      LYS    141 B                            4A0W
+LOC  TurnI        LYS   141 B      GLN    144 B                            4A0W
+LOC  TurnI        PHE   142 B      ASP    145 B                            4A0W
+LOC  TurnIV       ARG   143 B      LEU    146 B                            4A0W
+LOC  TurnI        LYS   157 B      THR    160 B                            4A0W
+LOC  TurnIV       LEU   159 B      HIS    162 B                            4A0W
+LOC  TurnIV       LYS   178 B      GLY    181 B                            4A0W
+LOC  TurnI        GLY   179 B      ASN    182 B                            4A0W
+LOC  TurnI        SER   195 B      ASP    198 B                            4A0W
+LOC  TurnIV       ASP   202 B      PHE    205 B                            4A0W
+LOC  TurnIV       ILE   219 B      ALA    222 B                            4A0W
+LOC  TurnVIII     ILE   236 B      PHE    239 B                            4A0W
+LOC  TurnIV       ILE   299 B      ALA    302 B                            4A0W
+LOC  TurnI        THR   321 B      HIS    324 B                            4A0W
+LOC  TurnIV       PHE   322 B      PRO    325 B                            4A0W
+LOC  TurnIV       PRO   325 B      VAL    328 B                            4A0W
+LOC  TurnI        GLU   326 B      LYS    329 B                            4A0W
+LOC  TurnVIII     LEU   327 B      LEU    330 B                            4A0W
+LOC  TurnIV       MET   340 B      GLU    343 B                            4A0W
+LOC  TurnIV       ILE   341 B      ASP    344 B                            4A0W
+LOC  TurnIV       VAL   352 B      GLY    355 B                            4A0W
+LOC  TurnIV       GLN   367 B      LEU    370 B                            4A0W
+LOC  TurnI'       GLY   396 B      CYS    399 B                            4A0W
+LOC  TurnI        LYS   460 B      ALA    463 B                            4A0W
+LOC  TurnI        ASP   466 B      GLU    469 B                            4A0W
+LOC  TurnI        MET   467 B      GLY    470 B                            4A0W
+LOC  TurnIV       GLU   469 B      ILE    472 B                            4A0W
+LOC  TurnIV       VAL   504 B      ILE    507 B                            4A0W
+LOC  TurnI        GLY    31 C      GLY     34 C                            4A0W
+LOC  TurnIV       SER    42 C      ASP     45 C                            4A0W
+LOC  TurnIV       ASP    84 C      THR     87 C                            4A0W
+LOC  TurnIV       ALA   127 C      ASN    130 C                            4A0W
+LOC  TurnIV       LYS   141 C      GLN    144 C                            4A0W
+LOC  TurnI        PHE   142 C      ASP    145 C                            4A0W
+LOC  TurnI        GLY   179 C      ASN    182 C                            4A0W
+LOC  TurnIV       GLY   181 C      GLU    184 C                            4A0W
+LOC  TurnIV       SER   195 C      ASP    198 C                            4A0W
+LOC  TurnIV       ASP   202 C      PHE    205 C                            4A0W
+LOC  TurnIV       ILE   219 C      ALA    222 C                            4A0W
+LOC  TurnVIII     ALA   227 C      GLY    230 C                            4A0W
+LOC  TurnII       ILE   299 C      ALA    302 C                            4A0W
+LOC  TurnI        THR   321 C      HIS    324 C                            4A0W
+LOC  TurnII'      PRO   325 C      VAL    328 C                            4A0W
+LOC  TurnI        GLU   326 C      LYS    329 C                            4A0W
+LOC  TurnVIII     LEU   327 C      LEU    330 C                            4A0W
+LOC  TurnIV       MET   340 C      GLU    343 C                            4A0W
+LOC  TurnIV       ILE   341 C      ASP    344 C                            4A0W
+LOC  TurnIV       VAL   352 C      GLY    355 C                            4A0W
+LOC  TurnI'       GLY   396 C      CYS    399 C                            4A0W
+LOC  TurnI        LYS   460 C      ALA    463 C                            4A0W
+LOC  TurnIV       GLU   469 C      ILE    472 C                            4A0W
+LOC  TurnIV       SER   493 C      GLU    496 C                            4A0W
+LOC  TurnI'       ALA   495 C      ALA    498 C                            4A0W
+LOC  GammaClassic  ASP    45 C      SER     47 C                           4A0W
+LOC  TurnVIII     GLY    31 D      GLY     34 D                            4A0W
+LOC  TurnIV       SER    42 D      ASP     45 D                            4A0W
+LOC  TurnIV       ASP    84 D      THR     87 D                            4A0W
+LOC  TurnII       ALA   127 D      ASN    130 D                            4A0W
+LOC  TurnIV       ASP   138 D      LYS    141 D                            4A0W
+LOC  TurnI        LYS   141 D      GLN    144 D                            4A0W
+LOC  TurnI        PHE   142 D      ASP    145 D                            4A0W
+LOC  TurnIV       ARG   143 D      LEU    146 D                            4A0W
+LOC  TurnIV       LEU   146 D      ILE    149 D                            4A0W
+LOC  TurnIV       LYS   178 D      GLY    181 D                            4A0W
+LOC  TurnI        SER   195 D      ASP    198 D                            4A0W
+LOC  TurnIV       ILE   219 D      ALA    222 D                            4A0W
+LOC  TurnIV       LYS   235 D      ILE    238 D                            4A0W
+LOC  TurnVIII     ILE   236 D      PHE    239 D                            4A0W
+LOC  TurnIV       SER   247 D      LYS    250 D                            4A0W
+LOC  TurnII       ILE   299 D      ALA    302 D                            4A0W
+LOC  TurnI        THR   321 D      HIS    324 D                            4A0W
+LOC  TurnII'      PRO   325 D      VAL    328 D                            4A0W
+LOC  TurnI        GLU   326 D      LYS    329 D                            4A0W
+LOC  TurnVIII     LEU   327 D      LEU    330 D                            4A0W
+LOC  TurnIV       MET   340 D      GLU    343 D                            4A0W
+LOC  TurnIV       VAL   352 D      GLY    355 D                            4A0W
+LOC  TurnI'       GLY   396 D      CYS    399 D                            4A0W
+LOC  TurnI        LYS   460 D      ALA    463 D                            4A0W
+LOC  TurnIV       ASP   466 D      GLU    469 D                            4A0W
+LOC  TurnI        MET   467 D      GLY    470 D                            4A0W
+LOC  TurnIV       GLY    31 E      GLY     34 E                            4A0W
+LOC  TurnIV       SER    42 E      ASP     45 E                            4A0W
+LOC  TurnIV       ASP    84 E      THR     87 E                            4A0W
+LOC  TurnII       ALA   127 E      ASN    130 E                            4A0W
+LOC  TurnI        LYS   141 E      GLN    144 E                            4A0W
+LOC  TurnI        PHE   142 E      ASP    145 E                            4A0W
+LOC  TurnIV       ARG   143 E      LEU    146 E                            4A0W
+LOC  TurnI        LEU   154 E      LYS    157 E                            4A0W
+LOC  TurnI        SER   195 E      ASP    198 E                            4A0W
+LOC  TurnIV       ILE   219 E      ALA    222 E                            4A0W
+LOC  TurnVIII     ALA   227 E      GLY    230 E                            4A0W
+LOC  TurnIV       LYS   235 E      ILE    238 E                            4A0W
+LOC  TurnIV       ILE   236 E      PHE    239 E                            4A0W
+LOC  TurnII       ILE   299 E      ALA    302 E                            4A0W
+LOC  TurnIV       SER   320 E      ASP    323 E                            4A0W
+LOC  TurnI        THR   321 E      HIS    324 E                            4A0W
+LOC  TurnII'      PRO   325 E      VAL    328 E                            4A0W
+LOC  TurnI        GLU   326 E      LYS    329 E                            4A0W
+LOC  TurnVIII     LEU   327 E      LEU    330 E                            4A0W
+LOC  TurnIV       ILE   341 E      ASP    344 E                            4A0W
+LOC  TurnIV       VAL   352 E      GLY    355 E                            4A0W
+LOC  TurnI'       GLY   396 E      CYS    399 E                            4A0W
+LOC  TurnI        LYS   460 E      ALA    463 E                            4A0W
+LOC  TurnI        ASP   466 E      GLU    469 E                            4A0W
+LOC  TurnI        MET   467 E      GLY    470 E                            4A0W
+LOC  GammaClassic  GLU   139 E      LYS    141 E                           4A0W
+LOC  GammaClassic  ASP   505 E      ILE    507 E                           4A0W
+LOC  TurnIV       GLY    31 F      GLY     34 F                            4A0W
+LOC  TurnIV       SER    42 F      ASP     45 F                            4A0W
+LOC  TurnIV       ASP    84 F      THR     87 F                            4A0W
+LOC  TurnII       ALA   127 F      ASN    130 F                            4A0W
+LOC  TurnIV       LEU   128 F      SER    131 F                            4A0W
+LOC  TurnIV       LEU   129 F      ALA    132 F                            4A0W
+LOC  TurnIV       ASP   138 F      LYS    141 F                            4A0W
+LOC  TurnI        LYS   141 F      GLN    144 F                            4A0W
+LOC  TurnIV       PHE   142 F      ASP    145 F                            4A0W
+LOC  TurnIV       ARG   143 F      LEU    146 F                            4A0W
+LOC  TurnIV       LEU   146 F      ILE    149 F                            4A0W
+LOC  TurnI        LEU   154 F      LYS    157 F                            4A0W
+LOC  TurnIV       SER   195 F      ASP    198 F                            4A0W
+LOC  TurnIV       ASP   202 F      PHE    205 F                            4A0W
+LOC  TurnIV       ILE   219 F      ALA    222 F                            4A0W
+LOC  TurnIV       ILE   236 F      PHE    239 F                            4A0W
+LOC  TurnIV       VAL   245 F      THR    248 F                            4A0W
+LOC  TurnIV       SER   247 F      LYS    250 F                            4A0W
+LOC  TurnII       ILE   299 F      ALA    302 F                            4A0W
+LOC  TurnI        THR   321 F      HIS    324 F                            4A0W
+LOC  TurnIV       MET   340 F      GLU    343 F                            4A0W
+LOC  TurnIV       ILE   341 F      ASP    344 F                            4A0W
+LOC  TurnIV       VAL   352 F      GLY    355 F                            4A0W
+LOC  TurnI'       GLY   396 F      CYS    399 F                            4A0W
+LOC  TurnI        LYS   460 F      ALA    463 F                            4A0W
+LOC  TurnI        ASP   466 F      GLU    469 F                            4A0W
+LOC  TurnI        MET   467 F      GLY    470 F                            4A0W
+LOC  TurnI        GLY    31 G      GLY     34 G                            4A0W
+LOC  TurnI        SER    42 G      ASP     45 G                            4A0W
+LOC  TurnIV       ASP    84 G      THR     87 G                            4A0W
+LOC  TurnI        ARG   125 G      LEU    128 G                            4A0W
+LOC  TurnIV       ALA   127 G      ASN    130 G                            4A0W
+LOC  TurnIV       ASP   138 G      LYS    141 G                            4A0W
+LOC  TurnI        LYS   141 G      GLN    144 G                            4A0W
+LOC  TurnI        PHE   142 G      ASP    145 G                            4A0W
+LOC  TurnI        LEU   154 G      LYS    157 G                            4A0W
+LOC  TurnI        LYS   157 G      THR    160 G                            4A0W
+LOC  TurnIV       LEU   159 G      HIS    162 G                            4A0W
+LOC  TurnIV       GLY   181 G      GLU    184 G                            4A0W
+LOC  TurnI        SER   195 G      ASP    198 G                            4A0W
+LOC  TurnIV       ILE   219 G      ALA    222 G                            4A0W
+LOC  TurnVIII     ALA   227 G      GLY    230 G                            4A0W
+LOC  TurnIV       LYS   235 G      ILE    238 G                            4A0W
+LOC  TurnIV       ILE   236 G      PHE    239 G                            4A0W
+LOC  TurnII       ILE   299 G      ALA    302 G                            4A0W
+LOC  TurnI        THR   321 G      HIS    324 G                            4A0W
+LOC  TurnIV       PHE   322 G      PRO    325 G                            4A0W
+LOC  TurnIV       PRO   325 G      VAL    328 G                            4A0W
+LOC  TurnI        GLU   326 G      LYS    329 G                            4A0W
+LOC  TurnVIII     LEU   327 G      LEU    330 G                            4A0W
+LOC  TurnIV       MET   340 G      GLU    343 G                            4A0W
+LOC  TurnIV       ILE   341 G      ASP    344 G                            4A0W
+LOC  TurnIV       VAL   352 G      GLY    355 G                            4A0W
+LOC  TurnI'       GLY   396 G      CYS    399 G                            4A0W
+LOC  TurnI        LYS   460 G      ALA    463 G                            4A0W
+LOC  TurnIV       GLU   469 G      ILE    472 G                            4A0W
+LOC  TurnIV       VAL   504 G      ILE    507 G                            4A0W
+LOC  GammaInv     ASP     4 G      GLU      6 G                            4A0W
+LOC  GammaInv     ILE   507 G      LYS    509 G                            4A0W
+LOC  TurnIV       LEU    30 H      LYS     33 H                            4A0W
+LOC  TurnI        GLY    31 H      GLY     34 H                            4A0W
+LOC  TurnIV       SER    42 H      ASP     45 H                            4A0W
+LOC  TurnIV       ASP    84 H      THR     87 H                            4A0W
+LOC  TurnIV       ARG   125 H      LEU    128 H                            4A0W
+LOC  TurnIV       GLN   126 H      LEU    129 H                            4A0W
+LOC  TurnI        ALA   127 H      ASN    130 H                            4A0W
+LOC  TurnIV       ASP   138 H      LYS    141 H                            4A0W
+LOC  TurnI        LYS   141 H      GLN    144 H                            4A0W
+LOC  TurnIV       PHE   142 H      ASP    145 H                            4A0W
+LOC  TurnIV       ARG   143 H      LEU    146 H                            4A0W
+LOC  TurnIV       LYS   157 H      THR    160 H                            4A0W
+LOC  TurnI        SER   195 H      ASP    198 H                            4A0W
+LOC  TurnIV       ASP   202 H      PHE    205 H                            4A0W
+LOC  TurnIV       ILE   219 H      ALA    222 H                            4A0W
+LOC  TurnVIII     ALA   227 H      GLY    230 H                            4A0W
+LOC  TurnIV       ILE   299 H      ALA    302 H                            4A0W
+LOC  TurnI        THR   321 H      HIS    324 H                            4A0W
+LOC  TurnIV       PHE   322 H      PRO    325 H                            4A0W
+LOC  TurnII'      PRO   325 H      VAL    328 H                            4A0W
+LOC  TurnI        GLU   326 H      LYS    329 H                            4A0W
+LOC  TurnVIII     LEU   327 H      LEU    330 H                            4A0W
+LOC  TurnIV       ILE   341 H      ASP    344 H                            4A0W
+LOC  TurnIV       VAL   352 H      GLY    355 H                            4A0W
+LOC  TurnI'       GLY   396 H      CYS    399 H                            4A0W
+LOC  TurnI        LYS   460 H      ALA    463 H                            4A0W
+LOC  TurnI        ASP   466 H      GLU    469 H                            4A0W
+LOC  TurnI        MET   467 H      GLY    470 H                            4A0W
+LOC  TurnIV       GLU   469 H      ILE    472 H                            4A0W
+LOC  GammaInv     ASN   279 H      GLN    281 H                            4A0W
+LOC  GammaInv     VAL   339 H      ILE    341 H                            4A0W
+LOC  TurnIV       GLY    31 I      GLY     34 I                            4A0W
+LOC  TurnIV       SER    42 I      ASP     45 I                            4A0W
+LOC  TurnIV       GLY    43 I      ALA     46 I                            4A0W
+LOC  TurnIV       ASP    80 I      GLY     83 I                            4A0W
+LOC  TurnIV       ASP    84 I      THR     87 I                            4A0W
+LOC  TurnI        LEU    96 I      GLU     99 I                            4A0W
+LOC  TurnI        ARG   125 I      LEU    128 I                            4A0W
+LOC  TurnII       ALA   127 I      ASN    130 I                            4A0W
+LOC  TurnIV       ASP   138 I      LYS    141 I                            4A0W
+LOC  TurnI        LYS   141 I      GLN    144 I                            4A0W
+LOC  TurnIV       PHE   142 I      ASP    145 I                            4A0W
+LOC  TurnIV       ARG   143 I      LEU    146 I                            4A0W
+LOC  TurnI        LEU   154 I      LYS    157 I                            4A0W
+LOC  TurnI        LYS   157 I      THR    160 I                            4A0W
+LOC  TurnI        SER   195 I      ASP    198 I                            4A0W
+LOC  TurnIV       ASP   202 I      PHE    205 I                            4A0W
+LOC  TurnIV       GLY   212 I      GLN    215 I                            4A0W
+LOC  TurnIV       ILE   219 I      ALA    222 I                            4A0W
+LOC  TurnVIII     ALA   227 I      GLY    230 I                            4A0W
+LOC  TurnIV       LYS   235 I      ILE    238 I                            4A0W
+LOC  TurnVIII     ILE   236 I      PHE    239 I                            4A0W
+LOC  TurnIV       PHE   239 I      ARG    242 I                            4A0W
+LOC  TurnIV       GLY   240 I      VAL    243 I                            4A0W
+LOC  TurnI        SER   247 I      LYS    250 I                            4A0W
+LOC  TurnII       ILE   299 I      ALA    302 I                            4A0W
+LOC  TurnI        THR   321 I      HIS    324 I                            4A0W
+LOC  TurnII'      PRO   325 I      VAL    328 I                            4A0W
+LOC  TurnI        GLU   326 I      LYS    329 I                            4A0W
+LOC  TurnVIII     LEU   327 I      LEU    330 I                            4A0W
+LOC  TurnIV       MET   340 I      GLU    343 I                            4A0W
+LOC  TurnIV       ILE   341 I      ASP    344 I                            4A0W
+LOC  TurnIV       VAL   352 I      GLY    355 I                            4A0W
+LOC  TurnVIII     GLY   355 I      CYS    358 I                            4A0W
+LOC  TurnI'       GLY   396 I      CYS    399 I                            4A0W
+LOC  TurnI        LYS   460 I      ALA    463 I                            4A0W
+LOC  TurnI        ASP   466 I      GLU    469 I                            4A0W
+LOC  TurnI        MET   467 I      GLY    470 I                            4A0W
+LOC  GammaClassic  ALA     1 I      ALA      3 I                           4A0W
+LOC  GammaClassic  LYS   106 I      ILE    108 I                           4A0W
+LOC  GammaInv     VAL   245 I      SER    247 I                            4A0W
+LOC  TurnI        GLY    31 J      GLY     34 J                            4A0W
+LOC  TurnIV       SER    42 J      ASP     45 J                            4A0W
+LOC  TurnIV       THR    51 J      GLY     54 J                            4A0W
+LOC  TurnIV       ASP    84 J      THR     87 J                            4A0W
+LOC  TurnII       ALA   127 J      ASN    130 J                            4A0W
+LOC  TurnIV       ASP   138 J      LYS    141 J                            4A0W
+LOC  TurnI        LYS   141 J      GLN    144 J                            4A0W
+LOC  TurnI        PHE   142 J      ASP    145 J                            4A0W
+LOC  TurnIV       LEU   146 J      ILE    149 J                            4A0W
+LOC  TurnI        LEU   154 J      LYS    157 J                            4A0W
+LOC  TurnI        LYS   157 J      THR    160 J                            4A0W
+LOC  TurnIV       LEU   159 J      HIS    162 J                            4A0W
+LOC  TurnIV       GLY   181 J      GLU    184 J                            4A0W
+LOC  TurnI        SER   195 J      ASP    198 J                            4A0W
+LOC  TurnIV       ILE   219 J      ALA    222 J                            4A0W
+LOC  TurnIV       LYS   235 J      ILE    238 J                            4A0W
+LOC  TurnVIII     ILE   236 J      PHE    239 J                            4A0W
+LOC  TurnIV       GLY   240 J      VAL    243 J                            4A0W
+LOC  TurnIV       VAL   245 J      THR    248 J                            4A0W
+LOC  TurnII       ILE   299 J      ALA    302 J                            4A0W
+LOC  TurnI        THR   321 J      HIS    324 J                            4A0W
+LOC  TurnII'      PRO   325 J      VAL    328 J                            4A0W
+LOC  TurnI        GLU   326 J      LYS    329 J                            4A0W
+LOC  TurnVIII     LEU   327 J      LEU    330 J                            4A0W
+LOC  TurnIV       ILE   341 J      ASP    344 J                            4A0W
+LOC  TurnIV       VAL   352 J      GLY    355 J                            4A0W
+LOC  TurnI'       GLY   396 J      CYS    399 J                            4A0W
+LOC  TurnI        LYS   460 J      ALA    463 J                            4A0W
+LOC  TurnI        ASP   466 J      GLU    469 J                            4A0W
+LOC  TurnI        MET   467 J      GLY    470 J                            4A0W
+LOC  TurnI        GLY    31 K      GLY     34 K                            4A0W
+LOC  TurnIV       SER    42 K      ASP     45 K                            4A0W
+LOC  TurnVIII     THR    51 K      GLY     54 K                            4A0W
+LOC  TurnIV       ASP    84 K      THR     87 K                            4A0W
+LOC  TurnIV       LEU   129 K      ALA    132 K                            4A0W
+LOC  TurnIV       ASP   138 K      LYS    141 K                            4A0W
+LOC  TurnI        LYS   141 K      GLN    144 K                            4A0W
+LOC  TurnIV       PHE   142 K      ASP    145 K                            4A0W
+LOC  TurnI        LYS   157 K      THR    160 K                            4A0W
+LOC  TurnIV       LEU   159 K      HIS    162 K                            4A0W
+LOC  TurnIV       LYS   178 K      GLY    181 K                            4A0W
+LOC  TurnIV       SER   195 K      ASP    198 K                            4A0W
+LOC  TurnIV       GLY   212 K      GLN    215 K                            4A0W
+LOC  TurnIV       ILE   219 K      ALA    222 K                            4A0W
+LOC  TurnIV       ILE   299 K      ALA    302 K                            4A0W
+LOC  TurnI        THR   321 K      HIS    324 K                            4A0W
+LOC  TurnII'      PRO   325 K      VAL    328 K                            4A0W
+LOC  TurnI        GLU   326 K      LYS    329 K                            4A0W
+LOC  TurnVIII     LEU   327 K      LEU    330 K                            4A0W
+LOC  TurnII'      ILE   341 K      ASP    344 K                            4A0W
+LOC  TurnIV       VAL   352 K      GLY    355 K                            4A0W
+LOC  TurnI'       GLY   396 K      CYS    399 K                            4A0W
+LOC  TurnI        LYS   460 K      ALA    463 K                            4A0W
+LOC  GammaInv     ASN   279 K      GLN    281 K                            4A0W
+LOC  GammaInv     ALA   511 K      ARG    513 K                            4A0W
+LOC  TurnIV       GLY     2 L      GLU      5 L                            4A0W
+LOC  TurnIV       GLY    31 L      GLY     34 L                            4A0W
+LOC  TurnIV       SER    42 L      ASP     45 L                            4A0W
+LOC  TurnIV       ASP    84 L      THR     87 L                            4A0W
+LOC  TurnIV       ASP   138 L      LYS    141 L                            4A0W
+LOC  TurnIV       LYS   141 L      GLN    144 L                            4A0W
+LOC  TurnI        PHE   142 L      ASP    145 L                            4A0W
+LOC  TurnIV       ARG   143 L      LEU    146 L                            4A0W
+LOC  TurnIV       GLN   144 L      MET    147 L                            4A0W
+LOC  TurnIV       LYS   157 L      THR    160 L                            4A0W
+LOC  TurnIV       SER   195 L      ASP    198 L                            4A0W
+LOC  TurnIV       ILE   219 L      ALA    222 L                            4A0W
+LOC  TurnII       ILE   299 L      ALA    302 L                            4A0W
+LOC  TurnI        THR   321 L      HIS    324 L                            4A0W
+LOC  TurnII'      PRO   325 L      VAL    328 L                            4A0W
+LOC  TurnI        GLU   326 L      LYS    329 L                            4A0W
+LOC  TurnVIII     LEU   327 L      LEU    330 L                            4A0W
+LOC  TurnII'      ILE   341 L      ASP    344 L                            4A0W
+LOC  TurnIV       VAL   352 L      GLY    355 L                            4A0W
+LOC  TurnIV       THR   366 L      ILE    369 L                            4A0W
+LOC  TurnI'       GLY   396 L      CYS    399 L                            4A0W
+LOC  TurnI        LYS   460 L      ALA    463 L                            4A0W
+LOC  TurnIV       VAL   500 L      ARG    503 L                            4A0W
+LOC  TurnIV       ILE   501 L      VAL    504 L                            4A0W
+LOC  TurnIV       GLY    31 M      GLY     34 M                            4A0W
+LOC  TurnIV       SER    42 M      ASP     45 M                            4A0W
+LOC  TurnIV       THR    51 M      GLY     54 M                            4A0W
+LOC  TurnIV       ASP    84 M      THR     87 M                            4A0W
+LOC  TurnIV       ASP   138 M      LYS    141 M                            4A0W
+LOC  TurnI        LYS   141 M      GLN    144 M                            4A0W
+LOC  TurnIV       PHE   142 M      ASP    145 M                            4A0W
+LOC  TurnIV       LEU   146 M      ILE    149 M                            4A0W
+LOC  TurnIV       LYS   157 M      THR    160 M                            4A0W
+LOC  TurnI        SER   195 M      ASP    198 M                            4A0W
+LOC  TurnIV       ILE   219 M      ALA    222 M                            4A0W
+LOC  TurnIV       THR   233 M      ILE    236 M                            4A0W
+LOC  TurnII'      LYS   235 M      ILE    238 M                            4A0W
+LOC  TurnVIII     ILE   236 M      PHE    239 M                            4A0W
+LOC  TurnIV       ILE   299 M      ALA    302 M                            4A0W
+LOC  TurnIV       SER   320 M      ASP    323 M                            4A0W
+LOC  TurnI        THR   321 M      HIS    324 M                            4A0W
+LOC  TurnIV       PHE   322 M      PRO    325 M                            4A0W
+LOC  TurnIV       ILE   341 M      ASP    344 M                            4A0W
+LOC  TurnIV       VAL   352 M      GLY    355 M                            4A0W
+LOC  TurnIV       THR   366 M      ILE    369 M                            4A0W
+LOC  TurnI'       GLY   396 M      CYS    399 M                            4A0W
+LOC  TurnI        LYS   460 M      ALA    463 M                            4A0W
+LOC  TurnIV       GLU   469 M      ILE    472 M                            4A0W
+LOC  GammaInv     THR    29 M      GLY     31 M                            4A0W
+LOC  TurnIV       GLY     2 N      GLU      5 N                            4A0W
+LOC  TurnVIII     GLY    31 N      GLY     34 N                            4A0W
+LOC  TurnII'      SER    42 N      ASP     45 N                            4A0W
+LOC  TurnIV       GLY    43 N      ALA     46 N                            4A0W
+LOC  TurnIV       ASP    79 N      VAL     82 N                            4A0W
+LOC  TurnIV       ASP    80 N      GLY     83 N                            4A0W
+LOC  TurnIV       ASP    84 N      THR     87 N                            4A0W
+LOC  TurnIV       LEU    96 N      GLU     99 N                            4A0W
+LOC  TurnII       ALA   127 N      ASN    130 N                            4A0W
+LOC  TurnIV       ASP   138 N      LYS    141 N                            4A0W
+LOC  TurnIV       LYS   141 N      GLN    144 N                            4A0W
+LOC  TurnI        PHE   142 N      ASP    145 N                            4A0W
+LOC  TurnIV       GLN   144 N      MET    147 N                            4A0W
+LOC  TurnIV       LEU   146 N      ILE    149 N                            4A0W
+LOC  TurnIV       LYS   178 N      GLY    181 N                            4A0W
+LOC  TurnIV       SER   195 N      ASP    198 N                            4A0W
+LOC  TurnVIII     GLY   212 N      GLN    215 N                            4A0W
+LOC  TurnIV       ILE   219 N      ALA    222 N                            4A0W
+LOC  TurnVIII     ALA   227 N      GLY    230 N                            4A0W
+LOC  TurnII       ILE   299 N      ALA    302 N                            4A0W
+LOC  TurnI        THR   321 N      HIS    324 N                            4A0W
+LOC  TurnIV       PHE   322 N      PRO    325 N                            4A0W
+LOC  TurnIV       PRO   325 N      VAL    328 N                            4A0W
+LOC  TurnI        GLU   326 N      LYS    329 N                            4A0W
+LOC  TurnVIII     LEU   327 N      LEU    330 N                            4A0W
+LOC  TurnIV       MET   340 N      GLU    343 N                            4A0W
+LOC  TurnIV       ILE   341 N      ASP    344 N                            4A0W
+LOC  TurnIV       VAL   352 N      GLY    355 N                            4A0W
+LOC  TurnI'       GLY   396 N      CYS    399 N                            4A0W
+LOC  TurnI        LYS   460 N      ALA    463 N                            4A0W
+LOC  GammaInv     ASN   279 N      GLN    281 N                            4A0W
+LOC  TurnIV       GLY    31 O      GLY     34 O                            4A0W
+LOC  TurnIV       SER    42 O      ASP     45 O                            4A0W
+LOC  TurnIV       ASP    84 O      THR     87 O                            4A0W
+LOC  TurnIV       ASP   138 O      LYS    141 O                            4A0W
+LOC  TurnI        LYS   141 O      GLN    144 O                            4A0W
+LOC  TurnI        PHE   142 O      ASP    145 O                            4A0W
+LOC  TurnI        LEU   154 O      LYS    157 O                            4A0W
+LOC  TurnVIII     SER   155 O      LEU    158 O                            4A0W
+LOC  TurnI        SER   195 O      ASP    198 O                            4A0W
+LOC  TurnIV       ASP   202 O      PHE    205 O                            4A0W
+LOC  TurnIV       ILE   219 O      ALA    222 O                            4A0W
+LOC  TurnVIII     ALA   227 O      GLY    230 O                            4A0W
+LOC  TurnII       ILE   299 O      ALA    302 O                            4A0W
+LOC  TurnIV       SER   320 O      ASP    323 O                            4A0W
+LOC  TurnI        THR   321 O      HIS    324 O                            4A0W
+LOC  TurnIV       PHE   322 O      PRO    325 O                            4A0W
+LOC  TurnII'      PRO   325 O      VAL    328 O                            4A0W
+LOC  TurnI        GLU   326 O      LYS    329 O                            4A0W
+LOC  TurnVIII     LEU   327 O      LEU    330 O                            4A0W
+LOC  TurnII'      ILE   341 O      ASP    344 O                            4A0W
+LOC  TurnIV       VAL   352 O      GLY    355 O                            4A0W
+LOC  TurnVIII     GLY   355 O      CYS    358 O                            4A0W
+LOC  TurnI'       GLY   396 O      CYS    399 O                            4A0W
+LOC  TurnI        LYS   460 O      ALA    463 O                            4A0W
+LOC  TurnI        ASP   466 O      GLU    469 O                            4A0W
+LOC  TurnI        MET   467 O      GLY    470 O                            4A0W
+LOC  TurnI        VAL   504 O      ILE    507 O                            4A0W
+LOC  TurnIV       GLY    31 P      GLY     34 P                            4A0W
+LOC  TurnII       SER    42 P      ASP     45 P                            4A0W
+LOC  TurnVIII     THR    51 P      GLY     54 P                            4A0W
+LOC  TurnIV       ASP    84 P      THR     87 P                            4A0W
+LOC  TurnIV       ALA   127 P      ASN    130 P                            4A0W
+LOC  TurnIV       LEU   128 P      SER    131 P                            4A0W
+LOC  TurnIV       ASP   138 P      LYS    141 P                            4A0W
+LOC  TurnI        LYS   141 P      GLN    144 P                            4A0W
+LOC  TurnIV       PHE   142 P      ASP    145 P                            4A0W
+LOC  TurnIV       ARG   143 P      LEU    146 P                            4A0W
+LOC  TurnI        LYS   157 P      THR    160 P                            4A0W
+LOC  TurnIV       LEU   159 P      HIS    162 P                            4A0W
+LOC  TurnIV       GLY   181 P      GLU    184 P                            4A0W
+LOC  TurnI        SER   195 P      ASP    198 P                            4A0W
+LOC  TurnIV       GLY   212 P      GLN    215 P                            4A0W
+LOC  TurnIV       ILE   219 P      ALA    222 P                            4A0W
+LOC  TurnIV       LYS   235 P      ILE    238 P                            4A0W
+LOC  TurnIV       ILE   236 P      PHE    239 P                            4A0W
+LOC  TurnVIII     VAL   245 P      THR    248 P                            4A0W
+LOC  TurnII       ILE   299 P      ALA    302 P                            4A0W
+LOC  TurnI        THR   321 P      HIS    324 P                            4A0W
+LOC  TurnII'      PRO   325 P      VAL    328 P                            4A0W
+LOC  TurnI        GLU   326 P      LYS    329 P                            4A0W
+LOC  TurnVIII     LEU   327 P      LEU    330 P                            4A0W
+LOC  TurnIV       MET   340 P      GLU    343 P                            4A0W
+LOC  TurnIV       VAL   352 P      GLY    355 P                            4A0W
+LOC  TurnI'       GLY   396 P      CYS    399 P                            4A0W
+LOC  TurnI        LYS   460 P      ALA    463 P                            4A0W
+LOC  TurnI        ASP   466 P      GLU    469 P                            4A0W
+LOC  TurnI        MET   467 P      GLY    470 P                            4A0W
+LOC  GammaInv     SER    47 P      MET     49 P                            4A0W
+LOC  GammaInv     ASN   279 P      GLN    281 P                            4A0W

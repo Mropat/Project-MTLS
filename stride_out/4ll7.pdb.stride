@@ -1,0 +1,92 @@
+REM  -------------------- Secondary structure summary -------------------  4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb A                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    SRVIESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLK   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   NENENLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL         94          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                       4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb B                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    LHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNENENL   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .                                   4LL7
+SEQ  51   NSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL               88          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                             4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb C                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    IESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNEN   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   ENLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSK             90          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                          4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb D                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    IESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNEN   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   ENLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL            91          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                           4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb E                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    ESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNENE   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   NLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL             90          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                            4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb F                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    IESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNEN   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   ENLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL            91          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                          4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb G                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    HDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNENENLN   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .                                   4LL7
+SEQ  51   SIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL                87          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                               4LL7
+REM                                                                        4LL7
+CHN  4ll7.pdb H                                                            4LL7
+REM                                                                        4LL7
+REM                .         .         .         .         .               4LL7
+SEQ  1    IESLHDQIDMLTKTNLQLTTQSQNLLSKLELAQSKESKLLENLNLLKNEN   50          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH               4LL7
+REM                                                                        4LL7
+REM                .         .         .         .                         4LL7
+SEQ  51   ENLNSIFERKNKKLKELEKDYSELSNRYNEQKEKMDQLSKL            91          4LL7
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH                           4LL7
+REM                                                                        4LL7
+REM                                                                        4LL7
+REM                                                                        4LL7
+LOC  AlphaHelix   SER    43 A      SER    134 A                            4LL7
+LOC  AlphaHelix   LEU    49 B      SER    134 B                            4LL7
+LOC  AlphaHelix   ILE    46 C      SER    134 C                            4LL7
+LOC  AlphaHelix   ILE    46 D      LEU    133 D                            4LL7
+LOC  AlphaHelix   GLU    47 E      LEU    133 E                            4LL7
+LOC  AlphaHelix   ILE    46 F      SER    134 F                            4LL7
+LOC  AlphaHelix   HIS    50 G      LEU    133 G                            4LL7
+LOC  AlphaHelix   ILE    46 H      LEU    133 H                            4LL7

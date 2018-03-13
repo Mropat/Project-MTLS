@@ -1,0 +1,328 @@
+REM  -------------------- Secondary structure summary -------------------  4EED
+REM                                                                        4EED
+CHN  4eed.pdb A                                                            4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  1    DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQR   50          4EED
+STR         EEEE  BTTTTB  B   TTTTTGGGGG    EEEEEETTTTHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  51   VGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESE  100          4EED
+STR       HHHHH   HHHHHHHHTTTT  EEEETTTEEEEEEEEEEEETTTTEEEEE               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  101  QVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLID  150          4EED
+STR       EEEEEEETTEEEEEE      HHHHHHHHHH   TTTTT HHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  151  ALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATI  200          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHTTT HHHHHHHHHHHHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  201  WPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGL  250          4EED
+STR       HHHHHHHHHHTTTTTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  251  LDVYLSSVSNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFGYPVVLAVMG  300          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .                                                       4EED
+SEQ  301  VIAVIMVVYFKKKK                                      314          4EED
+STR       HHHHHHHHHHTTT                                                    4EED
+REM                                                                        4EED
+CHN  4eed.pdb B                                                            4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  1    DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQR   50          4EED
+STR         EEEE  BTTTTB  EEE TTTTTGGGTTT   EEEEEETTTTHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  51   VGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESE  100          4EED
+STR       HHHHH   HHHHHHHHTTTT  EEEETTTEEEEEEEEEEEETTTTEEEEE               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  101  QVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLID  150          4EED
+STR       EEEEEEETTEEEEEE      HHHHHHHHHH   TTTTT HHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  151  ALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATI  200          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHH    HHHHHHHHHHHHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  201  WPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGL  250          4EED
+STR       HHHHHHHHHHTTTTTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH H               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  251  LDVYLSSVSNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFGYPVVLAVMG  300          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .                                                       4EED
+SEQ  301  VIAVIMVVYFKKKK                                      314          4EED
+STR       HHHHHHHHHHTTT                                                    4EED
+REM                                                                        4EED
+CHN  4eed.pdb C                                                            4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  1    DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQR   50          4EED
+STR         EEEEEEEETTEE  B   TTTTTGGGTTT   EEEEEETTTTHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  51   VGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESE  100          4EED
+STR       HHHHH   HHHHHHHH TTT  EEEETTTEEEEEEEEEEEETTTTEEEEE               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  101  QVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLID  150          4EED
+STR       EEEEEEETTEEEEEE      HHHHHHHHHH   TTTTT HHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  151  ALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATI  200          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTHHHHHHHHHHHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  201  WPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGL  250          4EED
+STR       HHHHHHHHHHTTTTTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  251  LDVYLSSVSNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFGYPVVLAVMG  300          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .                                                       4EED
+SEQ  301  VIAVIMVVYFKKKK                                      314          4EED
+STR       HHHHHHHHHHTTT                                                    4EED
+REM                                                                        4EED
+CHN  4eed.pdb D                                                            4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  1    DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQR   50          4EED
+STR         EEEEEEEETTEE  B   TTTTTGGGTTT   EEEEEETTTTHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  51   VGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESE  100          4EED
+STR       HHHHH   HHHHHHHHTTTT  EEEETTTEEEEEEEEEEEETTTTEEEEE               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  101  QVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLID  150          4EED
+STR       EEEEEEETTEEEEEE      HHHHHHHHHH   TTTTT HHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  151  ALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATI  200          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHTTT HHHHHHHHHHHHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  201  WPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGL  250          4EED
+STR       HHHHHHHHHHTTTTTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHGGGH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  251  LDVYLSSVSNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFGYPVVLAVMG  300          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .                                                       4EED
+SEQ  301  VIAVIMVVYFKKKK                                      314          4EED
+STR       HHHHHHHHHHTTT                                                    4EED
+REM                                                                        4EED
+CHN  4eed.pdb E                                                            4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  1    DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQR   50          4EED
+STR         EEEEEEBTTTTB  B   TTTTTGGGTTT   EEEEEETTTTHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  51   VGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESE  100          4EED
+STR       HHHHH   HHHHHHHHTTTT  EEEETTTEEEEEEEEEEEETTTTEEEEE               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  101  QVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLID  150          4EED
+STR       EEEEEEETTEEEEEE      HHHHHHHHHH   TTTTT HHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  151  ALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATI  200          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHTTT HHHHHHHHHHHHHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  201  WPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGL  250          4EED
+STR       HHHHHHHHHHHH TTTT HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH H               4EED
+REM                                                                        4EED
+REM                .         .         .         .         .               4EED
+SEQ  251  LDVYLSSVSNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFGYPVVLAVMG  300          4EED
+STR       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHHHHHHHH               4EED
+REM                                                                        4EED
+REM                .                                                       4EED
+SEQ  301  VIAVIMVVYFKKKK                                      314          4EED
+STR       HHHHHHHHHHTTT                                                    4EED
+REM                                                                        4EED
+REM                                                                        4EED
+REM                                                                        4EED
+LOC  AlphaHelix   THR    70 A      PHE     80 A                            4EED
+LOC  AlphaHelix   PRO    84 A      LEU     91 A                            4EED
+LOC  AlphaHelix   PHE   147 A      TYR    156 A                            4EED
+LOC  AlphaHelix   ALA   166 A      GLU    201 A                            4EED
+LOC  AlphaHelix   GLU   206 A      LEU    235 A                            4EED
+LOC  AlphaHelix   GLU   244 A      ILE    271 A                            4EED
+LOC  AlphaHelix   LEU   275 A      TYR    311 A                            4EED
+LOC  AlphaHelix   TYR   327 A      PHE    345 A                            4EED
+LOC  AlphaHelix   THR    70 B      PHE     80 B                            4EED
+LOC  AlphaHelix   PRO    84 B      LEU     91 B                            4EED
+LOC  AlphaHelix   PHE   147 B      TYR    156 B                            4EED
+LOC  AlphaHelix   ALA   166 B      GLU    201 B                            4EED
+LOC  AlphaHelix   GLU   206 B      LEU    235 B                            4EED
+LOC  AlphaHelix   GLU   244 B      SER    273 B                            4EED
+LOC  AlphaHelix   LEU   275 B      TYR    311 B                            4EED
+LOC  AlphaHelix   TYR   327 B      PHE    345 B                            4EED
+LOC  AlphaHelix   THR    70 C      PHE     80 C                            4EED
+LOC  AlphaHelix   PRO    84 C      LEU     91 C                            4EED
+LOC  AlphaHelix   PHE   147 C      TYR    156 C                            4EED
+LOC  AlphaHelix   ALA   166 C      GLU    201 C                            4EED
+LOC  AlphaHelix   THR   207 C      LEU    235 C                            4EED
+LOC  AlphaHelix   GLU   244 C      ILE    271 C                            4EED
+LOC  AlphaHelix   LEU   275 C      TYR    311 C                            4EED
+LOC  AlphaHelix   TYR   327 C      PHE    345 C                            4EED
+LOC  AlphaHelix   THR    70 D      PHE     80 D                            4EED
+LOC  AlphaHelix   PRO    84 D      LEU     91 D                            4EED
+LOC  AlphaHelix   PHE   147 D      TYR    156 D                            4EED
+LOC  AlphaHelix   ALA   166 D      GLU    201 D                            4EED
+LOC  AlphaHelix   GLU   206 D      LEU    235 D                            4EED
+LOC  AlphaHelix   GLU   244 D      ILE    271 D                            4EED
+LOC  AlphaHelix   LEU   275 D      TYR    311 D                            4EED
+LOC  AlphaHelix   TYR   327 D      PHE    345 D                            4EED
+LOC  AlphaHelix   THR    70 E      PHE     80 E                            4EED
+LOC  AlphaHelix   PRO    84 E      LEU     91 E                            4EED
+LOC  AlphaHelix   PHE   147 E      TYR    156 E                            4EED
+LOC  AlphaHelix   ALA   166 E      GLU    201 E                            4EED
+LOC  AlphaHelix   GLU   206 E      ARG    237 E                            4EED
+LOC  AlphaHelix   GLU   244 E      SER    273 E                            4EED
+LOC  AlphaHelix   LEU   275 E      TYR    311 E                            4EED
+LOC  AlphaHelix   TYR   327 E      PHE    345 E                            4EED
+LOC  310Helix     LEU    51 A      ASP     55 A                            4EED
+LOC  310Helix     VAL   272 A      GLY    274 A                            4EED
+LOC  310Helix     LEU    51 B      PHE     53 B                            4EED
+LOC  310Helix     LEU    51 C      PHE     53 C                            4EED
+LOC  310Helix     VAL   272 C      GLY    274 C                            4EED
+LOC  310Helix     LEU    51 D      PHE     53 D                            4EED
+LOC  310Helix     VAL   272 D      GLY    274 D                            4EED
+LOC  310Helix     LEU    51 E      PHE     53 E                            4EED
+LOC  Strand       GLU    28 A      VAL     31 A                            4EED
+LOC  Strand       THR    60 A      THR     65 A                            4EED
+LOC  Strand       LYS    98 A      PHE    101 A                            4EED
+LOC  Strand       TYR   105 A      ASP    116 A                            4EED
+LOC  Strand       GLU   121 A      THR    132 A                            4EED
+LOC  Strand       CYS   135 A      GLN    140 A                            4EED
+LOC  Strand       GLU    28 B      VAL     31 B                            4EED
+LOC  Strand       PHE    42 B      THR     44 B                            4EED
+LOC  Strand       THR    60 B      THR     65 B                            4EED
+LOC  Strand       LYS    98 B      PHE    101 B                            4EED
+LOC  Strand       TYR   105 B      ASP    116 B                            4EED
+LOC  Strand       GLU   121 B      THR    132 B                            4EED
+LOC  Strand       CYS   135 B      GLN    140 B                            4EED
+LOC  Strand       GLU    28 C      SER     35 C                            4EED
+LOC  Strand       GLU    38 C      PHE     39 C                            4EED
+LOC  Strand       THR    60 C      THR     65 C                            4EED
+LOC  Strand       LYS    98 C      PHE    101 C                            4EED
+LOC  Strand       TYR   105 C      ASP    116 C                            4EED
+LOC  Strand       GLU   121 C      THR    132 C                            4EED
+LOC  Strand       CYS   135 C      GLN    140 C                            4EED
+LOC  Strand       GLU    28 D      SER     35 D                            4EED
+LOC  Strand       GLU    38 D      PHE     39 D                            4EED
+LOC  Strand       THR    60 D      THR     65 D                            4EED
+LOC  Strand       LYS    98 D      PHE    101 D                            4EED
+LOC  Strand       TYR   105 D      ASP    116 D                            4EED
+LOC  Strand       GLU   121 D      THR    132 D                            4EED
+LOC  Strand       CYS   135 D      GLN    140 D                            4EED
+LOC  Strand       GLU    28 E      ASN     33 E                            4EED
+LOC  Strand       THR    60 E      THR     65 E                            4EED
+LOC  Strand       LYS    98 E      PHE    101 E                            4EED
+LOC  Strand       TYR   105 E      ASP    116 E                            4EED
+LOC  Strand       GLU   121 E      THR    132 E                            4EED
+LOC  Strand       CYS   135 E      GLN    140 E                            4EED
+LOC  TurnI        SER    35 A      GLU     38 A                            4EED
+LOC  TurnI        ASP    46 A      SER     49 A                            4EED
+LOC  TurnI        VAL    47 A      VAL     50 A                            4EED
+LOC  TurnIV       GLU    48 A      LEU     51 A                            4EED
+LOC  TurnIV       GLY    66 A      ARG     69 A                            4EED
+LOC  TurnIV       ILE    67 A      THR     70 A                            4EED
+LOC  TurnIV       ASN    92 A      GLN     95 A                            4EED
+LOC  TurnIV       PHE   102 A      TYR    105 A                            4EED
+LOC  TurnIV       ASP   116 A      LEU    119 A                            4EED
+LOC  TurnIV       LYS   117 A      HIS    120 A                            4EED
+LOC  TurnII'      THR   132 A      CYS    135 A                            4EED
+LOC  TurnIV       ILE   160 A      LYS    163 A                            4EED
+LOC  TurnIV       ILE   161 A      LYS    164 A                            4EED
+LOC  TurnIV       LEU   235 A      ASP    238 A                            4EED
+LOC  TurnIV       TYR   236 A      VAL    239 A                            4EED
+LOC  TurnIV       VAL   239 A      LEU    242 A                            4EED
+LOC  TurnIV       PHE   345 A      LYS    348 A                            4EED
+LOC  GammaInv     ARG   202 A      GLU    204 A                            4EED
+LOC  TurnIV       SER    35 B      GLU     38 B                            4EED
+LOC  TurnI        ASP    46 B      SER     49 B                            4EED
+LOC  TurnI        VAL    47 B      VAL     50 B                            4EED
+LOC  TurnIV       GLU    48 B      LEU     51 B                            4EED
+LOC  TurnI        PHE    53 B      SER     56 B                            4EED
+LOC  TurnIV       GLY    66 B      ARG     69 B                            4EED
+LOC  TurnIV       ILE    67 B      THR     70 B                            4EED
+LOC  TurnIV       ASN    92 B      GLN     95 B                            4EED
+LOC  TurnI        PHE   102 B      TYR    105 B                            4EED
+LOC  TurnIV       ASP   116 B      LEU    119 B                            4EED
+LOC  TurnIV       LYS   117 B      HIS    120 B                            4EED
+LOC  TurnIV       THR   132 B      CYS    135 B                            4EED
+LOC  TurnIV       ILE   160 B      LYS    163 B                            4EED
+LOC  TurnIV       ILE   161 B      LYS    164 B                            4EED
+LOC  TurnIV       LEU   235 B      ASP    238 B                            4EED
+LOC  TurnIV       TYR   236 B      VAL    239 B                            4EED
+LOC  TurnIV       VAL   239 B      LEU    242 B                            4EED
+LOC  TurnIV       PHE   345 B      LYS    348 B                            4EED
+LOC  TurnI        SER    35 C      GLU     38 C                            4EED
+LOC  TurnI        ASP    46 C      SER     49 C                            4EED
+LOC  TurnI        VAL    47 C      VAL     50 C                            4EED
+LOC  TurnI        GLU    48 C      LEU     51 C                            4EED
+LOC  TurnI        PHE    53 C      SER     56 C                            4EED
+LOC  TurnI        GLY    66 C      ARG     69 C                            4EED
+LOC  TurnIV       ILE    67 C      THR     70 C                            4EED
+LOC  TurnIV       PHE   102 C      TYR    105 C                            4EED
+LOC  TurnIV       ASP   116 C      LEU    119 C                            4EED
+LOC  TurnIV       LYS   117 C      HIS    120 C                            4EED
+LOC  TurnIV       THR   132 C      CYS    135 C                            4EED
+LOC  TurnIV       ILE   160 C      LYS    163 C                            4EED
+LOC  TurnIV       ILE   161 C      LYS    164 C                            4EED
+LOC  TurnIV       GLU   204 C      THR    207 C                            4EED
+LOC  TurnIV       LEU   235 C      ASP    238 C                            4EED
+LOC  TurnIV       TYR   236 C      VAL    239 C                            4EED
+LOC  TurnIV       VAL   239 C      LEU    242 C                            4EED
+LOC  TurnIV       PHE   345 C      LYS    348 C                            4EED
+LOC  GammaInv     VAL    93 C      GLN     95 C                            4EED
+LOC  GammaInv     ARG   202 C      GLU    204 C                            4EED
+LOC  TurnI        SER    35 D      GLU     38 D                            4EED
+LOC  TurnI        ASP    46 D      SER     49 D                            4EED
+LOC  TurnI        VAL    47 D      VAL     50 D                            4EED
+LOC  TurnI        GLU    48 D      LEU     51 D                            4EED
+LOC  TurnI        PHE    53 D      SER     56 D                            4EED
+LOC  TurnI        GLY    66 D      ARG     69 D                            4EED
+LOC  TurnVIII     ILE    67 D      THR     70 D                            4EED
+LOC  TurnIV       ASN    92 D      GLN     95 D                            4EED
+LOC  TurnIV       PHE   102 D      TYR    105 D                            4EED
+LOC  TurnIV       ASP   116 D      LEU    119 D                            4EED
+LOC  TurnIV       LYS   117 D      HIS    120 D                            4EED
+LOC  TurnIV       THR   132 D      CYS    135 D                            4EED
+LOC  TurnIV       ILE   160 D      LYS    163 D                            4EED
+LOC  TurnIV       ILE   161 D      LYS    164 D                            4EED
+LOC  TurnIV       LEU   235 D      ASP    238 D                            4EED
+LOC  TurnIV       TYR   236 D      VAL    239 D                            4EED
+LOC  TurnIV       VAL   239 D      LEU    242 D                            4EED
+LOC  TurnIV       PHE   345 D      LYS    348 D                            4EED
+LOC  GammaInv     TRP    61 D      ASN     63 D                            4EED
+LOC  GammaInv     ARG   202 D      GLU    204 D                            4EED
+LOC  TurnIV       SER    35 E      GLU     38 E                            4EED
+LOC  TurnI        ASP    46 E      SER     49 E                            4EED
+LOC  TurnI        VAL    47 E      VAL     50 E                            4EED
+LOC  TurnIV       GLU    48 E      LEU     51 E                            4EED
+LOC  TurnI        PHE    53 E      SER     56 E                            4EED
+LOC  TurnIV       GLY    66 E      ARG     69 E                            4EED
+LOC  TurnIV       ILE    67 E      THR     70 E                            4EED
+LOC  TurnIV       ASN    92 E      GLN     95 E                            4EED
+LOC  TurnIV       PHE   102 E      TYR    105 E                            4EED
+LOC  TurnIV       ASP   116 E      LEU    119 E                            4EED
+LOC  TurnIV       LYS   117 E      HIS    120 E                            4EED
+LOC  TurnIV       THR   132 E      CYS    135 E                            4EED
+LOC  TurnIV       ILE   160 E      LYS    163 E                            4EED
+LOC  TurnIV       ILE   161 E      LYS    164 E                            4EED
+LOC  TurnIV       VAL   239 E      LEU    242 E                            4EED
+LOC  TurnIV       PHE   345 E      LYS    348 E                            4EED
+LOC  GammaInv     ARG   202 E      GLU    204 E                            4EED

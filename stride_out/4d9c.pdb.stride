@@ -1,0 +1,299 @@
+REM  -------------------- Secondary structure summary -------------------  4D9C
+REM                                                                        4D9C
+CHN  4d9c.pdb A                                                            4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  1    MPLHHLTRFPRLEFIGAPTPLEYLPRLSDYLGREIYIKRDDVTPIAMGGN   50          4D9C
+STR       TTTGGGGG    TTTT    EEE HHHHHHH   EEEEETTTTTTTTT H               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  51   KLRKLEFLVADALREGADTLITAGAIQSNHVRQTAAVAAKLGLHCVALLE  100          4D9C
+STR       HHHHHHHHHHHHHHH   EEEEEEETTTHHHHHHHHHHHHH  EEEEEEE               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  101  NPIGTTAENYLTNGNRLLLDLFNTQIEMCDALTDPDAQLQTLATRIEAQG  150          4D9C
+STR       TTTT   HHHHH HHHHHHHHH  EEEETTTTTTHHHHHHHHHHHHHHH                4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  151  FRPYVIPVGGSSALGAMGYVESALEIAQQCEEVVGLSSVVVASGSAGTHA  200          4D9C
+STR         EEE  GGGTTHHHHHHHHHHHHHHHHHHTTTT   EEEEEETTTHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  201  GLAVGLEHLMPDVELIGVTVSRSVAEQKPKVIALQQAIAGQLALTATADI  250          4D9C
+STR       HHHHHHHHHTTTTEEEEEETTT HHHHHHHHHHHHHHHHHHH                       4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  251  HLWDDYFAPGYGVPNDAGMEAVKLLASLEGVLLDPVYTGKAMAGLIDGIS  300          4D9C
+STR       EEETTTTTTTTTT  HHHHHHHHHHHHHH    TTTHHHHHHHHHHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .                                             4D9C
+SEQ  301  QKRFNDDGPILFIHTGGAPALFAYHPHV                        328          4D9C
+STR       H        EEEEE    HHHHHHTTT                                      4D9C
+REM                                                                        4D9C
+CHN  4d9c.pdb B                                                            4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  1    LTRFPRLEFIGAPTPLEYLPRLSDYLGREIYIKRDDVTPIAMGGNKLRKL   50          4D9C
+STR       TTTT   TTTT    EEEEHHHHHHH   EEEEETTTTTTTTT HHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  51   EFLVADALREGADTLITAGAIQSNHVRQTAAVAAKLGLHCVALLENPIGT  100          4D9C
+STR       HHHHHHHHHH   EEEEEEETTTHHHHHHHHHHHHH  EEEEEEETTTT                4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  101  TAENYLTNGNRLLLDLFNTQIEMCDALTDPDAQLQTLATRIEAQGFRPYV  150          4D9C
+STR         HHHHH HHHHHHHHH  EEEE   TTTHHHHHHHHHHHHHHH   EEE               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  151  IPVGGSSALGAMGYVESALEIAQQCGLSSVVVASGSAGTHAGLAVGLEHL  200          4D9C
+STR         GGG TTTHHHHHHHHHHHHHHHH   EEEEEETTTHHHHHHHHHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  201  MPDVELIGVTVSRSVAEQKPKVIALQQAIAGQLALTATADIHLWDDYFAP  250          4D9C
+STR       TTTTEEEEEETTT HHHHHHHHHHHHHHHHHHH        EEETTTTTT               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  251  GYGVPNDAGMEAVKLLASLEGVLLDPVYTGKAMAGLIDGISQKRFNDDGP  300          4D9C
+STR       TTTT  HHHHHHHHHHHHHH    TTTHHHHHHHHHHHHHHH                       4D9C
+REM                                                                        4D9C
+REM                .                                                       4D9C
+SEQ  301  ILFIHTGGAPALFAYHPHV                                 319          4D9C
+STR       EEEEE    HHHHHHTTT                                               4D9C
+REM                                                                        4D9C
+CHN  4d9c.pdb C                                                            4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  1    RFPRLEFIGAPTPLEYLPRLSDYLGREIYIKRDDVTPIAMGGNKLRKLEF   50          4D9C
+STR            TTTT    EEE HHHHHHH   EEEETTTTTTTTTT HHHHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  51   LVADALREGADTLITAGAIQSNHVRQTAAVAAKLGLHCVALLENPIGTTA  100          4D9C
+STR       HHHHHHHH   EEEEEEETTTHHHHHHHHHHHHH  EEEEEEETTTT                  4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  101  ENYLTNGNRLLLDLFNTQIEMCDALTDPDAQLQTLATRIEAQGFRPYVIP  150          4D9C
+STR       HHHHH HHHHHHHHH  EEEETTTTTTHHHHHHHHHHHHHHH   EEE                 4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  151  VGGSSALGAMGYVESALEIAQQCEEVVGLSSVVVASGSAGTHAGLAVGLE  200          4D9C
+STR       GGG  HHHHHHHHHHHHHHHHHHTTTT   EEEEEETTTHHHHHHHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  201  HLMPDVELIGVTVSRSVAEQKPKVIALQQAIAGQLALTATADIHLWDDYF  250          4D9C
+STR       HHTTTTEEEEEETTT HHHHHHHHHHHHHHHHHHH        EEETTTT               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  251  APGYGVPNDAGMEAVKLLASLEGVLLDPVYTGKAMAGLIDGISQKRFNDD  300          4D9C
+STR       TTTTTT  HHHHHHHHHHHHHH    TTTHHHHHHHHHHHHHHH                     4D9C
+REM                                                                        4D9C
+REM                .         .                                             4D9C
+SEQ  301  GPILFIHTGGAPALFAYHPHV                               321          4D9C
+STR         EEEE     HHHHHHTTT                                             4D9C
+REM                                                                        4D9C
+CHN  4d9c.pdb D                                                            4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  1    MPLHHLTRFPRLEFIGAPTPLEYLPRLSDYLGREIYIKRDDVTPIAMGGN   50          4D9C
+STR       TTTGGGGG    TTTT    EEE HHHHHHH   EEEEETTTTTTTTT H               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  51   KLRKLEFLVADALREGADTLITAGAIQSNHVRQTAAVAAKLGLHCVALLE  100          4D9C
+STR       HHHHHHHHHHHHHHH   EEEEEEETTTHHHHHHHHHHHHH  EEEEEEE               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  101  NPIGTTAENYLTNGNRLLLDLFNTQIEMCDALTDPDAQLQTLATRIEAQG  150          4D9C
+STR       TTTT   HHHHH HHHHHHHHH  EEEE   TTTHHHHHHHHHHHHHHH                4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  151  FRPYVIPVGGSSALGAMGYVESALEIAQQCEEVVGLSSVVVASGSAGTHA  200          4D9C
+STR         EEE  GGGTTHHHHHHHHHHHHHHHHHHTTTTTT EEEEEETTTHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  201  GLAVGLEHLMPDVELIGVTVSRSVAEQKPKVIALQQAIAGQLALTATADI  250          4D9C
+STR       HHHHHHHHHTTTTEEEEEETTT HHHHHHHHHHHHHHHHHHH                       4D9C
+REM                                                                        4D9C
+REM                .         .         .         .         .               4D9C
+SEQ  251  HLWDDYFAPGYGVPNDAGMEAVKLLASLEGVLLDPVYTGKAMAGLIDGIS  300          4D9C
+STR       EEETTTTTTTTTT  HHHHHHHHHHHHHH    TTTHHHHHHHHHHHHHH               4D9C
+REM                                                                        4D9C
+REM                .         .                                             4D9C
+SEQ  301  QKRFNDDGPILFIHTGGAPALFAYHPHV                        328          4D9C
+STR       H        EEEEE    HHHHHHTTT                                      4D9C
+REM                                                                        4D9C
+REM                                                                        4D9C
+REM                                                                        4D9C
+LOC  AlphaHelix   PRO    25 A      LEU     31 A                            4D9C
+LOC  AlphaHelix   ASN    50 A      GLU     65 A                            4D9C
+LOC  AlphaHelix   ASN    79 A      LEU     91 A                            4D9C
+LOC  AlphaHelix   GLU   108 A      THR    112 A                            4D9C
+LOC  AlphaHelix   GLY   114 A      PHE    122 A                            4D9C
+LOC  AlphaHelix   PRO   135 A      GLN    149 A                            4D9C
+LOC  AlphaHelix   ALA   163 A      CYS    180 A                            4D9C
+LOC  AlphaHelix   GLY   197 A      LEU    209 A                            4D9C
+LOC  AlphaHelix   VAL   224 A      LEU    242 A                            4D9C
+LOC  AlphaHelix   ASP   266 A      GLU    279 A                            4D9C
+LOC  AlphaHelix   TYR   287 A      GLN    301 A                            4D9C
+LOC  AlphaHelix   PRO   319 A      TYR    324 A                            4D9C
+LOC  AlphaHelix   PRO    25 B      LEU     31 B                            4D9C
+LOC  AlphaHelix   ASN    50 B      GLU     65 B                            4D9C
+LOC  AlphaHelix   ASN    79 B      LEU     91 B                            4D9C
+LOC  AlphaHelix   GLU   108 B      THR    112 B                            4D9C
+LOC  AlphaHelix   GLY   114 B      PHE    122 B                            4D9C
+LOC  AlphaHelix   PRO   135 B      GLN    149 B                            4D9C
+LOC  AlphaHelix   GLY   165 B      CYS    180 B                            4D9C
+LOC  AlphaHelix   GLY   197 B      LEU    209 B                            4D9C
+LOC  AlphaHelix   VAL   224 B      LEU    242 B                            4D9C
+LOC  AlphaHelix   ASP   266 B      GLU    279 B                            4D9C
+LOC  AlphaHelix   TYR   287 B      GLN    301 B                            4D9C
+LOC  AlphaHelix   PRO   319 B      TYR    324 B                            4D9C
+LOC  AlphaHelix   PRO    25 C      LEU     31 C                            4D9C
+LOC  AlphaHelix   ASN    50 C      GLU     65 C                            4D9C
+LOC  AlphaHelix   ASN    79 C      LEU     91 C                            4D9C
+LOC  AlphaHelix   GLU   108 C      THR    112 C                            4D9C
+LOC  AlphaHelix   GLY   114 C      PHE    122 C                            4D9C
+LOC  AlphaHelix   PRO   135 C      GLN    149 C                            4D9C
+LOC  AlphaHelix   ALA   163 C      CYS    180 C                            4D9C
+LOC  AlphaHelix   GLY   197 C      LEU    209 C                            4D9C
+LOC  AlphaHelix   VAL   224 C      LEU    242 C                            4D9C
+LOC  AlphaHelix   ASP   266 C      GLU    279 C                            4D9C
+LOC  AlphaHelix   TYR   287 C      GLN    301 C                            4D9C
+LOC  AlphaHelix   PRO   319 C      TYR    324 C                            4D9C
+LOC  AlphaHelix   PRO    25 D      LEU     31 D                            4D9C
+LOC  AlphaHelix   ASN    50 D      GLU     65 D                            4D9C
+LOC  AlphaHelix   ASN    79 D      LEU     91 D                            4D9C
+LOC  AlphaHelix   GLU   108 D      THR    112 D                            4D9C
+LOC  AlphaHelix   GLY   114 D      PHE    122 D                            4D9C
+LOC  AlphaHelix   PRO   135 D      GLN    149 D                            4D9C
+LOC  AlphaHelix   ALA   163 D      CYS    180 D                            4D9C
+LOC  AlphaHelix   GLY   197 D      LEU    209 D                            4D9C
+LOC  AlphaHelix   VAL   224 D      LEU    242 D                            4D9C
+LOC  AlphaHelix   ASP   266 D      GLU    279 D                            4D9C
+LOC  AlphaHelix   TYR   287 D      GLN    301 D                            4D9C
+LOC  AlphaHelix   PRO   319 D      TYR    324 D                            4D9C
+LOC  310Helix     HIS     4 A      ARG      8 A                            4D9C
+LOC  310Helix     VAL   158 A      GLY    160 A                            4D9C
+LOC  310Helix     VAL   158 B      GLY    160 B                            4D9C
+LOC  310Helix     VAL   158 C      GLY    160 C                            4D9C
+LOC  310Helix     HIS     4 D      ARG      8 D                            4D9C
+LOC  310Helix     VAL   158 D      GLY    160 D                            4D9C
+LOC  Strand       LEU    21 A      TYR     23 A                            4D9C
+LOC  Strand       ILE    35 A      ARG     39 A                            4D9C
+LOC  Strand       THR    69 A      ALA     75 A                            4D9C
+LOC  Strand       HIS    94 A      GLU    100 A                            4D9C
+LOC  Strand       GLN   125 A      MET    128 A                            4D9C
+LOC  Strand       PRO   153 A      VAL    155 A                            4D9C
+LOC  Strand       SER   188 A      SER    193 A                            4D9C
+LOC  Strand       GLU   214 A      THR    219 A                            4D9C
+LOC  Strand       HIS   251 A      TRP    253 A                            4D9C
+LOC  Strand       ILE   310 A      HIS    314 A                            4D9C
+LOC  Strand       LEU    21 B      LEU     24 B                            4D9C
+LOC  Strand       ILE    35 B      ARG     39 B                            4D9C
+LOC  Strand       THR    69 B      ALA     75 B                            4D9C
+LOC  Strand       HIS    94 B      GLU    100 B                            4D9C
+LOC  Strand       GLN   125 B      MET    128 B                            4D9C
+LOC  Strand       PRO   153 B      VAL    155 B                            4D9C
+LOC  Strand       SER   188 B      SER    193 B                            4D9C
+LOC  Strand       GLU   214 B      THR    219 B                            4D9C
+LOC  Strand       HIS   251 B      TRP    253 B                            4D9C
+LOC  Strand       ILE   310 B      HIS    314 B                            4D9C
+LOC  Strand       LEU    21 C      TYR     23 C                            4D9C
+LOC  Strand       ILE    35 C      LYS     38 C                            4D9C
+LOC  Strand       THR    69 C      ALA     75 C                            4D9C
+LOC  Strand       HIS    94 C      GLU    100 C                            4D9C
+LOC  Strand       GLN   125 C      MET    128 C                            4D9C
+LOC  Strand       PRO   153 C      VAL    155 C                            4D9C
+LOC  Strand       SER   188 C      SER    193 C                            4D9C
+LOC  Strand       GLU   214 C      THR    219 C                            4D9C
+LOC  Strand       HIS   251 C      TRP    253 C                            4D9C
+LOC  Strand       ILE   310 C      ILE    313 C                            4D9C
+LOC  Strand       LEU    21 D      TYR     23 D                            4D9C
+LOC  Strand       ILE    35 D      ARG     39 D                            4D9C
+LOC  Strand       THR    69 D      ALA     75 D                            4D9C
+LOC  Strand       HIS    94 D      GLU    100 D                            4D9C
+LOC  Strand       GLN   125 D      MET    128 D                            4D9C
+LOC  Strand       PRO   153 D      VAL    155 D                            4D9C
+LOC  Strand       SER   188 D      SER    193 D                            4D9C
+LOC  Strand       GLU   214 D      THR    219 D                            4D9C
+LOC  Strand       HIS   251 D      TRP    253 D                            4D9C
+LOC  Strand       ILE   310 D      HIS    314 D                            4D9C
+LOC  TurnI        MET     1 A      HIS      4 A                            4D9C
+LOC  TurnIV       GLU    13 A      GLY     16 A                            4D9C
+LOC  TurnI        ARG    39 A      VAL     42 A                            4D9C
+LOC  TurnI        ASP    40 A      THR     43 A                            4D9C
+LOC  TurnIV       PRO    44 A      MET     47 A                            4D9C
+LOC  TurnI'       ILE    45 A      GLY     48 A                            4D9C
+LOC  TurnI        ALA    75 A      SER     78 A                            4D9C
+LOC  TurnI        ASN   101 A      GLY    104 A                            4D9C
+LOC  TurnVIII     CYS   129 A      LEU    132 A                            4D9C
+LOC  TurnVIII     LEU   132 A      PRO    135 A                            4D9C
+LOC  TurnII       CYS   180 A      VAL    183 A                            4D9C
+LOC  TurnIV       GLU   181 A      VAL    184 A                            4D9C
+LOC  TurnIV       SER   193 A      ALA    196 A                            4D9C
+LOC  TurnI        MET   210 A      VAL    213 A                            4D9C
+LOC  TurnIV       THR   219 A      ARG    222 A                            4D9C
+LOC  TurnIV       ASP   254 A      PHE    257 A                            4D9C
+LOC  TurnVIa      PHE   257 A      GLY    260 A                            4D9C
+LOC  TurnII       GLY   260 A      VAL    263 A                            4D9C
+LOC  TurnIV       ASP   284 A      TYR    287 A                            4D9C
+LOC  TurnVIa      TYR   324 A      HIS    327 A                            4D9C
+LOC  GammaInv     LYS    38 A      ASP     40 A                            4D9C
+LOC  GammaInv     GLY   160 A      SER    162 A                            4D9C
+LOC  TurnI        LEU     6 B      PHE      9 B                            4D9C
+LOC  TurnIV       GLU    13 B      GLY     16 B                            4D9C
+LOC  TurnI        ARG    39 B      VAL     42 B                            4D9C
+LOC  TurnI        ASP    40 B      THR     43 B                            4D9C
+LOC  TurnIV       PRO    44 B      MET     47 B                            4D9C
+LOC  TurnI'       ILE    45 B      GLY     48 B                            4D9C
+LOC  TurnI        ALA    75 B      SER     78 B                            4D9C
+LOC  TurnI        ASN   101 B      GLY    104 B                            4D9C
+LOC  TurnIV       LEU   132 B      PRO    135 B                            4D9C
+LOC  TurnIV       SER   162 B      GLY    165 B                            4D9C
+LOC  TurnIV       SER   193 B      ALA    196 B                            4D9C
+LOC  TurnI        MET   210 B      VAL    213 B                            4D9C
+LOC  TurnIV       THR   219 B      ARG    222 B                            4D9C
+LOC  TurnI        ASP   254 B      PHE    257 B                            4D9C
+LOC  TurnVIa      PHE   257 B      GLY    260 B                            4D9C
+LOC  TurnII       GLY   260 B      VAL    263 B                            4D9C
+LOC  TurnIV       ASP   284 B      TYR    287 B                            4D9C
+LOC  TurnVIa      TYR   324 B      HIS    327 B                            4D9C
+LOC  GammaInv     LYS    38 B      ASP     40 B                            4D9C
+LOC  TurnIV       GLU    13 C      GLY     16 C                            4D9C
+LOC  TurnI        ARG    39 C      VAL     42 C                            4D9C
+LOC  TurnI        ASP    40 C      THR     43 C                            4D9C
+LOC  TurnIV       PRO    44 C      MET     47 C                            4D9C
+LOC  TurnIV       ILE    45 C      GLY     48 C                            4D9C
+LOC  TurnI        ALA    75 C      SER     78 C                            4D9C
+LOC  TurnI        ASN   101 C      GLY    104 C                            4D9C
+LOC  TurnVIII     CYS   129 C      LEU    132 C                            4D9C
+LOC  TurnVIII     LEU   132 C      PRO    135 C                            4D9C
+LOC  TurnII       CYS   180 C      VAL    183 C                            4D9C
+LOC  TurnIV       GLU   181 C      VAL    184 C                            4D9C
+LOC  TurnIV       SER   193 C      ALA    196 C                            4D9C
+LOC  TurnI        MET   210 C      VAL    213 C                            4D9C
+LOC  TurnIV       THR   219 C      ARG    222 C                            4D9C
+LOC  TurnI        ASP   254 C      PHE    257 C                            4D9C
+LOC  TurnVIa      PHE   257 C      GLY    260 C                            4D9C
+LOC  TurnII       GLY   260 C      VAL    263 C                            4D9C
+LOC  TurnI        ASP   284 C      TYR    287 C                            4D9C
+LOC  TurnVIa      TYR   324 C      HIS    327 C                            4D9C
+LOC  TurnI        MET     1 D      HIS      4 D                            4D9C
+LOC  TurnIV       GLU    13 D      GLY     16 D                            4D9C
+LOC  TurnI        ARG    39 D      VAL     42 D                            4D9C
+LOC  TurnI        ASP    40 D      THR     43 D                            4D9C
+LOC  TurnIV       PRO    44 D      MET     47 D                            4D9C
+LOC  TurnI'       ILE    45 D      GLY     48 D                            4D9C
+LOC  TurnI        ALA    75 D      SER     78 D                            4D9C
+LOC  TurnI        ASN   101 D      GLY    104 D                            4D9C
+LOC  TurnVIII     LEU   132 D      PRO    135 D                            4D9C
+LOC  TurnIV       CYS   180 D      VAL    183 D                            4D9C
+LOC  TurnIV       VAL   183 D      LEU    186 D                            4D9C
+LOC  TurnIV       SER   193 D      ALA    196 D                            4D9C
+LOC  TurnI        MET   210 D      VAL    213 D                            4D9C
+LOC  TurnIV       THR   219 D      ARG    222 D                            4D9C
+LOC  TurnI        ASP   254 D      PHE    257 D                            4D9C
+LOC  TurnVIa      PHE   257 D      GLY    260 D                            4D9C
+LOC  TurnII       GLY   260 D      VAL    263 D                            4D9C
+LOC  TurnI        ASP   284 D      TYR    287 D                            4D9C
+LOC  TurnVIa      TYR   324 D      HIS    327 D                            4D9C
+LOC  GammaInv     LYS    38 D      ASP     40 D                            4D9C
+LOC  GammaInv     GLY   160 D      SER    162 D                            4D9C

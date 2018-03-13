@@ -1,0 +1,138 @@
+REM  -------------------- Secondary structure summary -------------------  4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb A                                                            4M5T
+REM                                                                        4M5T
+REM                .         .         .         .         .               4M5T
+SEQ  1    GMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERGFISRCFHR   50          4M5T
+STR        EEEETTEEEEEEETTTT GGGEEEEEETTEEEEEEEEEETTEEEEEEEE               4M5T
+REM                                                                        4M5T
+REM                .         .         .                                   4M5T
+SEQ  51   KYRIPADVDPLTITSSLSSDGVLTVNGPRKQV                     82          4M5T
+STR       EEE TTTB GGG EEEEETTTEEEEEEEB                                    4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb C                                                            4M5T
+REM                                                                        4M5T
+REM                .         .         .         .         .               4M5T
+SEQ  1    GMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQEHGFISRC   50          4M5T
+STR        EEEETTEEEEEEETTTT GGGEEEEEETTEEEEEEEEEEETTTTEEEEE               4M5T
+REM                                                                        4M5T
+REM                .         .         .                                   4M5T
+SEQ  51   FHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQV                  85          4M5T
+STR       EEEEEE TTTT GGG EEEEETTTEEEEEEE                                  4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb E                                                            4M5T
+REM                                                                        4M5T
+REM                .         .         .         .         .               4M5T
+SEQ  1    GMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQDEHGFISR   50          4M5T
+STR        EEEETTEEEEEEETTTT GGGEEEEEETTEEEEEEEEEEETTTT EEEE               4M5T
+REM                                                                        4M5T
+REM                .         .         .                                   4M5T
+SEQ  51   CFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQ                  85          4M5T
+STR       EEEEEEE TTTB GGG EEEEETTTEEEEEEEB                                4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb G                                                            4M5T
+REM                                                                        4M5T
+REM                .         .         .         .         .               4M5T
+SEQ  1    GMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQDEHGFISR   50          4M5T
+STR        EEEETTEEEEEEETTTT GGGEEEEEETTEEEEEEEEEE  TTTEEEEE               4M5T
+REM                                                                        4M5T
+REM                .         .         .                                   4M5T
+SEQ  51   CFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQV                 86          4M5T
+STR       EEEEEEE TTTT GGG EEEEETTTEEEEEEE                                 4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb B                                                            4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+SEQ  1    ERTIPITRE                                             9          4M5T
+STR        EEE EEE                                                         4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb D                                                            4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+SEQ  1    ERTIPITRE                                             9          4M5T
+STR        EE  EE                                                          4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb F                                                            4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+SEQ  1    ERTIPITRE                                             9          4M5T
+STR        EE  EEE                                                         4M5T
+REM                                                                        4M5T
+CHN  4m5t.pdb H                                                            4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+SEQ  1    ERTIPITR                                              8          4M5T
+STR        EE                                                              4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+REM                                                                        4M5T
+LOC  310Helix     PRO    86 A      GLU     88 A                            4M5T
+LOC  310Helix     PRO   130 A      THR    132 A                            4M5T
+LOC  310Helix     PRO    86 C      GLU     88 C                            4M5T
+LOC  310Helix     PRO   130 C      THR    132 C                            4M5T
+LOC  310Helix     PRO    86 E      GLU     88 E                            4M5T
+LOC  310Helix     PRO   130 E      THR    132 E                            4M5T
+LOC  310Helix     PRO    86 G      GLU     88 G                            4M5T
+LOC  310Helix     PRO   130 G      THR    132 G                            4M5T
+LOC  Strand       MET    68 A      GLU     71 A                            4M5T
+LOC  Strand       ARG    74 A      ASP     80 A                            4M5T
+LOC  Strand       LEU    89 A      LEU     94 A                            4M5T
+LOC  Strand       VAL    97 A      GLU    106 A                            4M5T
+LOC  Strand       PHE   113 A      ARG    123 A                            4M5T
+LOC  Strand       THR   134 A      SER    138 A                            4M5T
+LOC  Strand       VAL   142 A      PRO    148 A                            4M5T
+LOC  Strand       MET    68 C      GLU     71 C                            4M5T
+LOC  Strand       ARG    74 C      ASP     80 C                            4M5T
+LOC  Strand       LEU    89 C      LEU     94 C                            4M5T
+LOC  Strand       VAL    97 C      ARG    107 C                            4M5T
+LOC  Strand       PHE   113 C      ARG    123 C                            4M5T
+LOC  Strand       THR   134 C      SER    138 C                            4M5T
+LOC  Strand       VAL   142 C      PRO    148 C                            4M5T
+LOC  Strand       MET    68 E      GLU     71 E                            4M5T
+LOC  Strand       ARG    74 E      ASP     80 E                            4M5T
+LOC  Strand       LEU    89 E      LEU     94 E                            4M5T
+LOC  Strand       VAL    97 E      ARG    107 E                            4M5T
+LOC  Strand       PHE   113 E      ARG    123 E                            4M5T
+LOC  Strand       THR   134 E      SER    138 E                            4M5T
+LOC  Strand       VAL   142 E      PRO    148 E                            4M5T
+LOC  Strand       MET    68 G      GLU     71 G                            4M5T
+LOC  Strand       ARG    74 G      ASP     80 G                            4M5T
+LOC  Strand       LEU    89 G      LEU     94 G                            4M5T
+LOC  Strand       VAL    97 G      GLU    106 G                            4M5T
+LOC  Strand       GLY   112 G      ARG    123 G                            4M5T
+LOC  Strand       THR   134 G      SER    138 G                            4M5T
+LOC  Strand       VAL   142 G      PRO    148 G                            4M5T
+LOC  Strand       ARG   157 B      ILE    159 B                            4M5T
+LOC  Strand       ILE   161 B      ARG    163 B                            4M5T
+LOC  Strand       ARG   157 D      THR    158 D                            4M5T
+LOC  Strand       ILE   161 D      THR    162 D                            4M5T
+LOC  Strand       ARG   157 F      THR    158 F                            4M5T
+LOC  Strand       ILE   161 F      ARG    163 F                            4M5T
+LOC  Strand       ARG   157 H      THR    158 H                            4M5T
+LOC  TurnI        GLU    71 A      ARG     74 A                            4M5T
+LOC  TurnI        VAL    81 A      PHE     84 A                            4M5T
+LOC  TurnII'      LEU    94 A      VAL     97 A                            4M5T
+LOC  TurnIV       GLU   106 A      PHE    113 A                            4M5T
+LOC  TurnIV       ARG   107 A      ILE    114 A                            4M5T
+LOC  TurnI        PRO   125 A      VAL    128 A                            4M5T
+LOC  TurnI        SER   138 A      GLY    141 A                            4M5T
+LOC  TurnI        GLU    71 C      ARG     74 C                            4M5T
+LOC  TurnI        VAL    81 C      PHE     84 C                            4M5T
+LOC  TurnII'      LEU    94 C      VAL     97 C                            4M5T
+LOC  TurnIV       GLN   108 C      GLY    112 C                            4M5T
+LOC  TurnI        PRO   125 C      VAL    128 C                            4M5T
+LOC  TurnI        SER   138 C      GLY    141 C                            4M5T
+LOC  TurnI        GLU    71 E      ARG     74 E                            4M5T
+LOC  TurnI        VAL    81 E      PHE     84 E                            4M5T
+LOC  TurnIV       VAL    93 E      ASP     96 E                            4M5T
+LOC  TurnII'      LEU    94 E      VAL     97 E                            4M5T
+LOC  TurnIV       GLN   108 E      HIS    111 E                            4M5T
+LOC  TurnI        PRO   125 E      VAL    128 E                            4M5T
+LOC  TurnI        SER   138 E      GLY    141 E                            4M5T
+LOC  TurnI        GLU    71 G      ARG     74 G                            4M5T
+LOC  TurnI        VAL    81 G      PHE     84 G                            4M5T
+LOC  TurnII'      LEU    94 G      VAL     97 G                            4M5T
+LOC  TurnI        ASP   109 G      GLY    112 G                            4M5T
+LOC  TurnI        PRO   125 G      VAL    128 G                            4M5T
+LOC  TurnI        SER   138 G      GLY    141 G                            4M5T
+LOC  Disulfide    CYS   117 A      CYS    117 C            PDB             4M5T
