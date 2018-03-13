@@ -16,5 +16,5 @@ def pssm_parser(filename):
     return sequence, structure
 
 if __name__ == "__main__":
-    pssm_parser("fullset.txt")
+    pssm_parser("Stride_reduced.fasta")
     
