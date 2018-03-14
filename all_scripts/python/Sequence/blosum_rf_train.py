@@ -1,7 +1,8 @@
 import numpy as np
-from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import cross_val_score
 import pickle
+import datetime
 
 
 def parse_fasta(filename, window, blosumdict):
@@ -54,22 +55,25 @@ def parse_fasta(filename, window, blosumdict):
 
 
 def train_model(X, Y):
-    clf = LinearSVC()
+    clf = RandomForestClassifier(n_estimators=160, min_impurity_decrease=0.000001,
+                                 oob_score="True", n_jobs=-2)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
-    with open("blosum_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " Blosum LinearSVC default" + "\n" + str(score) + "\n" + "\n")
+    now = datetime.datetime.now()
+    with open("blosum_forest_scoredump.report", "a+") as dh:
+        dh.write(str(window) + " Blosum RandomForest 160 trees imp 0.0001 20sample leaf " + str(now.strftime("%Y-%m-%d %H:%M:%S")) + 
+                 "\n" + str(score) + "\n" + "\n")
     print(score)
     print(str(window) + " done!")
 
 
 if __name__ == "__main__":
 
-    for window in range(15, 23, 2):
-        dumpmodel = "blosum_linsvc%i.sav" % window
+    for window in range(15, 27, 2):
+        dumpmodel = "blosum_forestopt3%i.sav" % window
         blosumdict = pickle.load(
-            open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
+            open("models/blosumdict.sav", "rb+"))
         x_vec, y_vec = parse_fasta(
             "datasets/3sstride_full.txt", window, blosumdict)
         train_model(x_vec, y_vec)

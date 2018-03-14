@@ -39,8 +39,8 @@ def feature_vecs (protid,  window):
             features = pssm[i-offset : i+offset+1].flatten()
             seq_vec.append(features)
             testshape = np.concatenate([testshape, features])
-        #if testshape.shape[0] != len (strc*260):
-            #print (protid [ind])  -- Troubleshoot the training data 
+        #if testshape.shape[0] != len (strc*20*window):
+            #print (protid [ind])  -- Troubleshoot the data 
         
     #pickle.dump(seq_vec, open(dumps, "wb"))
     return str_vec, seq_vec

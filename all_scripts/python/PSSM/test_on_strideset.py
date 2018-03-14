@@ -4,20 +4,21 @@ from sklearn.svm import LinearSVC
 from sklearn.svm import SVC
 
 
-def predict_fasta(filename, window, blosumdict):
+def predict_fasta(filename, window):
 
     prot_id = []
     sequence = []
     structure = []
 
     padding = "0"*(window//2)
+    paddingmtx = np.zeros((window//2, 20))
     offset = window//2
 
     with open(filename, "r") as fh:
         line = fh.readline()
         while line:
             if line.startswith(">"):
-                prot_id.append(line.strip())
+                prot_id.append(line[1:].strip())
                 sequence.append(padding + fh.readline().strip() + padding)
                 structure.append(fh.readline().strip())
 
@@ -25,42 +26,39 @@ def predict_fasta(filename, window, blosumdict):
                 fh.readline()
             line = fh.readline()
 
-    meanscore = []
+    for i, pidn in enumerate(prot_id[:50]):
 
-    for i, pidn in enumerate(prot_id[100:120]):
-
+        pssm_test_data = pickle.load(open("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "rb+"))
+        pssm_seq = pssm_test_data[pidn]
         true_str = structure[i]
-        seq = sequence[i]
-        seq_vector = []
+
+        pssm_seq_vec = []
         true_str_vec = []
 
         for f in true_str:
             true_str_vec.append(ord(f))
         true_str_vec = np.array(true_str_vec)
 
-        for res in range(offset, len(seq)-offset):
-            seq_windows = seq[res-offset: res+offset+1]
-            seq_vector.append(seq_windows)
 
-        x_vec = []
-        for window in seq_vector:
-            encoded_window = []
-            for r in window:
-                r = blosumdict[r]
-                encoded_window.extend(r)
-            x_vec.append(encoded_window)
-        x_vec = np.asarray(x_vec)
+        pssm_seq = np.append(pssm_seq, paddingmtx, axis=0)
+        pssm_seq = np.append(paddingmtx, pssm_seq, axis=0)
+        testshape = np.array([])
+        for i in range(offset, pssm_seq.shape[0]-offset):
+            features = pssm_seq[i-offset : i+offset+1].flatten()
+            pssm_seq_vec.append(features)
+            testshape = np.concatenate([testshape, features])
+        if testshape.shape[0] != len (true_str*20*window):
+            print(pidn + " corrupted!!")
+            continue
 
-        linsvc = pickle.load(open("models/svcart15.sav", "rb"))
-        prediction = linsvc.score(x_vec, true_str_vec)
-        meanscore.append(prediction)
 
-    print(np.mean(meanscore))
+        x_vec = np.asarray(pssm_seq_vec)
+
+        predictor = pickle.load(open("models/svcart15.sav", "rb"))
+        prediction = predictor.score(x_vec, true_str_vec)
+        print (prediction)
 
 
 if __name__ == "__main__":
-    blosumdict = pickle.load(
-        open("all_scripts/python/PSSM/blosumdict.sav", "rb+"))
     window = 15
-    predict_fasta("datasets/Stride_reduced.fasta", window, blosumdict)
-    predict_fasta("datasets/3sstride_full.txt", window, blosumdict)
+    predict_fasta("datasets/Stride_reduced.fasta", window)
