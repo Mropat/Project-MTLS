@@ -1,9 +1,10 @@
 import pickle
 import numpy as np
 from sklearn.svm import LinearSVC
+from sklearn.svm import SVC
 
 
-def predict_fasta(filename, window, pssmdict):
+def predict_fasta(filename, window, blosumdict):
 
     prot_id = []
     sequence = []
@@ -27,12 +28,12 @@ def predict_fasta(filename, window, pssmdict):
     meanscore = []
 
     for i, pidn in enumerate(prot_id[100:120]):
+
         true_str = structure[i]
         seq = sequence[i]
         seq_vector = []
-
-
         true_str_vec = []
+
         for f in true_str:
             true_str_vec.append(ord(f))
         true_str_vec = np.array(true_str_vec)
@@ -42,25 +43,24 @@ def predict_fasta(filename, window, pssmdict):
             seq_vector.append(seq_windows)
 
         x_vec = []
-        for window in seq_vector: 
-            encoded_window = []           
+        for window in seq_vector:
+            encoded_window = []
             for r in window:
-                r = pssmdict[r]
+                r = blosumdict[r]
                 encoded_window.extend(r)
-            x_vec.append(encoded_window)        
+            x_vec.append(encoded_window)
         x_vec = np.asarray(x_vec)
 
-
-        linsvc = pickle.load(open ("models/linsvc15.sav", "rb"))
+        linsvc = pickle.load(open("models/svcart15.sav", "rb"))
         prediction = linsvc.score(x_vec, true_str_vec)
         meanscore.append(prediction)
 
-    print (np.mean(meanscore))
-
+    print(np.mean(meanscore))
 
 
 if __name__ == "__main__":
-    pssmdict = pickle.load(open("all_scripts/python/PSSM/pssmdict.sav", "rb+"))
+    blosumdict = pickle.load(
+        open("all_scripts/python/PSSM/blosumdict.sav", "rb+"))
     window = 15
-    predict_fasta("datasets/Stride_reduced.fasta", window, pssmdict)
-    predict_fasta("datasets/3sstride_full.txt", window, pssmdict)
+    predict_fasta("datasets/Stride_reduced.fasta", window, blosumdict)
+    predict_fasta("datasets/3sstride_full.txt", window, blosumdict)
