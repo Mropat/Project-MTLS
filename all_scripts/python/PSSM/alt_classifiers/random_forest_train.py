@@ -2,8 +2,10 @@ import pickle
 import numpy as np
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
+from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import recall_score
+import datetime
 
 
 def get_sets(filename):
@@ -19,7 +21,7 @@ def get_sets(filename):
 
 def feature_vecs(protid,  window):
 
-    pssmdict = pickle.load(open("all_scripts/python/PSSMdict_large.sav", "rb"))
+    pssmdict = pickle.load(open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2
 
@@ -27,7 +29,6 @@ def feature_vecs(protid,  window):
     seq_vec = []
 
     for ind, prot in enumerate(protid):
-
         strc = structures[ind]
         for pos in strc:
             str_vec.append(ord(pos))
@@ -44,24 +45,30 @@ def feature_vecs(protid,  window):
 
 
 def train_model():
-    str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = SVC(C=2.3, gamma=0.05, cache_size=8000)
+    str_vec, seq_vec = feature_vecs(protid, window)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
-    clf.fit(X, y)
-    pickle.dump(clf, open(dumpmodel, "wb"))
-    scoring = ['precision_macro', 'recall_macro']
-    scores = cross_validate(clf, X, y, scoring=scoring, cv=3)
 
-    print(scores)
+    clf = RandomForestClassifier(n_estimators=120, n_jobs=3, min_samples_leaf=20, oob_score=True)
+    clf.fit(X, y)
+    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
+
+    scoring = ['precision_macro', 'recall_macro']
+    score = cross_validate(clf, X, y, scoring=scoring, cv=3)
+    now = datetime.datetime.now()
+    with open("pssm_forest_scoredump.report", "a+") as dh:
+        dh.write(str(window) + " Blosum RandomForest 160 trees " + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
+                 "\n" + str(score) + "\n" + "\n")
+    print(clf.oob_score_)
+    print(score)
 
 
 if __name__ == "__main__":
-    for window in range(21, 23, 2):
+    for window in range(19, 25, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
-        dumps = "seq_vec%i.sav" % window
-        dumpmodel = "svcart%i.sav" % window
+    #    dumps = "seq_vec%i.sav" % window
+        dumpmodel = "pssm_forest%i.sav" % window
         train_model()
 
     print("all done")

@@ -1,0 +1,18 @@
+13 Blosum RandomForest 160 trees 2018-03-14 23:21:09
+{'test_precision_macro': array([0.76127148, 0.75631465, 0.76208374]), 'train_precision_macro': array([0.86495594, 0.86440882, 0.86803077]), 'fit_time': array([39.36898398, 38.06683993, 37.15521431]), 'score_time': array([1.46424794, 1.27212381, 1.35729504]), 'train_recall_macro': array([0.80921463, 0.81244814, 0.81341327]), 'test_recall_macro': array([0.70296889, 0.69741648, 0.69759823])}
+
+15 Blosum RandomForest 160 trees 2018-03-14 23:24:49
+{'test_precision_macro': array([0.76449909, 0.75708933, 0.76358395]), 'train_precision_macro': array([0.87007956, 0.86869006, 0.8713461 ]), 'fit_time': array([42.29765248, 43.1401093 , 40.28633451]), 'score_time': array([1.50066566, 1.50275302, 1.92081952]), 'train_recall_macro': array([0.81386362, 0.81594157, 0.81599968]), 'test_recall_macro': array([0.70512364, 0.69654009, 0.69745061])}
+
+17 Blosum RandomForest 160 trees 2018-03-14 23:28:47
+{'test_precision_macro': array([0.76647165, 0.75901889, 0.76512164]), 'train_precision_macro': array([0.87368812, 0.87055048, 0.87384758]), 'fit_time': array([47.01174307, 44.27396846, 46.61617661]), 'score_time': array([1.5059936 , 1.51428342, 1.50978279]), 'train_recall_macro': array([0.81681681, 0.81743849, 0.8177356 ]), 'test_recall_macro': array([0.70464248, 0.69791747, 0.69633649])}
+
+19 Blosum RandomForest 160 trees 2018-03-14 23:34:25
+{'fit_time': array([46.99785447, 48.34678435, 47.54673791]), 'score_time': array([1.51351166, 1.51242471, 1.73787165]), 'test_recall_macro': array([0.7000391 , 0.69668571, 0.69508829]), 'train_precision_macro': array([0.87465359, 0.87316642, 0.87645451]), 'train_recall_macro': array([0.81755294, 0.81980152, 0.81903469]), 'test_precision_macro': array([0.76092661, 0.75926012, 0.76429897])}
+
+21 Blosum RandomForest 160 trees 2018-03-14 23:39:00
+{'fit_time': array([51.90153408, 51.89086103, 54.01383615]), 'score_time': array([1.72855401, 1.72423267, 1.73467875]), 'test_recall_macro': array([0.69940109, 0.69475387, 0.69422957]), 'train_precision_macro': array([0.87792609, 0.87349718, 0.87825156]), 'train_recall_macro': array([0.81967091, 0.81907513, 0.82165547]), 'test_precision_macro': array([0.76374601, 0.75853002, 0.76401644])}
+
+23 Blosum RandomForest 160 trees 2018-03-14 23:43:55
+{'fit_time': array([54.8434689 , 55.25133419, 59.3410902 ]), 'score_time': array([1.74622464, 1.75009608, 1.9789784 ]), 'test_recall_macro': array([0.69957287, 0.69579514, 0.69346248]), 'train_precision_macro': array([0.87938077, 0.87728507, 0.87984075]), 'train_recall_macro': array([0.82141648, 0.82330602, 0.82338315]), 'test_precision_macro': array([0.76459142, 0.76025874, 0.7632315 ])}
+

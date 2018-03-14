@@ -56,7 +56,7 @@ def train_model():
     
 
 if __name__ == "__main__":     
-    for window in range (25, 27, 2):
+    for window in range (13, 19, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
         dumpmodel = "forest%i.sav" % window

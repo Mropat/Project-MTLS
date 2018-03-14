@@ -5,7 +5,7 @@ from sklearn.svm import SVC
 
 
 def predict_fasta(filename, window):
-
+    
     prot_id = []
     sequence = []
     structure = []
@@ -30,7 +30,8 @@ def predict_fasta(filename, window):
     for i, pidn in enumerate(prot_id):
 
         pssm_test_data = pickle.load(
-            open("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "rb+"))
+#            open("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "rb+"))
+            open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb+"))
         pssm_seq = pssm_test_data[pidn]
         true_str = structure[i]
 
@@ -54,7 +55,7 @@ def predict_fasta(filename, window):
 
         x_vec = np.asarray(pssm_seq_vec)
 
-        predictor = pickle.load(open("models/PSSM/svc21.sav", "rb"))
+        predictor = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
         prediction = predictor.score(x_vec, true_str_vec)
         consensus.append(prediction)
 
@@ -62,5 +63,6 @@ def predict_fasta(filename, window):
 
 
 if __name__ == "__main__":
-    window = 21
-    predict_fasta("datasets/Stride_reduced.fasta", window)
+    window = 15
+    predict_fasta("datasets/3sstride_full.txt", window)
+#    predict_fasta("datasets/Stride_reduced.fasta", window)

@@ -9,7 +9,7 @@ def predict_fasta(filename, window):
     prot_id = []
     sequence = []
     structure = []
-    padding = "0"*window//2
+    padding = "0"*(window//2)
 
     with open(filename, "r") as fh:
         line = fh.readline()
@@ -38,7 +38,7 @@ def predict_fasta(filename, window):
                 test_vector.append(int(res))
 
         vectenc = pickle.load(
-            open("all_scripts/python/LinearSVC_seqonly21_fin/ohe.sav", "rb"))
+            open("all_scripts/python/Sequence/ohe.sav", "rb"))
 
         for i in range(len(test_vector)-window+1):
             test_vector_frames.append(test_vector[i: i+window])
@@ -51,7 +51,7 @@ def predict_fasta(filename, window):
         true_str_vec = np.array(true_str_vec)
 
         linclf = pickle.load(open(
-            "all_scripts/python/LinearSVC_seqonly21_fin/LinearSVC_3SSTRIDE_w21.sav", "rb"))
+            "all_scripts/python/Sequence/Sequence_only/LinearSVC_21/LinearSVC_3SSTRIDE_w21.sav", "rb"))
         prediction = linclf.score(test_v_enc, true_str_vec)
 
         meanscore.append(prediction)
@@ -62,3 +62,4 @@ if __name__ == "__main__":
     window = 21
     encoder = OHE()
     predict_fasta("datasets/3sstride_full.txt", window)
+    predict_fasta("datasets/Stride_reduced.fasta", window)

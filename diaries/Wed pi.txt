@@ -1,0 +1,10 @@
+Diary Wednesday Pi:
+
+1. Reviewed massive mispredictions on naive data set. The source was the Stride parser handling newlines improperly. 
+	After the fix, PSSM prediction scores are very high for rbf kernel SVM. Testing and training more models.
+	RandomForest prefers window size 15, as does the rbf kernel svm. Interestingly linearSVC still prefers 21
+
+2. Performance of predictor trained on BLOSUM instead of OneHotEncoded data performs similarly to only sequence data.
+	BLOSUM might still be useful for adding additional weights to PSSM prediction, but there might not be time to investigate
+
+3. Reorganized the project even more

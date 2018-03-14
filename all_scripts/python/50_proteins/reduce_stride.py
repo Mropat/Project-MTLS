@@ -14,11 +14,16 @@ def get_assigned_reduced(path):
                 if line.startswith("LOC"):
                     continue
                 if line.startswith("CHN"):
+                    
+                    pdbid = ""
+                    sequence = ""
+                    assigned = ""
+
                     pdbid = (line[5:9] + ":" + line[14])
                 if line.startswith("SEQ"):
-                    sequence = sequence + line[10:61].strip()
+                    sequence = sequence + line[10:60].strip()
                 if line.startswith("STR"):
-                    assigned = assigned + line[10:61]
+                    assigned = assigned + line[10:60]
 
             with open("Stride_reduced.fasta", "a+") as wh:
 
@@ -30,6 +35,7 @@ def get_assigned_reduced(path):
                 wh.write(assigned[:len(sequence)] + "\n")
 
 
+
 if __name__ == "__main__":
-    path = "pssm_storage/output_stride"
+    path = "pssm_storage/output_stride/"
     get_assigned_reduced(path)
