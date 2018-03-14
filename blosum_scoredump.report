@@ -4,3 +4,15 @@
 17 Blosum LinearSVC default
 [0.62245782 0.61928255 0.62859542]
 
+19 Blosum LinearSVC default
+[0.6225103  0.61930879 0.6293565 ]
+
+21 Blosum LinearSVC default
+[0.62227412 0.6200698  0.63024879]
+
+21 Blosum LinearSVC default balanced
+[0.61778676 0.6111738  0.62479005]
+
+21 Blosum LinearSVC c1.2
+[0.62216916 0.61999108 0.63035377]
+

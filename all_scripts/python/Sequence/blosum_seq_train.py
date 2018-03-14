@@ -54,20 +54,20 @@ def parse_fasta(filename, window, blosumdict):
 
 
 def train_model(X, Y):
-    clf = LinearSVC()
+    clf = LinearSVC(C = 1.2)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
     with open("blosum_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " Blosum LinearSVC default" + "\n" + str(score) + "\n" + "\n")
+        dh.write(str(window) + " Blosum LinearSVC c1.2 balanced" + "\n" + str(score) + "\n" + "\n")
     print(score)
     print(str(window) + " done!")
 
 
 if __name__ == "__main__":
 
-    for window in range(15, 23, 2):
-        dumpmodel = "blosum_linsvc%i.sav" % window
+    for window in range(21, 23, 2):
+        dumpmodel = "blosum_linsvc_c1.2l%i.sav" % window
         blosumdict = pickle.load(
             open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
         x_vec, y_vec = parse_fasta(
