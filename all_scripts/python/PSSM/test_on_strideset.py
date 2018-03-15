@@ -55,7 +55,7 @@ def predict_fasta(filename, window):
 
         x_vec = np.asarray(pssm_seq_vec)
 
-        predictor = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
+        predictor = pickle.load(open("pssm_forest_o9_21.sav", "rb"))
         prediction = predictor.score(x_vec, true_str_vec)
         consensus.append(prediction)
 
@@ -63,6 +63,6 @@ def predict_fasta(filename, window):
 
 
 if __name__ == "__main__":
-    window = 15
+    window = 21
 #    predict_fasta("datasets/3sstride_full.txt", window)
     predict_fasta("datasets/Stride_reduced.fasta", window)
