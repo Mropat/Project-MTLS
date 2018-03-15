@@ -70,7 +70,7 @@ if __name__ == "__main__":
     for window in range(21, 23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
-    #    dumpmodel = "pssm_forest_o9_%i.sav" % window
+        dumpmodel = "pssm_forest_o9_%i.sav" % window
         train_model()
 
     print("all done")
