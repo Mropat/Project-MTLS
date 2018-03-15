@@ -18,7 +18,7 @@ def get_sets(filename):
 
 def feature_vecs (protid,  window):
     
-    pssmdict = pickle.load(open("all_scripts/python/PSSMdict_large.sav", "rb"))
+    pssmdict = pickle.load(open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2  
 
@@ -56,9 +56,12 @@ def train_model():
     pickle.dump(clf, open(dumpmodel, "wb"))
 
     scoring = ['precision_macro', 'recall_macro']
-    scores = cross_validate(clf, X, y, scoring =scoring, cv = 3)
-
-    print(scores)
+    score = cross_validate(clf, X, y, scoring =scoring, cv = 3)
+    with open("PSSM_linsvc__scoredump.report", "a+") as dh:
+        dh.write(str(window) + " PSSM LinearSVC c1 balanced" + "\n" + str(score) + "\n" + "\n")
+    print(score)
+    print(str(window) + " done!")
+    
 
     
 
@@ -66,7 +69,7 @@ if __name__ == "__main__":
     for window in range (21,23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
-        dumpmodel = "linsvcbal%i.sav" % window
+        dumpmodel = "linsvc_C2%i.sav" % window
         train_model()
     
     print("all done")

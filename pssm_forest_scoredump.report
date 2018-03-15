@@ -16,3 +16,84 @@
 23 Blosum RandomForest 160 trees 2018-03-14 23:43:55
 {'fit_time': array([54.8434689 , 55.25133419, 59.3410902 ]), 'score_time': array([1.74622464, 1.75009608, 1.9789784 ]), 'test_recall_macro': array([0.69957287, 0.69579514, 0.69346248]), 'train_precision_macro': array([0.87938077, 0.87728507, 0.87984075]), 'train_recall_macro': array([0.82141648, 0.82330602, 0.82338315]), 'test_precision_macro': array([0.76459142, 0.76025874, 0.7632315 ])}
 
+15 Blosum RandomForest 160 trees 2018-03-15 00:04:23
+{'fit_time': array([55.31819558, 60.48124886, 57.87389827]), 'train_precision_macro': array([0.87143367, 0.86809072, 0.87444693]), 'test_recall_macro': array([0.70244756, 0.69991845, 0.69874929]), 'test_precision_macro': array([0.76211867, 0.76094249, 0.76599979]), 'train_recall_macro': array([0.81494483, 0.81559007, 0.81843716]), 'score_time': array([1.91361547, 1.9067297 , 1.86319566])}
+
+17 Blosum RandomForest 160 trees 2018-03-15 00:09:30
+{'fit_time': array([58.15774035, 57.84722924, 57.87749863]), 'train_precision_macro': array([0.87301665, 0.87163649, 0.87648818]), 'test_recall_macro': array([0.7034105 , 0.69896147, 0.69758302]), 'test_precision_macro': array([0.76494348, 0.76018599, 0.76692021]), 'train_recall_macro': array([0.81660605, 0.81809543, 0.81984621]), 'score_time': array([1.8689034 , 1.87427783, 1.96967125])}
+
+19 Blosum RandomForest 160 trees 2018-03-15 00:15:00
+{'fit_time': array([62.81230974, 62.3626616 , 62.03452516]), 'train_precision_macro': array([0.87653202, 0.87490814, 0.87840799]), 'test_recall_macro': array([0.70049563, 0.69703194, 0.69619982]), 'test_precision_macro': array([0.76302134, 0.75979236, 0.76677165]), 'train_recall_macro': array([0.81898504, 0.82170898, 0.82135457]), 'score_time': array([2.1176815 , 2.12683249, 2.12016368])}
+
+21 Blosum RandomForest 160 trees 2018-03-15 00:20:49
+{'fit_time': array([66.57851648, 67.9391706 , 69.17741823]), 'train_precision_macro': array([0.87853731, 0.87499012, 0.8801186 ]), 'test_recall_macro': array([0.70186695, 0.69833823, 0.69388125]), 'test_precision_macro': array([0.76687624, 0.76152654, 0.76455989]), 'train_recall_macro': array([0.82112732, 0.8208416 , 0.82301885]), 'score_time': array([2.13924146, 2.24694443, 2.16040134])}
+
+23 Blosum RandomForest 160 trees 2018-03-15 00:27:04
+{'fit_time': array([68.96529675, 69.70343924, 70.24654078]), 'train_precision_macro': array([0.88029574, 0.87687409, 0.88179735]), 'test_recall_macro': array([0.70032062, 0.69561242, 0.69379345]), 'test_precision_macro': array([0.76374248, 0.75892653, 0.7650778 ]), 'train_recall_macro': array([0.82227388, 0.82269333, 0.82451051]), 'score_time': array([2.14274812, 2.13638759, 2.53525233])}
+
+15 Blosum RandomForest 120 trees + min_impurity_decrease=0.00015 2018-03-15 00:32:09
+{'test_recall_macro': array([0.66357784, 0.65400443, 0.65323434]), 'test_precision_macro': array([0.73298808, 0.71999927, 0.73003919]), 'train_precision_macro': array([0.76778175, 0.76246238, 0.76676326]), 'train_recall_macro': array([0.69272568, 0.69224707, 0.68993848]), 'fit_time': array([27.75390625, 26.93449426, 27.71715331]), 'score_time': array([1.06691909, 1.06643414, 1.10178995])}
+
+15 Blosum RandomForest 120 trees + min_impurity_decrease=0.00001 2018-03-15 00:37:16
+{'test_precision_macro': array([0.76236423, 0.75830483, 0.76467313]), 'fit_time': array([45.5458777 , 45.53651118, 44.13653898]), 'score_time': array([1.78913879, 1.70115304, 1.6703403 ]), 'test_recall_macro': array([0.7021807 , 0.69750829, 0.6970929 ]), 'train_recall_macro': array([0.81408256, 0.81439093, 0.81642557]), 'train_precision_macro': array([0.87080478, 0.86737089, 0.8728666 ])}
+
+17 Blosum RandomForest 120 trees + min_impurity_decrease=0.00001 2018-03-15 00:41:29
+{'test_precision_macro': array([0.76457744, 0.75798727, 0.76607107]), 'fit_time': array([47.10075569, 47.30848622, 50.86748242]), 'score_time': array([1.71234846, 1.7065742 , 1.91731906]), 'test_recall_macro': array([0.70357163, 0.69721993, 0.69636136]), 'train_recall_macro': array([0.81711744, 0.81733792, 0.81844695]), 'train_precision_macro': array([0.87377233, 0.87044884, 0.87464737])}
+
+19 Blosum RandomForest 120 trees + min_impurity_decrease=0.00001 2018-03-15 00:45:55
+{'test_precision_macro': array([0.76237649, 0.75969378, 0.76744989]), 'fit_time': array([49.65365696, 52.89849329, 52.11032677]), 'score_time': array([1.81064224, 1.81213212, 1.71026039]), 'test_recall_macro': array([0.70144504, 0.69741517, 0.6975749 ]), 'train_recall_macro': array([0.81846685, 0.81929006, 0.82052879]), 'train_precision_macro': array([0.8756769 , 0.87320435, 0.87766695])}
+
+15 Blosum RandomForest 120 trees + min_impurity_decrease=0.00001 2018-03-15 00:57:27
+{'score_time': array([1.46723533, 1.46656442, 1.51078868]), 'test_recall_macro': array([0.70616664, 0.69921685, 0.69959197]), 'fit_time': array([74.95577455, 75.22523117, 75.6916585 ]), 'train_recall_macro': array([0.82007632, 0.82181954, 0.82211131]), 'test_precision_macro': array([0.75891375, 0.75274215, 0.76068377]), 'train_precision_macro': array([0.87070574, 0.86793757, 0.87133223])}
+
+15 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 50, min leaf 20  2018-03-15 01:10:03
+{'test_recall_macro': array([0.70584505, 0.69617821, 0.69707633]), 'train_precision_macro': array([0.87172727, 0.86435917, 0.87024415]), 'score_time': array([1.47040319, 1.46763873, 1.50178218]), 'train_recall_macro': array([0.82380723, 0.81946192, 0.82365654]), 'fit_time': array([102.42065716, 103.9455359 , 104.40465498]), 'test_precision_macro': array([0.75652606, 0.74663517, 0.75444447])}
+
+17 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 50, min leaf 20  2018-03-15 01:18:42
+{'test_recall_macro': array([0.70443102, 0.69939547, 0.69805869]), 'train_precision_macro': array([0.87166914, 0.86814456, 0.87296651]), 'score_time': array([1.46603632, 1.47328043, 1.47343898]), 'train_recall_macro': array([0.82312553, 0.82383552, 0.82549006]), 'fit_time': array([103.45642185, 104.78381062, 105.36132431]), 'test_precision_macro': array([0.75579665, 0.74905546, 0.75760791])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 50, min leaf 20  2018-03-15 01:27:31
+{'test_recall_macro': array([0.70471515, 0.697605  , 0.69738487]), 'train_precision_macro': array([0.87544459, 0.87112988, 0.87582703]), 'score_time': array([1.51314878, 1.51267886, 1.50901341]), 'train_recall_macro': array([0.82643581, 0.82589473, 0.82685258]), 'fit_time': array([105.73190379, 106.44329882, 107.35449719]), 'test_precision_macro': array([0.7580778 , 0.74980463, 0.75787073])}
+
+15 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 01:40:53
+{'fit_time': array([83.13648677, 84.16554856, 84.078053  ]), 'test_precision_macro': array([0.7585703 , 0.74847114, 0.75809669]), 'train_recall_macro': array([0.82248448, 0.82088385, 0.8210605 ]), 'train_precision_macro': array([0.87105099, 0.86659014, 0.86958775]), 'test_recall_macro': array([0.70643908, 0.6964946 , 0.69796481]), 'score_time': array([1.4652071 , 1.47045541, 1.49925375])}
+
+17 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 01:47:55
+{'fit_time': array([84.85187459, 84.7436955 , 84.61998701]), 'test_precision_macro': array([0.75823773, 0.75384744, 0.76248665]), 'train_recall_macro': array([0.8230901 , 0.82238105, 0.82540355]), 'train_precision_macro': array([0.87302004, 0.8689181 , 0.87478605]), 'test_recall_macro': array([0.70390109, 0.69981733, 0.70026305]), 'score_time': array([1.47167087, 1.47577095, 1.47204256])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 01:55:09
+{'fit_time': array([87.19837999, 87.05533719, 86.66304398]), 'test_precision_macro': array([0.76063512, 0.75768511, 0.76264922]), 'train_recall_macro': array([0.82391668, 0.82523592, 0.82691807]), 'train_precision_macro': array([0.87567343, 0.87231625, 0.87709002]), 'test_recall_macro': array([0.70583651, 0.70120501, 0.70033615]), 'score_time': array([1.50753021, 1.51367164, 1.50790739])}
+
+21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 02:02:34
+{'fit_time': array([89.03758931, 89.96336818, 88.44395304]), 'test_precision_macro': array([0.76315099, 0.75329773, 0.76370826]), 'train_recall_macro': array([0.82649515, 0.82490819, 0.82703006]), 'train_precision_macro': array([0.87784764, 0.87364759, 0.8780009 ]), 'test_recall_macro': array([0.70606551, 0.69765324, 0.7000097 ]), 'score_time': array([1.51341176, 1.50774336, 1.50994706])}
+
+15 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 09:59:54
+{'fit_time': array([88.96337366, 89.18506837, 93.20702481]), 'train_recall_macro': array([0.82193424, 0.81912223, 0.82252882]), 'test_precision_macro': array([0.7574728 , 0.74723262, 0.75753942]), 'test_recall_macro': array([0.7051228 , 0.69613584, 0.6984334 ]), 'score_time': array([2.65356708, 1.47178173, 1.49891233]), 'train_precision_macro': array([0.87119831, 0.86471801, 0.87081769])}
+
+17 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 10:09:39
+{'fit_time': array([117.16939497, 119.46036482, 119.85281777]), 'train_recall_macro': array([0.82463293, 0.82348166, 0.82411786]), 'test_precision_macro': array([0.75770195, 0.753238  , 0.76027555]), 'test_recall_macro': array([0.7037446 , 0.69929669, 0.69770879]), 'score_time': array([2.48104596, 1.88623095, 1.8752985 ]), 'train_precision_macro': array([0.87430569, 0.87038726, 0.87383583])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 10:19:41
+{'fit_time': array([119.38023973, 122.10171294, 120.72093821]), 'train_recall_macro': array([0.82578347, 0.82681555, 0.82684278]), 'test_precision_macro': array([0.76299336, 0.75346067, 0.76230057]), 'test_recall_macro': array([0.70709321, 0.69999488, 0.69977526]), 'score_time': array([2.02073812, 1.92976761, 1.9166944 ]), 'train_precision_macro': array([0.87657828, 0.87341973, 0.87649917])}
+
+21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 10:29:54
+{'fit_time': array([122.61996365, 121.36386895, 121.76305103]), 'train_recall_macro': array([0.82548745, 0.82612625, 0.827416  ]), 'test_precision_macro': array([0.76075604, 0.7543388 , 0.76113265]), 'test_recall_macro': array([0.70419843, 0.70038129, 0.69793059]), 'score_time': array([2.1486659 , 2.1293447 , 2.12888098]), 'train_precision_macro': array([0.87720549, 0.87390185, 0.87805187])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 10:49:24
+{'score_time': array([1.93541861, 1.91896439, 1.91436291]), 'test_recall_macro': array([0.70004636, 0.69274284, 0.69437701]), 'train_recall_macro': array([0.80282807, 0.79856306, 0.80166461]), 'fit_time': array([115.74708605, 116.5903914 , 116.17030716]), 'test_precision_macro': array([0.75638761, 0.74926856, 0.75667734]), 'train_precision_macro': array([0.85742981, 0.85018002, 0.85576155])}
+
+21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 10:59:13
+{'score_time': array([1.9605794 , 1.92138267, 1.94531655]), 'test_recall_macro': array([0.70100305, 0.69389599, 0.69320123]), 'train_recall_macro': array([0.804104  , 0.80245679, 0.8024707 ]), 'fit_time': array([117.9206636 , 118.52704167, 118.88068867]), 'test_precision_macro': array([0.75747316, 0.7499627 , 0.75736347]), 'train_precision_macro': array([0.85999542, 0.85480118, 0.85789014])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 11:25:01
+{'train_recall_macro': array([0.83526763, 0.83581202, 0.83962949]), 'train_precision_macro': array([0.88368289, 0.88043923, 0.88687895]), 'test_recall_macro': array([0.70771375, 0.70183987, 0.70354006]), 'fit_time': array([120.58801317, 120.66706872, 121.3220396 ]), 'score_time': array([2.1245029 , 2.12153053, 2.02163601]), 'test_precision_macro': array([0.76228612, 0.75565559, 0.76551657])}
+
+21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 11:35:16
+{'train_recall_macro': array([0.8392054 , 0.83778905, 0.83963872]), 'train_precision_macro': array([0.88852993, 0.88251273, 0.88773123]), 'test_recall_macro': array([0.70843866, 0.70081218, 0.7020857 ]), 'fit_time': array([122.40563369, 123.46964169, 126.82296658]), 'score_time': array([2.13937426, 2.13493204, 2.13952208]), 'test_precision_macro': array([0.76528779, 0.75525338, 0.76468107])}
+
+19 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 11:47:05
+{'test_precision_macro': array([0.76532527, 0.76179596, 0.76701469]), 'train_recall_macro': array([0.85723534, 0.85632736, 0.85988886]), 'test_recall_macro': array([0.71084766, 0.70688934, 0.7061858 ]), 'train_precision_macro': array([0.90111949, 0.89706501, 0.90227847]), 'fit_time': array([124.4774332 , 122.9417305 , 130.51799202]), 'score_time': array([2.11644077, 2.11595225, 3.19714642])}
+
+21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 11:55:27
+{'test_precision_macro': array([0.76785552, 0.76088557, 0.76833325]), 'train_recall_macro': array([0.85721245, 0.85808864, 0.86110656]), 'test_recall_macro': array([0.71305271, 0.70509489, 0.70543789]), 'train_precision_macro': array([0.90118847, 0.89891493, 0.90407832]), 'fit_time': array([96.35089207, 98.68286514, 94.1237607 ]), 'score_time': array([1.73694086, 1.83048701, 1.72007823])}
+

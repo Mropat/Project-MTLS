@@ -21,7 +21,8 @@ def get_sets(filename):
 
 def feature_vecs(protid,  window):
 
-    pssmdict = pickle.load(open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
+    pssmdict = pickle.load(
+        open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2
 
@@ -50,7 +51,8 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = RandomForestClassifier(n_estimators=120, n_jobs=3, min_samples_leaf=20, oob_score=True)
+    clf = RandomForestClassifier(
+        n_estimators=160, n_jobs=-1, min_samples_leaf=15, max_features=40, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
@@ -58,17 +60,17 @@ def train_model():
     score = cross_validate(clf, X, y, scoring=scoring, cv=3)
     now = datetime.datetime.now()
     with open("pssm_forest_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " Blosum RandomForest 160 trees " + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
-                 "\n" + str(score) + "\n" + "\n")
+        dh.write(str(window) + " PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 15  " + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
+                 "\n" + "Oob Score: " + str(clf.oob_score_) + "\n" + str(score) + "\n" + "\n")
     print(clf.oob_score_)
     print(score)
 
 
 if __name__ == "__main__":
-    for window in range(19, 25, 2):
+    for window in range(21, 23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
-        dumpmodel = "pssm_forest%i.sav" % window
+        dumpmodel = "pssm_forest_o9_%i.sav" % window
         train_model()
 
     print("all done")
