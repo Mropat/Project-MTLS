@@ -5,3 +5,4 @@ __pycache__
 *.pdb
 .vscode/*
 pssm_storage/*
+*.report

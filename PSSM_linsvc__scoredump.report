@@ -1,9 +1,0 @@
-21 PSSM LinearSVC c1.2 balanced
-{'score_time': array([0.27253246, 0.12646651, 0.12617183]), 'test_precision_macro': array([0.71023275, 0.70979536, 0.72030172]), 'fit_time': array([519.92089653, 460.2931931 , 282.9322176 ]), 'train_recall_macro': array([0.70839424, 0.70557948, 0.70360238]), 'test_recall_macro': array([0.6901833 , 0.69694352, 0.70163472]), 'train_precision_macro': array([0.725887  , 0.72201673, 0.7213711 ])}
-
-21 PSSM LinearSVC c1.2 balanced
-{'train_recall_macro': array([0.7058758 , 0.70681007, 0.70271132]), 'test_precision_macro': array([0.70968389, 0.71190486, 0.72200545]), 'score_time': array([0.20647097, 0.12582827, 0.12570143]), 'train_precision_macro': array([0.72450177, 0.72434327, 0.72173919]), 'test_recall_macro': array([0.68769296, 0.69774611, 0.70150218]), 'fit_time': array([472.85677218, 338.42641449, 267.75321221])}
-
-21 PSSM LinearSVC c1 balanced
-{'train_precision_macro': array([0.72444527, 0.72429712, 0.72186832]), 'score_time': array([0.13508964, 0.12991357, 0.20377851]), 'test_precision_macro': array([0.70957114, 0.71168326, 0.72203253]), 'fit_time': array([470.60983896, 439.01866794, 478.85753274]), 'test_recall_macro': array([0.68807143, 0.69756076, 0.70166102]), 'train_recall_macro': array([0.7061079, 0.7068133, 0.7029526])}
-
