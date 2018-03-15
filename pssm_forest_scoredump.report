@@ -97,3 +97,7 @@
 21 PSSM RandomForest 160 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 20  2018-03-15 11:55:27
 {'test_precision_macro': array([0.76785552, 0.76088557, 0.76833325]), 'train_recall_macro': array([0.85721245, 0.85808864, 0.86110656]), 'test_recall_macro': array([0.71305271, 0.70509489, 0.70543789]), 'train_precision_macro': array([0.90118847, 0.89891493, 0.90407832]), 'fit_time': array([96.35089207, 98.68286514, 94.1237607 ]), 'score_time': array([1.73694086, 1.83048701, 1.72007823])}
 
+21 PSSM RandomForest 320 trees + min_impurity_decrease=0.000015, max feat 40, min leaf 15  2018-03-15 12:48:08
+Oob Score: 0.774675193656
+{'score_time': array([ 1.38945842,  1.24516416,  1.25084019]), 'test_recall_macro': array([ 0.71349809,  0.70746966,  0.70680655]), 'train_recall_macro': array([ 0.86080699,  0.8600286 ,  0.86353051]), 'train_precision_macro': array([ 0.9047185 ,  0.90163342,  0.90594913]), 'fit_time': array([ 53.45295429,  53.58658171,  54.24278951]), 'test_precision_macro': array([ 0.77000402,  0.76244096,  0.76958202])}
+
