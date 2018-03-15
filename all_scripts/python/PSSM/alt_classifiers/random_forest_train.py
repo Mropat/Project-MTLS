@@ -52,7 +52,7 @@ def train_model():
     y = np.array(str_vec)
 
     clf = RandomForestClassifier(
-        n_estimators=600, n_jobs=-1, min_samples_leaf=10, max_features=40, oob_score=True, min_impurity_decrease=0.000015)
+        n_estimators=800, n_jobs=-1, min_samples_leaf=9, max_features=40, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
