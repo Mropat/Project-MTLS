@@ -2,8 +2,11 @@ import pickle
 import numpy as np
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
+from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import recall_score
+import datetime
+from sklearn.tree import DecisionTreeClassifier
 
 
 def get_sets(filename):
@@ -19,7 +22,8 @@ def get_sets(filename):
 
 def feature_vecs(protid,  window):
 
-    pssmdict = pickle.load(open("all_scripts/python/PSSMdict_large.sav", "rb"))
+    pssmdict = pickle.load(
+        open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
     paddingmtx = np.zeros((window//2, 20))
     offset = window // 2
 
@@ -27,39 +31,45 @@ def feature_vecs(protid,  window):
     seq_vec = []
 
     for ind, prot in enumerate(protid):
-
         strc = structures[ind]
         for pos in strc:
             str_vec.append(ord(pos))
+
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)
+        testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
             seq_vec.append(features)
+            testshape = np.concatenate([testshape, features])
     return str_vec, seq_vec
 
 
 def train_model():
-    str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = RandomForestClassifier(
-        n_jobs=-2, min_impurity_decrease=0.00015, min_samples_leaf=20, max_features=35)
+    str_vec, seq_vec = feature_vecs(protid, window)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
-    clf.fit(X, y)
-    pickle.dump(clf, open(dumpmodel, "wb"))
-    scoring = ['precision_macro', 'recall_macro']
-    scores = cross_validate(clf, X, y, scoring=scoring, cv=3)
 
-    print(scores)
+    clf = DecisionTreeClassifier(min_samples_leaf=0.002, min_impurity_decrease=0.0002, splitter="random")
+    clf.fit(X, y)
+    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
+
+    scoring = ['precision_macro', 'recall_macro']
+    score = cross_validate(clf, X, y, scoring=scoring, cv=3)
+    now = datetime.datetime.now()
+    with open("Reports/pssm_tree_scoredump.report", "a+") as dh:
+        dh.write(str(window) + " PSSM Defisiontree" + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
+                 "\n" + "\n" + str(score) + "\n" + "\n")
+    print(score)
 
 
 if __name__ == "__main__":
-    for window in range(13, 19, 2):
+    for window in range(15, 17, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
-        dumps = "seq_vec%i.sav" % window
-        dumpmodel = "forest%i.sav" % window
+    #    dumps = "seq_vec%i.sav" % window
+        dumpmodel = "pssm_tree_%i.sav" % window
         train_model()
 
     print("all done")

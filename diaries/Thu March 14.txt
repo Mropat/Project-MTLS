@@ -1,0 +1,6 @@
+Thursday 15 March
+
+1.Optimized performance of random forest algorthithm. Performance is 81% on cross-validated sets and 75% on naive data
+
+2. Started optimizing decision tree, but it seems it might peak at ~60% as the precision/accuracy values are converging
+

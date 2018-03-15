@@ -1,6 +1,7 @@
 import pickle
 import numpy as np
 from sklearn.svm import LinearSVC
+from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import recall_score
 
@@ -49,7 +50,7 @@ def feature_vecs (protid,  window):
 def train_model():
     str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = LinearSVC()
+    clf = SVC(C=2.3, gamma=0.05, cache_size=10000)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
     clf.fit(X, y)
@@ -57,8 +58,8 @@ def train_model():
 
     scoring = ['precision_macro', 'recall_macro']
     score = cross_validate(clf, X, y, scoring =scoring, cv = 3)
-    with open("PSSM_linsvc__scoredump.report", "a+") as dh:
-        dh.write(str(window) + " PSSM LinearSVC c1 balanced" + "\n" + str(score) + "\n" + "\n")
+    with open("PSSM_svc_scoredump.report", "a+") as dh:
+        dh.write(str(window) + " PSSM SVC C=2, gamma 0.05, 21" + "\n" + str(score) + "\n" + "\n")
     print(score)
     print(str(window) + " done!")
     
@@ -69,7 +70,7 @@ if __name__ == "__main__":
     for window in range (21,23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
-        dumpmodel = "linsvc_C2%i.sav" % window
+        dumpmodel = "rbfsvc_C2.3_%i.sav" % window
         train_model()
     
     print("all done")
