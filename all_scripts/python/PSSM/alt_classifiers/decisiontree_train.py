@@ -58,7 +58,7 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = DecisionTreeClassifier(min_samples_leaf=0.0005, min_impurity_decrease=0.0001, splitter="random")
+    clf = DecisionTreeClassifier(min_samples_leaf=0.00025, min_impurity_decrease=0.00015)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
@@ -72,7 +72,7 @@ def train_model():
 
 
 if __name__ == "__main__":
-    for window in range(15, 21, 2):
+    for window in range(21, 23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
         dumpmodel = "pssm_tree_%i.sav" % window
