@@ -52,7 +52,7 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = DecisionTreeClassifier(min_samples_leaf=0.002, min_impurity_decrease=0.0002, splitter="random", max_features=100)
+    clf = DecisionTreeClassifier(min_samples_leaf=0.0005, min_impurity_decrease=0.0001, splitter="random")
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
