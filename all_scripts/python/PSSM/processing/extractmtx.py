@@ -6,11 +6,11 @@ import pickle
 
 def getmtx(path):
     for filename in os.listdir(path):
-        with open (path + "/" + filename, "r") as file:
-            matrix = np.genfromtxt(file, usecols=range(2,22), skip_header=3, skip_footer=5)
+        with open(path + "/" + filename, "r") as file:
+            matrix = np.genfromtxt(file, usecols=range(
+                2, 22), skip_header=3, skip_footer=5)
             filename = filename[:-5]
             yield filename, matrix
-
 
 
 def scale(x):
@@ -18,13 +18,11 @@ def scale(x):
     return s
 
 
-
 def scaledmtx(matrix):
     scaled_matrix = []
     for row in matrix:
         scaled_matrix.append(list(map(scale, row)))
-    return np.array(scaled_matrix)   
-
+    return np.array(scaled_matrix)
 
 
 if __name__ == "__main__":
@@ -33,6 +31,5 @@ if __name__ == "__main__":
     for filename, matrix in getmtx(path):
         dictorize[filename] = scaledmtx(matrix)
 
-    pickle.dump(dictorize, open ("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "wb"))
-
-    
+    pickle.dump(dictorize, open(
+        "all_scripts/python/PSSM/PSSMdict_large_naive.sav", "wb"))

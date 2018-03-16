@@ -1,11 +1,9 @@
 import pickle
 import numpy as np
+from sklearn.svm import LinearSVC
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
-from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import recall_score
-import datetime
 
 
 def get_sets(filename):
@@ -29,10 +27,9 @@ def feature_vecs(protid,  window):
     str_vec = []
     seq_vec = []
 
-    redset = pickle.load(open("red_set.sav", "rb+"))
+    redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
 
     for ind, prot in enumerate(protid):
-
         if prot in redset:
             continue
 
@@ -43,41 +40,40 @@ def feature_vecs(protid,  window):
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)
-#        testshape = np.array([])
+        #testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
             features[features < 0.1] = 0
             seq_vec.append(features)
-#            testshape = np.concatenate([testshape, features])
+        #    testshape = np.concatenate([testshape, features])
+        # if testshape.shape[0] != len (strc*20*window):
+            # print (protid [ind])  -- Troubleshoot the data if PSSM is currupted
+
     return str_vec, seq_vec
 
 
 def train_model():
-
     str_vec, seq_vec = feature_vecs(protid, window)
+
+    clf = SVC(C=2.3, gamma=0.05, cache_size=8000)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
-
-    clf = RandomForestClassifier(
-        n_estimators=1000, n_jobs=-1, min_samples_leaf=3, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
-    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
+    pickle.dump(clf, open(dumpmodel, "wb"))
 
-    scoring = ['precision_macro', 'recall_macro']
-    score = cross_validate(clf, X, y, scoring=scoring, cv=3)
-    now = datetime.datetime.now()
-    with open("Reports/pssm_forest_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " PSSM RandomForest 2200 trees + min_impurity_decrease=0.000015, max feat 35, min leaf 3, sparsify 0.1 " +
-                 str(now.strftime("%Y-%m-%d %H:%M:%S")) + "\n" + "Oob Score: " + str(clf.oob_score_) + "\n" + str(score) + "\n" + "\n")
-    print(clf.oob_score_)
+
+"""    scoring = ['precision_macro', 'recall_macro']
+    score = cross_validate(clf, X, y, scoring =scoring, cv = 3)
+    with open("PSSM_svc_scoredump.report", "a+") as dh:
+        dh.write(str(window) + " PSSM SVC C=2, gamma 0.05, 21" + "\n" + str(score) + "\n" + "\n")
     print(score)
+    print(str(window) + " done!")"""
 
 
 if __name__ == "__main__":
-    for window in range(21, 23, 2):
+    for window in range(15, 17, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
-    #    dumps = "seq_vec%i.sav" % window
-        dumpmodel = "pssm_forest_redun_smaller%i.sav" % window
+        dumps = "seq_vec%i.sav" % window
+        dumpmodel = "rbfsvc_C2.3_%i.sav" % window
         train_model()
-
-    print("all done")
+        print("%i all done") % window

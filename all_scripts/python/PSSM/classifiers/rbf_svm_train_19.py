@@ -17,33 +17,38 @@ def get_sets(filename):
     return protid, structures
 
 
-def feature_vecs (protid,  window):
-    
-    pssmdict = pickle.load(open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
+def feature_vecs(protid,  window):
+
+    pssmdict = pickle.load(
+        open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb"))
     paddingmtx = np.zeros((window//2, 20))
-    offset = window // 2  
+    offset = window // 2
 
     str_vec = []
     seq_vec = []
-    
+
+    redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
+
     for ind, prot in enumerate(protid):
-                
-        strc = structures[ind]        
+        if prot in redset:
+            continue
+
+        strc = structures[ind]
         for pos in strc:
             str_vec.append(ord(pos))
 
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)
-        testshape = np.array([])     
+        #testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
-            features = pssm[i-offset : i+offset+1].flatten()
+            features = pssm[i-offset: i+offset+1].flatten()
+            features[features < 0.1] = 0
             seq_vec.append(features)
-            testshape = np.concatenate([testshape, features])
-        #if testshape.shape[0] != len (strc*20*window):
-            #print (protid [ind])  -- Troubleshoot the data 
-        
-    #pickle.dump(seq_vec, open(dumps, "wb"))
+        #    testshape = np.concatenate([testshape, features])
+        # if testshape.shape[0] != len (strc*20*window):
+            # print (protid [ind])  -- Troubleshoot the data if PSSM is currupted
+
     return str_vec, seq_vec
 
 
@@ -56,20 +61,19 @@ def train_model():
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb"))
 
+
 """    scoring = ['precision_macro', 'recall_macro']
     score = cross_validate(clf, X, y, scoring =scoring, cv = 3)
     with open("PSSM_svc_scoredump.report", "a+") as dh:
         dh.write(str(window) + " PSSM SVC C=2, gamma 0.05, 21" + "\n" + str(score) + "\n" + "\n")
     print(score)
     print(str(window) + " done!")"""
-    
 
-    
 
-if __name__ == "__main__":     
-    for window in range (15,23, 2):
-        protid, structures = (get_sets("datasets/3sstride_full.txt")) 
+if __name__ == "__main__":
+    for window in range(19, 21, 2):
+        protid, structures = (get_sets("datasets/3sstride_full.txt"))
         dumps = "seq_vec%i.sav" % window
         dumpmodel = "rbfsvc_C2.3_%i.sav" % window
-        train_model()  
-        print("% all done") % window
+        train_model()
+        print("%i all done") % window
