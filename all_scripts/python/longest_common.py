@@ -26,13 +26,13 @@ def predict_fasta(filename):
 def longest_substring(protid, sequence):
     
     red_set = set()  
-    for i, seq in enumerate(sequence):
+    for i, seq in enumerate(sequence[:10]):
         for j, seq2 in enumerate(sequence[i+1:]):
             if seq == seq2 and i != j:
                 red_set.add(protid[i])
+                continue
 
             results = []
-            concatres = []
             x = len(seq)
             y = len(seq2)
             maxcount = 0
@@ -46,17 +46,15 @@ def longest_substring(protid, sequence):
                         if currcount > maxcount:
                             results = [seq2[yscan-currcount : yscan]]
                             maxcount = currcount
-                        elif currcount == maxcount:
-                            results.append(seq2[yscan-currcount : yscan])
-            for r in results:
-                for chrr in r:
-                    concatres.append(chrr)
+#                        elif currcount == maxcount:
+#                            results.append(seq2[yscan-currcount : yscan])
 
-            if len(concatres) > 15:
+            if len(results) > 15:
+                print(results)
                 red_set.add(protid[i])
     
     print (red_set)
-    pickle.dump(red_set, open("red_set.sav", "wb+"), protocol=-1)
+#    pickle.dump(red_set, open("red_set.sav", "wb+"), protocol=-1)
 
 
 if __name__ == '__main__':
