@@ -57,7 +57,7 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = AdaBoostClassifier(n_estimators=250)
+    clf = AdaBoostClassifier(n_estimators=600)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
