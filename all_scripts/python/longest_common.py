@@ -30,8 +30,9 @@ def longest_substring(protid, sequence):
         if seq in red_set:
             continue
         for j, seq2 in enumerate(sequence[i+1:]):
-            if seq == seq2 and i != j:
+            if seq == seq2:
                 red_set.add(protid[i])
+                red_set.add(protid[j+1])
                 continue
 
             results = []
