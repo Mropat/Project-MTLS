@@ -26,7 +26,7 @@ def predict_fasta(filename):
 def longest_substring(protid, sequence):
     
     red_set = set()  
-    for i, seq in enumerate(sequence[:10]):
+    for i, seq in enumerate(sequence):
         for j, seq2 in enumerate(sequence[i+1:]):
             if seq == seq2 and i != j:
                 red_set.add(protid[i])
