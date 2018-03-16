@@ -43,11 +43,12 @@ def feature_vecs(protid,  window):
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)
-        testshape = np.array([])
+#        testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
+            features[features < 0.3] = 0
             seq_vec.append(features)
-            testshape = np.concatenate([testshape, features])
+#            testshape = np.concatenate([testshape, features])
     return str_vec, seq_vec
 
 
@@ -58,7 +59,7 @@ def train_model():
     y = np.array(str_vec)
 
     clf = RandomForestClassifier(
-        n_estimators=1600, n_jobs=-1, min_samples_leaf=3, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
+        n_estimators=160, n_jobs=-1, min_samples_leaf=3, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
