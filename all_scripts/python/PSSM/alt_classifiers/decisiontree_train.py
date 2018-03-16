@@ -72,7 +72,7 @@ def train_model():
 
 
 if __name__ == "__main__":
-    for window in range(15, 17, 2):
+    for window in range(15, 21, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
         dumpmodel = "pssm_tree_%i.sav" % window
