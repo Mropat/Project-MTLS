@@ -46,7 +46,7 @@ def feature_vecs(protid,  window):
 #        testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
-            features[features < 0.1] = 0
+            features[features < 0.2] = 0
             seq_vec.append(features)
 #            testshape = np.concatenate([testshape, features])
     return str_vec, seq_vec
@@ -67,7 +67,7 @@ def train_model():
     score = cross_validate(clf, X, y, scoring=scoring, cv=3)
     now = datetime.datetime.now()
     with open("Reports/pssm_forest_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " PSSM RandomForest 320 trees + min_impurity_decrease=0.000015, max feat 35, min leaf 3, dense " +
+        dh.write(str(window) + " PSSM RandomForest 320 trees + min_impurity_decrease=0.000015, max feat 35, min leaf 3, sparsify 0.2 " +
                  str(now.strftime("%Y-%m-%d %H:%M:%S")) + "\n" + "Oob Score: " + str(clf.oob_score_) + "\n" + str(score) + "\n" + "\n")
     print(clf.oob_score_)
     print(score)
