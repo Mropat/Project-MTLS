@@ -27,6 +27,8 @@ def longest_substring(protid, sequence):
     
     red_set = set()  
     for i, seq in enumerate(sequence):
+        if seq in red_set:
+            continue
         for j, seq2 in enumerate(sequence[i+1:]):
             if seq == seq2 and i != j:
                 red_set.add(protid[i])
@@ -52,9 +54,10 @@ def longest_substring(protid, sequence):
             if len(results) > 15:
                 print(results)
                 red_set.add(protid[i])
+                red_set.add(protid[j])
     
     print (red_set)
-#    pickle.dump(red_set, open("red_set.sav", "wb+"), protocol=-1)
+    pickle.dump(red_set, open("red_set.sav", "wb+"), protocol=-1)
 
 
 if __name__ == '__main__':
