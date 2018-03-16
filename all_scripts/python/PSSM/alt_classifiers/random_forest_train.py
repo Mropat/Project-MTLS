@@ -33,8 +33,8 @@ def feature_vecs(protid,  window):
 
     for ind, prot in enumerate(protid):
 
-#        if prot in redset:
-#            continue
+        if prot in redset:
+            continue
 
         strc = structures[ind]
         for pos in strc:
