@@ -4,6 +4,7 @@ from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import AdaBoostClassifier
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import recall_score
 import datetime
 
@@ -56,7 +57,7 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = AdaBoostClassifier()
+    clf = AdaBoostClassifier(n_estimators=250)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
