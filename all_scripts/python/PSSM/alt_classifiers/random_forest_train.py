@@ -46,7 +46,7 @@ def feature_vecs(protid,  window):
 #        testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
-            features[features < 0.2] = 0
+            features[features < 0.1] = 0
             seq_vec.append(features)
 #            testshape = np.concatenate([testshape, features])
     return str_vec, seq_vec
