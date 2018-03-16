@@ -30,7 +30,12 @@ def feature_vecs(protid,  window):
     str_vec = []
     seq_vec = []
 
+    redset = pickle.load(open("red_set.sav", "rb+"))
+
     for ind, prot in enumerate(protid):
+        if prot in redset:
+            continue
+
         strc = structures[ind]
         for pos in strc:
             str_vec.append(ord(pos))
@@ -38,11 +43,12 @@ def feature_vecs(protid,  window):
         pssm = pssmdict[prot]
         pssm = np.append(pssm, paddingmtx, axis=0)
         pssm = np.append(paddingmtx, pssm, axis=0)
-        testshape = np.array([])
+#        testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
+            features[features < 0.1] = 0
             seq_vec.append(features)
-            testshape = np.concatenate([testshape, features])
+#            testshape = np.concatenate([testshape, features])
     return str_vec, seq_vec
 
 

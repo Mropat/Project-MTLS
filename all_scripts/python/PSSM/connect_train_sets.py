@@ -50,18 +50,18 @@ def feature_vecs (protid,  window):
 def train_model():
     str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = SVC(C=2.3, gamma=0.05, cache_size=10000)
+    clf = SVC(C=2.3, gamma=0.05, cache_size=8000)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
     clf.fit(X, y)
     pickle.dump(clf, open(dumpmodel, "wb"))
 
-    scoring = ['precision_macro', 'recall_macro']
+"""    scoring = ['precision_macro', 'recall_macro']
     score = cross_validate(clf, X, y, scoring =scoring, cv = 3)
     with open("PSSM_svc_scoredump.report", "a+") as dh:
         dh.write(str(window) + " PSSM SVC C=2, gamma 0.05, 21" + "\n" + str(score) + "\n" + "\n")
     print(score)
-    print(str(window) + " done!")
+    print(str(window) + " done!")"""
     
 
     
@@ -71,6 +71,5 @@ if __name__ == "__main__":
         protid, structures = (get_sets("datasets/3sstride_full.txt")) 
         dumps = "seq_vec%i.sav" % window
         dumpmodel = "rbfsvc_C2.3_%i.sav" % window
-        train_model()
-    
-    print("all done")
+        train_model()  
+        print("% all done") % window
