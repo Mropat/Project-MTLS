@@ -106,7 +106,7 @@ def train_validate_model():
     cm = confusion_matrix(xval_y, predicted)
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
-    plt.imshow(cm, cmap="Purples")
+    plt.imshow(cm, cmap="Purples", interpolation='none')
     plt.title("AdaBoost Classifier, " + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)

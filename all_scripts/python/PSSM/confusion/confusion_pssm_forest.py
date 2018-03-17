@@ -106,7 +106,7 @@ def train_validate_model():
     cm = confusion_matrix(xval_y, predicted)
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
-    plt.imshow(cm, cmap="Purples")
+    plt.imshow(cm, cmap="Purples", interpolation='none')
     plt.title("Random Forest Classifier, " + "score: " + str(meanacc*100)[:4]+"%, "+"oob: "+str(clf.oob_score_ * 100)[:2]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
@@ -118,7 +118,7 @@ def train_validate_model():
             plt.text(i, j, str(cm[i, j].round(decimals=2) * 100)[:4]+"%",
                      horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
 
-    plt.show(interpolation='none')
+    plt.show()
 
 
 if __name__ == "__main__":

@@ -55,7 +55,7 @@ def feature_vecs(protid,  window):
 def train_model():
     str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = SVC(C=2.3, gamma=0.05, cache_size=25000)
+    clf = SVC(C=2.3, gamma=0.05, cache_size=29000)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
     clf.fit(X, y)
