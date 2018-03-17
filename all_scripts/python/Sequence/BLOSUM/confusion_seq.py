@@ -38,6 +38,8 @@ def get_sets(filename):
 
 def train_set():
 
+    protid, sequence, structure = get_sets("datasets/3sstride_full.txt")
+
     seq_vec = []
     struct_vec = []
 
@@ -70,6 +72,8 @@ def train_set():
 
 
 def val_set():
+
+    protid, sequence, structure = get_sets("datasets/3sstride_full.txt")
 
     xval_seq_vec = []
     xval_struct_vec = []
@@ -106,7 +110,6 @@ def train_validate_model():
 
     x_vec, y_vec = train_set()
     xval_x_vec, xval_y_vec = val_set()
-        
 
     clf = RandomForestClassifier(
         n_estimators=160, max_features=35, min_impurity_decrease=0.000015, n_jobs=-2)
@@ -140,7 +143,7 @@ def train_validate_model():
 if __name__ == "__main__":
     window = 21
     offset = window//2
-    protid, sequence, structure = get_sets("datasets/3sstride_full.txt")
+
     encdict = pickle.load(
         open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
