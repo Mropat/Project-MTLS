@@ -65,7 +65,7 @@ def predict_fasta(filename, window):
     x_vec = np.asarray(pssm_seq_vec)
     y_vec = np.array(true_str_vec)
         
-    clf = pickle.load(open("pssm_forest_redun_21.sav", "rb"))
+    clf = pickle.load(open("models/pssm_forest_adaboost_21.sav", "rb"))
 
 
     meanacc = clf.score(x_vec, y_vec)
@@ -78,7 +78,7 @@ def predict_fasta(filename, window):
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("Random Forest Stride " + "score: " +
+    plt.title("AdaBoost Stride " + "score: " +
             str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
