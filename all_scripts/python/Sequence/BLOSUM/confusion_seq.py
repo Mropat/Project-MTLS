@@ -125,7 +125,7 @@ def train_validate_model():
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("Random Forest OHE" + "score: " +
+    plt.title("Random Forest BLOSUM " + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
