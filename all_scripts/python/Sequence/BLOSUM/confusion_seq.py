@@ -124,7 +124,7 @@ def train_validate_model():
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("LinearSVC BLOSUM " + "score: " +
+    plt.title("LinearSVC OHE " + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
@@ -144,7 +144,7 @@ if __name__ == "__main__":
     offset = window//2
 
     encdict = pickle.load(
-        open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
+        open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
     split = 250
     train_validate_model()
