@@ -123,7 +123,7 @@ def train_validate_model():
 
 if __name__ == "__main__":
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
-    split = 250
+    split = 300
     for window in range(21, 23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
         train_validate_model()
