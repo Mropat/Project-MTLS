@@ -7,3 +7,4 @@ __pycache__
 pssm_storage/*
 *.report
 final_latex/*
+Plots/*

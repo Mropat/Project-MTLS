@@ -55,7 +55,7 @@ def feature_vecs(protid,  window):
 def train_model():
     str_vec, seq_vec = feature_vecs(protid, window)
 
-    clf = SVC(C=2.3, gamma=0.05, cache_size=8000)
+    clf = SVC(C=2.3, gamma=0.05, cache_size=25000)
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
     clf.fit(X, y)
@@ -74,6 +74,6 @@ if __name__ == "__main__":
     for window in range(15, 17, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
         dumps = "seq_vec%i.sav" % window
-        dumpmodel = "rbfsvc_C2.3_%i.sav" % window
+        dumpmodel = "trained/rbfsvc_C2.3_%i.sav" % window
         train_model()
         print("%i all done") % window

@@ -3,6 +3,8 @@ import numpy as np
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import cross_val_predict
+
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import recall_score
 import datetime
@@ -60,7 +62,7 @@ def train_model():
 
     clf = DecisionTreeClassifier(min_samples_leaf=0.00025, min_impurity_decrease=0.00015)
     clf.fit(X, y)
-    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
+#    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
     scoring = ['precision_macro', 'recall_macro']
     score = cross_validate(clf, X, y, scoring=scoring, cv=3)
@@ -75,7 +77,7 @@ if __name__ == "__main__":
     for window in range(21, 23, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
-        dumpmodel = "pssm_tree_%i.sav" % window
+        dumpmodel = "models/PSSM/pssm_tree_%i.sav" % window
         train_model()
 
     print("all done")
