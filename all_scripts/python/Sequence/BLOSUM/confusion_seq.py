@@ -120,12 +120,12 @@ def train_validate_model():
     predicted = clf.predict(xval_x_vec)
     target_names = ["Coil", "Helix", "Sheet"]
     print(target_names)
-    print(classification_report(y_vec, predicted, target_names=target_names))
-    cm = confusion_matrix(y_vec, predicted)
+    print(classification_report(xval_y_vec, predicted, target_names=target_names))
+    cm = confusion_matrix(xval_y_vec, predicted)
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("SVM rbf ws = 21 " + "score: " +
+    plt.title("Random Forest OHE" + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
