@@ -94,7 +94,7 @@ def train_validate_model():
     xval_X = np.asarray(xval_seq_vec)
     xval_y = np.array(xval_str_vec)
 
-    clf = RandomForestClassifier(n_estimators=1600, n_jobs=-1, min_samples_leaf=3, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
+    clf = RandomForestClassifier(n_estimators=1600, n_jobs=-1, min_samples_leaf=1, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
 
     meanacc = clf.score(xval_X, xval_y)
@@ -107,7 +107,7 @@ def train_validate_model():
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples")
-    plt.title("Random Forest Classifier, " + "score: " + str(meanacc*100)[:4]+"%, "+"oob: "+str(clf.oob_score_)[:2]+"%")
+    plt.title("Random Forest Classifier, " + "score: " + str(meanacc*100)[:4]+"%, "+"oob: "+str(clf.oob_score_ * 100)[:2]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
     plt.ylabel('True')
