@@ -36,6 +36,9 @@ def predict_fasta(filename, window):
                 fh.readline()
             line = fh.readline()
 
+    pssm_seq_vec = []
+    true_str_vec = []
+
     for i, pidn in enumerate(prot_id[:50]):
 
         pssm_test_data = pickle.load(
@@ -43,8 +46,7 @@ def predict_fasta(filename, window):
         pssm_seq = pssm_test_data[pidn]
         true_str = structure[i]
 
-        pssm_seq_vec = []
-        true_str_vec = []
+        
 
         for f in true_str:
             true_str_vec.append(ord(f))
@@ -60,39 +62,39 @@ def predict_fasta(filename, window):
             print(pidn + " corrupted!!")
             continue
 
-        x_vec = np.asarray(pssm_seq_vec)
-        y_vec = np.array(true_str_vec)
+    x_vec = np.asarray(pssm_seq_vec)
+    y_vec = np.array(true_str_vec)
         
-        clf = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
+    clf = pickle.load(open("models/PSSM/rbfsvc_C2.3_21.sav", "rb"))
 
 
-        meanacc = clf.score(x_vec, y_vec)
-        print("Mean accuracy: " + str(meanacc))
-        predicted = clf.predict(x_vec)
-        target_names = ["Coil", "Helix", "Sheet"]
-        print(target_names)
-        print(classification_report(y_vec, predicted, target_names=target_names))
-        cm = confusion_matrix(y_vec, predicted)
-        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+    meanacc = clf.score(x_vec, y_vec)
+    print("Mean accuracy: " + str(meanacc))
+    predicted = clf.predict(x_vec)
+    target_names = ["Coil", "Helix", "Sheet"]
+    print(target_names)
+    print(classification_report(y_vec, predicted, target_names=target_names))
+    cm = confusion_matrix(y_vec, predicted)
+    cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
-        plt.imshow(cm, cmap="Purples", interpolation='none')
-        plt.title("AdaBoost Classifier, " + "score: " +
-                str(meanacc*100)[:4]+"%")
-        plt.xticks(np.arange(0, 3), target_names)
-        plt.yticks(np.arange(0, 3), target_names)
-        plt.ylabel('True')
-        plt.xlabel('Predicted')
+    plt.imshow(cm, cmap="Purples", interpolation='none')
+    plt.title("SVM rbf ws = 21 " + "score: " +
+            str(meanacc*100)[:4]+"%")
+    plt.xticks(np.arange(0, 3), target_names)
+    plt.yticks(np.arange(0, 3), target_names)
+    plt.ylabel('True')
+    plt.xlabel('Predicted')
 
-        for i in range(3):
-            for j in range(3):
-                plt.text(i, j, str(cm[i, j].round(decimals=2) * 100)[:4]+"%",
-                        horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
+    for i in range(3):
+        for j in range(3):
+            plt.text(i, j, str(cm[i, j].round(decimals=2) * 100)[:4]+"%",
+                    horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
 
-        plt.show()
+    plt.show()
 
 
 
 
 if __name__ == "__main__":
-    window = 15
+    window = 21
     predict_fasta("datasets/Stride_reduced.fasta", window)
