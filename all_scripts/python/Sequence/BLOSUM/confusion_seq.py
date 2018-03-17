@@ -111,8 +111,7 @@ def train_validate_model():
     x_vec, y_vec = train_set()
     xval_x_vec, xval_y_vec = val_set()
 
-    clf = RandomForestClassifier(
-        n_estimators=160, max_features=35, min_impurity_decrease=0.000015, n_jobs=-2)
+    clf = LinearSVC()
     clf.fit(x_vec, y_vec)
 
     meanacc = clf.score(xval_x_vec, xval_y_vec)
@@ -125,7 +124,7 @@ def train_validate_model():
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("Random Forest BLOSUM " + "score: " +
+    plt.title("LinearSVC BLOSUM " + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
