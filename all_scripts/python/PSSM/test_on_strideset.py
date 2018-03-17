@@ -78,7 +78,7 @@ def predict_fasta(filename, window):
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("SVM rbf ws = 15 " + "score: " +
+    plt.title("Random Forest Stride " + "score: " +
             str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
