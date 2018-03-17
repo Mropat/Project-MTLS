@@ -1,7 +1,17 @@
 import pickle
 import numpy as np
+from sklearn.model_selection import cross_validate
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import cross_val_predict
+from sklearn.metrics import recall_score
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import LinearSVC
-from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
+import matplotlib.pyplot as plt
+
 
 
 def predict_fasta(filename, window):
@@ -26,12 +36,10 @@ def predict_fasta(filename, window):
                 fh.readline()
             line = fh.readline()
 
-    consensus = []
     for i, pidn in enumerate(prot_id[:50]):
 
         pssm_test_data = pickle.load(
                         open("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "rb+"))
-            #open("all_scripts/python/PSSM/PSSMdict_large.sav", "rb+"))
         pssm_seq = pssm_test_data[pidn]
         true_str = structure[i]
 
@@ -40,7 +48,6 @@ def predict_fasta(filename, window):
 
         for f in true_str:
             true_str_vec.append(ord(f))
-        true_str_vec = np.array(true_str_vec)
 
         pssm_seq = np.append(pssm_seq, paddingmtx, axis=0)
         pssm_seq = np.append(paddingmtx, pssm_seq, axis=0)
@@ -54,15 +61,38 @@ def predict_fasta(filename, window):
             continue
 
         x_vec = np.asarray(pssm_seq_vec)
+        y_vec = np.array(true_str_vec)
+        
+        clf = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
 
-        predictor = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
-        prediction = predictor.score(x_vec, true_str_vec)
-        consensus.append(prediction)
 
-    print(str(sum(consensus)/float(len(consensus))) + " averaged!")
+        meanacc = clf.score(x_vec, y_vec)
+        print("Mean accuracy: " + str(meanacc))
+        predicted = clf.predict(x_vec)
+        target_names = ["Coil", "Helix", "Sheet"]
+        print(target_names)
+        print(classification_report(y_vec, predicted, target_names=target_names))
+        cm = confusion_matrix(y_vec, predicted)
+        cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+
+        plt.imshow(cm, cmap="Purples", interpolation='none')
+        plt.title("AdaBoost Classifier, " + "score: " +
+                str(meanacc*100)[:4]+"%")
+        plt.xticks(np.arange(0, 3), target_names)
+        plt.yticks(np.arange(0, 3), target_names)
+        plt.ylabel('True')
+        plt.xlabel('Predicted')
+
+        for i in range(3):
+            for j in range(3):
+                plt.text(i, j, str(cm[i, j].round(decimals=2) * 100)[:4]+"%",
+                        horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
+
+        plt.show()
+
+
 
 
 if __name__ == "__main__":
     window = 15
-#    predict_fasta("datasets/3sstride_full.txt", window)
     predict_fasta("datasets/Stride_reduced.fasta", window)
