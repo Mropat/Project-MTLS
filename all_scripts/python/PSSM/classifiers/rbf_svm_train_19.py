@@ -74,6 +74,6 @@ if __name__ == "__main__":
     for window in range(19, 21, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
         dumps = "seq_vec%i.sav" % window
-        dumpmodel = "trained/rbfsvc_C2.3_%i.sav" % window
+        dumpmodel = "rbfsvc_C2.3_%i.sav" % window
         train_model()
         print("%i all done") % window
