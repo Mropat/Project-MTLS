@@ -119,7 +119,7 @@ def train_validate_model():
 
 if __name__ == "__main__":
     for window in range(3, 33, 2):
-        dataset = "datasets/3sstride.txt"
+        dataset = "datasets/3sstride_full.txt"
         offset = window//2
         encdict = pickle.load(
             open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
