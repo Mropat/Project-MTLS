@@ -128,7 +128,7 @@ def train_validate_model():
 
 if __name__ == "__main__":
     encdict = pickle.load(
-        open("models/BLOSUM/blosumdict.sav", "rb+"))
+        open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
     split = 250
     window = 21
