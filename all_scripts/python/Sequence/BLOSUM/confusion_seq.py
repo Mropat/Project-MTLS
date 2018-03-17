@@ -138,11 +138,11 @@ def train_validate_model():
 
 
 if __name__ == "__main__":
+    window = 21
+    offset = window//2
     prot_id, sequence, structure = get_sets("datasets/3sstride_full.txt")
     encdict = pickle.load(
         open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
     split = 250
-    window = 21
-    offset = window//2
     train_validate_model()
