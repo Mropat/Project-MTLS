@@ -65,7 +65,7 @@ def predict_fasta(filename, window):
     x_vec = np.asarray(pssm_seq_vec)
     y_vec = np.array(true_str_vec)
         
-    clf = pickle.load(open("models/PSSM/pssm_forest_redun_21.sav", "rb"))
+    clf = pickle.load(open("pssm_forest_redun_21.sav", "rb"))
 
 
     meanacc = clf.score(x_vec, y_vec)

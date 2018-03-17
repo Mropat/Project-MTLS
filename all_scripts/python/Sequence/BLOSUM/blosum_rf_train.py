@@ -55,7 +55,7 @@ def parse_fasta(filename, window, blosumdict):
 
 
 def train_model(X, Y):
-    clf = RandomForestClassifier(n_estimators=160, max_features = 20,
+    clf = RandomForestClassifier(n_estimators=1600, max_features = 35,
                                  oob_score="True", n_jobs=-2, min_impurity_decrease=0.00001)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
