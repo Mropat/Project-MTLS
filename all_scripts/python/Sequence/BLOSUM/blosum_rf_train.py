@@ -56,7 +56,7 @@ def parse_fasta(filename, window, blosumdict):
 
 def train_model(X, Y):
     clf = RandomForestClassifier(n_estimators=160, max_features = 20,
-                                 oob_score="True", n_jobs=-2)
+                                 oob_score="True", n_jobs=-2, min_impurity_decrease=0.00001)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
@@ -70,8 +70,8 @@ def train_model(X, Y):
 
 if __name__ == "__main__":
 
-    for window in range(15, 17, 2):
-        dumpmodel = "blosum_forestopt7%i.sav" % window
+    for window in range(21, 23, 2):
+        dumpmodel = "blosum_forestopt%i.sav" % window
         blosumdict = pickle.load(
             open("models/BLOSUM/blosumdict.sav", "rb+"))
         x_vec, y_vec = parse_fasta(

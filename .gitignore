@@ -1,6 +1,5 @@
 *.psiblast
 __pycache__
-*.sav
 *.stride
 *.pdb
 .vscode/*
@@ -8,3 +7,4 @@ pssm_storage/*
 *.report
 final_latex/*
 Plots/*
+models/*
