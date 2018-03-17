@@ -47,7 +47,7 @@ def feature_vecs(protid,  window):
         pssm = np.append(paddingmtx, pssm, axis=0)
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
-            features[features < 0.1] = 0
+            #features[features < 0.1] = 0
             seq_vec.append(features)
     return str_vec, seq_vec
 
@@ -76,7 +76,7 @@ def xval_vecs(protid,  window):
         testshape = np.array([])
         for i in range(offset, pssm.shape[0]-offset):
             features = pssm[i-offset: i+offset+1].flatten()
-            features[features < 0.1] = 0
+            #features[features < 0.1] = 0
             xval_seq_vec.append(features)
             testshape = np.concatenate([testshape, features])
         if testshape.shape[0] != len(strc*20*window):
