@@ -115,7 +115,7 @@ def train_validate_model():
     clf.fit(x_vec, y_vec)
 
     meanacc = clf.score(xval_x_vec, xval_y_vec)
-    print(str(window)+ " " + str(meanacc))
+    print(str(window)+ ": " + str(meanacc))
 
 
 if __name__ == "__main__":
