@@ -111,20 +111,18 @@ def train_validate_model():
     x_vec, y_vec = train_set()
     xval_x_vec, xval_y_vec = val_set()
 
-    clf = RandomForestClassifier(n_estimators=160, max_features=35, min_samples_leaf=3,
-                                 n_jobs=-1, min_impurity_decrease=0.00001, random_state=69)
-    clf.fit(x_vec, y_vec)
+    clf = LinearSVC()
 
     meanacc = clf.score(xval_x_vec, xval_y_vec)
-    print("Mean accuracy: " + str(meanacc))
+    print( str(window)+ " " + str(meanacc))
 
 
 if __name__ == "__main__":
     for window in range(3, 33, 2):
-        dataset = "datasets/dssp.txt"
+        dataset = "datasets/3sstride.txt"
         offset = window//2
         encdict = pickle.load(
-            open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
+            open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
         redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
         split = 350
         train_validate_model()
