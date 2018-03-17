@@ -112,14 +112,15 @@ def train_validate_model():
     xval_x_vec, xval_y_vec = val_set()
 
     clf = LinearSVC()
+    clf.fit(x_vec, y_vec)
 
     meanacc = clf.score(xval_x_vec, xval_y_vec)
-    print( str(window)+ " " + str(meanacc))
+    print(str(window)+ " " + str(meanacc))
 
 
 if __name__ == "__main__":
     for window in range(3, 33, 2):
-        dataset = "datasets/3sstride_full.txt"
+        dataset = "datasets/dssp.txt"
         offset = window//2
         encdict = pickle.load(
             open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
