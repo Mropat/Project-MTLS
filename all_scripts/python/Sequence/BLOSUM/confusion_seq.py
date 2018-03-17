@@ -145,7 +145,7 @@ if __name__ == "__main__":
     offset = window//2
 
     encdict = pickle.load(
-        open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
+        open("all_scripts/python/Sequence/blosumdict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
     split = 250
     train_validate_model()
