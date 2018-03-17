@@ -121,10 +121,10 @@ def train_validate_model():
 
 if __name__ == "__main__":
     for window in range(3, 33, 2):
-        dataset = "datasets/3sstride_full.txt"
+        dataset = "datasets/dssp.txt"
         offset = window//2
         encdict = pickle.load(
             open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
         redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
-        split = 250
+        split = 350
         train_validate_model()
