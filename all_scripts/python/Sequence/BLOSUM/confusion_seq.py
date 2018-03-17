@@ -41,7 +41,7 @@ def train_set():
     seq_vec = []
     struct_vec = []
 
-    for i, protid in enumerate(prot_id[:split]):
+    for i, protid in enumerate(protid[:split]):
         if protid in redset:
             continue
 
