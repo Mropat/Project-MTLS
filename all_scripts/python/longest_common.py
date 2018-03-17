@@ -49,8 +49,6 @@ def longest_substring(protid, sequence):
                         if currcount > maxcount:
                             results = [seq2[yscan-currcount : yscan]]
                             maxcount = currcount
-#                        elif currcount == maxcount:
-#                            results.append(seq2[yscan-currcount : yscan])
 
             if len(results) > 15:
                 print(results)
