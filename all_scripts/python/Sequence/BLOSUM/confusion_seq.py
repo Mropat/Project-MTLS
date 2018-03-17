@@ -33,6 +33,11 @@ def get_sets(filename):
                 fh.readline()
             line = fh.readline()
 
+    return prot_id, sequence, structure
+
+
+def train_set():
+
     seq_vec = []
     struct_vec = []
 
@@ -50,16 +55,21 @@ def get_sets(filename):
             seq_windows = seq[res-offset: res+offset+1]
             seq_vec.append(seq_windows)
 
-        x_vec = []
-        for window in seq_vec:
-            encoded_window = []
-            for r in window:
-                r = encdict[r]
-                encoded_window.extend(r)
-            x_vec.append(encoded_window)
+    x_vec = []
+    for window in seq_vec:
+        encoded_window = []
+        for r in window:
+            r = encdict[r]
+            encoded_window.extend(r)
+        x_vec.append(encoded_window)
 
-        y_vec = np.array(struct_vec)
-        x_vec = np.asarray(x_vec)
+    y_vec = np.array(struct_vec)
+    x_vec = np.asarray(x_vec)
+
+    return x_vec, y_vec
+
+
+def val_set():
 
     xval_seq_vec = []
     xval_struct_vec = []
@@ -78,24 +88,25 @@ def get_sets(filename):
             seq_windows = xval_seq[res-offset: res+offset+1]
             xval_seq_vec.append(seq_windows)
 
-        xval_x_vec = []
-        for window in xval_seq_vec:
-            encoded_window = []
-            for r in window:
-                r = encdict[r]
-                encoded_window.extend(r)
+    xval_x_vec = []
+    for window in xval_seq_vec:
+        encoded_window = []
+        for r in window:
+            r = encdict[r]
+            encoded_window.extend(r)
         xval_x_vec.append(encoded_window)
 
     xval_y_vec = np.array(xval_struct_vec)
     xval_x_vec = np.asarray(xval_x_vec)
 
-    return x_vec, y_vec, xval_x_vec, xval_y_vec
+    return xval_x_vec, xval_y_vec
 
 
 def train_validate_model():
 
-    x_vec, y_vec, xval_x_vec, xval_y_vec = get_sets(
-        "datasets/3sstride_full.txt")
+    x_vec, y_vec = train_set()
+    xval_x_vec, xval_y_vec = val_set()
+        
 
     clf = RandomForestClassifier(
         n_estimators=160, max_features=35, min_impurity_decrease=0.000015, n_jobs=-2)
@@ -127,6 +138,7 @@ def train_validate_model():
 
 
 if __name__ == "__main__":
+    prot_id, sequence, structure = get_sets("datasets/3sstride_full.txt")
     encdict = pickle.load(
         open("all_scripts/python/Sequence/zero_ohedict.sav", "rb+"))
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))

@@ -7,6 +7,7 @@ pssm_storage/*
 *.report
 final_latex/*
 Plots/*
+Reports/*
 models/BLOSUM/blosum_forestopt21.sav
 models/BLOSUM/blosum_forestopt715.sav
 models/PSSM/pssm_forest_redun_smaller21.sav
