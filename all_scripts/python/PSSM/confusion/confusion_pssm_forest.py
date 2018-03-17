@@ -94,7 +94,7 @@ def train_validate_model():
     xval_X = np.asarray(xval_seq_vec)
     xval_y = np.array(xval_str_vec)
 
-    clf = RandomForestClassifier(n_estimators=2500, n_jobs=-1, min_samples_leaf=1, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
+    clf = RandomForestClassifier(n_estimators=1600, n_jobs=-1, min_samples_leaf=3, max_features=35, oob_score=True, min_impurity_decrease=0.000015)
     clf.fit(X, y)
 
     meanacc = clf.score(xval_X, xval_y)
