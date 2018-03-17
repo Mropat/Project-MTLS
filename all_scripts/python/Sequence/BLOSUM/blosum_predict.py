@@ -25,7 +25,7 @@ def predict_fasta(filename, window, blosumdict):
                 fh.readline()
             line = fh.readline()
 
-    meanscore = []
+
 
     for i, pidn in enumerate(prot_id[100:120]):
 
@@ -53,9 +53,6 @@ def predict_fasta(filename, window, blosumdict):
 
         linsvc = pickle.load(open("models/BLOSUM/blosum_linsvc_c1.2l21.sav", "rb"))
         prediction = linsvc.score(x_vec, true_str_vec)
-        meanscore.append(prediction)
-
-    print(np.mean(meanscore))
 
 
 if __name__ == "__main__":
