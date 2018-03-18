@@ -38,7 +38,7 @@ def predict_fasta(filename, window):
     pssm_seq_vec = []
     true_str_vec = []
 
-    for i, pidn in enumerate(prot_id[:51]):
+    for i, pidn in enumerate(prot_id[:50]):
 
         pssm_test_data = pickle.load(
             open("all_scripts/python/PSSM/PSSMdict_large_naive.sav", "rb+"))
@@ -62,7 +62,7 @@ def predict_fasta(filename, window):
     x_vec = np.asarray(pssm_seq_vec)
     y_vec = np.array(true_str_vec)
 
-    clf = pickle.load(open("pssm_forest_redun_21.sav", "rb"))
+    clf = pickle.load(open("models/PSSM/pssm_tree_15.sav", "rb"))
 
     meanacc = clf.score(x_vec, y_vec)
     print("Mean accuracy: " + str(meanacc))
@@ -74,7 +74,7 @@ def predict_fasta(filename, window):
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("Random Forest 50 " + "score: " +
+    plt.title("Decision Tree 50 " + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
@@ -91,5 +91,5 @@ def predict_fasta(filename, window):
 
 if __name__ == "__main__":
 
-    window = 21
+    window = 15
     predict_fasta("datasets/Stride_reduced.fasta", window)

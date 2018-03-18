@@ -60,21 +60,21 @@ def train_model():
     X = np.asarray(seq_vec)
     y = np.array(str_vec)
 
-    clf = DecisionTreeClassifier(min_samples_leaf=0.00025, min_impurity_decrease=0.00015)
+    clf = DecisionTreeClassifier(min_samples_leaf=0.0008, min_impurity_decrease=0.00001)
     clf.fit(X, y)
-#    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
+    pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
 
     scoring = ['precision_macro', 'recall_macro']
     score = cross_validate(clf, X, y, scoring=scoring, cv=3)
     now = datetime.datetime.now()
     with open("Reports/pssm_tree_scoredump.report", "a+") as dh:
-        dh.write(str(window) + " PSSM Defisiontree" + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
+        dh.write(str(window) + " PSSM Decisiontree" + str(now.strftime("%Y-%m-%d %H:%M:%S")) +
                  "\n" + "\n" + str(score) + "\n" + "\n")
     print(score)
 
 
 if __name__ == "__main__":
-    for window in range(21, 23, 2):
+    for window in range(15, 17, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
     #    dumps = "seq_vec%i.sav" % window
         dumpmodel = "models/PSSM/pssm_tree_%i.sav" % window

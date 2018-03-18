@@ -97,7 +97,7 @@ def train_validate_model():
     xval_X = np.asarray(xval_seq_vec)
     xval_y = np.array(xval_str_vec)
 
-    clf = DecisionTreeClassifier(min_samples_leaf=0.00025, min_impurity_decrease=0.000015)
+    clf = DecisionTreeClassifier(min_samples_leaf=0.0008, min_impurity_decrease=0.00001)
     clf.fit(X, y)
     meanacc = clf.score(xval_X, xval_y)
     print("Mean accuracy: " + str(meanacc))
@@ -110,7 +110,7 @@ def train_validate_model():
 
 
     plt.imshow(cm, cmap="Purples")
-    plt.title("Decision Tree Classifier, " +"score: " + str(meanacc*100)[:4]+"%")
+    plt.title("Decision Tree Classifier, ws = 15 " +"score: " + str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
     plt.ylabel('True')
@@ -118,7 +118,7 @@ def train_validate_model():
 
     for i in range (3):
         for j in range (3):
-            plt.text(i, j, str(cm[i, j].round(decimals = 2) *100)+"%", horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
+            plt.text(i, j, str(cm[i, j].round(decimals = 2) *100)[:4]+"%", horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
 
     plt.show()
 
@@ -126,7 +126,7 @@ def train_validate_model():
 if __name__ == "__main__":
     redset = pickle.load(open("all_scripts/python/red_set.sav", "rb+"))
     split = 250
-    for window in range(21, 23, 2):
+    for window in range(15, 17, 2):
         protid, structures = (get_sets("datasets/3sstride_full.txt"))
         train_validate_model()
 
