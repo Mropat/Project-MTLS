@@ -47,9 +47,9 @@
 
 > Stride parser that creates (A-type) 3-state, 3-line *.fasta files from ONE chain in *.stride output files
 
-#
-#
-#
+
+
+
 
 ##### - Working models
 ##
@@ -57,20 +57,23 @@
 ###### ...complete_predictors/Sequence_only/LinearSVC_21/ 
 ##
 > Can be run locally from the folder on file named "testset.txt" :
-#
-#
-#
+
+
+
+
 ##
 ###### PSSM-based predictor:
 ###### ...complete_predictors/PSSM_21/
 #
 > Should be run from project folder:
 
- >  runs on the pssm file in the same folder (specified by name), modify name of file and choose another model if needed
+>  runs on the pssm file in the same folder (specified by name), modify name of file and choose another model if needed
 
-#
-#
-# 
+
+
+
+
+
 ###### BLOSUM-based predictor:
 ###### ...complete_predictors/BLOSUM_21/BLOSUM_predict.py
 ##
