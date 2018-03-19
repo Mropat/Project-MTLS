@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
 from sklearn.model_selection import cross_val_score
 import pickle
 import datetime
@@ -55,13 +56,12 @@ def parse_fasta(filename, window, blosumdict):
 
 
 def train_model(X, Y):
-    clf = RandomForestClassifier(n_estimators=1600, max_features = 35,
-                                 oob_score="True", n_jobs=-2, min_impurity_decrease=0.00001)
+    clf = AdaBoostClassifier(n_estimators=160)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
     now = datetime.datetime.now()
-    with open("blosum_forest_scoredump.report", "a+") as dh:
+    with open("blosum_adaboost.report", "a+") as dh:
         dh.write(str(window) + " Blosum RandomForest 160 trees max feat 20 " + str(now.strftime("%Y-%m-%d %H:%M:%S")) + 
                  "\n" + str(score) + "\n" + "\n")
     print(score)
@@ -71,7 +71,7 @@ def train_model(X, Y):
 if __name__ == "__main__":
 
     for window in range(21, 23, 2):
-        dumpmodel = "blosum_forestopt%i.sav" % window
+        dumpmodel = "models/BLOSUM/blosum_adaboost%i.sav" % window
         blosumdict = pickle.load(
             open("models/BLOSUM/blosumdict.sav", "rb+"))
         x_vec, y_vec = parse_fasta(
