@@ -56,14 +56,14 @@ def parse_fasta(filename, window, blosumdict):
 
 
 def train_model(X, Y):
-    clf = AdaBoostClassifier(n_estimators=160)
+    clf = RandomForestClassifier(n_estimators=160, n_jobs=-1, min_impurity_decrease=0.000015, max_features=35, min_samples_leaf=3)
     clf.fit(X, Y)
     score = cross_val_score(clf, X, Y)
     pickle.dump(clf, open(dumpmodel, "wb+"), protocol=-1)
     now = datetime.datetime.now()
-    with open("blosum_adaboost.report", "a+") as dh:
-        dh.write(str(window) + " Blosum RandomForest 160 trees max feat 20 " + str(now.strftime("%Y-%m-%d %H:%M:%S")) + 
-                 "\n" + str(score) + "\n" + "\n")
+#    with open("blosum_adaboost.report", "a+") as dh:
+#        dh.write(str(window) + " Blosum RandomForest 160 trees max feat 20 " + str(now.strftime("%Y-%m-%d %H:%M:%S")) + 
+#                 "\n" + str(score) + "\n" + "\n")
     print(score)
     print(str(window) + " done!")
 
@@ -71,7 +71,7 @@ def train_model(X, Y):
 if __name__ == "__main__":
 
     for window in range(21, 23, 2):
-        dumpmodel = "models/BLOSUM/blosum_adaboost%i.sav" % window
+        dumpmodel = "models/BLOSUM/blosum_rf%i.sav" % window
         blosumdict = pickle.load(
             open("models/BLOSUM/blosumdict.sav", "rb+"))
         x_vec, y_vec = parse_fasta(
