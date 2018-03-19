@@ -6,17 +6,13 @@
 ###### ....all_scripts/python/Sequence/
 ##
 
- > Extract sequence and structure infromation from 3-line  *.fasta files 
+> Extract sequence and structure infromation from 3-line  *.fasta files 
 
- > Encode sequence information with either BLOSUM or OneHotEncoding
+> Encode sequence information with either BLOSUM or OneHotEncoding
 
- > Train models, view cross-validation performance reports and confusion plots
+> Train models, view cross-validation performance reports and confusion plots
+> Read 2-line *.fasta files and output predictions based on a selection of trained models
 
- > Read 2-line *.fasta files and output predictions based on a selection of trained models
-
-#
-#
-#
 
 
 
@@ -35,9 +31,7 @@
 
 > Test saved models on adjustible proportion of our own testing dataset, print performance report and show confusion plot
 
-#
-#
-#
+
 ##### - Misc processing
 ###### ...all_scripts/python/50_proteins/
 ##
