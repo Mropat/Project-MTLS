@@ -62,7 +62,7 @@ def predict_fasta(filename, window):
     x_vec = np.asarray(pssm_seq_vec)
     y_vec = np.array(true_str_vec)
 
-    clf = pickle.load(open("models/PSSM/pssm_tree_15.sav", "rb"))
+    clf = pickle.load(open("models/PSSM/svcart15.sav", "rb"))
 
     meanacc = clf.score(x_vec, y_vec)
     print("Mean accuracy: " + str(meanacc))
@@ -74,7 +74,7 @@ def predict_fasta(filename, window):
     cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
     plt.imshow(cm, cmap="Purples", interpolation='none')
-    plt.title("Decision Tree 50 " + "score: " +
+    plt.title("SVM rbf ws = 21" + "score: " +
               str(meanacc*100)[:4]+"%")
     plt.xticks(np.arange(0, 3), target_names)
     plt.yticks(np.arange(0, 3), target_names)
@@ -83,7 +83,7 @@ def predict_fasta(filename, window):
 
     for i in range(3):
         for j in range(3):
-            plt.text(i, j, str(cm[i, j].round(decimals=2) * 100)[:4]+"%",
+            plt.text(i, j, str(cm[i, j] * 100)[:4]+"%",
                      horizontalalignment="center", color="white" if cm[i, j] > 0.5 else "black")
 
     plt.show()
