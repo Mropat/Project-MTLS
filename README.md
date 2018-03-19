@@ -79,13 +79,13 @@
 ##
 >Should be run from project folder, currently predicts on 50 first sequences from Stride testset, change if needed
 
-#
-#
-#
+
+
 
 ##### - Saved optimized models to choose from:
 ###### ...models/
 >  extract the rbfsvc_15 & rbfsvc_21 before running... 
-##
-##
+
+
+
 ##### If neeeded, run one of the hefty  .../all_scripts/python/PSSM/classifiers/ for better models and predictions
