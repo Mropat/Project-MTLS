@@ -7,9 +7,7 @@
 ##
 
 > Extract sequence and structure infromation from 3-line  *.fasta files 
-
 > Encode sequence information with either BLOSUM or OneHotEncoding
-
 > Train models, view cross-validation performance reports and confusion plots
 > Read 2-line *.fasta files and output predictions based on a selection of trained models
 
