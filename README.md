@@ -81,8 +81,8 @@
 #
 
 ##### - Saved optimized models to choose from:
-###### extract the rbfsvc_15 & rbfsvc_21 before running... 
+###### ...models/
+>  extract the rbfsvc_15 & rbfsvc_21 before running... 
 ##
->models/
 ##
 ##### If neeeded, run one of the hefty  .../all_scripts/python/PSSM/classifiers/ for better models and predictions
