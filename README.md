@@ -2,7 +2,7 @@
 
 ### This repository contains following scripts:
 
-##### - Sequence-only prediction workflow
+#### - Sequence-only prediction workflow
 ###### ....all_scripts/python/Sequence/
 ##
 
@@ -14,7 +14,7 @@
 
 
 
-##### - PSSM - based prediction workflow
+#### - PSSM - based prediction workflow
 ######    ...all_scripts/python/PSSM/
 ##
 > Split 3-line  *.fasta files in preparation of PSI-BLAST processing
@@ -25,7 +25,7 @@
 > Test saved models on adjustible proportion of our own testing dataset, print performance report and show confusion plot
 
 
-##### - Misc processing
+#### - Misc processing
 ###### ...all_scripts/python/50_proteins/
 ##
 > Run longest common substring on datasets in *.fasta format, print the IDs and save the list for exclusion
@@ -36,7 +36,7 @@
 
 
 
-##### - Working models
+#### - Working models
 ##
 ###### Linear SVC predictor:
 ###### ...complete_predictors/Sequence_only/LinearSVC_21/ 
@@ -47,7 +47,7 @@
 
 
 ##
-###### PSSM-based predictor:
+##### PSSM-based predictor:
 ###### ...complete_predictors/PSSM_21/
 #
 > Should be run from project folder
@@ -58,7 +58,7 @@
 
 
 
-###### BLOSUM-based predictor:
+##### BLOSUM-based predictor:
 ###### ...complete_predictors/BLOSUM_21/BLOSUM_predict.py
 ##
 >Should be run from project folder, currently predicts on 50 first sequences from Stride testset, change if needed
